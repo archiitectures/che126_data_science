@@ -4,7 +4,12 @@ Research date: 2026-10-12. Based on the
 [project handoff](../docs/CODEX_DATA_SCIENCE_HANDOFF.md) and the
 [initial source review](../data_mining/README.md). Future library code belongs in
 `src/che126_data_science/data_science/`. No cleaning, validation, modeling, or
-simulation interface is implemented yet.
+simulation interface is implemented yet. The initial
+[dataset card and CSV templates](../datasets/README.md) now define separate dry
+and electrolyte-soaked tables, hosted at
+https://huggingface.co/datasets/archiitecture/che126. Focus first on porosity,
+tensile/puncture strength, thickness, and pore size, with measurement temperature
+when available. The two tables contain no observations yet.
 
 ## Initial questions
 
@@ -82,4 +87,5 @@ then agree on units and required provenance. Implement only the schema,
 validation, loaders, and plotting utilities those examples need. Use shared
 functions for transformations and classes for meaningful state, avoiding copied
 notebook logic and speculative abstraction. Raw/interim/processed storage and
-data versioning are future decisions; no populated data folders exist yet.
+data versioning beyond the starter CSVs are future decisions; no measurements
+have been collected yet.

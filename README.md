@@ -14,15 +14,27 @@ integrity must be tracked as distinct outcomes.
 
 ## Current scope
 
-This is an installable, dependency-free package skeleton and initial research
-notes. Data mining infrastructure, validation, loaders, preprocessing, datasets,
-notebooks, predictive models, and simulation adapters are deferred.
+This is an installable, dependency-free package skeleton, initial research
+notes, and two empty CSV templates. Data mining infrastructure, validation,
+loaders, preprocessing, notebooks, models, and simulation adapters are deferred.
+
+Property data will live in the public
+[Hugging Face dataset](https://huggingface.co/datasets/archiitecture/che126), with
+separate **dry** and **wet (electrolyte-soaked)** subsets. Initial tables focus on
+porosity, tensile/puncture strength, thickness, and pore size, with measurement
+temperature whenever reported. See the [dataset card](datasets/README.md) for
+column definitions and the two header-only CSV templates. Wet/dry describes
+measurement state, independently of manufacturing process.
 
 ```text
 che126_data_science/
 ├── data_mining/README.md          # Source leads and future curation notes
 ├── data_science/README.md         # Analysis questions and proposed data contract
 ├── docs/CODEX_DATA_SCIENCE_HANDOFF.md
+├── datasets/
+│   ├── README.md                  # Hugging Face card and column dictionary
+│   ├── dry_separators.csv          # Header-only dry measurement template
+│   └── wet_separators.csv          # Header-only electrolyte-soaked template
 ├── src/che126_data_science/
 │   ├── __init__.py
 │   ├── data_mining/__init__.py    # Future reusable acquisition code

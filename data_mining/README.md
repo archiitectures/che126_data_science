@@ -3,7 +3,12 @@
 Research date: 2026-10-12. Scope derives from the
 [project handoff](../docs/CODEX_DATA_SCIENCE_HANDOFF.md). This folder holds planning
 notes only. No scraper, extraction pipeline, source database, or dataset has
-been implemented. Future acquisition utilities belong in
+been implemented. Two header-only CSV templates now define the initial dry and
+wet tables; see the [dataset card](../datasets/README.md). Hugging Face is the
+preferred data host at https://huggingface.co/datasets/archiitecture/che126.
+Keep dry and electrolyte-soaked measurements separate, focusing first on
+porosity, strength, and size with reported measurement temperatures.
+Future acquisition utilities belong in
 `src/che126_data_science/data_mining/`.
 
 ## What we want to collect later
