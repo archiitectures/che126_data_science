@@ -1,0 +1,11 @@
+[project]
+name = "che126-data-science"
+version = "0.1.0"
+description = "Temperature-dependent battery separator research for the ChE126 capstone"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.11.3,<0.12.0"]
+build-backend = "uv_build"
