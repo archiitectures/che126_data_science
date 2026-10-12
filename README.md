@@ -14,9 +14,10 @@ integrity must be tracked as distinct outcomes.
 
 ## Current scope
 
-This is an installable, dependency-free package skeleton, initial research
-notes, and two empty CSV templates. Data mining infrastructure, validation,
-loaders, preprocessing, notebooks, models, and simulation adapters are deferred.
+The package provides a Google Patents BigQuery client, initial research notes,
+and two empty separator CSV templates. The base installation remains
+dependency-free; patent access uses the optional `patents` extra. Property
+extraction, preprocessing, notebooks, models, and simulation adapters are deferred.
 
 Property data will live in the public
 [Hugging Face dataset](https://huggingface.co/datasets/archiitecture/che126), with
@@ -37,7 +38,7 @@ che126_data_science/
 │   └── wet_separators.csv          # Header-only electrolyte-soaked template
 ├── src/che126_data_science/
 │   ├── __init__.py
-│   ├── data_mining/__init__.py    # Future reusable acquisition code
+│   ├── data_mining/patents.py     # Patent search, retrieval, and JSON export
 │   └── data_science/__init__.py   # Future reusable analysis code
 ├── pyproject.toml
 └── uv.lock
@@ -61,8 +62,8 @@ uv run python -c "import che126_data_science.data_mining; import che126_data_sci
 
 Python 3.12 or newer is supported; `.python-version` selects 3.12 for development.
 `uv sync` installs the local package in editable mode, so library edits are
-available immediately. The imports above verify setup; the namespaces do not
-yet expose analysis functions. Build distributable artifacts with `uv build`.
+available immediately. The imports above verify setup. Patent acquisition is documented in
+[data_mining/PATENTS.md](data_mining/PATENTS.md); analysis functions are deferred. Build distributable artifacts with `uv build`.
 Another project can install this package with
 `uv add git+ssh://git@github.com/archiitectures/che126_data_science.git`.
 
@@ -85,7 +86,7 @@ Another project can install this package with
 
 ## Next agreed phase
 
-When data collection is authorized, manually inspect a small set of sources,
+Use the patent client to find candidate documents, then manually inspect a small set of sources,
 agree on measurement granularity and units, and then implement the minimum
 schema, validation, and loaders needed for those examples. Follow with property
 versus temperature analysis. Modeling comes after data coverage and provenance
