@@ -3,8 +3,8 @@
 Research date: 2026-10-12. Scope derives from the
 [project handoff](../docs/CODEX_DATA_SCIENCE_HANDOFF.md). This folder holds research and usage notes. The package now includes a
 Google Patents BigQuery client; see [setup and examples](PATENTS.md). Property
-extraction and bulk harvesting remain deferred. Two header-only CSV templates now define the initial dry and
-wet tables; see the [dataset card](../datasets/README.md). Hugging Face is the
+extraction and bulk harvesting remain deferred. The dry CSV now includes 60 explicitly labeled FSRI polyethylene bulk-sheet
+thermal reference observations; the wet CSV is empty. See the [dataset card](../datasets/README.md). Hugging Face is the
 preferred data host at https://huggingface.co/datasets/archiitecture/che126.
 Keep dry and electrolyte-soaked measurements separate, focusing first on
 porosity, strength, and size with reported measurement temperatures.
@@ -122,7 +122,11 @@ The PP entry's short description says PVC despite its material name, longer
 description, and source identifying PP; retain this inconsistency as a source
 quality note rather than silently treating that field as authoritative.
 
-No FSRI connector or downloads are included in this first pass. Before later
+The pinned polyethylene HFM source-table excerpts are now saved in
+`fsri_polyethylene_hfm_extract.json`. A small dependency-free parser in the
+package generates reference rows for all reported HFM temperatures, including
+repeated setpoints. See the dataset card for coverage and mass-specific heat
+normalization. No general FSRI network connector is implemented. Before later
 reuse, select an actual apparatus/file example, preserve temperature, heating
 rate, atmosphere, conditioning and replicate information, record the source
 commit, and verify applicable reuse terms before republishing data.

@@ -15,16 +15,17 @@ integrity must be tracked as distinct outcomes.
 ## Current scope
 
 The package provides a Google Patents BigQuery client, initial research notes,
-and two empty separator CSV templates. The base installation remains
-dependency-free; patent access uses the optional `patents` extra. Property
-extraction, preprocessing, notebooks, models, and simulation adapters are deferred.
+and separate dry/wet property CSVs. The dry table now includes 60 clearly
+labeled FSRI bulk-polyethylene thermal reference observations; the wet table
+remains empty. The base installation remains dependency-free; patent access uses the optional `patents` extra. General property extraction, preprocessing, notebooks, models, and simulation
+adapters are deferred.
 
 Property data will live in the public
 [Hugging Face dataset](https://huggingface.co/datasets/archiitecture/che126), with
 separate **dry** and **wet (electrolyte-soaked)** subsets. Initial tables focus on
 porosity, tensile/puncture strength, thickness, and pore size, with measurement
 temperature whenever reported. See the [dataset card](datasets/README.md) for
-column definitions and the two header-only CSV templates. Wet/dry describes
+column definitions, reference-data coverage, and source provenance. Wet/dry describes
 measurement state, independently of manufacturing process.
 
 ```text
@@ -34,8 +35,8 @@ che126_data_science/
 ├── docs/CODEX_DATA_SCIENCE_HANDOFF.md
 ├── datasets/
 │   ├── README.md                  # Hugging Face card and column dictionary
-│   ├── dry_separators.csv          # Header-only dry measurement template
-│   └── wet_separators.csv          # Header-only electrolyte-soaked template
+│   ├── dry_separators.csv          # Dry data and labeled bulk-sheet references
+│   └── wet_separators.csv          # Empty electrolyte-soaked measurement table
 ├── src/che126_data_science/
 │   ├── __init__.py
 │   ├── data_mining/patents.py     # Patent search, retrieval, and JSON export
