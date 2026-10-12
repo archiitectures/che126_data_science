@@ -10,7 +10,7 @@ for item in manifest:
     path = item["path"]
     url = f"https://raw.githubusercontent.com/ulfsri/fsri_materials_database/{source_commit}/{path}"
     raw = urlopen(url, timeout=30).read()
-    digest = hashlib.sha1(f"blob {len(raw)}\\0".encode() + raw).hexdigest()
+    digest = hashlib.sha1(b"blob " + str(len(raw)).encode() + bytes([0]) + raw).hexdigest()
     assert digest == item["sha"], (path, digest, item["sha"])
     text = raw.decode("utf-16" if path.endswith(".tst") else "utf-8")
     if path.endswith(".tst"):
@@ -22,5 +22,5 @@ for item in manifest:
         payload = {"csv": text}
     exports.append({"path": path, "blob_sha": item["sha"], "source_url": url, **payload})
 Path("fsri_hfm_extract.json").write_text(json.dumps(
-    {"source_commit": source_commit, "exports": exports}, indent=2) + "\\n")
+    {"source_commit": source_commit, "exports": exports}, indent=2) + chr(10))
 print(f"Extracted {len(exports)} source files at {source_commit}")
