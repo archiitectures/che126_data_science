@@ -1,14 +1,14 @@
 # Data mining: initial research notes
 
 Research date: 2026-10-12. Scope derives from the
-[project handoff](../docs/CODEX_DATA_SCIENCE_HANDOFF.md). This folder holds planning
-notes only. No scraper, extraction pipeline, source database, or dataset has
-been implemented. Two header-only CSV templates now define the initial dry and
+[project handoff](../docs/CODEX_DATA_SCIENCE_HANDOFF.md). This folder holds research and usage notes. The package now includes a
+Google Patents BigQuery client; see [setup and examples](PATENTS.md). Property
+extraction and bulk harvesting remain deferred. Two header-only CSV templates now define the initial dry and
 wet tables; see the [dataset card](../datasets/README.md). Hugging Face is the
 preferred data host at https://huggingface.co/datasets/archiitecture/che126.
 Keep dry and electrolyte-soaked measurements separate, focusing first on
 porosity, strength, and size with reported measurement temperatures.
-Future acquisition utilities belong in
+Reusable acquisition utilities belong in
 `src/che126_data_science/data_mining/`.
 
 ## What we want to collect later
@@ -48,8 +48,7 @@ patents, testing documents, and public materials databases are candidate sources
    pore shutdown. Verify full-text access, temperature protocol, and data
    availability before extracting observations.
 
-Sources 1 and 2 were inspected directly; 3 and 4 remain leads. No patent or
-standard has been audited yet. Do not infer universal PE/PP failure temperatures
+Sources 1 and 2 were inspected directly; 3 and 4 remain leads. Individual patents and standards still need manual review. Do not infer universal PE/PP failure temperatures
 from a product-specific test or treat manufacturer typical/max/min values as
 sample-level replicates.
 
@@ -76,3 +75,54 @@ Choose a small first material set and temperature window after reviewing source
 coverage. Agree on manual table format and provenance conventions before
 building extraction tools. The handoff's suggested schema is a starting point;
 the [data science notes](../data_science/README.md) outline the unresolved choices.
+
+
+## FSRI Materials and Products Database
+
+Inspected 2026-10-12: [public website](https://materials.fsri.org/),
+[GitHub repository](https://github.com/ulfsri/fsri_materials_database),
+[experimental methods](https://materials.fsri.org/experimentalmethodology), and
+[analysis methods](https://materials.fsri.org/analysismethodology).
+
+The database supports fire investigation/modeling. Its HDPE, LDPE, and PP entries
+are relevant polymer background, but the inspected samples are commercial sheets
+approximately 3.2–3.3 mm thick, not porous battery separator films. Metadata
+includes sample source and density; available properties include thermal
+conductivity, heat capacity, melting/decomposition behavior, mass loss, and
+combustion measurements. The inspected entries do not provide separator
+porosity, tensile strength, puncture strength, or pore-size measurements.
+Specimen dimensions are sample geometry, not separator pore size.
+
+**FSRI's “Wet” means unconditioned ambient-moisture material.** “Dry” samples are
+oven-conditioned at 105 °C for at least 48 hours and stored in a desiccator.
+These labels must not map automatically to our electrolyte-soaked/dry separator
+CSV categories. FSRI thermal data can inform background research, but should
+remain outside those tables unless specimen identity and relevance are verified.
+
+Repository access map:
+
+- `global.json`: property descriptions and repository layout.
+- `01_Data/<material>/material.json`: material identity, aliases, source,
+  density, and relative links to processed property tables/graphs.
+- `01_Data/<material>/`: apparatus-organized raw measurements and metadata;
+  relevant apparatus include HFM, STA, MCC, FTIR, and cone calorimetry.
+- `03_Charts/`: output location for generated visualizations/tables; only its
+  README is currently committed. The processing scripts generate reduced CSVs
+  under `01_Data/` and charts under `03_Charts/`. Metadata links describe the
+  website outputs, not necessarily files checked into GitHub.
+  `02_Scripts/` contains FSRI processing code. Reuse the source data rather than
+  importing their complete plotting/processing stack into this package.
+- `04_Documentation/` and `CITATION.cff`: supporting documentation/citation.
+
+Example inspected metadata:
+[HDPE](https://github.com/ulfsri/fsri_materials_database/blob/main/01_Data/HDPE/material.json),
+[LDPE](https://github.com/ulfsri/fsri_materials_database/blob/main/01_Data/LDPE/material.json),
+and [PP](https://github.com/ulfsri/fsri_materials_database/blob/main/01_Data/PP/material.json).
+The PP entry's short description says PVC despite its material name, longer
+description, and source identifying PP; retain this inconsistency as a source
+quality note rather than silently treating that field as authoritative.
+
+No FSRI connector or downloads are included in this first pass. Before later
+reuse, select an actual apparatus/file example, preserve temperature, heating
+rate, atmosphere, conditioning and replicate information, record the source
+commit, and verify applicable reuse terms before republishing data.
