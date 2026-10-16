@@ -1,0 +1,391 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Coating",
+          "Peeling strength",
+          "Shrinkage ratio"
+        ],
+        [
+          "Binder",
+          "separator",
+          "(mN/mm)",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "Example 13",
+          "30",
+          "1.5"
+        ],
+        [
+          "Example 2",
+          "Example 14",
+          "29",
+          "2"
+        ],
+        [
+          "Example 3",
+          "Example 15",
+          "28",
+          "2"
+        ],
+        [
+          "Example 4",
+          "Example 16",
+          "29",
+          "1.5"
+        ],
+        [
+          "Example 5",
+          "Example 17",
+          "27",
+          "2"
+        ],
+        [
+          "Example 6",
+          "Example 18",
+          "26",
+          "2"
+        ],
+        [
+          "Example 7",
+          "Example 19",
+          "27",
+          "2"
+        ],
+        [
+          "Example 8",
+          "Example 20",
+          "28",
+          "2"
+        ],
+        [
+          "Example 9",
+          "Example 21",
+          "27",
+          "1.5"
+        ],
+        [
+          "Example 10",
+          "Example 22",
+          "28",
+          "1.5"
+        ],
+        [
+          "Example 11",
+          "Example 23",
+          "29",
+          "2"
+        ],
+        [
+          "Example 12",
+          "Example 24",
+          "29",
+          "2"
+        ],
+        [
+          "PVDF",
+          "Comparative",
+          "5",
+          "3"
+        ],
+        [
+          "",
+          "Example 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">Peeling strength</td>\n<td class=\"description-td\">Shrinkage ratio</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Binder</td>\n<td class=\"description-td\">separator</td>\n<td class=\"description-td\">(mN/mm)</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 13</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 14</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 15</td>\n<td class=\"description-td\">28</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 16</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">Example 17</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">Example 18</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">Example 19</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">Example 20</td>\n<td class=\"description-td\">28</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">Example 21</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">Example 22</td>\n<td class=\"description-td\">28</td>\n<td class=\"description-td\">1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 11</td>\n<td class=\"description-td\">Example 23</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 12</td>\n<td class=\"description-td\">Example 24</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PVDF</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Capacity retention"
+        ],
+        [
+          "",
+          "",
+          "",
+          "after 100 cycle"
+        ],
+        [
+          "",
+          "Coin cell",
+          "Separator",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 25",
+          "Example 13",
+          "90"
+        ],
+        [
+          "",
+          "Example 26",
+          "Example 14",
+          "87"
+        ],
+        [
+          "",
+          "Example 27",
+          "Example 15",
+          "89"
+        ],
+        [
+          "",
+          "Example 28",
+          "Example 16",
+          "88"
+        ],
+        [
+          "",
+          "Example 29",
+          "Example 17",
+          "90"
+        ],
+        [
+          "",
+          "Example 30",
+          "Example 18",
+          "89"
+        ],
+        [
+          "",
+          "Example 31",
+          "Example 19",
+          "90"
+        ],
+        [
+          "",
+          "Example 32",
+          "Example 20",
+          "89"
+        ],
+        [
+          "",
+          "Example 33",
+          "Example 21",
+          "91"
+        ],
+        [
+          "",
+          "Example 34",
+          "Example 22",
+          "91"
+        ],
+        [
+          "",
+          "Example 35",
+          "Example 23",
+          "92"
+        ],
+        [
+          "",
+          "Example 36",
+          "Example 24",
+          "93"
+        ],
+        [
+          "",
+          "Comparative",
+          "Comparative",
+          "85"
+        ],
+        [
+          "",
+          "Example 2",
+          "Example 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Capacity retention</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">after 100 cycle</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Coin cell</td>\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 25</td>\n<td class=\"description-td\">Example 13</td>\n<td class=\"description-td\">90</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 26</td>\n<td class=\"description-td\">Example 14</td>\n<td class=\"description-td\">87</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 27</td>\n<td class=\"description-td\">Example 15</td>\n<td class=\"description-td\">89</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 28</td>\n<td class=\"description-td\">Example 16</td>\n<td class=\"description-td\">88</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 29</td>\n<td class=\"description-td\">Example 17</td>\n<td class=\"description-td\">90</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 30</td>\n<td class=\"description-td\">Example 18</td>\n<td class=\"description-td\">89</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 31</td>\n<td class=\"description-td\">Example 19</td>\n<td class=\"description-td\">90</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 32</td>\n<td class=\"description-td\">Example 20</td>\n<td class=\"description-td\">89</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 33</td>\n<td class=\"description-td\">Example 21</td>\n<td class=\"description-td\">91</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 34</td>\n<td class=\"description-td\">Example 22</td>\n<td class=\"description-td\">91</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 35</td>\n<td class=\"description-td\">Example 23</td>\n<td class=\"description-td\">92</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 36</td>\n<td class=\"description-td\">Example 24</td>\n<td class=\"description-td\">93</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">85</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is a cross sectional side view showing a rechargeable lithium ion battery according to one embodiment. FIG. 2 is a schematic view showing samples for thermal shrinkage evaluation according to Examples. First, referring to FIG. 1 , a structure of a rechargeable lithium ion battery 10 according to an embodiment is described. On the other hand, even though in FIG. 1 , the coating layer 40 b is formed on the surface of the substrate 40 a , the coating layer 40 b may be formed in the thin pores of the substrate 40 a.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/e6/a0/f9/585c2e8f50c2ca/US20160190535A1-20160630-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross sectional side view showing a rechargeable lithium ion battery according to one embodiment. FIG. 2 is a schematic view showing samples for thermal shrinkage evaluation according to Examples. First, referring to FIG. 1 , a structure of a rechargeable lithium ion battery 10 according to an embodiment is described. On the other hand, even though in FIG. 1 , the coating layer 40 b is formed on the surface of the substrate 40 a , the coating layer 40 b may be formed in the thin pores of the substrate 40 a.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/22/99/13/b62a5e0e7d7ab3/US20160190535A1-20160630-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross sectional side view showing a rechargeable lithium ion battery according to one embodiment. FIG. 2 is a schematic view showing samples for thermal shrinkage evaluation according to Examples. First, referring to FIG. 1 , a structure of a rechargeable lithium ion battery 10 according to an embodiment is described. On the other hand, even though in FIG. 1 , the coating layer 40 b is formed on the surface of the substrate 40 a , the coating layer 40 b may be formed in the thin pores of the substrate 40 a.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/57/5d/19/2b66e675dce3f8/US20160190535A1-20160630-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/bf/7e/b5/e4543c02b2a4d7/US20160190535A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"1902291964be2e81810ca92edeaee815\"",
+        "last_modified": "Fri, 03 Nov 2017 05:10:53 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/0c02c82b8f07306fa62fbd729a41c4aa9ccfe955e4371ab6579bf24743f686fd.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:26:43.246245+00:00",
+        "sha256": "0c02c82b8f07306fa62fbd729a41c4aa9ccfe955e4371ab6579bf24743f686fd",
+        "source": "patent_pdf",
+        "source_id": "f7926938b72040b6831d83609523cc214e6878ac12057c320010dc9185eff099",
+        "url": "https://patentimages.storage.googleapis.com/bf/7e/b5/e4543c02b2a4d7/US20160190535A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20160190535A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/3c25e87083800342606688d62db4ce710efdde9ff7afa70b22c478fc1ebb9992.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:42.185138+00:00",
+    "sha256": "3c25e87083800342606688d62db4ce710efdde9ff7afa70b22c478fc1ebb9992",
+    "source": "patents",
+    "source_id": "497bc72518b5c2fcfdb1c19fd0463c3a97e97945c4c1d74b4384c1933c694275",
+    "url": "https://patents.google.com/patent/US20160190535A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "4596ea1a100e7656ee1ce7ea18546124ee66f81da9fb255f0a9d08dfd89d9bdf",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "497bc72518b5c2fcfdb1c19fd0463c3a97e97945c4c1d74b4384c1933c694275",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/3c25e87083800342606688d62db4ce710efdde9ff7afa70b22c478fc1ebb9992.bin",
+      "source_id": "497bc72518b5c2fcfdb1c19fd0463c3a97e97945c4c1d74b4384c1933c694275",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "3c25e87083800342606688d62db4ce710efdde9ff7afa70b22c478fc1ebb9992",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20160190535A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

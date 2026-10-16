@@ -1,0 +1,723 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Percentage",
+          "",
+          "",
+          "",
+          "Shutdown",
+          "Short-circuit",
+          "High",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "of PP/PE",
+          "Thickness",
+          "Air",
+          "Average",
+          "temperature",
+          "temperature",
+          "temperature",
+          "High"
+        ],
+        [
+          "",
+          "Surface",
+          "",
+          "layer",
+          "of entire",
+          "permeability",
+          "pore",
+          "at the time",
+          "at the time",
+          "puncture",
+          "temperature"
+        ],
+        [
+          "",
+          "layer",
+          "Percentage",
+          "thickness",
+          "film",
+          "(sec/100 ml/",
+          "diameter",
+          "of high speed",
+          "of high speed",
+          "strength",
+          "storage"
+        ],
+        [
+          "",
+          "composition",
+          "of PE (%)",
+          "(%)",
+          "(μm)",
+          "20 μm)",
+          "(μm)",
+          "heat-up (° C.)",
+          "heat-up (° C.)",
+          "(N/μm)",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "PP/PE =",
+          "76",
+          "33",
+          "18",
+          "534",
+          "0.04",
+          "147",
+          "195",
+          "0.007",
+          "72.0"
+        ],
+        [
+          "",
+          "60/40"
+        ],
+        [
+          "Example 2",
+          "PP/PE =",
+          "68",
+          "32",
+          "19",
+          "607",
+          "0.03",
+          "148",
+          "200",
+          "0.010",
+          "73.7"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "Example 3",
+          "PP/PE =",
+          "68",
+          "33",
+          "12",
+          "597",
+          "0.03",
+          "148",
+          "200",
+          "0.009",
+          "73.4"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "Example 4",
+          "PP/PE =",
+          "68",
+          "33",
+          "39",
+          "612",
+          "0.03",
+          "148",
+          "200",
+          "0.010",
+          "73.8"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "Example 5",
+          "PP/PE =",
+          "84",
+          "21",
+          "19",
+          "354",
+          "0.04",
+          "148",
+          "200",
+          "0.010",
+          "74.1"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "Example 6",
+          "PP/PE =",
+          "84",
+          "21",
+          "19",
+          "95",
+          "0.07",
+          "149",
+          "200",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "Example 7",
+          "PP/PE =",
+          "84",
+          "20",
+          "20",
+          "659",
+          "0.03",
+          "142",
+          "190",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "Example 8",
+          "PP/PE =",
+          "84",
+          "22",
+          "9",
+          "411",
+          "0.03",
+          "149",
+          "200",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"10\" namest=\"OFFSET\">TABLE 1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"10\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Percentage</td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Shutdown</td> <td class=\"description-td\">Short-circuit</td> <td class=\"description-td\">High</td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">of PP/PE</td> <td class=\"description-td\">Thickness</td> <td class=\"description-td\">Air</td> <td class=\"description-td\">Average</td> <td class=\"description-td\">temperature</td> <td class=\"description-td\">temperature</td> <td class=\"description-td\">temperature</td> <td class=\"description-td\">High</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Surface</td> <td class=\"description-td\"> </td> <td class=\"description-td\">layer</td> <td class=\"description-td\">of entire</td> <td class=\"description-td\">permeability</td> <td class=\"description-td\">pore</td> <td class=\"description-td\">at the time</td> <td class=\"description-td\">at the time</td> <td class=\"description-td\">puncture</td> <td class=\"description-td\">temperature</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">layer</td> <td class=\"description-td\">Percentage</td> <td class=\"description-td\">thickness</td> <td class=\"description-td\">film</td> <td class=\"description-td\">(sec/100 ml/</td> <td class=\"description-td\">diameter</td> <td class=\"description-td\">of high speed</td> <td class=\"description-td\">of high speed</td> <td class=\"description-td\">strength</td> <td class=\"description-td\">storage</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">composition</td> <td class=\"description-td\">of PE (%)</td> <td class=\"description-td\">(%)</td> <td class=\"description-td\">(μm)</td> <td class=\"description-td\">20 μm)</td> <td class=\"description-td\">(μm)</td> <td class=\"description-td\">heat-up (° C.)</td> <td class=\"description-td\">heat-up (° C.)</td> <td class=\"description-td\">(N/μm)</td> <td class=\"description-td\">(%)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"10\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Example 1</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">76</td> <td class=\"description-td\">33</td> <td class=\"description-td\">18</td> <td class=\"description-td\">534</td> <td class=\"description-td\">0.04</td> <td class=\"description-td\">147</td> <td class=\"description-td\">195</td> <td class=\"description-td\">0.007</td> <td class=\"description-td\">72.0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">60/40</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 2</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">68</td> <td class=\"description-td\">32</td> <td class=\"description-td\">19</td> <td class=\"description-td\">607</td> <td class=\"description-td\">0.03</td> <td class=\"description-td\">148</td> <td class=\"description-td\">200</td> <td class=\"description-td\">0.010</td> <td class=\"description-td\">73.7</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">80/20</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 3</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">68</td> <td class=\"description-td\">33</td> <td class=\"description-td\">12</td> <td class=\"description-td\">597</td> <td class=\"description-td\">0.03</td> <td class=\"description-td\">148</td> <td class=\"description-td\">200</td> <td class=\"description-td\">0.009</td> <td class=\"description-td\">73.4</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">80/20</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 4</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">68</td> <td class=\"description-td\">33</td> <td class=\"description-td\">39</td> <td class=\"description-td\">612</td> <td class=\"description-td\">0.03</td> <td class=\"description-td\">148</td> <td class=\"description-td\">200</td> <td class=\"description-td\">0.010</td> <td class=\"description-td\">73.8</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">80/20</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 5</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">84</td> <td class=\"description-td\">21</td> <td class=\"description-td\">19</td> <td class=\"description-td\">354</td> <td class=\"description-td\">0.04</td> <td class=\"description-td\">148</td> <td class=\"description-td\">200</td> <td class=\"description-td\">0.010</td> <td class=\"description-td\">74.1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">80/20</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 6</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">84</td> <td class=\"description-td\">21</td> <td class=\"description-td\">19</td> <td class=\"description-td\">95</td> <td class=\"description-td\">0.07</td> <td class=\"description-td\">149</td> <td class=\"description-td\">200</td> <td class=\"description-td\">—</td> <td class=\"description-td\">—</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">80/20</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 7</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">84</td> <td class=\"description-td\">20</td> <td class=\"description-td\">20</td> <td class=\"description-td\">659</td> <td class=\"description-td\">0.03</td> <td class=\"description-td\">142</td> <td class=\"description-td\">190</td> <td class=\"description-td\">—</td> <td class=\"description-td\">—</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">80/20</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 8</td> <td class=\"description-td\">PP/PE =</td> <td class=\"description-td\">84</td> <td class=\"description-td\">22</td> <td class=\"description-td\">9</td> <td class=\"description-td\">411</td> <td class=\"description-td\">0.03</td> <td class=\"description-td\">149</td> <td class=\"description-td\">200</td> <td class=\"description-td\">—</td> <td class=\"description-td\">—</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">80/20</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Percentage",
+          "",
+          "",
+          "",
+          "Shutdown",
+          "Short-circuit",
+          "High",
+          "High"
+        ],
+        [
+          "",
+          "",
+          "",
+          "of PP/PE",
+          "Thickness",
+          "Air",
+          "Average",
+          "temperature",
+          "temperature",
+          "temperature",
+          "tempera-"
+        ],
+        [
+          "",
+          "Surface",
+          "",
+          "layer",
+          "of entire",
+          "permeability",
+          "pore",
+          "at the time",
+          "at the time",
+          "puncture",
+          "ture"
+        ],
+        [
+          "",
+          "layer",
+          "Percentage",
+          "thickness",
+          "film",
+          "(sec/100",
+          "diameter",
+          "of high speed",
+          "of high speed",
+          "strength",
+          "storage"
+        ],
+        [
+          "",
+          "composition",
+          "of PE (%)",
+          "(%)",
+          "(μm)",
+          "ml/20 μm)",
+          "(μm)",
+          "heat-up (° C.)",
+          "heat-up (° C.)",
+          "(N/μm)",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 9",
+          "PP/PE =",
+          "84",
+          "20",
+          "20",
+          "315",
+          "0.04",
+          "148",
+          "190",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "80/20"
+        ],
+        [
+          "Comparative",
+          "PP/PE =",
+          "92",
+          "32",
+          "19",
+          "467",
+          "0.05",
+          "145",
+          "175",
+          "0.003",
+          "68.2"
+        ],
+        [
+          "Example 1",
+          "20/80"
+        ],
+        [
+          "Comparative",
+          "PP/PE =",
+          "84",
+          "32",
+          "19",
+          "494",
+          "0.04",
+          "146",
+          "180",
+          "0.004",
+          "69.5"
+        ],
+        [
+          "Example 2",
+          "40/60"
+        ],
+        [
+          "Comparative",
+          "PP/PE =",
+          "40",
+          "74",
+          "19",
+          "1053",
+          "0.03",
+          "151",
+          "200",
+          "0.011",
+          "73.9"
+        ],
+        [
+          "Example 3",
+          "80/20"
+        ],
+        [
+          "Comparative",
+          "PP =",
+          "60",
+          "33",
+          "20",
+          "1165",
+          "0.03",
+          "153",
+          "200",
+          "0.013",
+          "74.4"
+        ],
+        [
+          "Example 4",
+          "100"
+        ],
+        [
+          "Comparative",
+          "PE =",
+          "100",
+          "",
+          "18",
+          "348",
+          "0.05",
+          "144",
+          "150",
+          "Membrne",
+          "66.8"
+        ],
+        [
+          "Example 5",
+          "100",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "rupture"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "occurred."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"10\" namest=\"OFFSET\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"10\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Percentage</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n<td class=\"description-td\">Short-circuit</td>\n<td class=\"description-td\">High</td>\n<td class=\"description-td\">High</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of PP/PE</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Air</td>\n<td class=\"description-td\">Average</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">tempera-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Surface</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">of entire</td>\n<td class=\"description-td\">permeability</td>\n<td class=\"description-td\">pore</td>\n<td class=\"description-td\">at the time</td>\n<td class=\"description-td\">at the time</td>\n<td class=\"description-td\">puncture</td>\n<td class=\"description-td\">ture</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">Percentage</td>\n<td class=\"description-td\">thickness</td>\n<td class=\"description-td\">film</td>\n<td class=\"description-td\">(sec/100</td>\n<td class=\"description-td\">diameter</td>\n<td class=\"description-td\">of high speed</td>\n<td class=\"description-td\">of high speed</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">storage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">of PE (%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">ml/20 μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">heat-up (° C.)</td>\n<td class=\"description-td\">heat-up (° C.)</td>\n<td class=\"description-td\">(N/μm)</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"10\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">PP/PE =</td>\n<td class=\"description-td\">84</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">315</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">148</td>\n<td class=\"description-td\">190</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">80/20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">PP/PE =</td>\n<td class=\"description-td\">92</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">467</td>\n<td class=\"description-td\">0.05</td>\n<td class=\"description-td\">145</td>\n<td class=\"description-td\">175</td>\n<td class=\"description-td\">0.003</td>\n<td class=\"description-td\">68.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">20/80</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">PP/PE =</td>\n<td class=\"description-td\">84</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">494</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">146</td>\n<td class=\"description-td\">180</td>\n<td class=\"description-td\">0.004</td>\n<td class=\"description-td\">69.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">40/60</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">PP/PE =</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">74</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">1053</td>\n<td class=\"description-td\">0.03</td>\n<td class=\"description-td\">151</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">0.011</td>\n<td class=\"description-td\">73.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">80/20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">PP =</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">1165</td>\n<td class=\"description-td\">0.03</td>\n<td class=\"description-td\">153</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">0.013</td>\n<td class=\"description-td\">74.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">100</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">PE =</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">348</td>\n<td class=\"description-td\">0.05</td>\n<td class=\"description-td\">144</td>\n<td class=\"description-td\">150</td>\n<td class=\"description-td\">Membrne</td>\n<td class=\"description-td\">66.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">rupture</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">occurred.</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Surface layer",
+          "Degree of"
+        ],
+        [
+          "",
+          "composition",
+          "blackening (%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "PP/PE = 60/40",
+          "2.6"
+        ],
+        [
+          "",
+          "Example 2",
+          "PP/PE = 80/20",
+          "1.2"
+        ],
+        [
+          "",
+          "Comparative",
+          "PP/PE = 20/80",
+          "13.4"
+        ],
+        [
+          "",
+          "Example 1"
+        ],
+        [
+          "",
+          "Comparative",
+          "PP/PE = 40/60",
+          "7.3"
+        ],
+        [
+          "",
+          "Example 2"
+        ],
+        [
+          "",
+          "Comparative",
+          "PE = 100",
+          "35.0"
+        ],
+        [
+          "",
+          "Example 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Surface layer</td>\n<td class=\"description-td\">Degree of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">blackening (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">PP/PE = 60/40</td>\n<td class=\"description-td\">2.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">PP/PE = 80/20</td>\n<td class=\"description-td\">1.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">PP/PE = 20/80</td>\n<td class=\"description-td\">13.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">PP/PE = 40/60</td>\n<td class=\"description-td\">7.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">  PE = 100</td>\n<td class=\"description-td\">35.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "caption": "FIG. 1 is a schematic view showing a measuring device for measuring the shutdown temperature at the time of high speed heat-up; FIG. 2 is a plan view of nickel foil A with its surface masked with Teflon tape which is used for measuring the shutdown temperature and short-circuit temperature at the time of high speed heat-up; and FIG. 3 is a graph showing the results of pore diameter distribution measurements in example 2.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/98/12/c1/fe656998d8adef/US20070037047A1-20070215-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic view showing a measuring device for measuring the shutdown temperature at the time of high speed heat-up; FIG. 2 is a plan view of nickel foil A with its surface masked with Teflon tape which is used for measuring the shutdown temperature and short-circuit temperature at the time of high speed heat-up; and FIG. 3 is a graph showing the results of pore diameter distribution measurements in example 2.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/2d/51/bd/fc8855f216bd9d/US20070037047A1-20070215-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/e8/af/ec/5daa020f7d934e/US20070037047A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20070037047A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/d29b33e740f8b8fb248fe0c24a77d054b92cd8123c3d0488f5869ae56706eda0.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:13:41.189462+00:00",
+    "sha256": "d29b33e740f8b8fb248fe0c24a77d054b92cd8123c3d0488f5869ae56706eda0",
+    "source": "patents",
+    "source_id": "2528b607493039bf3a0ad9381098ec44d7f05439d5a970405ae6d3a539ad796b",
+    "url": "https://patents.google.com/patent/US20070037047A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "905fb5fc0aaae7e75865a20a081b00a70b1fe758d187c57133b0072db388cb4b",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "2528b607493039bf3a0ad9381098ec44d7f05439d5a970405ae6d3a539ad796b",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/d29b33e740f8b8fb248fe0c24a77d054b92cd8123c3d0488f5869ae56706eda0.bin",
+      "source_id": "2528b607493039bf3a0ad9381098ec44d7f05439d5a970405ae6d3a539ad796b",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "d29b33e740f8b8fb248fe0c24a77d054b92cd8123c3d0488f5869ae56706eda0",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20070037047A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

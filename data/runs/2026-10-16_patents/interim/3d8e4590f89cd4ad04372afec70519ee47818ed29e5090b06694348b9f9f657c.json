@@ -1,0 +1,2114 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Polyethylene",
+          "PE1",
+          "PE2",
+          "PE3",
+          "PE4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Weight-average molecular",
+          "Mw",
+          "1,000,000",
+          "150,000",
+          "10,300,000",
+          "75,000"
+        ],
+        [
+          "weight",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Molecular weight",
+          "Mw/Mn",
+          "8.2",
+          "8.2",
+          "13",
+          "2.8"
+        ],
+        [
+          "distribution",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Form",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder"
+        ],
+        [
+          "Size/μm",
+          "Nd 50",
+          "120",
+          "135",
+          "110",
+          "120"
+        ],
+        [
+          "",
+          "Nd 80 /Nd 20",
+          "1.2",
+          "3.7",
+          "2.5",
+          "2.7"
+        ],
+        [
+          "",
+          "Vd 50",
+          "135",
+          "165",
+          "155",
+          "180"
+        ],
+        [
+          "",
+          "Vd 80 /Vd 20",
+          "1.3",
+          "3.1",
+          "2.1",
+          "2.3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polyethylene</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE2</td>\n<td class=\"description-td\">PE3</td>\n<td class=\"description-td\">PE4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Weight-average molecular </td>\n<td class=\"description-td\">Mw</td>\n<td class=\"description-td\">1,000,000</td>\n<td class=\"description-td\">150,000</td>\n<td class=\"description-td\">10,300,000</td>\n<td class=\"description-td\">75,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Molecular weight </td>\n<td class=\"description-td\">Mw/Mn</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">distribution</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Size/μm</td>\n<td class=\"description-td\">Nd<sub>50</sub> </td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">135</td>\n<td class=\"description-td\">110</td>\n<td class=\"description-td\">120</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Nd<sub>80</sub>/Nd<sub>20</sub> </td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">3.7</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">2.7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Vd<sub>50</sub> </td>\n<td class=\"description-td\">135</td>\n<td class=\"description-td\">165</td>\n<td class=\"description-td\">155</td>\n<td class=\"description-td\">180</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Vd<sub>80</sub>/Vd<sub>20</sub> </td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">3.1</td>\n<td class=\"description-td\">2.1</td>\n<td class=\"description-td\">2.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Polypropylene",
+          "PP1",
+          "PP2",
+          "PP3",
+          "PP4",
+          "PP5",
+          "PP6"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Weight-average",
+          "Mw",
+          "830,000",
+          "1,100,000",
+          "310,000",
+          "1,800,000",
+          "200,000",
+          "2,200,000"
+        ],
+        [
+          "molecular weight",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Molecular weight",
+          "Mw/Mn",
+          "4.5",
+          "10",
+          "5.5",
+          "5.7",
+          "2.8",
+          "13.5"
+        ],
+        [
+          "distribution",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Mmmm fraction",
+          "mol %",
+          "99.3",
+          "96",
+          "90",
+          "97",
+          "99.9",
+          "84"
+        ],
+        [
+          "Form",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets"
+        ],
+        [
+          "Size/mm",
+          "Maximum side length",
+          "5",
+          "6",
+          "2",
+          "3",
+          "5",
+          "4"
+        ],
+        [
+          "",
+          "Minimum side length",
+          "4",
+          "2",
+          "1.2",
+          "2",
+          "3",
+          "3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polypropylene</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP2</td>\n<td class=\"description-td\">PP3</td>\n<td class=\"description-td\">PP4</td>\n<td class=\"description-td\">PP5</td>\n<td class=\"description-td\">PP6</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Weight-average</td>\n<td class=\"description-td\">Mw</td>\n<td class=\"description-td\">830,000</td>\n<td class=\"description-td\">1,100,000</td>\n<td class=\"description-td\">310,000</td>\n<td class=\"description-td\">1,800,000</td>\n<td class=\"description-td\">200,000</td>\n<td class=\"description-td\">2,200,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">molecular weight</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Molecular weight</td>\n<td class=\"description-td\">Mw/Mn</td>\n<td class=\"description-td\">4.5</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">5.5</td>\n<td class=\"description-td\">5.7</td>\n<td class=\"description-td\">2.8</td>\n<td class=\"description-td\">13.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">distribution</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Mmmm fraction</td>\n<td class=\"description-td\">mol %</td>\n<td class=\"description-td\">99.3</td>\n<td class=\"description-td\">96</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">99.9</td>\n<td class=\"description-td\">84</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Size/mm</td>\n<td class=\"description-td\">Maximum side length</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Minimum side length</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Polypropylene",
+          "PP7"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Weight-average",
+          "Mw",
+          "820,000"
+        ],
+        [
+          "molecular weight",
+          "",
+          ""
+        ],
+        [
+          "Molecular weight",
+          "Mw/Mn",
+          "4.5"
+        ],
+        [
+          "distribution",
+          "",
+          ""
+        ],
+        [
+          "mmmm fraction",
+          "mol %",
+          "99.2"
+        ],
+        [
+          "Form",
+          "Powder"
+        ],
+        [
+          "Size/μm",
+          "Nd 50",
+          "165"
+        ],
+        [
+          "",
+          "Nd 80 /Nd 20",
+          "1.3"
+        ],
+        [
+          "",
+          "Vd 50",
+          "190"
+        ],
+        [
+          "",
+          "Vd 80 /Vd 20",
+          "1.2"
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polypropylene</td>\n<td class=\"description-td\">PP7</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Weight-average</td>\n<td class=\"description-td\">Mw</td>\n<td class=\"description-td\">820,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">molecular weight</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Molecular weight</td>\n<td class=\"description-td\">Mw/Mn</td>\n<td class=\"description-td\">4.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">distribution</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">mmmm fraction</td>\n<td class=\"description-td\">mol %</td>\n<td class=\"description-td\">99.2</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Powder</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Size/μm</td>\n<td class=\"description-td\">Nd<sub>50</sub> </td>\n<td class=\"description-td\">165</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Nd<sub>80</sub>/Nd<sub>20</sub> </td>\n<td class=\"description-td\">1.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Vd<sub>50</sub> </td>\n<td class=\"description-td\">190</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Vd<sub>80</sub>/Vd<sub>20</sub> </td>\n<td class=\"description-td\">1.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example"
+        ],
+        [
+          "",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Sheet-",
+          "Starting",
+          "PE",
+          "Form",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder"
+        ],
+        [
+          "casting",
+          "material",
+          "",
+          "Type",
+          "PE1",
+          "PE1",
+          "PE1",
+          "PE1",
+          "PE1"
+        ],
+        [
+          "step",
+          "",
+          "PP",
+          "Form",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Weight",
+          "5",
+          "5",
+          "2",
+          "38",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "ratio/wt %",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Type",
+          "PP1",
+          "PP1",
+          "PP1",
+          "PP1",
+          "PP2"
+        ],
+        [
+          "",
+          "Starting material loading method",
+          "(a)",
+          "(b)",
+          "(a)",
+          "(a)",
+          "(a)"
+        ],
+        [
+          "Stretching",
+          "Stretch ratio",
+          "MD/times",
+          "7",
+          "7",
+          "7",
+          "7",
+          "7"
+        ],
+        [
+          "step",
+          "",
+          "TD/times",
+          "7",
+          "7",
+          "7",
+          "7",
+          "7"
+        ],
+        [
+          "Porous body-",
+          "Plasticizer extraction solvent type",
+          "Dichloromethane"
+        ],
+        [
+          "forming step",
+          "",
+          ""
+        ],
+        [
+          "Heat treatment",
+          "Stretching-relaxation rate",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8"
+        ],
+        [
+          "step",
+          "Treatment temperature",
+          "129",
+          "128",
+          "128",
+          "129",
+          "127"
+        ],
+        [
+          "Microporous",
+          "Basic",
+          "Membrane thickness",
+          "μm",
+          "12",
+          "12.2",
+          "11.2",
+          "9.4",
+          "10"
+        ],
+        [
+          "membrane",
+          "properties",
+          "Porosity",
+          "%",
+          "50",
+          "49",
+          "35",
+          "33",
+          "48"
+        ],
+        [
+          "",
+          "",
+          "Air permeability",
+          "sec",
+          "150",
+          "150",
+          "153",
+          "98",
+          "110"
+        ],
+        [
+          "",
+          "Crystalline",
+          "XRD",
+          "PE crystallite size",
+          "nm",
+          "21",
+          "20",
+          "28",
+          "26",
+          "27"
+        ],
+        [
+          "",
+          "structure",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "90",
+          "91",
+          "90",
+          "92",
+          "93"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "25",
+          "29",
+          "31",
+          "35",
+          "28"
+        ],
+        [
+          "",
+          "",
+          "WAXS",
+          "PE crystallite size",
+          "nm",
+          "24",
+          "23",
+          "30",
+          "27",
+          "29"
+        ],
+        [
+          "",
+          "",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "70",
+          "71",
+          "70",
+          "72",
+          "75"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "29",
+          "33",
+          "35",
+          "39",
+          "33"
+        ],
+        [
+          "Separator",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "98",
+          "98",
+          "97",
+          "97",
+          "95"
+        ],
+        [
+          "evaluation",
+          "method 1",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "95",
+          "94",
+          "93",
+          "92",
+          "89"
+        ],
+        [
+          "Battery",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "98",
+          "97",
+          "97",
+          "95",
+          "96"
+        ],
+        [
+          "evaluation",
+          "method 2",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "93",
+          "93",
+          "90",
+          "90",
+          "81"
+        ],
+        [
+          "Separator",
+          "Unmelted material defects",
+          "Count/",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "production",
+          "",
+          "1000 m 2",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "evaluation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example"
+        ],
+        [
+          "",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Sheet-",
+          "Starting",
+          "PE",
+          "Form",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder"
+        ],
+        [
+          "casting",
+          "material",
+          "",
+          "Type",
+          "PE1",
+          "PE1",
+          "PE2",
+          "PE1",
+          "PE1"
+        ],
+        [
+          "step",
+          "",
+          "PP",
+          "Form",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Weight",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "ratio/wt %",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Type",
+          "PP3",
+          "PP4",
+          "PP1",
+          "PP1",
+          "PP1"
+        ],
+        [
+          "",
+          "Starting material loading method",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)"
+        ],
+        [
+          "Stretching",
+          "Stretch ratio",
+          "MD/times",
+          "7",
+          "7",
+          "7",
+          "10",
+          "6"
+        ],
+        [
+          "step",
+          "",
+          "TD/times",
+          "7",
+          "7",
+          "7",
+          "10",
+          "6"
+        ],
+        [
+          "Porous body-",
+          "Plasticizer extraction solvent type",
+          "Dichloromethane"
+        ],
+        [
+          "forming step",
+          "",
+          ""
+        ],
+        [
+          "Heat treatment",
+          "Stretching-relaxation rate",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8"
+        ],
+        [
+          "step",
+          "Treatment temperature",
+          "127",
+          "128",
+          "129",
+          "118",
+          "131"
+        ],
+        [
+          "Microporous",
+          "Basic",
+          "Membrane thickness",
+          "μm",
+          "10",
+          "10.2",
+          "10.7",
+          "10",
+          "10.2"
+        ],
+        [
+          "membrane",
+          "properties",
+          "Porosity",
+          "%",
+          "47",
+          "42",
+          "48",
+          "50",
+          "51"
+        ],
+        [
+          "",
+          "",
+          "Air permeability",
+          "sec",
+          "117",
+          "131",
+          "157",
+          "157",
+          "157"
+        ],
+        [
+          "",
+          "Crystalline",
+          "XRD",
+          "PE crystallite size",
+          "nm",
+          "31",
+          "32",
+          "26",
+          "16",
+          "38"
+        ],
+        [
+          "",
+          "structure",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "94",
+          "89",
+          "93",
+          "99.7",
+          "81"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "21",
+          "24",
+          "29",
+          "11",
+          "12"
+        ],
+        [
+          "",
+          "",
+          "WAXS",
+          "PE crystallite size",
+          "nm",
+          "31",
+          "33",
+          "27",
+          "17",
+          "38"
+        ],
+        [
+          "",
+          "",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "73",
+          "70",
+          "68",
+          "73",
+          "70"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "29",
+          "31",
+          "32",
+          "15",
+          "17"
+        ],
+        [
+          "Separator",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "94",
+          "94",
+          "93",
+          "91",
+          "92"
+        ],
+        [
+          "evaluation",
+          "method 1",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "88",
+          "89",
+          "87",
+          "82",
+          "84"
+        ],
+        [
+          "Battery",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "93",
+          "91",
+          "91",
+          "84",
+          "85"
+        ],
+        [
+          "evaluation",
+          "method 2",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "82",
+          "80",
+          "81",
+          "73",
+          "76"
+        ],
+        [
+          "Separator",
+          "Unmelted material defects",
+          "Count/",
+          "0",
+          "0",
+          "0",
+          "2",
+          "5"
+        ],
+        [
+          "production",
+          "",
+          "1000 m 2",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "evaluation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\">TABLE 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Sheet-</td>\n<td class=\"description-td\">Starting</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">casting</td>\n<td class=\"description-td\">material</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio/wt %</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP2</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Starting material loading method</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(b)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stretch ratio</td>\n<td class=\"description-td\">MD/times</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TD/times</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Porous body-</td>\n<td class=\"description-td\">Plasticizer extraction solvent type</td>\n<td class=\"description-td\">Dichloromethane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">forming step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Heat treatment</td>\n<td class=\"description-td\">Stretching-relaxation rate</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\">Treatment temperature</td>\n<td class=\"description-td\">129</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">129</td>\n<td class=\"description-td\">127</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Microporous</td>\n<td class=\"description-td\">Basic</td>\n<td class=\"description-td\">Membrane thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">12.2</td>\n<td class=\"description-td\">11.2</td>\n<td class=\"description-td\">9.4</td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">membrane</td>\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">49</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">48</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\">150</td>\n<td class=\"description-td\">150</td>\n<td class=\"description-td\">153</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">110</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Crystalline</td>\n<td class=\"description-td\">XRD</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">28</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">27</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">structure</td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">91</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">92</td>\n<td class=\"description-td\">93</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">28</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">WAXS</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">29</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">71</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">72</td>\n<td class=\"description-td\">75</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">33</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">95</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 1</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">94</td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">92</td>\n<td class=\"description-td\">89</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Battery</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">96</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 2</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">81</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Unmelted material defects</td>\n<td class=\"description-td\">Count/</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">production</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1000 m<sup>2</sup> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Sheet-</td>\n<td class=\"description-td\">Starting</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">casting</td>\n<td class=\"description-td\">material</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE2</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio/wt %</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PP3</td>\n<td class=\"description-td\">PP4</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Starting material loading method</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stretch ratio</td>\n<td class=\"description-td\">MD/times</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TD/times</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">6</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Porous body-</td>\n<td class=\"description-td\">Plasticizer extraction solvent type</td>\n<td class=\"description-td\">Dichloromethane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">forming step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Heat treatment</td>\n<td class=\"description-td\">Stretching-relaxation rate</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\">Treatment temperature</td>\n<td class=\"description-td\">127</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">129</td>\n<td class=\"description-td\">118</td>\n<td class=\"description-td\">131</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Microporous</td>\n<td class=\"description-td\">Basic</td>\n<td class=\"description-td\">Membrane thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">10.2</td>\n<td class=\"description-td\">10.7</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">10.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">membrane</td>\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">48</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">131</td>\n<td class=\"description-td\">157</td>\n<td class=\"description-td\">157</td>\n<td class=\"description-td\">157</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Crystalline</td>\n<td class=\"description-td\">XRD</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">structure</td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">94</td>\n<td class=\"description-td\">89</td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">99.7</td>\n<td class=\"description-td\">81</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">WAXS</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">73</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">68</td>\n<td class=\"description-td\">73</td>\n<td class=\"description-td\">70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">17</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">94</td>\n<td class=\"description-td\">94</td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">91</td>\n<td class=\"description-td\">92</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 1</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">88</td>\n<td class=\"description-td\">89</td>\n<td class=\"description-td\">87</td>\n<td class=\"description-td\">82</td>\n<td class=\"description-td\">84</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Battery</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">91</td>\n<td class=\"description-td\">91</td>\n<td class=\"description-td\">84</td>\n<td class=\"description-td\">85</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 2</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">82</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">81</td>\n<td class=\"description-td\">73</td>\n<td class=\"description-td\">76</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Unmelted material defects</td>\n<td class=\"description-td\">Count/</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">production</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1000 m<sup>2</sup> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5",
+          "TABLE 5"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example"
+        ],
+        [
+          "",
+          "11",
+          "12",
+          "12 + 1",
+          "12 + 2",
+          "13",
+          "14"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Sheet-",
+          "Starting",
+          "PE",
+          "Form",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder"
+        ],
+        [
+          "casting",
+          "material",
+          "",
+          "Type",
+          "PE1",
+          "PE1",
+          "PE1",
+          "PE1",
+          "PE1",
+          "PE1"
+        ],
+        [
+          "step",
+          "",
+          "PP",
+          "Form",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Weight",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "ratio/wt %",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Type",
+          "PP1",
+          "PP1",
+          "PP1",
+          "PP1",
+          "PP6",
+          "PP5"
+        ],
+        [
+          "",
+          "Starting material loading method",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)"
+        ],
+        [
+          "Stretching",
+          "Stretch ratio",
+          "MD/times",
+          "10",
+          "5",
+          "5",
+          "4",
+          "7",
+          "7"
+        ],
+        [
+          "step",
+          "",
+          "TD/times",
+          "10",
+          "6",
+          "9",
+          "4",
+          "7",
+          "7"
+        ],
+        [
+          "Porous body-",
+          "Plasticizer extraction solvent type",
+          "Dichloromethane"
+        ],
+        [
+          "forming step",
+          "",
+          ""
+        ],
+        [
+          "Heat treatment",
+          "Stretching-relaxation rate",
+          "2.0-1.8",
+          "2.0-1.8",
+          "3.0-2.8",
+          "1.3-1.1",
+          "2.0-1.8",
+          "2.0-1.8"
+        ],
+        [
+          "step",
+          "Treatment temperature",
+          "136",
+          "138",
+          "139",
+          "117",
+          "126",
+          "127"
+        ],
+        [
+          "Microporous",
+          "Basic",
+          "Membrane thickness",
+          "μm",
+          "11",
+          "10",
+          "9",
+          "13",
+          "10",
+          "10.2"
+        ],
+        [
+          "membrane",
+          "properties",
+          "Porosity",
+          "%",
+          "52",
+          "55",
+          "47",
+          "41",
+          "50",
+          "51"
+        ],
+        [
+          "",
+          "",
+          "Air permeability",
+          "sec",
+          "185",
+          "177",
+          "210",
+          "270",
+          "203",
+          "252"
+        ],
+        [
+          "",
+          "Crystalline",
+          "XRD",
+          "PE crystallite size",
+          "nm",
+          "16",
+          "37",
+          "18",
+          "38",
+          "26",
+          "31"
+        ],
+        [
+          "",
+          "structure",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "99.8",
+          "82",
+          "99.9",
+          "78",
+          "92",
+          "91"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "47",
+          "45",
+          "26",
+          "41",
+          "7",
+          "52"
+        ],
+        [
+          "",
+          "",
+          "WAXS",
+          "PE crystallite size",
+          "nm",
+          "18",
+          "37",
+          "22",
+          "40",
+          "27",
+          "32"
+        ],
+        [
+          "",
+          "",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "75",
+          "65",
+          "85",
+          "56",
+          "68",
+          "65"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "48",
+          "47",
+          "49",
+          "43",
+          "9",
+          "55"
+        ],
+        [
+          "Separator",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "89",
+          "93",
+          "85",
+          "86",
+          "70",
+          "68"
+        ],
+        [
+          "evaluation",
+          "method 1",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "84",
+          "81",
+          "70",
+          "72",
+          "24",
+          "30"
+        ],
+        [
+          "Battery",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "83",
+          "82",
+          "79",
+          "77",
+          "70",
+          "71"
+        ],
+        [
+          "evaluation",
+          "method 2",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "72",
+          "75",
+          "63",
+          "65",
+          "20",
+          "18"
+        ],
+        [
+          "Separator",
+          "Unmelted material defects",
+          "Count/",
+          "3",
+          "4",
+          "2",
+          "1",
+          "7",
+          "9"
+        ],
+        [
+          "production",
+          "",
+          "1000 m 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "evaluation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example"
+        ],
+        [
+          "",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Sheet-",
+          "Starting",
+          "PE",
+          "Form",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder",
+          "Powder"
+        ],
+        [
+          "casting",
+          "material",
+          "",
+          "Type",
+          "PE3",
+          "PE4",
+          "PE3",
+          "PE4",
+          "PE3",
+          "PE4"
+        ],
+        [
+          "step",
+          "",
+          "PP",
+          "Form",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets",
+          "Pellets"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Weight",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "ratio/wt %",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Type",
+          "PP1",
+          "PP1",
+          "PP6",
+          "PP6",
+          "PP5",
+          "PP5"
+        ],
+        [
+          "",
+          "Starting material loading method",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)",
+          "(a)"
+        ],
+        [
+          "Stretching",
+          "Stretch ratio",
+          "MD/times",
+          "7",
+          "7",
+          "7",
+          "7",
+          "7",
+          "7"
+        ],
+        [
+          "step",
+          "",
+          "TD/times",
+          "7",
+          "7",
+          "7",
+          "7",
+          "7",
+          "7"
+        ],
+        [
+          "Porous body-",
+          "Plasticizer extraction solvent type",
+          "Dichloromethane"
+        ],
+        [
+          "forming step",
+          "",
+          ""
+        ],
+        [
+          "Heat treatment",
+          "Stretching-relaxation rate",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8"
+        ],
+        [
+          "step",
+          "Treatment temperature",
+          "121",
+          "128",
+          "128",
+          "129",
+          "127",
+          "125"
+        ],
+        [
+          "Microporous",
+          "Basic",
+          "Membrane thickness",
+          "μm",
+          "10.5",
+          "10.5",
+          "11",
+          "11.2",
+          "11.5",
+          "12"
+        ],
+        [
+          "membrane",
+          "properties",
+          "Porosity",
+          "%",
+          "49",
+          "51",
+          "57",
+          "45",
+          "43",
+          "57"
+        ],
+        [
+          "",
+          "",
+          "Air permeability",
+          "sec",
+          "127",
+          "106",
+          "168",
+          "175",
+          "121",
+          "198"
+        ],
+        [
+          "",
+          "Crystalline",
+          "XRD",
+          "PE crystallite size",
+          "nm",
+          "11",
+          "43",
+          "11",
+          "43",
+          "11",
+          "43"
+        ],
+        [
+          "",
+          "structure",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "97",
+          "83",
+          "95",
+          "82",
+          "97",
+          "81"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "25",
+          "38",
+          "6",
+          "7",
+          "55",
+          "51"
+        ],
+        [
+          "",
+          "",
+          "WAXS",
+          "PE crystallite size",
+          "nm",
+          "13",
+          "44",
+          "10",
+          "45",
+          "12",
+          "46"
+        ],
+        [
+          "",
+          "",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "78",
+          "63",
+          "76",
+          "62",
+          "78",
+          "63"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "32",
+          "47",
+          "8",
+          "7",
+          "65",
+          "67"
+        ],
+        [
+          "Separator",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "65",
+          "64",
+          "60",
+          "62",
+          "63",
+          "58"
+        ],
+        [
+          "evaluation",
+          "method 1",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "28",
+          "34",
+          "10",
+          "9",
+          "11",
+          "13"
+        ],
+        [
+          "Battery",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "67",
+          "66",
+          "58",
+          "57",
+          "62",
+          "54"
+        ],
+        [
+          "evaluation",
+          "method 2",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "19",
+          "21",
+          "7",
+          "5",
+          "5",
+          "3"
+        ],
+        [
+          "Separator",
+          "Unmelted material defects",
+          "Count/",
+          "8",
+          "7",
+          "14",
+          "21",
+          "32",
+          "12"
+        ],
+        [
+          "production",
+          "",
+          "1000 m 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "evaluation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\">TABLE 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">12 + 1</td>\n<td class=\"description-td\">12 + 2</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">14</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Sheet-</td>\n<td class=\"description-td\">Starting</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">casting</td>\n<td class=\"description-td\">material</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n<td class=\"description-td\">PE1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio/wt %</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP6</td>\n<td class=\"description-td\">PP5</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Starting material loading method</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stretch ratio</td>\n<td class=\"description-td\">MD/times</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TD/times</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Porous body-</td>\n<td class=\"description-td\">Plasticizer extraction solvent type</td>\n<td class=\"description-td\">Dichloromethane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">forming step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Heat treatment</td>\n<td class=\"description-td\">Stretching-relaxation rate</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">3.0-2.8</td>\n<td class=\"description-td\">1.3-1.1</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\">Treatment temperature</td>\n<td class=\"description-td\">136</td>\n<td class=\"description-td\">138</td>\n<td class=\"description-td\">139</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">126</td>\n<td class=\"description-td\">127</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Microporous</td>\n<td class=\"description-td\">Basic</td>\n<td class=\"description-td\">Membrane thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">10.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">membrane</td>\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">52</td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\">185</td>\n<td class=\"description-td\">177</td>\n<td class=\"description-td\">210</td>\n<td class=\"description-td\">270</td>\n<td class=\"description-td\">203</td>\n<td class=\"description-td\">252</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Crystalline</td>\n<td class=\"description-td\">XRD</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">37</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">31</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">structure</td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">99.8</td>\n<td class=\"description-td\">82</td>\n<td class=\"description-td\">99.9</td>\n<td class=\"description-td\">78</td>\n<td class=\"description-td\">92</td>\n<td class=\"description-td\">91</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">52</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">WAXS</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">37</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">32</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">56</td>\n<td class=\"description-td\">68</td>\n<td class=\"description-td\">65</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">48</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">49</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">55</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">89</td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">86</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">68</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 1</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">84</td>\n<td class=\"description-td\">81</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">72</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Battery</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">83</td>\n<td class=\"description-td\">82</td>\n<td class=\"description-td\">79</td>\n<td class=\"description-td\">77</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">71</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 2</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">72</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">63</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">18</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Unmelted material defects</td>\n<td class=\"description-td\">Count/</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">production</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1000 m<sup>2</sup> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Sheet-</td>\n<td class=\"description-td\">Starting</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n<td class=\"description-td\">Powder</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">casting</td>\n<td class=\"description-td\">material</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PE3</td>\n<td class=\"description-td\">PE4</td>\n<td class=\"description-td\">PE3</td>\n<td class=\"description-td\">PE4</td>\n<td class=\"description-td\">PE3</td>\n<td class=\"description-td\">PE4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">Form</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n<td class=\"description-td\">Pellets</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio/wt %</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP1</td>\n<td class=\"description-td\">PP6</td>\n<td class=\"description-td\">PP6</td>\n<td class=\"description-td\">PP5</td>\n<td class=\"description-td\">PP5</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Starting material loading method</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n<td class=\"description-td\">(a)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stretch ratio</td>\n<td class=\"description-td\">MD/times</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TD/times</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Porous body-</td>\n<td class=\"description-td\">Plasticizer extraction solvent type</td>\n<td class=\"description-td\">Dichloromethane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">forming step</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Heat treatment</td>\n<td class=\"description-td\">Stretching-relaxation rate</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n<td class=\"description-td\">2.0-1.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">step</td>\n<td class=\"description-td\">Treatment temperature</td>\n<td class=\"description-td\">121</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">129</td>\n<td class=\"description-td\">127</td>\n<td class=\"description-td\">125</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Microporous</td>\n<td class=\"description-td\">Basic</td>\n<td class=\"description-td\">Membrane thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">10.5</td>\n<td class=\"description-td\">10.5</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">11.2</td>\n<td class=\"description-td\">11.5</td>\n<td class=\"description-td\">12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">membrane</td>\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">49</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">57</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\">127</td>\n<td class=\"description-td\">106</td>\n<td class=\"description-td\">168</td>\n<td class=\"description-td\">175</td>\n<td class=\"description-td\">121</td>\n<td class=\"description-td\">198</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Crystalline</td>\n<td class=\"description-td\">XRD</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">43</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">structure</td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">83</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">82</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">81</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">WAXS</td>\n<td class=\"description-td\">PE crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">44</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">46</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">analysis</td>\n<td class=\"description-td\">PE crystallinity degree</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">78</td>\n<td class=\"description-td\">63</td>\n<td class=\"description-td\">76</td>\n<td class=\"description-td\">62</td>\n<td class=\"description-td\">78</td>\n<td class=\"description-td\">63</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results</td>\n<td class=\"description-td\">PP crystallite size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">67</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">64</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">62</td>\n<td class=\"description-td\">63</td>\n<td class=\"description-td\">58</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 1</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">28</td>\n<td class=\"description-td\">34</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">13</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Battery</td>\n<td class=\"description-td\">Test</td>\n<td class=\"description-td\">Thickness retention after 100 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">67</td>\n<td class=\"description-td\">66</td>\n<td class=\"description-td\">58</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">62</td>\n<td class=\"description-td\">54</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">method 2</td>\n<td class=\"description-td\">Capacity retention during 1000 cycles</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">3</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Unmelted material defects</td>\n<td class=\"description-td\">Count/</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">production</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1000 m<sup>2</sup> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">evaluation</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Comparative",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Sheet-casting",
+          "Starting",
+          "PE",
+          "Form",
+          "Powder",
+          "Powder",
+          "Powder"
+        ],
+        [
+          "step",
+          "material",
+          "",
+          "Type",
+          "PE1",
+          "PE1",
+          "PE1"
+        ],
+        [
+          "",
+          "",
+          "PP",
+          "Form",
+          "Powder",
+          "Powder",
+          "Powder"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Weight",
+          "5",
+          "5",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "ratio/wt %",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Type",
+          "PP7",
+          "PP7",
+          "PP7"
+        ],
+        [
+          "",
+          "Starting material loading method",
+          "(a)",
+          "(b)",
+          "(c)"
+        ],
+        [
+          "Stretching",
+          "Stretch ratio",
+          "MD/times",
+          "7",
+          "7",
+          "7"
+        ],
+        [
+          "step",
+          "",
+          "TD/times",
+          "7",
+          "7",
+          "7"
+        ],
+        [
+          "Porous body-",
+          "Plasticizer extraction solvent type",
+          "Dichloromethane",
+          "Dichloromethane",
+          "Dichloromethane"
+        ],
+        [
+          "forming step",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Heat treatment",
+          "Stretching-relaxation rate",
+          "2.0-1.8",
+          "2.0-1.8",
+          "2.0-1.8"
+        ],
+        [
+          "step",
+          "Treatment temperature",
+          "129",
+          "129",
+          "129"
+        ],
+        [
+          "Microporous",
+          "Basic",
+          "Membrane thickness",
+          "μm",
+          "12",
+          "12.2",
+          "10"
+        ],
+        [
+          "membrane",
+          "properties",
+          "Porosity",
+          "%",
+          "52",
+          "51",
+          "55"
+        ],
+        [
+          "",
+          "",
+          "Air permeability",
+          "sec",
+          "78",
+          "88",
+          "98"
+        ],
+        [
+          "",
+          "Crystalline",
+          "XRD",
+          "PE crystallite size",
+          "nm",
+          "43",
+          "45",
+          "46"
+        ],
+        [
+          "",
+          "structure",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "65",
+          "61",
+          "66"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "70",
+          "75",
+          "73"
+        ],
+        [
+          "",
+          "",
+          "WAXS",
+          "PE crystallite size",
+          "nm",
+          "45",
+          "46",
+          "46"
+        ],
+        [
+          "",
+          "",
+          "analysis",
+          "PE crystallinity degree",
+          "%",
+          "55",
+          "51",
+          "54"
+        ],
+        [
+          "",
+          "",
+          "results",
+          "PP crystallite size",
+          "nm",
+          "81",
+          "80",
+          "79"
+        ],
+        [
+          "Separator",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "50",
+          "50",
+          "48"
+        ],
+        [
+          "evaluation",
+          "method 1",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "2",
+          "3",
+          "5"
+        ],
+        [
+          "Battery",
+          "Test",
+          "Thickness retention after 100 cycles",
+          "%",
+          "48",
+          "47",
+          "43"
+        ],
+        [
+          "evaluation",
+          "method 2",
+          "Capacity retention during 1000 cycles",
+          "%",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "Separator",
+          "Unmelted material defects",
+          "Count/",
+          "354",
+          "688",
+          "778"
+        ],
+        [
+          "production",
+          "",
+          "1000 m 2",
+          "",
+          "",
+          ""
+        ],
+        [
+          "evaluation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 6</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative</td> <td class=\"description-td\">Comparative</td> <td class=\"description-td\">Comparative</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 1</td> <td class=\"description-td\">Example 2</td> <td class=\"description-td\">Example 3</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Sheet-casting</td> <td class=\"description-td\">Starting</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">Form</td> <td class=\"description-td\">Powder</td> <td class=\"description-td\">Powder</td> <td class=\"description-td\">Powder</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">step</td> <td class=\"description-td\">material</td> <td class=\"description-td\"> </td> <td class=\"description-td\">Type</td> <td class=\"description-td\">PE1</td> <td class=\"description-td\">PE1</td> <td class=\"description-td\">PE1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">PP</td> <td class=\"description-td\">Form</td> <td class=\"description-td\">Powder</td> <td class=\"description-td\">Powder</td> <td class=\"description-td\">Powder</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Weight</td> <td class=\"description-td\">5</td> <td class=\"description-td\">5</td> <td class=\"description-td\">5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">ratio/wt %</td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Type</td> <td class=\"description-td\">PP7</td> <td class=\"description-td\">PP7</td> <td class=\"description-td\">PP7</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Starting material loading method</td> <td class=\"description-td\">(a)</td> <td class=\"description-td\">(b)</td> <td class=\"description-td\">(c)</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Stretching</td> <td class=\"description-td\">Stretch ratio</td> <td class=\"description-td\">MD/times</td> <td class=\"description-td\">7</td> <td class=\"description-td\">7</td> <td class=\"description-td\">7</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">step</td> <td class=\"description-td\"> </td> <td class=\"description-td\">TD/times</td> <td class=\"description-td\">7</td> <td class=\"description-td\">7</td> <td class=\"description-td\">7</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Porous body-</td> <td class=\"description-td\">Plasticizer extraction solvent type</td> <td class=\"description-td\">Dichloromethane</td> <td class=\"description-td\">Dichloromethane</td> <td class=\"description-td\">Dichloromethane</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">forming step</td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Heat treatment</td> <td class=\"description-td\">Stretching-relaxation rate</td> <td class=\"description-td\">2.0-1.8</td> <td class=\"description-td\">2.0-1.8</td> <td class=\"description-td\">2.0-1.8</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">step</td> <td class=\"description-td\">Treatment temperature</td> <td class=\"description-td\">129</td> <td class=\"description-td\">129</td> <td class=\"description-td\">129</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Microporous</td> <td class=\"description-td\">Basic</td> <td class=\"description-td\">Membrane thickness</td> <td class=\"description-td\">μm</td> <td class=\"description-td\">12</td> <td class=\"description-td\">12.2</td> <td class=\"description-td\">10</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">membrane</td> <td class=\"description-td\">properties</td> <td class=\"description-td\">Porosity</td> <td class=\"description-td\">%</td> <td class=\"description-td\">52</td> <td class=\"description-td\">51</td> <td class=\"description-td\">55</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Air permeability</td> <td class=\"description-td\">sec</td> <td class=\"description-td\">78</td> <td class=\"description-td\">88</td> <td class=\"description-td\">98</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Crystalline</td> <td class=\"description-td\">XRD</td> <td class=\"description-td\">PE crystallite size</td> <td class=\"description-td\">nm</td> <td class=\"description-td\">43</td> <td class=\"description-td\">45</td> <td class=\"description-td\">46</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">structure</td> <td class=\"description-td\">analysis</td> <td class=\"description-td\">PE crystallinity degree</td> <td class=\"description-td\">%</td> <td class=\"description-td\">65</td> <td class=\"description-td\">61</td> <td class=\"description-td\">66</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">results</td> <td class=\"description-td\">PP crystallite size</td> <td class=\"description-td\">nm</td> <td class=\"description-td\">70</td> <td class=\"description-td\">75</td> <td class=\"description-td\">73</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">WAXS</td> <td class=\"description-td\">PE crystallite size</td> <td class=\"description-td\">nm</td> <td class=\"description-td\">45</td> <td class=\"description-td\">46</td> <td class=\"description-td\">46</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">analysis</td> <td class=\"description-td\">PE crystallinity degree</td> <td class=\"description-td\">%</td> <td class=\"description-td\">55</td> <td class=\"description-td\">51</td> <td class=\"description-td\">54</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">results</td> <td class=\"description-td\">PP crystallite size</td> <td class=\"description-td\">nm</td> <td class=\"description-td\">81</td> <td class=\"description-td\">80</td> <td class=\"description-td\">79</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Separator</td> <td class=\"description-td\">Test</td> <td class=\"description-td\">Thickness retention after 100 cycles</td> <td class=\"description-td\">%</td> <td class=\"description-td\">50</td> <td class=\"description-td\">50</td> <td class=\"description-td\">48</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">evaluation</td> <td class=\"description-td\">method 1</td> <td class=\"description-td\">Capacity retention during 1000 cycles</td> <td class=\"description-td\">%</td> <td class=\"description-td\">2</td> <td class=\"description-td\">3</td> <td class=\"description-td\">5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Battery</td> <td class=\"description-td\">Test</td> <td class=\"description-td\">Thickness retention after 100 cycles</td> <td class=\"description-td\">%</td> <td class=\"description-td\">48</td> <td class=\"description-td\">47</td> <td class=\"description-td\">43</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">evaluation</td> <td class=\"description-td\">method 2</td> <td class=\"description-td\">Capacity retention during 1000 cycles</td> <td class=\"description-td\">%</td> <td class=\"description-td\">3</td> <td class=\"description-td\">2</td> <td class=\"description-td\">2</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Separator</td> <td class=\"description-td\">Unmelted material defects</td> <td class=\"description-td\">Count/</td> <td class=\"description-td\">354</td> <td class=\"description-td\">688</td> <td class=\"description-td\">778</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">production</td> <td class=\"description-td\"> </td> <td class=\"description-td\">1000 m<sup>2</sup> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">evaluation</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US12548849B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/8fadf790c50ef0b2873d264ad084d8c42aeb8b8b44a4c686c2ab0e493fcdae15.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:15:51.798717+00:00",
+    "sha256": "8fadf790c50ef0b2873d264ad084d8c42aeb8b8b44a4c686c2ab0e493fcdae15",
+    "source": "patents",
+    "source_id": "5d04ce0138e7944aae06521cd82f2ecdb23ec8cca5f8ff469b7f9c0b08f73a7d",
+    "url": "https://patents.google.com/patent/US12548849B2/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "8e8b3b4af9ed29369158d9fd4b1fedec62203f6b466f906e51280af19a2f3e99",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "5d04ce0138e7944aae06521cd82f2ecdb23ec8cca5f8ff469b7f9c0b08f73a7d",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/8fadf790c50ef0b2873d264ad084d8c42aeb8b8b44a4c686c2ab0e493fcdae15.bin",
+      "source_id": "5d04ce0138e7944aae06521cd82f2ecdb23ec8cca5f8ff469b7f9c0b08f73a7d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "8fadf790c50ef0b2873d264ad084d8c42aeb8b8b44a4c686c2ab0e493fcdae15",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US12548849B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

@@ -1,0 +1,159 @@
+{
+  "source_sha256": "029f37b08c6f01ce5746c5467c07adf1beb41aa13d2abd1550bb4464940130a7",
+  "source_url": "https://patents.google.com/patent/US20120077113A1/en",
+  "figure": "5",
+  "caption": "TMA length-change plot; selected Comparative Example 1 trough segment only",
+  "crop": [
+    324,
+    2022,
+    1950,
+    2766
+  ],
+  "x_reference": [
+    [
+      324,
+      110
+    ],
+    [
+      1860,
+      190
+    ]
+  ],
+  "y_reference": [
+    [
+      2766,
+      50
+    ],
+    [
+      2022,
+      160
+    ]
+  ],
+  "x_unit": "C",
+  "y_unit": "% relative length",
+  "plot_type": "linear",
+  "single_series": true,
+  "series_count": 6,
+  "series_label": "Comparative Example 1; selected segment",
+  "mask_polygon": [
+    [
+      750,
+      2527
+    ],
+    [
+      760,
+      2548
+    ],
+    [
+      770,
+      2574
+    ],
+    [
+      780,
+      2608
+    ],
+    [
+      790,
+      2634
+    ],
+    [
+      800,
+      2655
+    ],
+    [
+      810,
+      2665
+    ],
+    [
+      820,
+      2668
+    ],
+    [
+      830,
+      2664
+    ],
+    [
+      840,
+      2650
+    ],
+    [
+      840,
+      2670
+    ],
+    [
+      830,
+      2684
+    ],
+    [
+      820,
+      2688
+    ],
+    [
+      810,
+      2685
+    ],
+    [
+      800,
+      2675
+    ],
+    [
+      790,
+      2654
+    ],
+    [
+      780,
+      2628
+    ],
+    [
+      770,
+      2594
+    ],
+    [
+      760,
+      2568
+    ],
+    [
+      750,
+      2547
+    ]
+  ],
+  "curve_rgb": [
+    0,
+    0,
+    0
+  ],
+  "color_tolerance": 100,
+  "remove_horizontal_grid": true,
+  "max_curve_thickness_px": 20,
+  "max_jump_px": 20,
+  "sample_step_px": 2,
+  "calibration_error_px": 2,
+  "reference_points": [
+    [
+      132.1875,
+      83.85752688172045
+    ],
+    [
+      133.22916666666669,
+      76.90860215053766
+    ],
+    [
+      134.27083333333334,
+      68.03763440860217
+    ],
+    [
+      135.3125,
+      63.45430107526886
+    ],
+    [
+      136.35416666666669,
+      63.60215053763443
+    ]
+  ],
+  "tolerances": {
+    "mean_error_y": 1.0,
+    "max_error_y": 2.0,
+    "max_error_x": 0.2
+  },
+  "reference_method": "Manual visual selection of pixel centers on the preserved source image; reference points are not independent experiments."
+}

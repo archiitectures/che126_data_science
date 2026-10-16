@@ -1,0 +1,326 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thickness of",
+          "",
+          "Degree of area",
+          "Increase in",
+          "Permeability",
+          "Shutdown",
+          "",
+          ""
+        ],
+        [
+          "",
+          "porous layer",
+          "Variation in light",
+          "heat",
+          "puncture",
+          "(seconds/",
+          "temperature",
+          "Meltdown",
+          "Variation in discharge"
+        ],
+        [
+          "",
+          "(μm)",
+          "transmittance (%)",
+          "shrinkage (%)",
+          "strength (gf)",
+          "100 cm 3 )",
+          "(° C.)",
+          "temperature (° C.)",
+          "capacity retention rate"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "3",
+          "10",
+          "15",
+          "45",
+          "200",
+          "139",
+          "250 or more",
+          "◯"
+        ],
+        [
+          "Example 2",
+          "3",
+          "6",
+          "10",
+          "50",
+          "180",
+          "139",
+          "250 or more",
+          "⊚"
+        ],
+        [
+          "Example 3",
+          "1",
+          "8",
+          "20",
+          "30",
+          "160",
+          "138",
+          "250 or more",
+          "⊚"
+        ],
+        [
+          "Example 4",
+          "3",
+          "13",
+          "17",
+          "35",
+          "220",
+          "140",
+          "250 or more",
+          "◯"
+        ],
+        [
+          "Example 5",
+          "3",
+          "15",
+          "23",
+          "32",
+          "280",
+          "139",
+          "250 or more",
+          "◯"
+        ],
+        [
+          "Example 6",
+          "2",
+          "9",
+          "12",
+          "60",
+          "300",
+          "139",
+          "250 or more",
+          "⊚"
+        ],
+        [
+          "Example 7",
+          "2",
+          "9",
+          "22",
+          "60",
+          "170",
+          "139",
+          "250 or more",
+          "⊚"
+        ],
+        [
+          "Comparative",
+          "3",
+          "25",
+          "18",
+          "35",
+          "240",
+          "140",
+          "230",
+          "X"
+        ],
+        [
+          "example 1"
+        ],
+        [
+          "Comparative",
+          "3",
+          "30",
+          "25",
+          "30",
+          "260",
+          "140",
+          "210",
+          "X"
+        ],
+        [
+          "example 2"
+        ],
+        [
+          "Comparative",
+          "3",
+          "15",
+          "45",
+          "10",
+          "190",
+          "138",
+          "180",
+          "◯"
+        ],
+        [
+          "example 3"
+        ],
+        [
+          "Comparative",
+          "3",
+          "20",
+          "10",
+          "80",
+          "1500",
+          "141",
+          "250 or more",
+          "X"
+        ],
+        [
+          "example 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness of</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Degree of area</td>\n<td class=\"description-td\">Increase in</td>\n<td class=\"description-td\">Permeability</td>\n<td class=\"description-td\">Shutdown</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">porous layer</td>\n<td class=\"description-td\">Variation in light</td>\n<td class=\"description-td\">heat</td>\n<td class=\"description-td\">puncture</td>\n<td class=\"description-td\">(seconds/</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">Meltdown</td>\n<td class=\"description-td\">Variation in discharge</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">transmittance (%)</td>\n<td class=\"description-td\">shrinkage (%)</td>\n<td class=\"description-td\">strength (gf)</td>\n<td class=\"description-td\">100 cm<sup>3</sup>)</td>\n<td class=\"description-td\">(° C.)</td>\n<td class=\"description-td\">temperature (° C.)</td>\n<td class=\"description-td\">capacity retention rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">139</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">180</td>\n<td class=\"description-td\">139</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">160</td>\n<td class=\"description-td\">138</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">220</td>\n<td class=\"description-td\">140</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">280</td>\n<td class=\"description-td\">139</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">300</td>\n<td class=\"description-td\">139</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">170</td>\n<td class=\"description-td\">139</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">140</td>\n<td class=\"description-td\">230</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">260</td>\n<td class=\"description-td\">140</td>\n<td class=\"description-td\">210</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">190</td>\n<td class=\"description-td\">138</td>\n<td class=\"description-td\">180</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">1500</td>\n<td class=\"description-td\">141</td>\n<td class=\"description-td\">250 or more</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/cf/fa/2d/e5016f1e6c7b7b/US20190319238A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"10b829eef44e3fd05eff287d939fcd62\"",
+        "last_modified": "Sun, 20 Oct 2019 04:30:43 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/f4675663d652e26c909ea87ef3aa2e963aae8524b9351a6c199a9ea6ed558383.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:14:47.989274+00:00",
+        "sha256": "f4675663d652e26c909ea87ef3aa2e963aae8524b9351a6c199a9ea6ed558383",
+        "source": "patent_pdf",
+        "source_id": "1f24fd45600ea5b3841bf6b6d12b8a5b33937c66be81c9f43cfa3d28567303f9",
+        "url": "https://patentimages.storage.googleapis.com/cf/fa/2d/e5016f1e6c7b7b/US20190319238A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20190319238A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/45d726ae6cb7234426522a027023ff3fa31a68fa0746595e5651b2ad996c5722.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:14:47.145398+00:00",
+    "sha256": "45d726ae6cb7234426522a027023ff3fa31a68fa0746595e5651b2ad996c5722",
+    "source": "patents",
+    "source_id": "b889fa09ba9186d1f5dcc37a1638ec959597076442360d85fea3f54382c4682e",
+    "url": "https://patents.google.com/patent/US20190319238A1/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "78dd5f35acea3c73623f130936d8c7a91fafab49402d84922446dbe250a45142",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "b889fa09ba9186d1f5dcc37a1638ec959597076442360d85fea3f54382c4682e",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/45d726ae6cb7234426522a027023ff3fa31a68fa0746595e5651b2ad996c5722.bin",
+      "source_id": "b889fa09ba9186d1f5dcc37a1638ec959597076442360d85fea3f54382c4682e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "45d726ae6cb7234426522a027023ff3fa31a68fa0746595e5651b2ad996c5722",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20190319238A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

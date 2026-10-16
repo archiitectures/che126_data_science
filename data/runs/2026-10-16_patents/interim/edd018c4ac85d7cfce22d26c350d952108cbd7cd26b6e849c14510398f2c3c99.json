@@ -1,0 +1,106 @@
+{
+  "artifacts": [
+    {
+      "caption": "FIG. 1 is a schematic diagram illustrating the three-layer construction of the trilayer battery separator of the present invention. FIG. 1 illustrates a preferred embodiment of shutdown battery separator 10 which comprises a trilayer microporous film for use in electrochemical cells, e.g., batteries, particularly rechargeable batteries, such as lithium ion batteries. This trilayer separator has three microporous membranes bonded together. The first ( 12 ) and third ( 16 ) layers, i.e., the two outer layers, are strength layers. The second ( 14 ) layer, i.e., the inner layer, is a shutdown layer. After the microporous outer layer and microporous inner layer are made, the microporous membranes are bonded together into a trilayer battery separator having a structure as shown in FIG. 1 . The bonding methods are generally known in the art. Suitable methods for use in this invention include but not limited to calendaring, adhering with adhesives, and welding. The application of adhesives may include: air atomizing; gravure/screen printing; hydraulic spraying; and ultrasonic spraying. The choice of adhesive and the rate of adhesive application must be chosen so that the separator's porosity is not adversely effected. The welding techniques includes but not limited to thermal welding and ultrasonic welding. The amount of energy for the welding procedure and the pattern of weld should be chosen so that the separator's porosity is not adversely effected. Preferably bonding is done by calendaring, with nips closed, at a temperature of at least 1° C. below the melting point of the inner shutdown layer, more preferably a temperature of at least 5° C. below the melting point of the inner shutdown layer.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/94/b6/50/23db419f629851/US6180280-drawings-page-2.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/19/bd/e9/84bf4c769c45fc/US6180280.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"f9aa69f613f85ab88b3f7e636663b681\"",
+        "last_modified": "Sun, 01 Oct 2017 10:32:41 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/f3266248670a785ed4653087539b01533e387cc006ca21f59546d553a787bde1.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:15:34.856282+00:00",
+        "sha256": "f3266248670a785ed4653087539b01533e387cc006ca21f59546d553a787bde1",
+        "source": "patent_pdf",
+        "source_id": "1c87d0aff92c886873a0188d6b0c4f82cbde5b9e5fc3ba1103982560eb67949b",
+        "url": "https://patentimages.storage.googleapis.com/19/bd/e9/84bf4c769c45fc/US6180280.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US6180280B1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/09a1d29c46c6d4633cedd941c5a332c50cf7a56daf7b164b6e672969cf74983f.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:15:33.980341+00:00",
+    "sha256": "09a1d29c46c6d4633cedd941c5a332c50cf7a56daf7b164b6e672969cf74983f",
+    "source": "patents",
+    "source_id": "b81e2f10be046817c7d537085501e97c209e7bd83671d5f4efd1d71f412a70bd",
+    "url": "https://patents.google.com/patent/US6180280B1/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "f0d906b7065695b58707e08508501b62d2017c15cc49053967abeb11ddebfcdc",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "b81e2f10be046817c7d537085501e97c209e7bd83671d5f4efd1d71f412a70bd",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/09a1d29c46c6d4633cedd941c5a332c50cf7a56daf7b164b6e672969cf74983f.bin",
+      "source_id": "b81e2f10be046817c7d537085501e97c209e7bd83671d5f4efd1d71f412a70bd",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "09a1d29c46c6d4633cedd941c5a332c50cf7a56daf7b164b6e672969cf74983f",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6180280B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

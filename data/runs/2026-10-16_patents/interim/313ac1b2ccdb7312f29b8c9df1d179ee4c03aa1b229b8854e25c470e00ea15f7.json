@@ -1,0 +1,763 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "first-stage",
+          "",
+          "second-stage",
+          "polymerization"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(third-stage)",
+          "",
+          "(fourth-stage)",
+          "temperature"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "polymerization",
+          "",
+          "polymerization",
+          "(first-stage/"
+        ],
+        [
+          "Classifi-",
+          "Ti",
+          "Al",
+          "Si",
+          "ethylene",
+          "time",
+          "propylene",
+          "time",
+          "second-stage,"
+        ],
+        [
+          "cation",
+          "(mmol)",
+          "(mmol)",
+          "(mmol)",
+          "(ml/min)",
+          "(min)",
+          "(ml/min)",
+          "(min)",
+          "° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Embodiment 1",
+          "0.016",
+          "7.88",
+          "0.39",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "Embodiment 2",
+          "0.016",
+          "7.88",
+          "0.39",
+          "500",
+          "85",
+          "750",
+          "120",
+          "70/70"
+        ],
+        [
+          "Embodiment 3",
+          "0.016",
+          "7.88",
+          "0.39",
+          "1,100",
+          "120",
+          "500",
+          "60",
+          "70/70"
+        ],
+        [
+          "Embodiment 4",
+          "0.016",
+          "7.88",
+          "0.39",
+          "300",
+          "30",
+          "730",
+          "150",
+          "70/70"
+        ],
+        [
+          "Embodiment 5",
+          "0.016",
+          "7.88",
+          "0.39",
+          "1,400",
+          "120",
+          "200",
+          "30",
+          "70/70"
+        ],
+        [
+          "Embodiment 6",
+          "0.016",
+          "7.88",
+          "0.39",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "Embodiment 7",
+          "0.016",
+          "7.88",
+          "0.39",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/55"
+        ],
+        [
+          "Embodiment 8",
+          "0.016",
+          "7.88",
+          "0.39",
+          "700",
+          "(60 (60)",
+          "500",
+          "60 (60)",
+          "70/70"
+        ],
+        [
+          "Embodiment 9",
+          "0.016",
+          "2.63",
+          "0.13",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "Embodiment",
+          "0.016",
+          "2.63",
+          "0.39",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "10"
+        ],
+        [
+          "Embodiment",
+          "0.016",
+          "7.88",
+          "0.39",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "30/30"
+        ],
+        [
+          "11"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "0.016",
+          "0.09",
+          "0.13",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Comparative",
+          "0.016",
+          "35.1",
+          "0.39",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Comparative",
+          "0.016",
+          "7.88",
+          "0.013",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "Comparative",
+          "0.016",
+          "7.88",
+          "0.56",
+          "1,050",
+          "85",
+          "500",
+          "120",
+          "70/70"
+        ],
+        [
+          "Example 8"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Secondary battery separator"
+        ],
+        [
+          "",
+          "",
+          "",
+          "poly",
+          "poly",
+          "Apparent",
+          "",
+          "Puncture",
+          "Tensile",
+          ""
+        ],
+        [
+          "",
+          "Classifi-",
+          "hydrogen",
+          "ethylene",
+          "propylene",
+          "density",
+          "Mv",
+          "strength",
+          "strength",
+          "Elong."
+        ],
+        [
+          "",
+          "cation",
+          "(ml)",
+          "(%)",
+          "(%)",
+          "(g/cm 3 )",
+          "(g/mol)",
+          "(gf)",
+          "(kgf/cm 2 )",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Embodiment 1",
+          "200",
+          "50.5",
+          "49.5",
+          "0.43",
+          "1,050,000",
+          "363",
+          "1,049",
+          "45"
+        ],
+        [
+          "",
+          "Embodiment 2",
+          "100",
+          "24.8",
+          "75.2",
+          "0.42",
+          "1,274,000",
+          "531",
+          "1,705",
+          "52"
+        ],
+        [
+          "",
+          "Embodiment 3",
+          "300",
+          "76.1",
+          "23.9",
+          "0.41",
+          "828,000",
+          "87",
+          "987",
+          "38"
+        ],
+        [
+          "",
+          "Embodiment 4",
+          "20",
+          "4.9",
+          "95.1",
+          "0.46",
+          "1,476,000",
+          "367",
+          "1,143",
+          "62"
+        ],
+        [
+          "",
+          "Embodiment 5",
+          "380",
+          "94.8",
+          "5.2",
+          "0.39",
+          "647,000",
+          "38",
+          "238",
+          "27"
+        ],
+        [
+          "",
+          "Embodiment 6",
+          "0",
+          "51.3",
+          "48.7",
+          "0.42",
+          "1,050,000",
+          "481",
+          "1,511",
+          "53"
+        ],
+        [
+          "",
+          "Embodiment 7",
+          "0",
+          "53.0",
+          "47.0",
+          "0.40",
+          "2,060,000",
+          "472",
+          "1,409",
+          "76"
+        ],
+        [
+          "",
+          "Embodiment 8",
+          "0",
+          "50.3",
+          "49.7",
+          "0.41",
+          "1,634,000",
+          "559",
+          "1,811",
+          "81"
+        ],
+        [
+          "",
+          "Embodiment 9",
+          "200",
+          "70.3",
+          "29.7",
+          "0.38",
+          "1,320,000",
+          "382",
+          "1,325",
+          "63"
+        ],
+        [
+          "",
+          "Embodiment",
+          "200",
+          "76.1",
+          "23.9",
+          "0.39",
+          "1,830,000",
+          "331",
+          "1,287",
+          "83"
+        ],
+        [
+          "",
+          "10"
+        ],
+        [
+          "",
+          "Embodiment",
+          "0",
+          "52.3",
+          "47.7",
+          "0.36",
+          "2,320,000",
+          "513",
+          "1,589",
+          "78"
+        ],
+        [
+          "",
+          "11"
+        ],
+        [
+          "",
+          "Comparative",
+          "—",
+          "50",
+          "50",
+          "0.45",
+          "950,000",
+          "139",
+          "365",
+          "51"
+        ],
+        [
+          "",
+          "Example 1"
+        ],
+        [
+          "",
+          "Comparative",
+          "—",
+          "50",
+          "50",
+          "0.44",
+          "1,740,000",
+          "158",
+          "383",
+          "47"
+        ],
+        [
+          "",
+          "Example 2"
+        ],
+        [
+          "",
+          "Comparative",
+          "—",
+          "45",
+          "55",
+          "0.43",
+          "1,725,000",
+          "214",
+          "577",
+          "55"
+        ],
+        [
+          "",
+          "Example 3"
+        ],
+        [
+          "",
+          "Comparative",
+          "—",
+          "40",
+          "60",
+          "0.44",
+          "1,700,000",
+          "230",
+          "547",
+          "45"
+        ],
+        [
+          "",
+          "Example 4"
+        ],
+        [
+          "",
+          "Comparative",
+          "200",
+          "99.1",
+          "0.9",
+          "0.18",
+          "80,000",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Example 5"
+        ],
+        [
+          "",
+          "Comparative",
+          "200",
+          "53.0",
+          "47.0",
+          "0.22",
+          "684,000",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Example 6"
+        ],
+        [
+          "",
+          "Comparative",
+          "200",
+          "98.3",
+          "1.7",
+          "0.16",
+          "1,240,000",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Example 7"
+        ],
+        [
+          "",
+          "Comparative",
+          "200",
+          "82.1",
+          "17.9",
+          "0.19",
+          "834,000",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Example 8"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">first-stage</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">second-stage</td>\n<td class=\"description-td\">polymerization</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(third-stage)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(fourth-stage)</td>\n<td class=\"description-td\">temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polymerization</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polymerization</td>\n<td class=\"description-td\">(first-stage/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Classifi-</td>\n<td class=\"description-td\">Ti</td>\n<td class=\"description-td\">Al</td>\n<td class=\"description-td\">Si</td>\n<td class=\"description-td\">ethylene</td>\n<td class=\"description-td\">time</td>\n<td class=\"description-td\">propylene</td>\n<td class=\"description-td\">time</td>\n<td class=\"description-td\">second-stage,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">cation</td>\n<td class=\"description-td\">(mmol)</td>\n<td class=\"description-td\">(mmol)</td>\n<td class=\"description-td\">(mmol)</td>\n<td class=\"description-td\">(ml/min)</td>\n<td class=\"description-td\">(min)</td>\n<td class=\"description-td\">(ml/min)</td>\n<td class=\"description-td\">(min)</td>\n<td class=\"description-td\">° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 1</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 2</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">750</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 3</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,100</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 4</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">300</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">730</td>\n<td class=\"description-td\">150</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 5</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,400</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 6</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 7</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/55</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 8</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">700</td>\n<td class=\"description-td\">(60 (60)</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">60 (60)</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment 9</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">2.63</td>\n<td class=\"description-td\">0.13</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">2.63</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Embodiment</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">30/30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">0.09</td>\n<td class=\"description-td\">0.13</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">35.1</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.013</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.016</td>\n<td class=\"description-td\">7.88</td>\n<td class=\"description-td\">0.56</td>\n<td class=\"description-td\">1,050</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">70/70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Secondary battery separator</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">poly</td>\n<td class=\"description-td\">poly</td>\n<td class=\"description-td\">Apparent</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Puncture</td>\n<td class=\"description-td\">Tensile</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Classifi-</td>\n<td class=\"description-td\">hydrogen</td>\n<td class=\"description-td\">ethylene</td>\n<td class=\"description-td\">propylene</td>\n<td class=\"description-td\">density</td>\n<td class=\"description-td\">Mv</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">Elong.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">cation</td>\n<td class=\"description-td\">(ml)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(g/cm<sup>3</sup>)</td>\n<td class=\"description-td\">(g/mol)</td>\n<td class=\"description-td\">(gf)</td>\n<td class=\"description-td\">(kgf/cm<sup>2</sup>)</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 1</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">50.5</td>\n<td class=\"description-td\">49.5</td>\n<td class=\"description-td\">0.43</td>\n<td class=\"description-td\">1,050,000</td>\n<td class=\"description-td\">363</td>\n<td class=\"description-td\">1,049</td>\n<td class=\"description-td\">45</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 2</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">24.8</td>\n<td class=\"description-td\">75.2</td>\n<td class=\"description-td\">0.42</td>\n<td class=\"description-td\">1,274,000</td>\n<td class=\"description-td\">531</td>\n<td class=\"description-td\">1,705</td>\n<td class=\"description-td\">52</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 3</td>\n<td class=\"description-td\">300</td>\n<td class=\"description-td\">76.1</td>\n<td class=\"description-td\">23.9</td>\n<td class=\"description-td\">0.41</td>\n<td class=\"description-td\">828,000</td>\n<td class=\"description-td\">87</td>\n<td class=\"description-td\">987</td>\n<td class=\"description-td\">38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 4</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">95.1</td>\n<td class=\"description-td\">0.46</td>\n<td class=\"description-td\">1,476,000</td>\n<td class=\"description-td\">367</td>\n<td class=\"description-td\">1,143</td>\n<td class=\"description-td\">62</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 5</td>\n<td class=\"description-td\">380</td>\n<td class=\"description-td\">94.8</td>\n<td class=\"description-td\">5.2</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">647,000</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">238</td>\n<td class=\"description-td\">27</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 6</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">51.3</td>\n<td class=\"description-td\">48.7</td>\n<td class=\"description-td\">0.42</td>\n<td class=\"description-td\">1,050,000</td>\n<td class=\"description-td\">481</td>\n<td class=\"description-td\">1,511</td>\n<td class=\"description-td\">53</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 7</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">53.0</td>\n<td class=\"description-td\">47.0</td>\n<td class=\"description-td\">0.40</td>\n<td class=\"description-td\">2,060,000</td>\n<td class=\"description-td\">472</td>\n<td class=\"description-td\">1,409</td>\n<td class=\"description-td\">76</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 8</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">50.3</td>\n<td class=\"description-td\">49.7</td>\n<td class=\"description-td\">0.41</td>\n<td class=\"description-td\">1,634,000</td>\n<td class=\"description-td\">559</td>\n<td class=\"description-td\">1,811</td>\n<td class=\"description-td\">81</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment 9</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">70.3</td>\n<td class=\"description-td\">29.7</td>\n<td class=\"description-td\">0.38</td>\n<td class=\"description-td\">1,320,000</td>\n<td class=\"description-td\">382</td>\n<td class=\"description-td\">1,325</td>\n<td class=\"description-td\">63</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">76.1</td>\n<td class=\"description-td\">23.9</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">1,830,000</td>\n<td class=\"description-td\">331</td>\n<td class=\"description-td\">1,287</td>\n<td class=\"description-td\">83</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Embodiment</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">52.3</td>\n<td class=\"description-td\">47.7</td>\n<td class=\"description-td\">0.36</td>\n<td class=\"description-td\">2,320,000</td>\n<td class=\"description-td\">513</td>\n<td class=\"description-td\">1,589</td>\n<td class=\"description-td\">78</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">0.45</td>\n<td class=\"description-td\">950,000</td>\n<td class=\"description-td\">139</td>\n<td class=\"description-td\">365</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">1,740,000</td>\n<td class=\"description-td\">158</td>\n<td class=\"description-td\">383</td>\n<td class=\"description-td\">47</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\">0.43</td>\n<td class=\"description-td\">1,725,000</td>\n<td class=\"description-td\">214</td>\n<td class=\"description-td\">577</td>\n<td class=\"description-td\">55</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">1,700,000</td>\n<td class=\"description-td\">230</td>\n<td class=\"description-td\">547</td>\n<td class=\"description-td\">45</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">99.1</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\">0.18</td>\n<td class=\"description-td\">80,000</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">53.0</td>\n<td class=\"description-td\">47.0</td>\n<td class=\"description-td\">0.22</td>\n<td class=\"description-td\">684,000</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">98.3</td>\n<td class=\"description-td\">1.7</td>\n<td class=\"description-td\">0.16</td>\n<td class=\"description-td\">1,240,000</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">82.1</td>\n<td class=\"description-td\">17.9</td>\n<td class=\"description-td\">0.19</td>\n<td class=\"description-td\">834,000</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20250326880A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/4d7a5e22648af86e1e9b0f3d7374ef681eeb8e271238f02087f6680e9b91e9f2.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:13:22.840283+00:00",
+    "sha256": "4d7a5e22648af86e1e9b0f3d7374ef681eeb8e271238f02087f6680e9b91e9f2",
+    "source": "patents",
+    "source_id": "66fe6f70da1e5c5589038d03811f177269caceac94d5ef096aec4fef2e19882a",
+    "url": "https://patents.google.com/patent/US20250326880A1/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "ac6dbaad1d39a282a201df12124d22beffd524220bfdbb4bb5d32c7693161316",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "66fe6f70da1e5c5589038d03811f177269caceac94d5ef096aec4fef2e19882a",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/4d7a5e22648af86e1e9b0f3d7374ef681eeb8e271238f02087f6680e9b91e9f2.bin",
+      "source_id": "66fe6f70da1e5c5589038d03811f177269caceac94d5ef096aec4fef2e19882a",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "4d7a5e22648af86e1e9b0f3d7374ef681eeb8e271238f02087f6680e9b91e9f2",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20250326880A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

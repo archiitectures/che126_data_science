@@ -1,0 +1,403 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Mole ratio",
+          "Weight average"
+        ],
+        [
+          "",
+          "of monomers",
+          "molecular weight"
+        ],
+        [
+          "",
+          "AA",
+          "AM",
+          "AMPS",
+          "(g/mol)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Synthesis Example 1",
+          "0",
+          "95",
+          "5",
+          "350,000"
+        ],
+        [
+          "Synthesis Example 2",
+          "0",
+          "95",
+          "5",
+          "450,000"
+        ],
+        [
+          "Synthesis Example 3",
+          "0",
+          "95",
+          "5",
+          "650,000"
+        ],
+        [
+          "Synthesis Example 4",
+          "0",
+          "95",
+          "5",
+          "900,000"
+        ],
+        [
+          "Synthesis Example 5",
+          "0",
+          "95",
+          "5",
+          "200,000"
+        ],
+        [
+          "Synthesis Example 6",
+          "0",
+          "95",
+          "5",
+          "300,000"
+        ],
+        [
+          "Synthesis Example 7",
+          "20",
+          "75",
+          "5",
+          "550,000"
+        ],
+        [
+          "Synthesis Example 8",
+          "40",
+          "55",
+          "5",
+          "750,000"
+        ],
+        [
+          "Synthesis Example 9",
+          "20",
+          "80",
+          "0",
+          "500,000"
+        ],
+        [
+          "Synthesis Example 10",
+          "10",
+          "80",
+          "10",
+          "400,000"
+        ],
+        [
+          "Synthesis Example 11",
+          "100",
+          "0",
+          "0",
+          "300,000"
+        ],
+        [
+          "Synthesis Example 12",
+          "0",
+          "0",
+          "100",
+          "300,000"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "The separators for a lithium secondary battery according to Example 1, Examples 2-1 to 2-4, Comparative Examples 2-1 and 2-2, Examples 3-1 to 3-3, Comparative Examples 3-1 and 3-2, Examples 4-1 to 4-3, Comparative Examples 4-1 and 4-2 were respectively cut into a size of 8 cm×8 cm to prepare samples. The samples after drawing a 5 cm×5 cm-size quadrangle on the surface were inserted between paper or alumina powder, placed at 150° C. in an oven for 1 hour, and taken out of the oven, and each shrinkage ratio between machine direction (MD) and in a traverse direction (TD) was calculated by measuring sides of the quadrangles drawn on the samples. The results are shown in Table 2.",
+      "context_locator": "p-0141",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Mole ratio </td>\n<td class=\"description-td\">Weight average</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of monomers</td>\n<td class=\"description-td\">molecular weight</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">AA</td>\n<td class=\"description-td\">AM</td>\n<td class=\"description-td\">AMPS</td>\n<td class=\"description-td\">(g/mol)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 1</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">350,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 2</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">450,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 3</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">650,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 4</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">900,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 5</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">200,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 6</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">300,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 7</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">550,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 8</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">750,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 9</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">500,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 10</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">400,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 11</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">300,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Synthesis Example 12</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">300,000</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Adhesion",
+          "Thermal shrinkage",
+          "Air"
+        ],
+        [
+          "",
+          "force to",
+          "rate of separator",
+          "permeability"
+        ],
+        [
+          "",
+          "substrate",
+          "150° C., 1 hr",
+          "of separator"
+        ],
+        [
+          "",
+          "(gf)",
+          "(MD/TD) (%)",
+          "(sec/100 cc)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "16",
+          "2/1",
+          "132"
+        ],
+        [
+          "Example 2-1",
+          "12",
+          "3/4",
+          "132"
+        ],
+        [
+          "Example 2-2",
+          "11",
+          "5/7",
+          "133"
+        ],
+        [
+          "Example 2-3",
+          "14",
+          "4/5",
+          "134"
+        ],
+        [
+          "Example 2-4",
+          "14",
+          "3/4",
+          "134"
+        ],
+        [
+          "Comparative Example 2-1",
+          "10",
+          "20/21",
+          "136"
+        ],
+        [
+          "Comparative Example 2-2",
+          "9",
+          "25/24",
+          "135"
+        ],
+        [
+          "Example 3-1",
+          "16",
+          "2/2",
+          "132"
+        ],
+        [
+          "Example 3-2",
+          "18",
+          "2/3",
+          "132"
+        ],
+        [
+          "Example 3-3",
+          "18",
+          "2/2",
+          "130"
+        ],
+        [
+          "Example 3-4",
+          "18",
+          "1/2",
+          "130"
+        ],
+        [
+          "Comparative Example 3-1",
+          "10",
+          "25/24",
+          "140"
+        ],
+        [
+          "Comparative Example 3-2",
+          "10",
+          "15/12",
+          "140"
+        ],
+        [
+          "Example 4-1",
+          "12",
+          "2/2",
+          "134"
+        ],
+        [
+          "Example 4-2",
+          "9",
+          "3/2",
+          "133"
+        ],
+        [
+          "Example 4-3",
+          "7",
+          "4/5",
+          "132"
+        ],
+        [
+          "Example 4-4",
+          "16",
+          "4/5",
+          "140"
+        ],
+        [
+          "Comparative Example 4-1",
+          "18",
+          "3/2",
+          "155"
+        ],
+        [
+          "Comparative Example 4-2",
+          "3",
+          "57/59",
+          "128"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "The separators for a lithium secondary battery according to Example 1, Examples 2-1 to 2-4, Comparative Examples 2-1 and 2-2, Examples 3-1 to 3-3, Comparative Examples 3-1 and 3-2, Examples 4-1 to 4-3, Comparative Examples 4-1 and 4-2 were respectively cut into a size of 8 cm×8 cm to prepare samples. The samples after drawing a 5 cm×5 cm-size quadrangle on the surface were inserted between paper or alumina powder, placed at 150° C. in an oven for 1 hour, and taken out of the oven, and each shrinkage ratio between machine direction (MD) and in a traverse direction (TD) was calculated by measuring sides of the quadrangles drawn on the samples. The results are shown in Table 2.",
+      "context_locator": "p-0141",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Adhesion</td>\n<td class=\"description-td\">Thermal shrinkage</td>\n<td class=\"description-td\">Air</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">force to</td>\n<td class=\"description-td\">rate of separator</td>\n<td class=\"description-td\">permeability </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">substrate</td>\n<td class=\"description-td\">150° C., 1 hr</td>\n<td class=\"description-td\">of separator</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(gf)</td>\n<td class=\"description-td\">(MD/TD) (%)</td>\n<td class=\"description-td\">(sec/100 cc)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">2/1</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2-1</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">3/4</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2-2</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">5/7</td>\n<td class=\"description-td\">133</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2-3</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">4/5</td>\n<td class=\"description-td\">134</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2-4</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">3/4</td>\n<td class=\"description-td\">134</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 2-1</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">20/21</td>\n<td class=\"description-td\">136</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 2-2</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">25/24</td>\n<td class=\"description-td\">135</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3-1</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">2/2</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3-2</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">2/3</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3-3</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">2/2</td>\n<td class=\"description-td\">130</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3-4</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">1/2</td>\n<td class=\"description-td\">130</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 3-1</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">25/24</td>\n<td class=\"description-td\">140</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 3-2</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">15/12</td>\n<td class=\"description-td\">140</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4-1</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">2/2</td>\n<td class=\"description-td\">134</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4-2</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">3/2</td>\n<td class=\"description-td\">133</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4-3</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">4/5</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4-4</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">4/5</td>\n<td class=\"description-td\">140</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 4-1</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">3/2</td>\n<td class=\"description-td\">155</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 4-2</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">57/59</td>\n<td class=\"description-td\">128</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is for example described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 disposed between the negative electrode 112 and the positive electrode 114 , and an electrolyte solution (not shown) immersed in the negative electrode 112 , positive electrode 114 and separator 113 , a battery case 120 housing the battery cell, and a sealing member 140 sealing the battery case 120 .",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/US12531310B2/US12531310-20260120-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is for example described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 disposed between the negative electrode 112 and the positive electrode 114 , and an electrolyte solution (not shown) immersed in the negative electrode 112 , positive electrode 114 and separator 113 , a battery case 120 housing the battery cell, and a sealing member 140 sealing the battery case 120 .",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/US12531310B2/US12531310-20260120-D00001.png"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US12531310B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/096bc1cdc5782c4b6bf9adf2241794feca6ba93db0e1a2ea67468f9febd2d950.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:27:05.785593+00:00",
+    "sha256": "096bc1cdc5782c4b6bf9adf2241794feca6ba93db0e1a2ea67468f9febd2d950",
+    "source": "patents",
+    "source_id": "7c4d5ba711a64a00cc9ccef26aea0eac09b3efa7d12fa1c73edddba0313bfe3d",
+    "url": "https://patents.google.com/patent/US12531310B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "e103cb0b7e8093d84beb571ea15d42f810b801a8e630f1caa88ea7a0327f2f32",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "7c4d5ba711a64a00cc9ccef26aea0eac09b3efa7d12fa1c73edddba0313bfe3d",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/096bc1cdc5782c4b6bf9adf2241794feca6ba93db0e1a2ea67468f9febd2d950.bin",
+      "source_id": "7c4d5ba711a64a00cc9ccef26aea0eac09b3efa7d12fa1c73edddba0313bfe3d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "096bc1cdc5782c4b6bf9adf2241794feca6ba93db0e1a2ea67468f9febd2d950",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US12531310B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

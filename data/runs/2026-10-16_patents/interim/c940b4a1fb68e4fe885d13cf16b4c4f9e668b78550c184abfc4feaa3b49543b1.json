@@ -1,0 +1,1204 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Scraping off the",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Resin",
+          "Chill-Roll",
+          "Forming Solvent"
+        ],
+        [
+          "",
+          "UHMWPE",
+          "HDPE",
+          "Concentration",
+          "Temperature",
+          "(Number of"
+        ],
+        [
+          "",
+          "(wt. %)",
+          "(wt. %)",
+          "(Parts By Weight)",
+          "(° C.)",
+          "Blades per Roll)",
+          "Varnish"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Working Example 1",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 2",
+          "10",
+          "90",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 3",
+          "20",
+          "80",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 4",
+          "30",
+          "70",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 5",
+          "40",
+          "60",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 6",
+          "2",
+          "98",
+          "30",
+          "25",
+          "2",
+          "a"
+        ],
+        [
+          "Working Example 7",
+          "2",
+          "98",
+          "30",
+          "25",
+          "3",
+          "a"
+        ],
+        [
+          "Working Example 8",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "b"
+        ],
+        [
+          "Working Example 9",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "c"
+        ],
+        [
+          "Working Example 10",
+          "2",
+          "98",
+          "30",
+          "35",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 11",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 12",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 13",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 14",
+          "2",
+          "98",
+          "26",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 15",
+          "2",
+          "98",
+          "35",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Working Example 16",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "d"
+        ],
+        [
+          "Working Example 17",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "e"
+        ],
+        [
+          "Working Example 18",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "f"
+        ],
+        [
+          "Working Example 19",
+          "2",
+          "98",
+          "30",
+          "25",
+          "1",
+          "g"
+        ],
+        [
+          "Comparative Example 1",
+          "2",
+          "98",
+          "30",
+          "25",
+          "0",
+          "a"
+        ],
+        [
+          "Comparative Example 2",
+          "0",
+          "100",
+          "30",
+          "25",
+          "1",
+          "a"
+        ],
+        [
+          "Comparative Example 3",
+          "2",
+          "98",
+          "30",
+          "0",
+          "0",
+          "a"
+        ],
+        [
+          "Comparative Example 4",
+          "2",
+          "98",
+          "30",
+          "25° C.",
+          "—",
+          "a"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "(water bath)"
+        ],
+        [
+          "Comparative Example 5",
+          "2",
+          "98",
+          "50",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Comparative Example 6",
+          "2",
+          "98",
+          "30",
+          "50",
+          "1",
+          "a"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Scraping off the</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin</td>\n<td class=\"description-td\">Chill-Roll</td>\n<td class=\"description-td\">Forming Solvent</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">UHMWPE</td>\n<td class=\"description-td\">HDPE</td>\n<td class=\"description-td\">Concentration</td>\n<td class=\"description-td\">Temperature</td>\n<td class=\"description-td\">(Number of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(wt. %)</td>\n<td class=\"description-td\">(wt. %)</td>\n<td class=\"description-td\">(Parts By Weight)</td>\n<td class=\"description-td\">(° C.)</td>\n<td class=\"description-td\">Blades per Roll)</td>\n<td class=\"description-td\">Varnish</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 1</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 2</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 3</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 4</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 5</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 6</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 7</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 8</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">b</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 9</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">c</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 10</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 11</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 12</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 13</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 14</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 15</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 16</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">d</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 17</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">e</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 18</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">f</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working Example 19</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">g</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 1</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 2</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 3</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\"> 0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 4</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">25° C.</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(water bath)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 5</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 6</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">a</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "Characteristics"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "",
+          "Polyolefin",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Polyolefin",
+          "Porous",
+          "Air Permeation"
+        ],
+        [
+          "",
+          "Porous",
+          "Membrane Air",
+          "Resistance (Y)",
+          "Air Permeation",
+          "Number of",
+          "Average"
+        ],
+        [
+          "",
+          "Membrane",
+          "Permeation",
+          "of Battery",
+          "Resistance",
+          "Protrusions",
+          "Protrusion"
+        ],
+        [
+          "",
+          "Thickness",
+          "Resistance (X)",
+          "Separator",
+          "Increase [(Y) − (X)]",
+          "of Side A",
+          "Height of"
+        ],
+        [
+          "",
+          "(μm)",
+          "(sec/100 ccAir)",
+          "(sec/100 ccAir)",
+          "(sec/100 ccAir)",
+          "(Per cm 2 )",
+          "Side A (μm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "308",
+          "68",
+          "14",
+          "2.8"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Working",
+          "16",
+          "252",
+          "309",
+          "57",
+          "17",
+          "1.1"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Working",
+          "16",
+          "260",
+          "317",
+          "57",
+          "19",
+          "0.8"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Working",
+          "16",
+          "273",
+          "325",
+          "52",
+          "43",
+          "0.6"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Working",
+          "16",
+          "95",
+          "146",
+          "51",
+          "124",
+          "0.5"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "308",
+          "68",
+          "16",
+          "2.9"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "309",
+          "69",
+          "17",
+          "2.9"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "312",
+          "72",
+          "14",
+          "2.8"
+        ],
+        [
+          "Example 8"
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "307",
+          "67",
+          "14",
+          "2.8"
+        ],
+        [
+          "Example 9"
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "339",
+          "99",
+          "12",
+          "2.6"
+        ],
+        [
+          "Example 10"
+        ],
+        [
+          "Working",
+          "20",
+          "250",
+          "319",
+          "69",
+          "12",
+          "2.9"
+        ],
+        [
+          "Example 11"
+        ],
+        [
+          "Working",
+          "12",
+          "170",
+          "238",
+          "68",
+          "18",
+          "1.0"
+        ],
+        [
+          "Example 12"
+        ],
+        [
+          "Working",
+          "9",
+          "220",
+          "280",
+          "60",
+          "21",
+          "0.6"
+        ],
+        [
+          "Example 13"
+        ],
+        [
+          "Working",
+          "16",
+          "228",
+          "290",
+          "62",
+          "11",
+          "2.5"
+        ],
+        [
+          "Example 14"
+        ],
+        [
+          "Working",
+          "16",
+          "250",
+          "314",
+          "64",
+          "19",
+          "2.9"
+        ],
+        [
+          "Example 15"
+        ],
+        [
+          "Working",
+          "16",
+          "245",
+          "314",
+          "69",
+          "14",
+          "2.8"
+        ],
+        [
+          "Example 16"
+        ],
+        [
+          "Working",
+          "16",
+          "243",
+          "317",
+          "74",
+          "14",
+          "2.8"
+        ],
+        [
+          "Example 17"
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "310",
+          "70",
+          "14",
+          "2.8"
+        ],
+        [
+          "Example 18"
+        ],
+        [
+          "Working",
+          "16",
+          "240",
+          "310",
+          "70",
+          "14",
+          "2.8"
+        ],
+        [
+          "Example 19"
+        ],
+        [
+          "Comparative",
+          "16",
+          "239",
+          "307",
+          "68",
+          "0",
+          "—"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "16",
+          "238",
+          "301",
+          "63",
+          "0",
+          "—"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "16",
+          "240",
+          "307",
+          "67",
+          "0",
+          "—"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "16",
+          "241",
+          "307",
+          "66",
+          "2",
+          "0.6"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Comparative",
+          "16",
+          "241",
+          "312",
+          "71",
+          "0",
+          "—"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Number of",
+          "Average",
+          "Side A 0°",
+          "Side B 0°",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Protrusions",
+          "Protrusion",
+          "Peel",
+          "Peel"
+        ],
+        [
+          "",
+          "",
+          "of Side B",
+          "Height of",
+          "Strength",
+          "Strength",
+          "Scratch"
+        ],
+        [
+          "",
+          "",
+          "(Per cm 2 )",
+          "Side B (μm)",
+          "(N/15 mm)",
+          "(N/15 mm)",
+          "Resistance"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Working",
+          "13",
+          "2.6",
+          "119",
+          "118",
+          "◯"
+        ],
+        [
+          "",
+          "Example 1"
+        ],
+        [
+          "",
+          "Working",
+          "16",
+          "1.0",
+          "117",
+          "116",
+          "◯"
+        ],
+        [
+          "",
+          "Example 2"
+        ],
+        [
+          "",
+          "Working",
+          "18",
+          "0.7",
+          "114",
+          "113",
+          "◯"
+        ],
+        [
+          "",
+          "Example 3"
+        ],
+        [
+          "",
+          "Working",
+          "40",
+          "0.6",
+          "117",
+          "116",
+          "◯"
+        ],
+        [
+          "",
+          "Example 4"
+        ],
+        [
+          "",
+          "Working",
+          "120",
+          "0.5",
+          "103",
+          "102",
+          "◯"
+        ],
+        [
+          "",
+          "Example 5"
+        ],
+        [
+          "",
+          "Working",
+          "15",
+          "2.8",
+          "125",
+          "124",
+          "◯"
+        ],
+        [
+          "",
+          "Example 6"
+        ],
+        [
+          "",
+          "Working",
+          "16",
+          "2.7",
+          "127",
+          "126",
+          "◯"
+        ],
+        [
+          "",
+          "Example 7"
+        ],
+        [
+          "",
+          "Working",
+          "13",
+          "2.7",
+          "114",
+          "113",
+          "◯"
+        ],
+        [
+          "",
+          "Example 8"
+        ],
+        [
+          "",
+          "Working",
+          "13",
+          "2.7",
+          "123",
+          "122",
+          "◯"
+        ],
+        [
+          "",
+          "Example 9"
+        ],
+        [
+          "",
+          "Working",
+          "11",
+          "2.5",
+          "117",
+          "116",
+          "◯"
+        ],
+        [
+          "",
+          "Example 10"
+        ],
+        [
+          "",
+          "Working",
+          "11",
+          "2.7",
+          "117",
+          "116",
+          "◯"
+        ],
+        [
+          "",
+          "Example 11"
+        ],
+        [
+          "",
+          "Working",
+          "17.0",
+          "0.9",
+          "115",
+          "114",
+          "◯"
+        ],
+        [
+          "",
+          "Example 12"
+        ],
+        [
+          "",
+          "Working",
+          "19",
+          "0.5",
+          "109",
+          "107",
+          "◯"
+        ],
+        [
+          "",
+          "Example 13"
+        ],
+        [
+          "",
+          "Working",
+          "10",
+          "2.4",
+          "117",
+          "116",
+          "◯"
+        ],
+        [
+          "",
+          "Example 14"
+        ],
+        [
+          "",
+          "Working",
+          "18",
+          "2.8",
+          "121",
+          "120",
+          "◯"
+        ],
+        [
+          "",
+          "Example 15"
+        ],
+        [
+          "",
+          "Working",
+          "13",
+          "2.7",
+          "109",
+          "107",
+          "◯"
+        ],
+        [
+          "",
+          "Example 16"
+        ],
+        [
+          "",
+          "Working",
+          "13",
+          "2.7",
+          "124",
+          "120",
+          "◯"
+        ],
+        [
+          "",
+          "Example 17"
+        ],
+        [
+          "",
+          "Working",
+          "13",
+          "2.7",
+          "125",
+          "123",
+          "◯"
+        ],
+        [
+          "",
+          "Example 18"
+        ],
+        [
+          "",
+          "Working",
+          "13",
+          "2.7",
+          "117",
+          "116",
+          "◯"
+        ],
+        [
+          "",
+          "Example 19"
+        ],
+        [
+          "",
+          "Comparative",
+          "0",
+          "—",
+          "94",
+          "92",
+          "X"
+        ],
+        [
+          "",
+          "Example 1"
+        ],
+        [
+          "",
+          "Comparative",
+          "0",
+          "—",
+          "92",
+          "90",
+          "X"
+        ],
+        [
+          "",
+          "Example 2"
+        ],
+        [
+          "",
+          "Comparative",
+          "0",
+          "—",
+          "90",
+          "88",
+          "X"
+        ],
+        [
+          "",
+          "Example 3"
+        ],
+        [
+          "",
+          "Comparative",
+          "1",
+          "0.5",
+          "97",
+          "95",
+          "Δ"
+        ],
+        [
+          "",
+          "Example 4"
+        ],
+        [
+          "",
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Example 5"
+        ],
+        [
+          "",
+          "Comparative",
+          "0",
+          "—",
+          "91",
+          "90",
+          "X"
+        ],
+        [
+          "",
+          "Example 6"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Characteristics</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyolefin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyolefin</td>\n<td class=\"description-td\">Porous</td>\n<td class=\"description-td\">Air Permeation</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Porous</td>\n<td class=\"description-td\">Membrane Air</td>\n<td class=\"description-td\">Resistance (Y)</td>\n<td class=\"description-td\">Air Permeation</td>\n<td class=\"description-td\">Number of</td>\n<td class=\"description-td\">Average</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Membrane</td>\n<td class=\"description-td\">Permeation</td>\n<td class=\"description-td\">of Battery</td>\n<td class=\"description-td\">Resistance</td>\n<td class=\"description-td\">Protrusions</td>\n<td class=\"description-td\">Protrusion</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Resistance (X)</td>\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Increase [(Y) − (X)]</td>\n<td class=\"description-td\">of Side A</td>\n<td class=\"description-td\">Height of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(sec/100 ccAir)</td>\n<td class=\"description-td\">(sec/100 ccAir)</td>\n<td class=\"description-td\">(sec/100 ccAir)</td>\n<td class=\"description-td\">(Per cm<sup>2</sup>)</td>\n<td class=\"description-td\">Side A (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">308</td>\n<td class=\"description-td\">68</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">252</td>\n<td class=\"description-td\">309</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">1.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">260</td>\n<td class=\"description-td\">317</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">0.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">273</td>\n<td class=\"description-td\">325</td>\n<td class=\"description-td\">52</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">0.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">146</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">124</td>\n<td class=\"description-td\">0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">308</td>\n<td class=\"description-td\">68</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">2.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">309</td>\n<td class=\"description-td\">69</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">2.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">312</td>\n<td class=\"description-td\">72</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">307</td>\n<td class=\"description-td\">67</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">339</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">2.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">250</td>\n<td class=\"description-td\">319</td>\n<td class=\"description-td\">69</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">2.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">170</td>\n<td class=\"description-td\">238</td>\n<td class=\"description-td\">68</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">1.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">220</td>\n<td class=\"description-td\">280</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">0.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 13</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">228</td>\n<td class=\"description-td\">290</td>\n<td class=\"description-td\">62</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">2.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 14</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">250</td>\n<td class=\"description-td\">314</td>\n<td class=\"description-td\">64</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">2.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">245</td>\n<td class=\"description-td\">314</td>\n<td class=\"description-td\">69</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 16</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">243</td>\n<td class=\"description-td\">317</td>\n<td class=\"description-td\">74</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 17</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">310</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">310</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">2.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 19</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">239</td>\n<td class=\"description-td\">307</td>\n<td class=\"description-td\">68</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">238</td>\n<td class=\"description-td\">301</td>\n<td class=\"description-td\">63</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">307</td>\n<td class=\"description-td\">67</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">241</td>\n<td class=\"description-td\">307</td>\n<td class=\"description-td\">66</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">0.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">241</td>\n<td class=\"description-td\">312</td>\n<td class=\"description-td\">71</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Number of</td>\n<td class=\"description-td\">Average</td>\n<td class=\"description-td\">Side A 0°</td>\n<td class=\"description-td\">Side B 0°</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Protrusions</td>\n<td class=\"description-td\">Protrusion</td>\n<td class=\"description-td\">Peel</td>\n<td class=\"description-td\">Peel</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of Side B</td>\n<td class=\"description-td\">Height of</td>\n<td class=\"description-td\">Strength</td>\n<td class=\"description-td\">Strength</td>\n<td class=\"description-td\">Scratch</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(Per cm<sup>2</sup>)</td>\n<td class=\"description-td\">Side B (μm)</td>\n<td class=\"description-td\">(N/15 mm)</td>\n<td class=\"description-td\">(N/15 mm)</td>\n<td class=\"description-td\">Resistance</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.6</td>\n<td class=\"description-td\">119</td>\n<td class=\"description-td\">118</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">0.7</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">103</td>\n<td class=\"description-td\">102</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">2.8</td>\n<td class=\"description-td\">125</td>\n<td class=\"description-td\">124</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">127</td>\n<td class=\"description-td\">126</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">122</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">17.0</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">109</td>\n<td class=\"description-td\">107</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 13</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">2.4</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 14</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">2.8</td>\n<td class=\"description-td\">121</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">109</td>\n<td class=\"description-td\">107</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 16</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">124</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 17</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">125</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 19</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">94</td>\n<td class=\"description-td\">92</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">92</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">88</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">Δ</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">91</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is a schematic side view of a laminated sample of a polyolefin porous membrane and a modified porous layer under tension provided by a tensile tester (not illustrated). FIG. 1 is a schematic view of the measurement method for 0° peel strength. FIG. 2 is a schematic view illustrating a spherulite structure and a spherulite nucleus of polyethylene in the polyethylene porous membrane. FIG. 3 is a micrograph of a ring-shaped mark on the polyethylene porous membrane, originating from the spherulite of polyethylene. FIG. 4 is a schematic view of the steps to extrude polyethylene resin solution through a T-die disposed at the end of the extruder and to chill the extrudate by a chill-roll to form a gel-like product. Namely, as illustrated in FIG. 4 , the polyethylene resin solution is chilled and formed into the gel-like product upon contact with the rolling chill-roll and the forming solvent is present on the chill-roll surface after the formed gel-like product is removed. Generally, the roll surface as-is will be in contact with the polyethylene resin solution again. (3) Using the objective lens with magnification of 5 times, a ring-shaped mark originating from a polyethylene spherulite as in FIG. 3 was displayed on the monitor as a two-dimensional image (called REAL screen for this microscope), and the position of the sample stage was adjusted so that the darkest part of the ring-shaped mark was approximately at the center of the monitor screen.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/1b/04/c8/c8c6e9ad0857bb/US10158112-20181218-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic side view of a laminated sample of a polyolefin porous membrane and a modified porous layer under tension provided by a tensile tester (not illustrated). FIG. 1 is a schematic view of the measurement method for 0° peel strength. FIG. 2 is a schematic view illustrating a spherulite structure and a spherulite nucleus of polyethylene in the polyethylene porous membrane. FIG. 3 is a micrograph of a ring-shaped mark on the polyethylene porous membrane, originating from the spherulite of polyethylene. FIG. 4 is a schematic view of the steps to extrude polyethylene resin solution through a T-die disposed at the end of the extruder and to chill the extrudate by a chill-roll to form a gel-like product. Namely, as illustrated in FIG. 4 , the polyethylene resin solution is chilled and formed into the gel-like product upon contact with the rolling chill-roll and the forming solvent is present on the chill-roll surface after the formed gel-like product is removed. Generally, the roll surface as-is will be in contact with the polyethylene resin solution again. (3) Using the objective lens with magnification of 5 times, a ring-shaped mark originating from a polyethylene spherulite as in FIG. 3 was displayed on the monitor as a two-dimensional image (called REAL screen for this microscope), and the position of the sample stage was adjusted so that the darkest part of the ring-shaped mark was approximately at the center of the monitor screen.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/ce/d6/bc/f145021b6b5fb6/US10158112-20181218-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/53/4b/53/f5b47497fb7656/US10158112.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"13b9c83c95651d44f4e9a489ddc12910\"",
+        "last_modified": "Sat, 22 Dec 2018 04:47:23 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/36d64af31d0f6a35d10056e5acbbcffdd3ebd436022cfa1ecc822932f388f8cc.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:24:55.059625+00:00",
+        "sha256": "36d64af31d0f6a35d10056e5acbbcffdd3ebd436022cfa1ecc822932f388f8cc",
+        "source": "patent_pdf",
+        "source_id": "ad6cdb0de29fc18b34d88f170b1b1e35ffb820b3f6738472a2bbc47d2d16075b",
+        "url": "https://patentimages.storage.googleapis.com/53/4b/53/f5b47497fb7656/US10158112.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10158112B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/92bee4985270207213e0029c6fca10002ef576c1b180e2a8917c27b4e1175d91.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:24:53.779496+00:00",
+    "sha256": "92bee4985270207213e0029c6fca10002ef576c1b180e2a8917c27b4e1175d91",
+    "source": "patents",
+    "source_id": "aec602d825a5479227b00757f5b85f5175443aee2b92ab27c648521afb7929bd",
+    "url": "https://patents.google.com/patent/US10158112B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "aa69f875fbff9c7898e171e18c1d9163eca62cf603ad35e2553574cdb13fd544",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "aec602d825a5479227b00757f5b85f5175443aee2b92ab27c648521afb7929bd",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/92bee4985270207213e0029c6fca10002ef576c1b180e2a8917c27b4e1175d91.bin",
+      "source_id": "aec602d825a5479227b00757f5b85f5175443aee2b92ab27c648521afb7929bd",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "92bee4985270207213e0029c6fca10002ef576c1b180e2a8917c27b4e1175d91",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10158112B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

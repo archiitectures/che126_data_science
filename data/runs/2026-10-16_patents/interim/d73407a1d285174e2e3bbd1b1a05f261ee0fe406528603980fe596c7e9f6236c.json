@@ -1,0 +1,124 @@
+{
+  "artifacts": [
+    {
+      "caption": "FIG. 1 is a cross-sectional schematic illustration of a battery.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/b8/43/76/f10d23d8c98c35/US6322923-drawings-page-2.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional schematic illustration of a battery.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/7d/9a/a5/1d627ed94fc175/US6322923-drawings-page-3.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional schematic illustration of a battery.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/b4/47/d2/14432a28e6a225/US6322923-drawings-page-4.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional schematic illustration of a battery.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/dd/ac/88/d68e0ce24e6f7e/US6322923-drawings-page-5.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/98/b0/97/29f3256ef18b57/US6322923.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"0c16ac029c1ff415ce7e33945c56b04a\"",
+        "last_modified": "Thu, 19 Oct 2017 17:40:41 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/84b492b229fa00ea1f0c300980c1cf70776b33eaad1fb1b0fb67c9ce85977b25.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:16:11.799355+00:00",
+        "sha256": "84b492b229fa00ea1f0c300980c1cf70776b33eaad1fb1b0fb67c9ce85977b25",
+        "source": "patent_pdf",
+        "source_id": "026415396e71f75bd40a49c682489df42d00bf75ec693925843e7cdd1c1fbc90",
+        "url": "https://patentimages.storage.googleapis.com/98/b0/97/29f3256ef18b57/US6322923.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US6322923B1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/72742050fd18af47902ded0d336d30f929de9ebc17ebe0f856d18fa4782d0556.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:11.042725+00:00",
+    "sha256": "72742050fd18af47902ded0d336d30f929de9ebc17ebe0f856d18fa4782d0556",
+    "source": "patents",
+    "source_id": "764956a792915cc48e08028161fb7152ed6f780a52ca2f57ca7ad59b45c4e1cf",
+    "url": "https://patents.google.com/patent/US6322923B1/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "c24c3c13e602e045b40b91a34e7eaa65deae321bdf64bdb1f137d90cdd9e1b2e",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "764956a792915cc48e08028161fb7152ed6f780a52ca2f57ca7ad59b45c4e1cf",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/72742050fd18af47902ded0d336d30f929de9ebc17ebe0f856d18fa4782d0556.bin",
+      "source_id": "764956a792915cc48e08028161fb7152ed6f780a52ca2f57ca7ad59b45c4e1cf",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "72742050fd18af47902ded0d336d30f929de9ebc17ebe0f856d18fa4782d0556",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6322923B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

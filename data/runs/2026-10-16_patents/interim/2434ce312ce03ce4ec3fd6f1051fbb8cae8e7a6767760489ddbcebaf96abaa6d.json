@@ -1,0 +1,100 @@
+{
+  "artifacts": [
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/b4/42/89/7c8d99fe922787/US20050244717A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"42259636ddd8ffe8b2313513388af267\"",
+        "last_modified": "Tue, 24 Oct 2017 04:35:04 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/3a317d6d78278508809275852066b5469ca92eea19c2f1bc44162ce858014fa1.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:16:26.193890+00:00",
+        "sha256": "3a317d6d78278508809275852066b5469ca92eea19c2f1bc44162ce858014fa1",
+        "source": "patent_pdf",
+        "source_id": "368d09a388422d549f8635735c5ebbf055aa318cc4985c6d3247e992190b4db3",
+        "url": "https://patentimages.storage.googleapis.com/b4/42/89/7c8d99fe922787/US20050244717A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20050244717A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/3803cb11039b5fa1ec1788fb873be465611e3beb82570fcc4da3a138ff23c7e3.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:25.202167+00:00",
+    "sha256": "3803cb11039b5fa1ec1788fb873be465611e3beb82570fcc4da3a138ff23c7e3",
+    "source": "patents",
+    "source_id": "66ffddc58fff5970cf1f626114d8192778a373887574d2bfd459f4aa9641bd8f",
+    "url": "https://patents.google.com/patent/US20050244717A1/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "b3aeaed3baf4169d8f585ec5963f53c1018900cb7ef00c4c7d63e24f47cfd039",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "66ffddc58fff5970cf1f626114d8192778a373887574d2bfd459f4aa9641bd8f",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/3803cb11039b5fa1ec1788fb873be465611e3beb82570fcc4da3a138ff23c7e3.bin",
+      "source_id": "66ffddc58fff5970cf1f626114d8192778a373887574d2bfd459f4aa9641bd8f",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "3803cb11039b5fa1ec1788fb873be465611e3beb82570fcc4da3a138ff23c7e3",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20050244717A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

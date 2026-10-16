@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "publication_number": "US-2025326880-A1",
+      "title": [
+        {
+          "language": "en",
+          "text": "(ultra)high molecular weight polyethylene-based block copolymer, manufacturing method thereof, and secondary battery separator fabricated using same as raw material"
+        }
+      ],
+      "url": "https://patents.google.com/patent/US2025326880A1"
+    }
+  ],
+  "query": {
+    "operation": "title_search",
+    "terms": [
+      "polyethylene",
+      "battery",
+      "separator"
+    ],
+    "fields": [
+      "title"
+    ],
+    "countries": [
+      "US"
+    ],
+    "publication_date_start": "2025-01-01",
+    "publication_date_end_exclusive": "2026-01-01",
+    "limit": 10,
+    "maximum_bytes_billed": 25000000000
+  },
+  "retrieved_at": "2026-10-12T19:34:28.625589+00:00",
+  "source_table": "patents-public-data.patents.publications",
+  "bytes_processed": 22150877225,
+  "job_id": "e557002b-18a3-4eb1-b4af-fe198497c6c5"
+}

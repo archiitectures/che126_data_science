@@ -1,6 +1,7 @@
 """Google Patents acquisition through the public BigQuery dataset."""
 
 import json
+import re
 from collections.abc import Sequence
 from dataclasses import asdict, dataclass
 from datetime import UTC, datetime
@@ -40,6 +41,9 @@ class PatentResults:
     query: dict[str, Any]
     retrieved_at: str
     source_table: str = TABLE
+    job_id: str | None = None
+    bytes_processed: int | None = None
+    bytes_billed: int | None = None
 
 
 @dataclass(frozen=True)
@@ -48,11 +52,14 @@ class QueryEstimate:
     maximum_bytes_billed: int
 
 
-def export_json(results: PatentResults, path: str | Path) -> None:
+def export_json(
+    results: PatentResults, path: str | Path, *, overwrite: bool = False
+) -> None:
     """Write records with acquisition provenance to a caller-selected file."""
-    Path(path).write_text(
-        json.dumps(asdict(results), indent=2) + "\n", encoding="utf-8"
-    )
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w" if overwrite else "x", encoding="utf-8") as stream:
+        stream.write(json.dumps(asdict(results), indent=2, allow_nan=False) + "\n")
 
 
 def _bigquery() -> Any:
@@ -81,6 +88,11 @@ def _record(row: Any) -> PatentRecord:
         except ValueError:
             pass  # The dataset uses zero/unknown dates; never invent a date.
     number = row["publication_number"]
+    url_number = number.replace("-", "")
+    application = re.fullmatch(r"US-(\d{4})(\d{6,7})-(A\d)", number)
+    if application:
+        year, serial, kind = application.groups()
+        url_number = f"US{year}{serial.zfill(7)}{kind}"
     return PatentRecord(
         publication_number=number,
         family_id=row.get("family_id"),
@@ -94,7 +106,7 @@ def _record(row: Any) -> PatentRecord:
         classifications=tuple(
             x["code"] for x in (row.get("cpc") or ()) if x.get("code")
         ),
-        url=f"https://patents.google.com/patent/{number.replace('-', '')}",
+        url=f"https://patents.google.com/patent/{url_number}",
         claims=texts("claims"),
         description=texts("description"),
     )
@@ -148,6 +160,13 @@ class GooglePatentsClient:
             tuple(_record(row) for row in rows),
             query,
             datetime.now(UTC).isoformat(),
+            job_id=job.job_id if isinstance(job.job_id, str) else None,
+            bytes_processed=job.total_bytes_processed
+            if type(job.total_bytes_processed) is int
+            else None,
+            bytes_billed=job.total_bytes_billed
+            if type(job.total_bytes_billed) is int
+            else None,
         )
 
     def search(
@@ -159,6 +178,9 @@ class GooglePatentsClient:
         countries: Sequence[str] = (),
         limit: int = 20,
         dry_run: bool = False,
+        publication_start: str | None = None,
+        publication_end: str | None = None,
+        titles_only: bool = False,
     ) -> PatentResults | QueryEstimate:
         """Match every literal term in any selected localized field.
 
@@ -189,24 +211,51 @@ class GooglePatentsClient:
         terms = tuple(t.strip() for t in terms)
         fields = tuple(dict.fromkeys(fields))
         countries = tuple(c.upper() for c in countries)
-        matches = " OR ".join(
-            f"EXISTS (SELECT 1 FROM UNNEST(p.{f}_localized) AS txt "
-            "WHERE STRPOS(LOWER(txt.text), LOWER(term)) > 0)"
-            for f in fields
+        start = (
+            calendar_date.fromisoformat(publication_start)
+            if publication_start
+            else None
         )
-        sql = f"""SELECT p.publication_number, p.family_id, p.country_code,
-    p.publication_date, p.title_localized, p.abstract_localized,
-    p.assignee_harmonized, p.cpc
-FROM `{TABLE}` AS p
-WHERE NOT EXISTS (SELECT 1 FROM UNNEST(@terms) AS term WHERE NOT ({matches}))
-    AND (ARRAY_LENGTH(@countries) = 0 OR p.country_code IN UNNEST(@countries))
-ORDER BY p.publication_date DESC, p.publication_number ASC
-LIMIT @limit"""
+        end = calendar_date.fromisoformat(publication_end) if publication_end else None
+        if start and end and start >= end:
+            raise ValueError("publication_start must precede exclusive publication_end")
+        # Scalar AND predicates avoid BigQuery's unsupported correlated anti-join.
+        predicates = [
+            "("
+            + " OR ".join(
+                f"EXISTS (SELECT 1 FROM UNNEST(p.{f}_localized) AS txt "
+                f"WHERE STRPOS(LOWER(txt.text), LOWER(@term{i})) > 0)"
+                for f in fields
+            )
+            + ")"
+            for i in range(len(terms))
+        ]
         params = [
-            bq.ArrayQueryParameter("terms", "STRING", terms),
+            bq.ScalarQueryParameter(f"term{i}", "STRING", term)
+            for i, term in enumerate(terms)
+        ]
+        params += [
             bq.ArrayQueryParameter("countries", "STRING", countries),
             bq.ScalarQueryParameter("limit", "INT64", limit),
         ]
+        for name, value, operator in (("start", start, ">="), ("end", end, "<")):
+            if value:
+                predicates.append(f"p.publication_date {operator} @{name}")
+                params.append(
+                    bq.ScalarQueryParameter(
+                        name, "INT64", int(value.strftime("%Y%m%d"))
+                    )
+                )
+        where = " AND ".join(predicates)
+        abstract = "" if titles_only else ", p.abstract_localized"
+        sql = f"""SELECT p.publication_number, p.family_id, p.country_code,
+    p.publication_date, p.title_localized{abstract},
+    p.assignee_harmonized, p.cpc
+FROM `{TABLE}` AS p
+WHERE {where}
+    AND (ARRAY_LENGTH(@countries) = 0 OR p.country_code IN UNNEST(@countries))
+ORDER BY p.publication_date DESC, p.publication_number ASC
+LIMIT @limit"""
         return self._run(
             sql,
             params,
@@ -216,6 +265,9 @@ LIMIT @limit"""
                 "fields": fields,
                 "countries": countries,
                 "limit": limit,
+                "publication_start": publication_start,
+                "publication_end": publication_end,
+                "titles_only": titles_only,
             },
             maximum_bytes_billed=maximum_bytes_billed,
             dry_run=dry_run,

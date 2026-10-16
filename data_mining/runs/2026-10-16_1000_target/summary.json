@@ -1,0 +1,99 @@
+{
+  "accepted": 463,
+  "bulk_reference_rows": 177,
+  "measured_separator_rows": 62,
+  "measured_separator_rows_with_polymer": 0,
+  "measured_separator_temperatures_C": [
+    105.0,
+    130.0,
+    140.0,
+    170.0
+  ],
+  "missing_measured_separator_properties": [
+    "basis_weight",
+    "density",
+    "electrolyte_uptake",
+    "gurley_time",
+    "ionic_conductivity",
+    "meltdown_temperature",
+    "melting_temperature",
+    "puncture_force",
+    "shutdown_temperature",
+    "specific_heat_capacity",
+    "tensile_strength",
+    "thermal_conductivity",
+    "volumetric_heat_capacity"
+  ],
+  "missing_separator_properties": [
+    "basis_weight",
+    "density",
+    "electrolyte_uptake",
+    "ionic_conductivity",
+    "meltdown_temperature",
+    "melting_temperature",
+    "shutdown_temperature",
+    "specific_heat_capacity",
+    "tensile_strength",
+    "thermal_conductivity",
+    "volumetric_heat_capacity"
+  ],
+  "net_accepted_gain": 352,
+  "new_observation_ids": 385,
+  "properties": {
+    "air_permeability_time": 4,
+    "density": 15,
+    "elongation": 5,
+    "gurley_time": 30,
+    "pore_size": 12,
+    "porosity": 44,
+    "puncture_force": 52,
+    "thermal_conductivity": 102,
+    "thermal_shrinkage": 101,
+    "thickness": 38,
+    "volumetric_heat_capacity": 60
+  },
+  "review": 4224,
+  "review_reasons": {
+    "ambiguous_product_identity": 4,
+    "unresolved_example_header": 2191,
+    "unresolved_property_value_or_unit": 216,
+    "unresolved_test_protocol": 1771,
+    "unsupported_document_or_context": 42
+  },
+  "separator_measured_properties": {
+    "air_permeability_time": 4,
+    "elongation": 5,
+    "pore_size": 12,
+    "porosity": 16,
+    "thermal_shrinkage": 17,
+    "thickness": 8
+  },
+  "separator_or_component_rows": 286,
+  "separator_properties": {
+    "air_permeability_time": 4,
+    "elongation": 5,
+    "gurley_time": 30,
+    "pore_size": 12,
+    "porosity": 44,
+    "puncture_force": 52,
+    "thermal_shrinkage": 101,
+    "thickness": 38
+  },
+  "separator_types": {
+    "PP": 113,
+    "PP/PE/PP": 111,
+    "not_reported": 62
+  },
+  "source_counts": {
+    "celgard": 224,
+    "fsri": 177,
+    "patents": 62
+  },
+  "starting_accepted": 111,
+  "target": 1000,
+  "temperature_resolved_measured_separator_rows": 17,
+  "temperature_resolved_measured_separator_shortfall": 983,
+  "temperature_resolved_separator_properties": {
+    "thermal_shrinkage": 17
+  }
+}

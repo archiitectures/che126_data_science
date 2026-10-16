@@ -1,0 +1,704 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "First separator",
+          "Second separator",
+          "",
+          "Amount of",
+          ""
+        ],
+        [
+          "",
+          "layer",
+          "layer",
+          "",
+          "increase in",
+          "Difference"
+        ],
+        [
+          "",
+          "Thickness",
+          "Porosity",
+          "Thickness",
+          "Porosity",
+          "",
+          "temperature",
+          "in maximum"
+        ],
+        [
+          "",
+          "(μm)",
+          "(%)",
+          "(μm)",
+          "(%)",
+          "α/β",
+          "(° C.)",
+          "temperature"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "20",
+          "95",
+          "20",
+          "30",
+          "3.17",
+          "(2)",
+          "C1"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "",
+          "90",
+          "",
+          "",
+          "3.00",
+          "(2)",
+          "C1"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Example 1",
+          "",
+          "85",
+          "",
+          "",
+          "2.83",
+          "2",
+          "A1"
+        ],
+        [
+          "Example 2",
+          "",
+          "80",
+          "",
+          "",
+          "2.67",
+          "4",
+          "A1"
+        ],
+        [
+          "Example 3",
+          "",
+          "75",
+          "",
+          "",
+          "2.50",
+          "5",
+          "A1"
+        ],
+        [
+          "Example 4",
+          "",
+          "70",
+          "",
+          "",
+          "2.33",
+          "5",
+          "A1"
+        ],
+        [
+          "Example 5",
+          "",
+          "65",
+          "",
+          "",
+          "2.17",
+          "6",
+          "A1"
+        ],
+        [
+          "Example 6",
+          "",
+          "60",
+          "",
+          "",
+          "2.00",
+          "7",
+          "A1"
+        ],
+        [
+          "Comparative",
+          "",
+          "55",
+          "",
+          "",
+          "1.83",
+          "14",
+          "C1"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "",
+          "50",
+          "",
+          "",
+          "1.67",
+          "25",
+          "C1"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "20",
+          "95",
+          "20",
+          "40",
+          "2.38",
+          "(5)",
+          "C1"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Comparative",
+          "",
+          "90",
+          "",
+          "",
+          "2.25",
+          "(5)",
+          "C1"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Example 7",
+          "",
+          "85",
+          "",
+          "",
+          "2.13",
+          "6",
+          "A1"
+        ],
+        [
+          "Example 8",
+          "",
+          "80",
+          "",
+          "",
+          "2.00",
+          "7",
+          "A1"
+        ],
+        [
+          "Comparative",
+          "",
+          "75",
+          "",
+          "",
+          "1.88",
+          "12",
+          "C1"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "Comparative",
+          "",
+          "70",
+          "",
+          "",
+          "1.75",
+          "14",
+          "C1"
+        ],
+        [
+          "Example 8"
+        ],
+        [
+          "Comparative",
+          "",
+          "65",
+          "",
+          "",
+          "1.63",
+          "20",
+          "C1"
+        ],
+        [
+          "Example 9"
+        ],
+        [
+          "Comparative",
+          "20",
+          "95",
+          "20",
+          "50",
+          "1.90",
+          "14",
+          "C1"
+        ],
+        [
+          "Example 10"
+        ],
+        [
+          "Comparative",
+          "",
+          "90",
+          "",
+          "",
+          "1.80",
+          "16",
+          "C1"
+        ],
+        [
+          "Example 11"
+        ],
+        [
+          "Comparative",
+          "",
+          "85",
+          "",
+          "",
+          "1.70",
+          "20",
+          "C1"
+        ],
+        [
+          "Example 12"
+        ],
+        [
+          "Comparative",
+          "",
+          "80",
+          "",
+          "",
+          "1.60",
+          "22",
+          "C1"
+        ],
+        [
+          "Example 13"
+        ],
+        [
+          "Comparative",
+          "",
+          "75",
+          "",
+          "",
+          "1.50",
+          "26",
+          "C1"
+        ],
+        [
+          "Example 14"
+        ],
+        [
+          "Comparative",
+          "",
+          "70",
+          "",
+          "",
+          "1.40",
+          "29",
+          "C1"
+        ],
+        [
+          "Example 15"
+        ],
+        [
+          "Comparative",
+          "",
+          "65",
+          "",
+          "",
+          "1.30",
+          "31",
+          "C1"
+        ],
+        [
+          "Example 16"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">First separator</td>\n<td class=\"description-td\">Second separator</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Amount of</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">increase in</td>\n<td class=\"description-td\">Difference</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">in maximum</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">α/β</td>\n<td class=\"description-td\">(° C.)</td>\n<td class=\"description-td\">temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">3.17</td>\n<td class=\"description-td\"> (2)</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">3.00</td>\n<td class=\"description-td\"> (2)</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.83</td>\n<td class=\"description-td\"> 2</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.67</td>\n<td class=\"description-td\"> 4</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.50</td>\n<td class=\"description-td\"> 5</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.33</td>\n<td class=\"description-td\"> 5</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.17</td>\n<td class=\"description-td\"> 6</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.00</td>\n<td class=\"description-td\"> 7</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.83</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.67</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">2.38</td>\n<td class=\"description-td\"> (5)</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.25</td>\n<td class=\"description-td\"> (5)</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.13</td>\n<td class=\"description-td\"> 6</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.00</td>\n<td class=\"description-td\"> 7</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.88</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.75</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.63</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">1.90</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.80</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.70</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.60</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 13</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.50</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 14</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.40</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.30</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">C1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 16</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Positive",
+          ""
+        ],
+        [
+          "",
+          "Separator",
+          "electrode",
+          ""
+        ],
+        [
+          "",
+          "First separator",
+          "Second separator",
+          "",
+          "Specific",
+          "Amount of",
+          ""
+        ],
+        [
+          "",
+          "layer",
+          "layer",
+          "",
+          "surface area of",
+          "increase in",
+          "Difference"
+        ],
+        [
+          "",
+          "Thickness",
+          "Porosity",
+          "Thickness",
+          "Porosity",
+          "",
+          "positive-electrode",
+          "temperature",
+          "in maximum"
+        ],
+        [
+          "",
+          "(μm)",
+          "(%)",
+          "(μm)",
+          "(%)",
+          "α/β",
+          "active material",
+          "(° C.)",
+          "temperature"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 3",
+          "20",
+          "75",
+          "20",
+          "30",
+          "2.50",
+          "2.5",
+          "5",
+          "A1"
+        ],
+        [
+          "Example 9",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.6",
+          "8",
+          "A1"
+        ],
+        [
+          "Example 10",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.8",
+          "8",
+          "A1"
+        ],
+        [
+          "Example 11",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "9",
+          "A1"
+        ],
+        [
+          "Example 12",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.5",
+          "10",
+          "A1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Positive</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">electrode</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">First separator</td>\n<td class=\"description-td\">Second separator</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Specific</td>\n<td class=\"description-td\">Amount of</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">surface area of</td>\n<td class=\"description-td\">increase in</td>\n<td class=\"description-td\">Difference</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">positive-electrode</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">in maximum</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">α/β</td>\n<td class=\"description-td\">active material</td>\n<td class=\"description-td\">(° C.)</td>\n<td class=\"description-td\">temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">2.50</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.6</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.8</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 11</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">3.0</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 12</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">3.5</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">A1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Specific surface area of positive-",
+          "Amount of heat generated"
+        ],
+        [
+          "",
+          "electrode active material (m 2 /g)",
+          "at 100° C. to 250° C. (mW)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "2.5",
+          "30"
+        ],
+        [
+          "",
+          "3.0",
+          "110"
+        ],
+        [
+          "",
+          "3.5",
+          "120"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Specific surface area of positive-</td>\n<td class=\"description-td\">Amount of heat generated</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">electrode active material (m<sup>2</sup>/g)</td>\n<td class=\"description-td\">at 100° C. to 250° C. (mW)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">3.0</td>\n<td class=\"description-td\">110</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">3.5</td>\n<td class=\"description-td\">120</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a non-aqueous electrolyte secondary battery according to an embodiment of the invention; and FIG. 2 is a sectional view of an electrode assembly according to the embodiment of the invention. FIG. 1 is a perspective view of a non-aqueous electrolyte secondary battery according to an embodiment of the invention. In the non-aqueous electrolyte secondary battery of the present embodiment, an electrode assembly 11 and a non-aqueous electrolyte (not illustrated) are provided inside a battery case 1 . FIG. 1 illustrates a part of the internal structure of the non-aqueous electrolyte secondary battery of the present embodiment. The battery case 1 is provided with a positive-electrode terminal 3 and a negative-electrode terminal 7 . FIG. 2 is a sectional view of the electrode assembly 11 of the present embodiment. The electrode assembly 11 includes a positive electrode 13 , a negative electrode 17 , and a separator 15 provided between the positive electrode 13 and the negative electrode 17 . In the electrode assembly 11 , the positive electrode 13 and the negative electrode 17 are rolled with the separator 15 interposed therebetween. The positive electrode 13 includes a positive-electrode current collector 13 A, positive-electrode mixture layers 13 B, and a positive-electrode exposed portion 13 D. The positive-electrode mixture layers 13 B are provided on respective surfaces of the positive-electrode current collector 13 A, except one end portion (left end portion in FIG. 2 ) in the width direction of the positive electrode 13 . The positive-electrode exposed portion 13 D is at one end of the positive electrode 13 in its width direction, and the positive-electrode exposed portion 13 D is a portion at which the positive-electrode mixture layers 13 B are not provided on the positive-electrode current collector 13 A. Note that, “width direction of the positive electrode 13 ” means a direction that is perpendicular to the longitudinal direction of the positive electrode 13 which has not been formed into the electrode assembly 11 , and that is parallel to the surfaces of the positive-electrode current collector 13 A on which the positive-electrode mixture layers 13 B are provided. The negative electrode 17 includes a negative-electrode current collector 17 A, negative-electrode mixture layers 17 B, and a negative-electrode exposed portion 17 D. The negative-electrode mixture layers 17 B are provided on respective surfaces of the negative-electrode current collector 17 A, except one end portion (right end portion in FIG. 2 ) in the width direction of the negative electrode 17 . The negative-electrode exposed portion 17 D is at one end of the negative electrode 17 in its width direction, and the negative-electrode exposed portion 17 D is a portion at which the negative-electrode mixture layers 17 B are not provided on the negative-electrode current collector 17 A. Note that, “width direction of the negative electrode 17 ” means a direction that is perpendicular to the longitudinal direction of the negative electrode 17 which has not been formed into the electrode assembly 11 , and that is parallel to the surfaces of the negative-electrode current collector 17 A on which the negative-electrode mixture layers 17 B are provided.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/64/95/ab/5e6456e4a851b4/US10581048-20200303-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a non-aqueous electrolyte secondary battery according to an embodiment of the invention; and FIG. 2 is a sectional view of an electrode assembly according to the embodiment of the invention. FIG. 1 is a perspective view of a non-aqueous electrolyte secondary battery according to an embodiment of the invention. In the non-aqueous electrolyte secondary battery of the present embodiment, an electrode assembly 11 and a non-aqueous electrolyte (not illustrated) are provided inside a battery case 1 . FIG. 1 illustrates a part of the internal structure of the non-aqueous electrolyte secondary battery of the present embodiment. The battery case 1 is provided with a positive-electrode terminal 3 and a negative-electrode terminal 7 . FIG. 2 is a sectional view of the electrode assembly 11 of the present embodiment. The electrode assembly 11 includes a positive electrode 13 , a negative electrode 17 , and a separator 15 provided between the positive electrode 13 and the negative electrode 17 . In the electrode assembly 11 , the positive electrode 13 and the negative electrode 17 are rolled with the separator 15 interposed therebetween. The positive electrode 13 includes a positive-electrode current collector 13 A, positive-electrode mixture layers 13 B, and a positive-electrode exposed portion 13 D. The positive-electrode mixture layers 13 B are provided on respective surfaces of the positive-electrode current collector 13 A, except one end portion (left end portion in FIG. 2 ) in the width direction of the positive electrode 13 . The positive-electrode exposed portion 13 D is at one end of the positive electrode 13 in its width direction, and the positive-electrode exposed portion 13 D is a portion at which the positive-electrode mixture layers 13 B are not provided on the positive-electrode current collector 13 A. Note that, “width direction of the positive electrode 13 ” means a direction that is perpendicular to the longitudinal direction of the positive electrode 13 which has not been formed into the electrode assembly 11 , and that is parallel to the surfaces of the positive-electrode current collector 13 A on which the positive-electrode mixture layers 13 B are provided. The negative electrode 17 includes a negative-electrode current collector 17 A, negative-electrode mixture layers 17 B, and a negative-electrode exposed portion 17 D. The negative-electrode mixture layers 17 B are provided on respective surfaces of the negative-electrode current collector 17 A, except one end portion (right end portion in FIG. 2 ) in the width direction of the negative electrode 17 . The negative-electrode exposed portion 17 D is at one end of the negative electrode 17 in its width direction, and the negative-electrode exposed portion 17 D is a portion at which the negative-electrode mixture layers 17 B are not provided on the negative-electrode current collector 17 A. Note that, “width direction of the negative electrode 17 ” means a direction that is perpendicular to the longitudinal direction of the negative electrode 17 which has not been formed into the electrode assembly 11 , and that is parallel to the surfaces of the negative-electrode current collector 17 A on which the negative-electrode mixture layers 17 B are provided.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/99/59/18/f7b0df34e50b7e/US10581048-20200303-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a non-aqueous electrolyte secondary battery according to an embodiment of the invention; and FIG. 2 is a sectional view of an electrode assembly according to the embodiment of the invention. FIG. 1 is a perspective view of a non-aqueous electrolyte secondary battery according to an embodiment of the invention. In the non-aqueous electrolyte secondary battery of the present embodiment, an electrode assembly 11 and a non-aqueous electrolyte (not illustrated) are provided inside a battery case 1 . FIG. 1 illustrates a part of the internal structure of the non-aqueous electrolyte secondary battery of the present embodiment. The battery case 1 is provided with a positive-electrode terminal 3 and a negative-electrode terminal 7 . FIG. 2 is a sectional view of the electrode assembly 11 of the present embodiment. The electrode assembly 11 includes a positive electrode 13 , a negative electrode 17 , and a separator 15 provided between the positive electrode 13 and the negative electrode 17 . In the electrode assembly 11 , the positive electrode 13 and the negative electrode 17 are rolled with the separator 15 interposed therebetween. The positive electrode 13 includes a positive-electrode current collector 13 A, positive-electrode mixture layers 13 B, and a positive-electrode exposed portion 13 D. The positive-electrode mixture layers 13 B are provided on respective surfaces of the positive-electrode current collector 13 A, except one end portion (left end portion in FIG. 2 ) in the width direction of the positive electrode 13 . The positive-electrode exposed portion 13 D is at one end of the positive electrode 13 in its width direction, and the positive-electrode exposed portion 13 D is a portion at which the positive-electrode mixture layers 13 B are not provided on the positive-electrode current collector 13 A. Note that, “width direction of the positive electrode 13 ” means a direction that is perpendicular to the longitudinal direction of the positive electrode 13 which has not been formed into the electrode assembly 11 , and that is parallel to the surfaces of the positive-electrode current collector 13 A on which the positive-electrode mixture layers 13 B are provided. The negative electrode 17 includes a negative-electrode current collector 17 A, negative-electrode mixture layers 17 B, and a negative-electrode exposed portion 17 D. The negative-electrode mixture layers 17 B are provided on respective surfaces of the negative-electrode current collector 17 A, except one end portion (right end portion in FIG. 2 ) in the width direction of the negative electrode 17 . The negative-electrode exposed portion 17 D is at one end of the negative electrode 17 in its width direction, and the negative-electrode exposed portion 17 D is a portion at which the negative-electrode mixture layers 17 B are not provided on the negative-electrode current collector 17 A. Note that, “width direction of the negative electrode 17 ” means a direction that is perpendicular to the longitudinal direction of the negative electrode 17 which has not been formed into the electrode assembly 11 , and that is parallel to the surfaces of the negative-electrode current collector 17 A on which the negative-electrode mixture layers 17 B are provided.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/1c/62/95/bae3fe2e37092c/US10581048-20200303-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/7d/f4/a3/10b740bb25b88d/US10581048.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"966e4e964e2051997c9bd9626af75763\"",
+        "last_modified": "Mon, 06 Jul 2020 09:12:18 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/60a7ee5d92875a8b15e9a85b276ef06b7af024ef598d52c06fea1fe12b6d8d1a.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:28.909851+00:00",
+        "sha256": "60a7ee5d92875a8b15e9a85b276ef06b7af024ef598d52c06fea1fe12b6d8d1a",
+        "source": "patent_pdf",
+        "source_id": "d07f2f02a027a6afbd928777372e404c9d67511d46e06cec299f38fd58b57551",
+        "url": "https://patentimages.storage.googleapis.com/7d/f4/a3/10b740bb25b88d/US10581048.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10581048B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/6acce238e5fb9995517fd7775d9ebe500457a4f94da7a8d536f94a6f60334b09.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:27.989132+00:00",
+    "sha256": "6acce238e5fb9995517fd7775d9ebe500457a4f94da7a8d536f94a6f60334b09",
+    "source": "patents",
+    "source_id": "871e4079b6c591250cb42816d3d2fa414aff66937f131818b9b541cbfc2f48f9",
+    "url": "https://patents.google.com/patent/US10581048B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "0f04584719877955d18ee487834b35b21f9bb0ad2d388069b4722b4519bbaa8a",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "871e4079b6c591250cb42816d3d2fa414aff66937f131818b9b541cbfc2f48f9",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/6acce238e5fb9995517fd7775d9ebe500457a4f94da7a8d536f94a6f60334b09.bin",
+      "source_id": "871e4079b6c591250cb42816d3d2fa414aff66937f131818b9b541cbfc2f48f9",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "6acce238e5fb9995517fd7775d9ebe500457a4f94da7a8d536f94a6f60334b09",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10581048B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

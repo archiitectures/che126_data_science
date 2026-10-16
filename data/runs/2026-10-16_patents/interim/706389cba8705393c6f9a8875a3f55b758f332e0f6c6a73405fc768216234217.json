@@ -1,0 +1,2898 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Test Methods"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Gurley",
+          "ASTM-D726(B)"
+        ],
+        [
+          "",
+          "",
+          "Gurley is a resistance to air flow"
+        ],
+        [
+          "",
+          "",
+          "measured by the Gurley densometer"
+        ],
+        [
+          "",
+          "",
+          "(e.g. Model 4120). Gurley is the"
+        ],
+        [
+          "",
+          "",
+          "time in seconds required to pass"
+        ],
+        [
+          "",
+          "",
+          "10 cc of air through one square inch"
+        ],
+        [
+          "",
+          "",
+          "of product under a pressure of 12.2"
+        ],
+        [
+          "",
+          "",
+          "inches of water."
+        ],
+        [
+          "",
+          "Basis Weight",
+          "Basis weight is determined by"
+        ],
+        [
+          "",
+          "",
+          "cutting three-one square foot"
+        ],
+        [
+          "",
+          "",
+          "samples across the width of the"
+        ],
+        [
+          "",
+          "",
+          "sample and weighing them on a"
+        ],
+        [
+          "",
+          "",
+          "precision balance with accuracy to"
+        ],
+        [
+          "",
+          "",
+          "0.0001 grams. The three (3)"
+        ],
+        [
+          "",
+          "",
+          "samples are averaged and compared"
+        ],
+        [
+          "",
+          "",
+          "to tolerance limits."
+        ],
+        [
+          "",
+          "Thickness",
+          "Method: T411 om-83 developed"
+        ],
+        [
+          "",
+          "",
+          "under the auspices of the Technical"
+        ],
+        [
+          "",
+          "",
+          "Association of the Pulp and Paper"
+        ],
+        [
+          "",
+          "",
+          "Industry. Thickness is determined"
+        ],
+        [
+          "",
+          "",
+          "using a precision micrometer with a"
+        ],
+        [
+          "",
+          "",
+          "½ inch diameter, circular shoe"
+        ],
+        [
+          "",
+          "",
+          "contacting the sample at seven (7)"
+        ],
+        [
+          "",
+          "",
+          "PSI. Ten (10) individual micrometer"
+        ],
+        [
+          "",
+          "",
+          "readings taken across the width of"
+        ],
+        [
+          "",
+          "",
+          "the sample are averaged."
+        ],
+        [
+          "",
+          "Shrinkage, MD",
+          "ASTM D-1204 (60 min. @ 90° C.)"
+        ],
+        [
+          "",
+          "",
+          "Three separate lengths of stretched"
+        ],
+        [
+          "",
+          "",
+          "product of approximately ten"
+        ],
+        [
+          "",
+          "",
+          "centimeters are measured across the"
+        ],
+        [
+          "",
+          "",
+          "width of the sample in the machine"
+        ],
+        [
+          "",
+          "",
+          "direction (MD). The sample is"
+        ],
+        [
+          "",
+          "",
+          "exposed to air at 90° C. for one hour,"
+        ],
+        [
+          "",
+          "",
+          "the lengths are re-measured, the"
+        ],
+        [
+          "",
+          "",
+          "percentage shrinkage of the original"
+        ],
+        [
+          "",
+          "",
+          "length is calculated for each sample,"
+        ],
+        [
+          "",
+          "",
+          "and the results averaged."
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Test Methods</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">ASTM-D726(B)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Gurley is a resistance to air flow</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">measured by the Gurley densometer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(e.g. Model 4120). Gurley is the</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">time in seconds required to pass</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">10 cc of air through one square inch</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of product under a pressure of 12.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inches of water.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Basis Weight</td>\n<td class=\"description-td\">Basis weight is determined by</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">cutting three-one square foot</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">samples across the width of the</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">sample and weighing them on a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">precision balance with accuracy to</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">0.0001 grams. The three (3)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">samples are averaged and compared</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">to tolerance limits.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Method: T411 om-83 developed</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">under the auspices of the Technical</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Association of the Pulp and Paper</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Industry. Thickness is determined</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">using a precision micrometer with a</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">½ inch diameter, circular shoe</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">contacting the sample at seven (7)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PSI. Ten (10) individual micrometer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">readings taken across the width of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">the sample are averaged.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shrinkage, MD</td>\n<td class=\"description-td\">ASTM D-1204 (60 min. @ 90° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Three separate lengths of stretched</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">product of approximately ten</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">centimeters are measured across the</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">width of the sample in the machine</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">direction (MD). The sample is</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">exposed to air at 90° C. for one hour,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">the lengths are re-measured, the</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">percentage shrinkage of the original</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">length is calculated for each sample,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">and the results averaged.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Materials and Extrusion Conditions"
+        ],
+        [
+          "for Battery Separator of Example 1"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Equipment:",
+          "Alpine 3 layer Co-extrusion"
+        ],
+        [
+          "",
+          "die; 210 mil Mandrel gap,"
+        ],
+        [
+          "",
+          "300 mm die diameter"
+        ],
+        [
+          "Resin:",
+          "Fina (Dallas, TX) PP 3362"
+        ],
+        [
+          "",
+          "isotactic polypropylene,"
+        ],
+        [
+          "",
+          "Mitsu Petroleum Chemical"
+        ],
+        [
+          "",
+          "(Tokyo, JP) HIZEX ® HDPE"
+        ],
+        [
+          "",
+          "5202B polyethylene"
+        ],
+        [
+          "Polypropylene Extruder Barrel",
+          "195° C."
+        ],
+        [
+          "Temperature:",
+          ""
+        ],
+        [
+          "Polyethylene Extruder Barrel",
+          "185° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Die Temperature:",
+          "185° C."
+        ],
+        [
+          "Line Speed:",
+          "105 ft/sec"
+        ],
+        [
+          "Quench Ring Height from Die Exit; inner,",
+          "3 5/16 inches, 3 5/16 inches"
+        ],
+        [
+          "outer:"
+        ],
+        [
+          "Quench Ring Air Pressure; inner, outer:",
+          "7.0 inches H 2 O,"
+        ],
+        [
+          "",
+          "7.0 inches H 2 O"
+        ],
+        [
+          "Quench Ring Gap; inner, outer (inches)",
+          "0.200 inches, 0.150 inches"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Materials and Extrusion Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Equipment:</td>\n<td class=\"description-td\">Alpine 3 layer Co-extrusion</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">die; 210 mil Mandrel gap,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">300 mm die diameter</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resin:</td>\n<td class=\"description-td\">Fina (Dallas, TX) PP 3362</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">isotactic polypropylene,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Mitsu Petroleum Chemical</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(Tokyo, JP) HIZEX ® HDPE</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">5202B polyethylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polypropylene Extruder Barrel</td>\n<td class=\"description-td\">195° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polyethylene Extruder Barrel</td>\n<td class=\"description-td\">185° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Die Temperature:</td>\n<td class=\"description-td\">185° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Line Speed:</td>\n<td class=\"description-td\">105 ft/sec</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Height from Die Exit; inner,</td>\n<td class=\"description-td\">3 5/16 inches, 3 5/16 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Air Pressure; inner, outer:</td>\n<td class=\"description-td\">7.0 inches H<sub>2</sub>O,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">7.0 inches H<sub>2</sub>O</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Gap; inner, outer (inches)</td>\n<td class=\"description-td\">0.200 inches, 0.150 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Annealing/Stretching Conditions for Battery"
+        ],
+        [
+          "Separator of Example 1"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Annealing Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Annealing Time:",
+          "15 minutes"
+        ],
+        [
+          "",
+          "Cold Stretch Temperature:",
+          "25° C."
+        ],
+        [
+          "",
+          "Cold Stretch Elongation:",
+          "25%"
+        ],
+        [
+          "",
+          "Hot Stretch Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Hot Stretch Elongation:",
+          "100%"
+        ],
+        [
+          "",
+          "Heat Set Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Annealing/Stretching Conditions for Battery</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Separator of Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Time:</td>\n<td class=\"description-td\">15 minutes</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Temperature:</td>\n<td class=\"description-td\">25° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Elongation:</td>\n<td class=\"description-td\">25%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Elongation:</td>\n<td class=\"description-td\">100%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat Set Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4"
+        ],
+        [
+          ""
+        ],
+        [
+          "Average Product Characteristics for Battery Separator of Example 1"
+        ],
+        [
+          "Gurley",
+          "Thickness",
+          "Shrinkage",
+          "Base Weight",
+          "Porosity"
+        ],
+        [
+          "Secs",
+          "mils",
+          "%",
+          "mg/ cm2",
+          "%",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "26",
+          "0.9",
+          "3.5",
+          "1.26",
+          "37.2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 4</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Average Product Characteristics for Battery Separator of Example 1</td>\n</tr>\n</tbody></table>\n<figure-callout filenames=\"US6346350-drawings-page-2.png\" id=\"26\" label=\"cm2 %\" state=\"{{state}}\">\n</figure-callout><table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Shrinkage</td>\n<td class=\"description-td\">Base Weight</td>\n<td class=\"description-td\">Porosity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Secs</td>\n<td class=\"description-td\">mils</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">mg/<figure-callout filenames=\"US6346350-drawings-page-2.png\" id=\"26\" label=\"cm2 %\" state=\"{{state}}\">cm2</figure-callout> </td> <td class=\"description-td\">%</td> <td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\">3.5</td>\n<td class=\"description-td\">1.26</td>\n<td class=\"description-td\">37.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Materials and Extrusion Conditions"
+        ],
+        [
+          "for Battery Separator of Example 2"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "equipment:",
+          "Alpine two layer co-extrusion Die,"
+        ],
+        [
+          "",
+          "210 mil mandrel gap, 300 mm die"
+        ],
+        [
+          "",
+          "diameter"
+        ],
+        [
+          "resin:",
+          "Fina PP 3271 isotactic polypropylene,"
+        ],
+        [
+          "",
+          "HIZEX ® 5202B high density"
+        ],
+        [
+          "",
+          "polyethylene"
+        ],
+        [
+          "Polypropylene Extruder Barrel",
+          "200° C."
+        ],
+        [
+          "Temperature:",
+          ""
+        ],
+        [
+          "Polyethylene Extruder Barrel",
+          "190° C."
+        ],
+        [
+          "Temperature:",
+          ""
+        ],
+        [
+          "Die Temperature:",
+          "200° C."
+        ],
+        [
+          "Line Speed:",
+          "100 ft/minute"
+        ],
+        [
+          "Quench Ring Height from Die",
+          "3 inches, 3 5/16 inches"
+        ],
+        [
+          "Exit; inner, outer:"
+        ],
+        [
+          "Quench Ring Air Pressure: inner,",
+          "4 inches H 2 O, 8 inches H 2 O"
+        ],
+        [
+          "outer:"
+        ],
+        [
+          "Quench Ring Gap; inner, outer:",
+          "0.200 inches, 0.150 inches"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Materials and Extrusion Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">equipment:</td>\n<td class=\"description-td\">Alpine two layer co-extrusion Die,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">210 mil mandrel gap, 300 mm die</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">resin:</td>\n<td class=\"description-td\">Fina PP 3271 isotactic polypropylene,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HIZEX ® 5202B high density</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyethylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US6346350-drawings-page-6.png\" id=\"200\" label=\"Polypropylene Extruder Barrel\" state=\"{{state}}\">Polypropylene Extruder Barrel</figure-callout> </td>\n<td class=\"description-td\">200° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US6346350-drawings-page-6.png\" id=\"190\" label=\"Polyethylene Extruder Barrel\" state=\"{{state}}\">Polyethylene Extruder Barrel</figure-callout> </td>\n<td class=\"description-td\">190° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Die Temperature:</td>\n<td class=\"description-td\">200° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Line Speed:</td>\n<td class=\"description-td\">100 ft/minute</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Height from Die</td>\n<td class=\"description-td\">3 inches, 3 5/16 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Exit; inner, outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Air Pressure: inner,</td>\n<td class=\"description-td\">4 inches H<sub>2</sub>O, 8 inches H<sub>2</sub>O</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Gap; inner, outer:</td>\n<td class=\"description-td\">0.200 inches, 0.150 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 6"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Annealing/Stretching Conditions"
+        ],
+        [
+          "for Battery Separator of Example 2"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Annealing Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Annealing Time:",
+          "12 minutes"
+        ],
+        [
+          "",
+          "Cold Stretch Temperature:",
+          "25° C."
+        ],
+        [
+          "",
+          "Cold Stretch Elongation:",
+          "25%"
+        ],
+        [
+          "",
+          "Hot Stretch Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Hot Stretch Elongation:",
+          "130%"
+        ],
+        [
+          "",
+          "Heat Set Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Annealing/Stretching Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Time:</td>\n<td class=\"description-td\">12 minutes</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Temperature:</td>\n<td class=\"description-td\">25° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Elongation:</td>\n<td class=\"description-td\">25%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Elongation:</td>\n<td class=\"description-td\">130%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat Set Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 7"
+        ],
+        [
+          ""
+        ],
+        [
+          "Average Product Characteristics for Battery Separator of Example 2"
+        ],
+        [
+          "Gurley",
+          "Thickness",
+          "Shrinkage",
+          "Base Weight",
+          "Porosity"
+        ],
+        [
+          "Secs",
+          "mils",
+          "%",
+          "mg/cm2",
+          "%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "25",
+          "1.0",
+          "4.5",
+          "1.32",
+          "43.0"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 7</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Average Product Characteristics for Battery Separator of Example 2</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Shrinkage</td>\n<td class=\"description-td\">Base Weight</td>\n<td class=\"description-td\">Porosity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Secs</td>\n<td class=\"description-td\">mils</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">mg/cm2</td>\n<td class=\"description-td\">%</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">4.5</td>\n<td class=\"description-td\">1.32</td>\n<td class=\"description-td\">43.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 7"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 8"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Materials and Extrusion Conditions"
+        ],
+        [
+          "for Battery Separator of Example 3"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Equipment:",
+          "Alpine 3 layer co-extrusion die,"
+        ],
+        [
+          "",
+          "210 mil mandrel gap, 300 mm die"
+        ],
+        [
+          "",
+          "diameter"
+        ],
+        [
+          "Resin:",
+          "Fina 3271 isotactic polypropylene,"
+        ],
+        [
+          "",
+          "HIZEX ® HDPE 5202B high"
+        ],
+        [
+          "",
+          "density polyethylene"
+        ],
+        [
+          "Polypropylene Extruder Barrel",
+          "190° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Polyethylene Extruder Barrel",
+          "185° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Die Temperature:",
+          "200° C."
+        ],
+        [
+          "Line Speed:",
+          "85 ft/sec."
+        ],
+        [
+          "Quench Ring Height from Die Exit;",
+          "3 13/16 inches, 3 1/2 inches"
+        ],
+        [
+          "inner, outer:"
+        ],
+        [
+          "Quench Ring Air Pressure; inner,",
+          "4 inches H 2 O; 4 inches H 2 O"
+        ],
+        [
+          "outer:"
+        ],
+        [
+          "Quench Ring Gap; inner, outer:",
+          "0.250, 0.100"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Materials and Extrusion Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Equipment:</td>\n<td class=\"description-td\">Alpine 3 layer co-extrusion die,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">210 mil mandrel gap, 300 mm die</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resin:</td>\n<td class=\"description-td\">Fina 3271 isotactic polypropylene,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HIZEX ® HDPE 5202B high</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">density polyethylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US6346350-drawings-page-6.png\" id=\"190\" label=\"Polypropylene Extruder Barrel\" state=\"{{state}}\">Polypropylene Extruder Barrel</figure-callout> </td>\n<td class=\"description-td\">190° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polyethylene Extruder Barrel</td>\n<td class=\"description-td\">185° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Die Temperature:</td>\n<td class=\"description-td\">200° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Line Speed:</td>\n<td class=\"description-td\">85 ft/sec.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Height from Die Exit;</td>\n<td class=\"description-td\">3 13/16 inches, 3 1/2 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">inner, outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Air Pressure; inner,</td>\n<td class=\"description-td\">4 inches H<sub>2</sub>O; 4 inches H<sub>2</sub>O</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Gap; inner, outer:</td>\n<td class=\"description-td\">0.250, 0.100</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 8"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 9"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Annealing/Stretching Conditions"
+        ],
+        [
+          "for Battery Separator of Example 3"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Annealing Temperature:",
+          "122° C."
+        ],
+        [
+          "",
+          "Annealing Time:",
+          "12 minutes"
+        ],
+        [
+          "",
+          "Cold Stretch Temperature:",
+          "25° C."
+        ],
+        [
+          "",
+          "Cold Stretch Elongation:",
+          "45%"
+        ],
+        [
+          "",
+          "Hot Stretch Temperature:",
+          "122° C."
+        ],
+        [
+          "",
+          "Hot Stretch Elongation:",
+          "120%"
+        ],
+        [
+          "",
+          "Heat Set Temperature:",
+          "122° C."
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 9</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Annealing/Stretching Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Temperature:</td>\n<td class=\"description-td\">122° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Time:</td>\n<td class=\"description-td\">12 minutes</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Temperature:</td>\n<td class=\"description-td\">25° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Elongation:</td>\n<td class=\"description-td\">45%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Temperature:</td>\n<td class=\"description-td\">122° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Elongation:</td>\n<td class=\"description-td\">120%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat Set Temperature:</td>\n<td class=\"description-td\">122° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 9"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 10"
+        ],
+        [
+          ""
+        ],
+        [
+          "Average Product Characteristics for Battery Separator of Example 3"
+        ],
+        [
+          "Gurley",
+          "Thickness",
+          "Shrinkage",
+          "Base Weight",
+          "Porosity"
+        ],
+        [
+          "Secs",
+          "mils",
+          "%",
+          "mg/ cm2",
+          "%",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "30",
+          "0.86",
+          "2.1",
+          "1.25",
+          "37"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 10</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Average Product Characteristics for Battery Separator of Example 3</td>\n</tr>\n</tbody></table>\n<figure-callout filenames=\"US6346350-drawings-page-2.png\" id=\"30\" label=\"cm2 %\" state=\"{{state}}\">\n</figure-callout><table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Shrinkage</td>\n<td class=\"description-td\">Base Weight</td>\n<td class=\"description-td\">Porosity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Secs</td>\n<td class=\"description-td\">mils</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">mg/<figure-callout filenames=\"US6346350-drawings-page-2.png\" id=\"30\" label=\"cm2 %\" state=\"{{state}}\">cm2</figure-callout> </td> <td class=\"description-td\">%</td> <td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">0.86</td>\n<td class=\"description-td\">2.1</td>\n<td class=\"description-td\">1.25</td>\n<td class=\"description-td\">37</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 10"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 11"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Materials and Extrusion Conditions"
+        ],
+        [
+          "For Battery Separator of Example 4"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Equipment:",
+          "Alpine Three layer co-"
+        ],
+        [
+          "",
+          "extrusion Die; 140 mil"
+        ],
+        [
+          "",
+          "gap/300 mm die diameter"
+        ],
+        [
+          "Resin:",
+          "Fina, 3271 isotactic polypro-"
+        ],
+        [
+          "",
+          "pylene HIZEX ® 5202B high"
+        ],
+        [
+          "",
+          "density polyethylene"
+        ],
+        [
+          "Polypropylene Extruder Barrel",
+          "195° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Polyethylene Extruder Barrel",
+          "185° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Die Temperature:",
+          "200° C."
+        ],
+        [
+          "Line Speed:",
+          "80 ft/min"
+        ],
+        [
+          "Quench Ring Height from Die Exit;",
+          "2 3/4 inches, 3 5/16 inches"
+        ],
+        [
+          "inner, outer:"
+        ],
+        [
+          "Quench Ring Air Pressure; inner,",
+          "4 inches, 7 inches H 2 O"
+        ],
+        [
+          "outer:"
+        ],
+        [
+          "Quench Ring Air Gap; inner, outer:",
+          "0.150 inches, 0.200 inches"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 11</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Materials and Extrusion Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">For Battery Separator of Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Equipment:</td>\n<td class=\"description-td\">Alpine Three layer co-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">extrusion Die; 140 mil</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">gap/300 mm die diameter</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resin:</td>\n<td class=\"description-td\">Fina, 3271 isotactic polypro-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pylene HIZEX ® 5202B high</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">density polyethylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polypropylene Extruder Barrel</td>\n<td class=\"description-td\">195° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polyethylene Extruder Barrel</td>\n<td class=\"description-td\">185° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Die Temperature:</td>\n<td class=\"description-td\">200° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Line Speed:</td>\n<td class=\"description-td\">80 ft/min</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Height from Die Exit;</td>\n<td class=\"description-td\">2 3/4 inches, 3 5/16 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">inner, outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Air Pressure; inner,</td>\n<td class=\"description-td\">4 inches, 7 inches H<sub>2</sub>O</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Air Gap; inner, outer:</td>\n<td class=\"description-td\">0.150 inches, 0.200 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 11"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 12"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Annealing/Stretching Conditions"
+        ],
+        [
+          "for the Battery Separator of Example 4"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Annealing Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Annealing Time:",
+          "12 minutes"
+        ],
+        [
+          "",
+          "Cold Stretch Temperature:",
+          "25° C."
+        ],
+        [
+          "",
+          "Cold Stretch Elongation:",
+          "25%"
+        ],
+        [
+          "",
+          "Hot Stretch Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Hot Stretch Elongation:",
+          "130%"
+        ],
+        [
+          "",
+          "Heat Set Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 12</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Annealing/Stretching Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for the Battery Separator of Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Time:</td>\n<td class=\"description-td\">12 minutes</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Temperature:</td>\n<td class=\"description-td\">25° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Elongation:</td>\n<td class=\"description-td\">25%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Elongation:</td>\n<td class=\"description-td\">130%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat Set Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 12"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 13"
+        ],
+        [
+          ""
+        ],
+        [
+          "Average Product Characteristics for Battery Separator of Example 4"
+        ],
+        [
+          "Gurley",
+          "Thickness",
+          "Shrinkage",
+          "Base Weight",
+          "Porosity"
+        ],
+        [
+          "Sec",
+          "mils",
+          "%",
+          "mg/cm2",
+          "%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "33",
+          "1.07",
+          "3",
+          "1.4",
+          "41"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 13</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Average Product Characteristics for Battery Separator of Example 4</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Shrinkage</td>\n<td class=\"description-td\">Base Weight</td>\n<td class=\"description-td\">Porosity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Sec</td>\n<td class=\"description-td\">mils</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">mg/cm2</td>\n<td class=\"description-td\">%</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">1.07</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">41</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 13"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 14"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Materials and Extrusion Conditions"
+        ],
+        [
+          "for Battery Separator Example 5"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Equipment:",
+          "Alpine 3 layer co-extrusion"
+        ],
+        [
+          "",
+          "die; 140 mil mandrel gap,"
+        ],
+        [
+          "",
+          "300 mm die diameter"
+        ],
+        [
+          "Resin:",
+          "Fina 3271 isotactic polypro-"
+        ],
+        [
+          "",
+          "pylene HIZEX ® 5202B high"
+        ],
+        [
+          "",
+          "density polyethylene"
+        ],
+        [
+          "Polypropylene Extruder Barrel",
+          "195° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Polyethylene Extruder Barrel",
+          "190° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Die Temperature:",
+          "193° C."
+        ],
+        [
+          "Line Speed:",
+          "90 ft/min."
+        ],
+        [
+          "Quench Ring Height from Die Exit;",
+          "3 1/2 inches, 3 5/16 inches"
+        ],
+        [
+          "inner, outer:"
+        ],
+        [
+          "Quench Ring Air Pressure; inner,",
+          "4 inches H 2 O, 6 inches H 2 O"
+        ],
+        [
+          "outer:"
+        ],
+        [
+          "Quench Ring Gap; inner, outer:",
+          "0.200 inches, 0.080 inches"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 14</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Materials and Extrusion Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Equipment:</td>\n<td class=\"description-td\">Alpine 3 layer co-extrusion</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">die; 140 mil mandrel gap,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">300 mm die diameter</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resin:</td>\n<td class=\"description-td\">Fina 3271 isotactic polypro-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pylene HIZEX ® 5202B high</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">density polyethylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polypropylene Extruder Barrel</td>\n<td class=\"description-td\">195° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US6346350-drawings-page-6.png\" id=\"190\" label=\"Polyethylene Extruder Barrel\" state=\"{{state}}\">Polyethylene Extruder Barrel</figure-callout> </td>\n<td class=\"description-td\">190° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Die Temperature:</td>\n<td class=\"description-td\">193° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Line Speed:</td>\n<td class=\"description-td\">90 ft/min.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Height from Die Exit;</td>\n<td class=\"description-td\">3 1/2 inches, 3 5/16 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">inner, outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Air Pressure; inner,</td>\n<td class=\"description-td\">4 inches H<sub>2</sub>O, 6 inches H<sub>2</sub>O</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Gap; inner, outer:</td>\n<td class=\"description-td\">0.200 inches, 0.080 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 14"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 15"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Annealing/Stretching Conditions"
+        ],
+        [
+          "for Battery Separator of Example 5"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Annealing Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Annealing Time:",
+          "12 minutes"
+        ],
+        [
+          "",
+          "Cold Stretch Temperature:",
+          "25° C."
+        ],
+        [
+          "",
+          "Cold Stretch Elongation:",
+          "25%"
+        ],
+        [
+          "",
+          "Hot Stretch Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "Hot Stretch Elongation:",
+          "130%"
+        ],
+        [
+          "",
+          "Heat Set Temperature:",
+          "120° C."
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 15</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Annealing/Stretching Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Time:</td>\n<td class=\"description-td\">12 minutes</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Temperature:</td>\n<td class=\"description-td\">25° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Elongation:</td>\n<td class=\"description-td\">25%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Elongation:</td>\n<td class=\"description-td\">130%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat Set Temperature:</td>\n<td class=\"description-td\">120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 15"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 16"
+        ],
+        [
+          ""
+        ],
+        [
+          "Average Product Characteristics for Battery Separator of Example 5"
+        ],
+        [
+          "Gurley",
+          "Thickness",
+          "Shrinkage",
+          "Base Weight",
+          "Porosity"
+        ],
+        [
+          "Sec",
+          "mils",
+          "%",
+          "mg/cm2",
+          "%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17",
+          "0.50",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 16</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Average Product Characteristics for Battery Separator of Example 5</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Shrinkage</td>\n<td class=\"description-td\">Base Weight</td>\n<td class=\"description-td\">Porosity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Sec</td>\n<td class=\"description-td\">mils</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">mg/cm2</td>\n<td class=\"description-td\">%</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">0.50</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 16"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 17"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Materials and Extrusion Conditions"
+        ],
+        [
+          "for Battery Separator of Example 6"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Equipment:",
+          "Alpine 3 layer co-extrusion"
+        ],
+        [
+          "",
+          "die, 140 mil mandrel gap,"
+        ],
+        [
+          "",
+          "300 mm die diameter"
+        ],
+        [
+          "Resin:",
+          "Fina 3271 isotatic polypro-"
+        ],
+        [
+          "",
+          "pylene, HIZEX ® 5202B"
+        ],
+        [
+          "",
+          "high density polyethylene"
+        ],
+        [
+          "Polypropylene Extruder Barrel",
+          "195° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Polyethylene Extruder Barrel",
+          "185° C."
+        ],
+        [
+          "Temperature:"
+        ],
+        [
+          "Die Temperature:",
+          "198° C."
+        ],
+        [
+          "Line Speed:",
+          "80 ft/min"
+        ],
+        [
+          "Quench Ring Height from Die Exit;",
+          "3 inches, 3 5/16 inches"
+        ],
+        [
+          "inner, outer:"
+        ],
+        [
+          "Quench Ring Air Pressure; inner,",
+          "2 inches H 2 O, 3 inches H 2 O"
+        ],
+        [
+          "outer:"
+        ],
+        [
+          "Quench Ring Gap; inner, outer:",
+          "0.080 inches, 0.200 inches"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 17</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Materials and Extrusion Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Equipment:</td>\n<td class=\"description-td\">Alpine 3 layer co-extrusion</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">die, 140 mil mandrel gap,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">300 mm die diameter</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resin:</td>\n<td class=\"description-td\">Fina 3271 isotatic polypro-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pylene, HIZEX ® 5202B</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">high density polyethylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polypropylene Extruder Barrel</td>\n<td class=\"description-td\">195° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polyethylene Extruder Barrel</td>\n<td class=\"description-td\">185° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Die Temperature:</td>\n<td class=\"description-td\">198° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Line Speed:</td>\n<td class=\"description-td\">80 ft/min</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Height from Die Exit;</td>\n<td class=\"description-td\">3 inches, 3 5/16 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">inner, outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Air Pressure; inner,</td>\n<td class=\"description-td\">2 inches H<sub>2</sub>O, 3 inches H<sub>2</sub>O</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">outer:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Quench Ring Gap; inner, outer:</td>\n<td class=\"description-td\">0.080 inches, 0.200 inches</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 17"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 18"
+        ],
+        [
+          ""
+        ],
+        [
+          "Summary of Annealing/Stretching Conditions"
+        ],
+        [
+          "for Battery Separator of Example 6"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Annealing Temperature:",
+          "125° C."
+        ],
+        [
+          "",
+          "Annealing Time:",
+          "8 minutes"
+        ],
+        [
+          "",
+          "Cold Stretch Temperature:",
+          "25° C."
+        ],
+        [
+          "",
+          "Cold Stretch Elongation:",
+          "45%"
+        ],
+        [
+          "",
+          "Hot Stretch Temperature:",
+          "118° C."
+        ],
+        [
+          "",
+          "Hot Stretch Elongation:",
+          "200%"
+        ],
+        [
+          "",
+          "Heat Set Temperature:",
+          "125° C."
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 18</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Summary of Annealing/Stretching Conditions</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">for Battery Separator of Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Temperature:</td>\n<td class=\"description-td\">125° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Annealing Time:</td>\n<td class=\"description-td\">8 minutes</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Temperature:</td>\n<td class=\"description-td\">25° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cold Stretch Elongation:</td>\n<td class=\"description-td\">45%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Temperature:</td>\n<td class=\"description-td\">118° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Hot Stretch Elongation:</td>\n<td class=\"description-td\">200%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat Set Temperature:</td>\n<td class=\"description-td\">125° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 18"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 19"
+        ],
+        [
+          ""
+        ],
+        [
+          "Average Product Characteristics for Battery Separator of Example 6"
+        ],
+        [
+          "Gurley",
+          "Thickness",
+          "Shrinkage",
+          "Base Weight",
+          "Porosity"
+        ],
+        [
+          "Sec",
+          "mils",
+          "%",
+          "mg/ cm2",
+          "%",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "24",
+          "15",
+          "8",
+          "0.70",
+          "48"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "TABLE 1 Test Methods Gurley ASTM-D726(B) Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Basis Weight Basis weight is determined by cutting three-one square foot samples across the width of the sample and weighing them on a precision balance with accuracy to 0.0001 grams. The three (3) samples are averaged and compared to tolerance limits. Thickness Method: T411 om-83 developed under the auspices of the Technical Association of the Pulp and Paper Industry. Thickness is determined using a precision micrometer with a ½ inch diameter, circular shoe contacting the sample at seven (7) PSI. Ten (10) individual micrometer readings taken across the width of the sample are averaged. Shrinkage, MD ASTM D-1204 (60 min. @ 90° C.) Three separate lengths of stretched product of approximately ten centimeters are measured across the width of the sample in the machine direction (MD). The sample is exposed to air at 90° C. for one hour, the lengths are re-measured, the percentage shrinkage of the original length is calculated for each sample, and the results averaged.",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 19</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Average Product Characteristics for Battery Separator of Example 6</td>\n</tr>\n</tbody></table>\n<figure-callout filenames=\"US6346350-drawings-page-2.png\" id=\"24\" label=\"cm2 %\" state=\"{{state}}\">\n</figure-callout><table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Shrinkage</td>\n<td class=\"description-td\">Base Weight</td>\n<td class=\"description-td\">Porosity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Sec</td>\n<td class=\"description-td\">mils</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">mg/<figure-callout filenames=\"US6346350-drawings-page-2.png\" id=\"24\" label=\"cm2 %\" state=\"{{state}}\">cm2</figure-callout> </td> <td class=\"description-td\">%</td> <td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">0.70</td>\n<td class=\"description-td\">48</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 19"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram illustrating an extrusion apparatus useful for manufacturing membranes in accordance with the present invention; FIG. 2 is a detail of the apparatus of FIG. 1 showing the operation of the quench of both sides of the cylindrical polymer film parison; FIG. 3 is another more detailed schematic diagram illustrating operation of the inventive process. FIG. 5 is a plot of electrical resistance versus temperature for various commercially available membranes at a scan (heating) rate of 60° C. per minute; and FIG. 6 is a plot of electrical resistance versus temperature for membranes manufactured in accordance with the present invention as well as two other commercially available membranes. There is shown in FIG. 1 a schematic representation of an extrusion apparatus capable of co-extruding a multi-layer cylindrical parison. An extrusion apparatus 10 includes generally a first extruder 12 and a second extruder 14 connected to a die assembly 16 . Assembly 16 defines a of die orifice indicated at 18 as well as an outer air quench ring 20 and an inner quench ring apparatus 22 , as shown in FIGS. 1 and 2. Cooling air is supplied by way of a fan 24 to die assembly 16 and inner quench ring apparatus 22 . Another fan 26 supplies cooling air to the outer quench ring 20 . A plurality of valves 28 , 30 control air flow; while polymer flow can be controlled by shut off valves 32 and 34 . In FIG. 2, like parts are indicated with the same numerals as in FIG. 1 . As cylindrical film 40 exits orifice 18 it is molten and there is applied about its entire outer periphery an outer quenching air stream indicated at 42 and about its entire inner periphery another quenching air stream indicated at 44 . Both air streams 42 , 44 , are low temperature air streams generally from about 0° C. to about 45° C., with about 15-30° C. being more typical. Air streams 42 , 44 are operative to fully quench the melt phase of film 40 such that it is in a substantially solidified state at 46 . There is shown in FIG. 3 a more detailed quench apparatus 60 utilized in connection with the examples which follow. Apparatus 60 includes a die exit 62 from which molten polymer exits the die to form a cylindrical parison 64 . There is also provided an outer air ring 66 and an inner air ring 68 to provide quenching air to both sides of film parison 64 . Air paths are thus defined as shown by arrows 70 , 72 . Each air ring defines an adjustable gap 74 , 76 which may be set as desired and is located at an adjustable height 78 , 80 above die exit 62 as noted in the examples which follow. The gaps are adjusted along with the various pressures and valves to regulate air flow as desired. FIG. 5 shows typical electrical resistance curves versus temperature for commercially available battery separators measured as above at a heating rate or scan rate of 60° C. per minute. Separator A is a polypropylene battery separator, Separator B is a polyethylene battery separator and Separator C is a polypropylene/polyethylene/polypropylene tri-layer separator. Separator C was also tested at a scan rate of 1° per minute and it was found that the high resistance exhibited above 130° C. or so exhibited a slightly lower upper temperature limit. FIG. 6 shows electrical properties of five different separators measured as described above at scan rates of 60° C. per minute. Separators 6 ( a ), 6 ( b ), and 6 ( c ) were polyethylene/polypropylene/polyethylene membranes prepared in accordance with Example 5. Separator D was a polypropylene/polyethylene/polypropylene commercially available separator, while Separator E was a commercially available high molecular weight polyethylene separator. It can be seen from FIG. 6 that only the membranes in accordance with the invention exhibit electrical resistance greater than 10,000 ohms-square centimeters between 130° C. and 185° C. This characteristic is unique to the separators of the present invention which is further defined in the appended claims.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/70/a8/fb/dfb88b93d7474b/US6346350-drawings-page-2.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram illustrating an extrusion apparatus useful for manufacturing membranes in accordance with the present invention; FIG. 2 is a detail of the apparatus of FIG. 1 showing the operation of the quench of both sides of the cylindrical polymer film parison; FIG. 3 is another more detailed schematic diagram illustrating operation of the inventive process. FIG. 5 is a plot of electrical resistance versus temperature for various commercially available membranes at a scan (heating) rate of 60° C. per minute; and FIG. 6 is a plot of electrical resistance versus temperature for membranes manufactured in accordance with the present invention as well as two other commercially available membranes. There is shown in FIG. 1 a schematic representation of an extrusion apparatus capable of co-extruding a multi-layer cylindrical parison. An extrusion apparatus 10 includes generally a first extruder 12 and a second extruder 14 connected to a die assembly 16 . Assembly 16 defines a of die orifice indicated at 18 as well as an outer air quench ring 20 and an inner quench ring apparatus 22 , as shown in FIGS. 1 and 2. Cooling air is supplied by way of a fan 24 to die assembly 16 and inner quench ring apparatus 22 . Another fan 26 supplies cooling air to the outer quench ring 20 . A plurality of valves 28 , 30 control air flow; while polymer flow can be controlled by shut off valves 32 and 34 . In FIG. 2, like parts are indicated with the same numerals as in FIG. 1 . As cylindrical film 40 exits orifice 18 it is molten and there is applied about its entire outer periphery an outer quenching air stream indicated at 42 and about its entire inner periphery another quenching air stream indicated at 44 . Both air streams 42 , 44 , are low temperature air streams generally from about 0° C. to about 45° C., with about 15-30° C. being more typical. Air streams 42 , 44 are operative to fully quench the melt phase of film 40 such that it is in a substantially solidified state at 46 . There is shown in FIG. 3 a more detailed quench apparatus 60 utilized in connection with the examples which follow. Apparatus 60 includes a die exit 62 from which molten polymer exits the die to form a cylindrical parison 64 . There is also provided an outer air ring 66 and an inner air ring 68 to provide quenching air to both sides of film parison 64 . Air paths are thus defined as shown by arrows 70 , 72 . Each air ring defines an adjustable gap 74 , 76 which may be set as desired and is located at an adjustable height 78 , 80 above die exit 62 as noted in the examples which follow. The gaps are adjusted along with the various pressures and valves to regulate air flow as desired. FIG. 5 shows typical electrical resistance curves versus temperature for commercially available battery separators measured as above at a heating rate or scan rate of 60° C. per minute. Separator A is a polypropylene battery separator, Separator B is a polyethylene battery separator and Separator C is a polypropylene/polyethylene/polypropylene tri-layer separator. Separator C was also tested at a scan rate of 1° per minute and it was found that the high resistance exhibited above 130° C. or so exhibited a slightly lower upper temperature limit. FIG. 6 shows electrical properties of five different separators measured as described above at scan rates of 60° C. per minute. Separators 6 ( a ), 6 ( b ), and 6 ( c ) were polyethylene/polypropylene/polyethylene membranes prepared in accordance with Example 5. Separator D was a polypropylene/polyethylene/polypropylene commercially available separator, while Separator E was a commercially available high molecular weight polyethylene separator. It can be seen from FIG. 6 that only the membranes in accordance with the invention exhibit electrical resistance greater than 10,000 ohms-square centimeters between 130° C. and 185° C. This characteristic is unique to the separators of the present invention which is further defined in the appended claims.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/20/bf/fe/e18912ca9e46c7/US6346350-drawings-page-3.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram illustrating an extrusion apparatus useful for manufacturing membranes in accordance with the present invention; FIG. 2 is a detail of the apparatus of FIG. 1 showing the operation of the quench of both sides of the cylindrical polymer film parison; FIG. 3 is another more detailed schematic diagram illustrating operation of the inventive process. FIG. 5 is a plot of electrical resistance versus temperature for various commercially available membranes at a scan (heating) rate of 60° C. per minute; and FIG. 6 is a plot of electrical resistance versus temperature for membranes manufactured in accordance with the present invention as well as two other commercially available membranes. There is shown in FIG. 1 a schematic representation of an extrusion apparatus capable of co-extruding a multi-layer cylindrical parison. An extrusion apparatus 10 includes generally a first extruder 12 and a second extruder 14 connected to a die assembly 16 . Assembly 16 defines a of die orifice indicated at 18 as well as an outer air quench ring 20 and an inner quench ring apparatus 22 , as shown in FIGS. 1 and 2. Cooling air is supplied by way of a fan 24 to die assembly 16 and inner quench ring apparatus 22 . Another fan 26 supplies cooling air to the outer quench ring 20 . A plurality of valves 28 , 30 control air flow; while polymer flow can be controlled by shut off valves 32 and 34 . In FIG. 2, like parts are indicated with the same numerals as in FIG. 1 . As cylindrical film 40 exits orifice 18 it is molten and there is applied about its entire outer periphery an outer quenching air stream indicated at 42 and about its entire inner periphery another quenching air stream indicated at 44 . Both air streams 42 , 44 , are low temperature air streams generally from about 0° C. to about 45° C., with about 15-30° C. being more typical. Air streams 42 , 44 are operative to fully quench the melt phase of film 40 such that it is in a substantially solidified state at 46 . There is shown in FIG. 3 a more detailed quench apparatus 60 utilized in connection with the examples which follow. Apparatus 60 includes a die exit 62 from which molten polymer exits the die to form a cylindrical parison 64 . There is also provided an outer air ring 66 and an inner air ring 68 to provide quenching air to both sides of film parison 64 . Air paths are thus defined as shown by arrows 70 , 72 . Each air ring defines an adjustable gap 74 , 76 which may be set as desired and is located at an adjustable height 78 , 80 above die exit 62 as noted in the examples which follow. The gaps are adjusted along with the various pressures and valves to regulate air flow as desired. FIG. 5 shows typical electrical resistance curves versus temperature for commercially available battery separators measured as above at a heating rate or scan rate of 60° C. per minute. Separator A is a polypropylene battery separator, Separator B is a polyethylene battery separator and Separator C is a polypropylene/polyethylene/polypropylene tri-layer separator. Separator C was also tested at a scan rate of 1° per minute and it was found that the high resistance exhibited above 130° C. or so exhibited a slightly lower upper temperature limit. FIG. 6 shows electrical properties of five different separators measured as described above at scan rates of 60° C. per minute. Separators 6 ( a ), 6 ( b ), and 6 ( c ) were polyethylene/polypropylene/polyethylene membranes prepared in accordance with Example 5. Separator D was a polypropylene/polyethylene/polypropylene commercially available separator, while Separator E was a commercially available high molecular weight polyethylene separator. It can be seen from FIG. 6 that only the membranes in accordance with the invention exhibit electrical resistance greater than 10,000 ohms-square centimeters between 130° C. and 185° C. This characteristic is unique to the separators of the present invention which is further defined in the appended claims.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/90/49/23/c8036a649e0ff7/US6346350-drawings-page-4.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram illustrating an extrusion apparatus useful for manufacturing membranes in accordance with the present invention; FIG. 2 is a detail of the apparatus of FIG. 1 showing the operation of the quench of both sides of the cylindrical polymer film parison; FIG. 3 is another more detailed schematic diagram illustrating operation of the inventive process. FIG. 5 is a plot of electrical resistance versus temperature for various commercially available membranes at a scan (heating) rate of 60° C. per minute; and FIG. 6 is a plot of electrical resistance versus temperature for membranes manufactured in accordance with the present invention as well as two other commercially available membranes. There is shown in FIG. 1 a schematic representation of an extrusion apparatus capable of co-extruding a multi-layer cylindrical parison. An extrusion apparatus 10 includes generally a first extruder 12 and a second extruder 14 connected to a die assembly 16 . Assembly 16 defines a of die orifice indicated at 18 as well as an outer air quench ring 20 and an inner quench ring apparatus 22 , as shown in FIGS. 1 and 2. Cooling air is supplied by way of a fan 24 to die assembly 16 and inner quench ring apparatus 22 . Another fan 26 supplies cooling air to the outer quench ring 20 . A plurality of valves 28 , 30 control air flow; while polymer flow can be controlled by shut off valves 32 and 34 . In FIG. 2, like parts are indicated with the same numerals as in FIG. 1 . As cylindrical film 40 exits orifice 18 it is molten and there is applied about its entire outer periphery an outer quenching air stream indicated at 42 and about its entire inner periphery another quenching air stream indicated at 44 . Both air streams 42 , 44 , are low temperature air streams generally from about 0° C. to about 45° C., with about 15-30° C. being more typical. Air streams 42 , 44 are operative to fully quench the melt phase of film 40 such that it is in a substantially solidified state at 46 . There is shown in FIG. 3 a more detailed quench apparatus 60 utilized in connection with the examples which follow. Apparatus 60 includes a die exit 62 from which molten polymer exits the die to form a cylindrical parison 64 . There is also provided an outer air ring 66 and an inner air ring 68 to provide quenching air to both sides of film parison 64 . Air paths are thus defined as shown by arrows 70 , 72 . Each air ring defines an adjustable gap 74 , 76 which may be set as desired and is located at an adjustable height 78 , 80 above die exit 62 as noted in the examples which follow. The gaps are adjusted along with the various pressures and valves to regulate air flow as desired. FIG. 5 shows typical electrical resistance curves versus temperature for commercially available battery separators measured as above at a heating rate or scan rate of 60° C. per minute. Separator A is a polypropylene battery separator, Separator B is a polyethylene battery separator and Separator C is a polypropylene/polyethylene/polypropylene tri-layer separator. Separator C was also tested at a scan rate of 1° per minute and it was found that the high resistance exhibited above 130° C. or so exhibited a slightly lower upper temperature limit. FIG. 6 shows electrical properties of five different separators measured as described above at scan rates of 60° C. per minute. Separators 6 ( a ), 6 ( b ), and 6 ( c ) were polyethylene/polypropylene/polyethylene membranes prepared in accordance with Example 5. Separator D was a polypropylene/polyethylene/polypropylene commercially available separator, while Separator E was a commercially available high molecular weight polyethylene separator. It can be seen from FIG. 6 that only the membranes in accordance with the invention exhibit electrical resistance greater than 10,000 ohms-square centimeters between 130° C. and 185° C. This characteristic is unique to the separators of the present invention which is further defined in the appended claims.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/c6/fe/9e/519b314e92265e/US6346350-drawings-page-5.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram illustrating an extrusion apparatus useful for manufacturing membranes in accordance with the present invention; FIG. 2 is a detail of the apparatus of FIG. 1 showing the operation of the quench of both sides of the cylindrical polymer film parison; FIG. 3 is another more detailed schematic diagram illustrating operation of the inventive process. FIG. 5 is a plot of electrical resistance versus temperature for various commercially available membranes at a scan (heating) rate of 60° C. per minute; and FIG. 6 is a plot of electrical resistance versus temperature for membranes manufactured in accordance with the present invention as well as two other commercially available membranes. There is shown in FIG. 1 a schematic representation of an extrusion apparatus capable of co-extruding a multi-layer cylindrical parison. An extrusion apparatus 10 includes generally a first extruder 12 and a second extruder 14 connected to a die assembly 16 . Assembly 16 defines a of die orifice indicated at 18 as well as an outer air quench ring 20 and an inner quench ring apparatus 22 , as shown in FIGS. 1 and 2. Cooling air is supplied by way of a fan 24 to die assembly 16 and inner quench ring apparatus 22 . Another fan 26 supplies cooling air to the outer quench ring 20 . A plurality of valves 28 , 30 control air flow; while polymer flow can be controlled by shut off valves 32 and 34 . In FIG. 2, like parts are indicated with the same numerals as in FIG. 1 . As cylindrical film 40 exits orifice 18 it is molten and there is applied about its entire outer periphery an outer quenching air stream indicated at 42 and about its entire inner periphery another quenching air stream indicated at 44 . Both air streams 42 , 44 , are low temperature air streams generally from about 0° C. to about 45° C., with about 15-30° C. being more typical. Air streams 42 , 44 are operative to fully quench the melt phase of film 40 such that it is in a substantially solidified state at 46 . There is shown in FIG. 3 a more detailed quench apparatus 60 utilized in connection with the examples which follow. Apparatus 60 includes a die exit 62 from which molten polymer exits the die to form a cylindrical parison 64 . There is also provided an outer air ring 66 and an inner air ring 68 to provide quenching air to both sides of film parison 64 . Air paths are thus defined as shown by arrows 70 , 72 . Each air ring defines an adjustable gap 74 , 76 which may be set as desired and is located at an adjustable height 78 , 80 above die exit 62 as noted in the examples which follow. The gaps are adjusted along with the various pressures and valves to regulate air flow as desired. FIG. 5 shows typical electrical resistance curves versus temperature for commercially available battery separators measured as above at a heating rate or scan rate of 60° C. per minute. Separator A is a polypropylene battery separator, Separator B is a polyethylene battery separator and Separator C is a polypropylene/polyethylene/polypropylene tri-layer separator. Separator C was also tested at a scan rate of 1° per minute and it was found that the high resistance exhibited above 130° C. or so exhibited a slightly lower upper temperature limit. FIG. 6 shows electrical properties of five different separators measured as described above at scan rates of 60° C. per minute. Separators 6 ( a ), 6 ( b ), and 6 ( c ) were polyethylene/polypropylene/polyethylene membranes prepared in accordance with Example 5. Separator D was a polypropylene/polyethylene/polypropylene commercially available separator, while Separator E was a commercially available high molecular weight polyethylene separator. It can be seen from FIG. 6 that only the membranes in accordance with the invention exhibit electrical resistance greater than 10,000 ohms-square centimeters between 130° C. and 185° C. This characteristic is unique to the separators of the present invention which is further defined in the appended claims.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/c1/61/ae/5f101f12db62fb/US6346350-drawings-page-6.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/f3/19/7c/4b416eb96f05df/US6346350.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US6346350B1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:21:45.204347+00:00",
+    "sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+    "source": "patents",
+    "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+    "url": "https://patents.google.com/patent/US6346350B1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "3e4d3a11cf3fb46458a384334aa2fd53ef70ed39df6384566a0179a1e135627e",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Thickness",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "5cdca090eb7ccb92564b5f18c042992a7e18fa0ceb607304758dc69de3251d15",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Shrinkage",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "32d78130919e4c8087f643d15394dfe06655ccba496f7986ca26d61c302b1b2c",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Base Weight",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "3aa379b8138b95bbcf07806355ad196572a98ceb39b89f8f2b940af9cab05ac5",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Porosity",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "f081bb04ecca7b41134458ee99f9f568cf03259cdec313a65b13d0894b6572a6",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Thickness",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 7",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "12dc5fde9afeb8fe27d5321986140b28279c963622f23bcf4b710e26d046cc6d",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Shrinkage",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 7",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "16e65f704c887d97afbafbbcfc96f2d9f7951c3d652ff75a31ac23a509bbf72f",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Base Weight",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 7",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "1f425a9db37d5357e88c33122b2d298f162ca17d3bf23fdca25b7d6e2df1cdb9",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Porosity",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 7",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "5e1b5ae7edff0ec1d0b7ea6f663d47e9e8e8e22568bcebebd41987329f33fbff",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Thickness",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 10",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "e2a39d54d037fa66bb9bff434510f8a626e2a29108f1208b55b9174c075c53f6",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Shrinkage",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 10",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "261ce91049a10d0fec044c7e1112344a53020f6be493c8d3b6b36a1656c52a07",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Base Weight",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 10",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "0594c361f80694b18b357f2fdcb683aed78890e1be75f537e9a9b28c4b379a37",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Porosity",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 10",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "dcadbbea4091c59056bfa20d3f52cbcef8b660cdce103c819a0fd41acddc3d1e",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Thickness",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "4335d158ce0f5f0c2d402173ce5d53ed5f2678a19f852305abd4ad83388f1b6a",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Shrinkage",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "1db0f8b5f4c68e2e538eaa67fbe1b760526c216620c5c3544d70e147308e6c62",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Base Weight",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "3c3afee322aea1d83227ee3ef64ded54bd1e42aee922ecea6260b93f547da4d8",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Porosity",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "27d816b6c6ca8d08b8b20ccba3d3f657d735a86b0a9a8940f9aeb658eda69dfb",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Thickness",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 16",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "50f2dd0f3d80642111185d04f3ee58b9201efec97696325d70d5d7b25ce843e7",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Shrinkage",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 16",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "d8794d38c9913f6153d4d8f5124d6695fb1619d7096638029c686b46f922c7aa",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Base Weight",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 16",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "a8d437815ecee50ffcc5c9af56271553034f1eb36044282cb5567e342cbb838c",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Porosity",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 16",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "06de3d5930efd305eb784537acefa99e0ad10618d31d58453aecf9329fd2cfa3",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Thickness",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 19",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "39c336c20a7213e3a517bc05634109d28c491ca2e8116e612f344df3d8e13aa8",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Shrinkage",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 19",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "d7d390b77889c2d3c8fc3be6ace4162f0208c508f29c8d1028699b4c3f1c7024",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Base Weight",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 19",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley",
+      "method": null,
+      "notes": "Publication US6346350B1; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "04a4bf1c319f5ef52d1b7e2b77e4aebc54d40f0c7c20c94de4475a4656658fcf",
+      "original_property_label": "Gurley",
+      "original_unit": "",
+      "original_value": "Porosity",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US6346350B1:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": "length",
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf.bin",
+      "source_id": "71e1631a509d6cb56dc2503b503686f892d8da6da7e5b83067223f6cfd4ff37e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "23d191709357bbf30e13dc72ad0682104cc3ba8d9c189df9547492cc9668edcf",
+      "source_table": "TABLE 19",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6346350B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}

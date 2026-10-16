@@ -1,0 +1,204 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Nonaqueous",
+          "",
+          "",
+          "Rate"
+        ],
+        [
+          "",
+          "electrolyte",
+          "",
+          "",
+          "capacity"
+        ],
+        [
+          "",
+          "secondary",
+          "",
+          "",
+          "maintaining"
+        ],
+        [
+          "",
+          "battery",
+          "L*",
+          "WI",
+          "ratio (%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "1",
+          "88",
+          "87",
+          "60"
+        ],
+        [
+          "Example 2",
+          "2",
+          "91",
+          "97",
+          "84"
+        ],
+        [
+          "Example 3",
+          "3",
+          "89",
+          "91",
+          "78"
+        ],
+        [
+          "Comparative",
+          "Comparative",
+          "76",
+          "77",
+          "51"
+        ],
+        [
+          "Example 1",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Nonaqueous</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Rate </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">electrolyte</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">capacity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">secondary</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">maintaining</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">battery</td>\n<td class=\"description-td\">L*</td>\n<td class=\"description-td\">WI</td>\n<td class=\"description-td\">ratio (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">88</td>\n<td class=\"description-td\">87</td>\n<td class=\"description-td\">60 </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">91</td>\n<td class=\"description-td\">97</td>\n<td class=\"description-td\">84</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">89</td>\n<td class=\"description-td\">91</td>\n<td class=\"description-td\">78</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">76</td>\n<td class=\"description-td\">77</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/ff/fc/1c/26293d62c9bd59/US20170155119A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"27b90635d51469d325f98c27556ad740\"",
+        "last_modified": "Sun, 12 Nov 2017 00:03:33 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/bd32cdfe68534eacde69a0ff3f5f3f2fb33e36d6fa4d979a760b0a237f86f7f1.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:50.986526+00:00",
+        "sha256": "bd32cdfe68534eacde69a0ff3f5f3f2fb33e36d6fa4d979a760b0a237f86f7f1",
+        "source": "patent_pdf",
+        "source_id": "06d959095782fb6e41f5ca3562665c143f863adcf801f6dab9e92007462d5856",
+        "url": "https://patentimages.storage.googleapis.com/ff/fc/1c/26293d62c9bd59/US20170155119A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20170155119A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/577d11c73cee6eb227811bf357c3723dccfed7c2f9e425603c65cd2998d7d8bc.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:49.721582+00:00",
+    "sha256": "577d11c73cee6eb227811bf357c3723dccfed7c2f9e425603c65cd2998d7d8bc",
+    "source": "patents",
+    "source_id": "4837dbd2bddd53ab07065909ec003ae1c379c3686a5affda96917a6695596741",
+    "url": "https://patents.google.com/patent/US20170155119A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "499886ac409650d849e8f3086c5feb5787d932a30414a63a59695849fb1bc9ad",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "4837dbd2bddd53ab07065909ec003ae1c379c3686a5affda96917a6695596741",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/577d11c73cee6eb227811bf357c3723dccfed7c2f9e425603c65cd2998d7d8bc.bin",
+      "source_id": "4837dbd2bddd53ab07065909ec003ae1c379c3686a5affda96917a6695596741",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "577d11c73cee6eb227811bf357c3723dccfed7c2f9e425603c65cd2998d7d8bc",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20170155119A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

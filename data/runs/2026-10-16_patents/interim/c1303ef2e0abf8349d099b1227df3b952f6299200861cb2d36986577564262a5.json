@@ -1,0 +1,170 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Capacity maintenance after 50 cycles (%)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "95"
+        ],
+        [
+          "Comparative Example 3",
+          "72"
+        ],
+        [
+          "Comparative Example 4",
+          "86"
+        ],
+        [
+          "Comparative Example 5",
+          "84"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Capacity maintenance after 50 cycles (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">95</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 3</td>\n<td class=\"description-td\">72</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 4</td>\n<td class=\"description-td\">86</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 5</td>\n<td class=\"description-td\">84</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a schematic view illustrating generation and transfer of lithium ions in the battery according to the prior art. FIG. 2 is a schematic view illustrating generation and transfer of lithium ions in the battery according to the present disclosure. FIG. 3 is a graph illustrating a difference in capacity realized in the batteries according to Example and Comparative example. FIG. 4 is a graph illustrating charge/discharge characteristics of the batteries according to Example and Comparative example. FIG. 1 shows a battery provided with a separator according to the prior art. Referring to FIG. 1 , lithium ions are merely provided from the positive electrode active material of a positive electrode 10 to a negative electrode 12 by way of a separator 11 and are used to form a solid electrolyte interphase (SEI) film. Thus, only the remaining lithium ions are intercalated to the negative electrode, thereby causing a problem of degradation of reversible capacity. Particularly, when the negative electrode active material comprises a metal ingredient, such as Sn or Si, as described above, a lithium compound is formed in the metal phase to cause irreversible consumption of lithium, and thus degradation of reversible capacity may become more severe. FIG. 2 is a schematic view illustrating a separator according to the present disclosure and a battery comprising the separator 110 . The battery of FIG. 2 comprises a positive electrode 100 , a negative electrode 120 and a separator 110 interposed between the positive electrode and the negative electrode. Referring to FIG. 2 , lithium ions are provided to the negative electrode 120 from the separator during the initial charge, and thus it is possible to supplement the amount of irreversibly consumed lithium ions. Therefore, it is possible to solve the problem of degradation of capacity caused by the initial charge of the battery. FIG. 3 shows the results of initial charge/discharge efficiency of each of the batteries according to Example 1 and Comparative Examples 1. The battery according to Example 1 comprises composite particles (A) comprising lithium aluminum titanium phosphate and having a carbon coating layer on the surface thereof. The battery according to Comparative Example 1 comprises lithium aluminum titanium phosphate particles having no carbon coating. As shown in FIG. 3 , the battery according to Example 1 shows a higher capacity as compared to the battery according to Comparative Example 1. FIG. 4 is a graph illustrating the results of initial charge/discharge efficiency of each of the batteries according to Example 1 and Comparative Example 2. It can be seen that the battery according to Example 1 has a higher initial charge/discharge efficiency as compared to the battery according to Comparative Example 2.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/2a/59/c4/8570489b81efca/US11276901-20220315-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic view illustrating generation and transfer of lithium ions in the battery according to the prior art. FIG. 2 is a schematic view illustrating generation and transfer of lithium ions in the battery according to the present disclosure. FIG. 3 is a graph illustrating a difference in capacity realized in the batteries according to Example and Comparative example. FIG. 4 is a graph illustrating charge/discharge characteristics of the batteries according to Example and Comparative example. FIG. 1 shows a battery provided with a separator according to the prior art. Referring to FIG. 1 , lithium ions are merely provided from the positive electrode active material of a positive electrode 10 to a negative electrode 12 by way of a separator 11 and are used to form a solid electrolyte interphase (SEI) film. Thus, only the remaining lithium ions are intercalated to the negative electrode, thereby causing a problem of degradation of reversible capacity. Particularly, when the negative electrode active material comprises a metal ingredient, such as Sn or Si, as described above, a lithium compound is formed in the metal phase to cause irreversible consumption of lithium, and thus degradation of reversible capacity may become more severe. FIG. 2 is a schematic view illustrating a separator according to the present disclosure and a battery comprising the separator 110 . The battery of FIG. 2 comprises a positive electrode 100 , a negative electrode 120 and a separator 110 interposed between the positive electrode and the negative electrode. Referring to FIG. 2 , lithium ions are provided to the negative electrode 120 from the separator during the initial charge, and thus it is possible to supplement the amount of irreversibly consumed lithium ions. Therefore, it is possible to solve the problem of degradation of capacity caused by the initial charge of the battery. FIG. 3 shows the results of initial charge/discharge efficiency of each of the batteries according to Example 1 and Comparative Examples 1. The battery according to Example 1 comprises composite particles (A) comprising lithium aluminum titanium phosphate and having a carbon coating layer on the surface thereof. The battery according to Comparative Example 1 comprises lithium aluminum titanium phosphate particles having no carbon coating. As shown in FIG. 3 , the battery according to Example 1 shows a higher capacity as compared to the battery according to Comparative Example 1. FIG. 4 is a graph illustrating the results of initial charge/discharge efficiency of each of the batteries according to Example 1 and Comparative Example 2. It can be seen that the battery according to Example 1 has a higher initial charge/discharge efficiency as compared to the battery according to Comparative Example 2.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/b2/70/49/09d98e0384f5d0/US11276901-20220315-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic view illustrating generation and transfer of lithium ions in the battery according to the prior art. FIG. 2 is a schematic view illustrating generation and transfer of lithium ions in the battery according to the present disclosure. FIG. 3 is a graph illustrating a difference in capacity realized in the batteries according to Example and Comparative example. FIG. 4 is a graph illustrating charge/discharge characteristics of the batteries according to Example and Comparative example. FIG. 1 shows a battery provided with a separator according to the prior art. Referring to FIG. 1 , lithium ions are merely provided from the positive electrode active material of a positive electrode 10 to a negative electrode 12 by way of a separator 11 and are used to form a solid electrolyte interphase (SEI) film. Thus, only the remaining lithium ions are intercalated to the negative electrode, thereby causing a problem of degradation of reversible capacity. Particularly, when the negative electrode active material comprises a metal ingredient, such as Sn or Si, as described above, a lithium compound is formed in the metal phase to cause irreversible consumption of lithium, and thus degradation of reversible capacity may become more severe. FIG. 2 is a schematic view illustrating a separator according to the present disclosure and a battery comprising the separator 110 . The battery of FIG. 2 comprises a positive electrode 100 , a negative electrode 120 and a separator 110 interposed between the positive electrode and the negative electrode. Referring to FIG. 2 , lithium ions are provided to the negative electrode 120 from the separator during the initial charge, and thus it is possible to supplement the amount of irreversibly consumed lithium ions. Therefore, it is possible to solve the problem of degradation of capacity caused by the initial charge of the battery. FIG. 3 shows the results of initial charge/discharge efficiency of each of the batteries according to Example 1 and Comparative Examples 1. The battery according to Example 1 comprises composite particles (A) comprising lithium aluminum titanium phosphate and having a carbon coating layer on the surface thereof. The battery according to Comparative Example 1 comprises lithium aluminum titanium phosphate particles having no carbon coating. As shown in FIG. 3 , the battery according to Example 1 shows a higher capacity as compared to the battery according to Comparative Example 1. FIG. 4 is a graph illustrating the results of initial charge/discharge efficiency of each of the batteries according to Example 1 and Comparative Example 2. It can be seen that the battery according to Example 1 has a higher initial charge/discharge efficiency as compared to the battery according to Comparative Example 2.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/8d/f9/23/f3fe65f73035a6/US11276901-20220315-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/da/d2/0e/a1e6d01fadb4ca/US11276901.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"1b3af2c35304ee2e6c92c50b7e47ccc9\"",
+        "last_modified": "Thu, 24 Mar 2022 06:08:32 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/931904cc82217480e136dd333665450d3dd066479bfc89267fe26f187b143f77.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:26:55.300126+00:00",
+        "sha256": "931904cc82217480e136dd333665450d3dd066479bfc89267fe26f187b143f77",
+        "source": "patent_pdf",
+        "source_id": "b5f318f4b6fd639d846e8b01e0e52259cadf9338d067708b71884cbfc17f6284",
+        "url": "https://patentimages.storage.googleapis.com/da/d2/0e/a1e6d01fadb4ca/US11276901.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US11276901B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/83fb986122c84d984ecfdb91ae9bbfede3100848abc9069a5b3975ec30f3827f.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:54.343745+00:00",
+    "sha256": "83fb986122c84d984ecfdb91ae9bbfede3100848abc9069a5b3975ec30f3827f",
+    "source": "patents",
+    "source_id": "d5c8d2eadbfde4e1d79e7e307509b3b94643aa5a54a80fca3f1457dbe54eff77",
+    "url": "https://patents.google.com/patent/US11276901B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "af2940b5195e28e18488886babcff2fd340df04ee0cdd4a0b45c2ac27eac499b",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "d5c8d2eadbfde4e1d79e7e307509b3b94643aa5a54a80fca3f1457dbe54eff77",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/83fb986122c84d984ecfdb91ae9bbfede3100848abc9069a5b3975ec30f3827f.bin",
+      "source_id": "d5c8d2eadbfde4e1d79e7e307509b3b94643aa5a54a80fca3f1457dbe54eff77",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "83fb986122c84d984ecfdb91ae9bbfede3100848abc9069a5b3975ec30f3827f",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US11276901B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

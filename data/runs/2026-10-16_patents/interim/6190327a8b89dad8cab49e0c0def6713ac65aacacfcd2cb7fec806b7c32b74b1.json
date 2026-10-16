@@ -1,0 +1,91 @@
+{
+  "artifacts": [
+    {
+      "caption": "FIG. 1 is a graphical illustration of TMA compression curves for several differing membranes. FIG. 2 is a graphical illustration of TMA compression curves for several differing membranes. Referring to FIG. 1 , there is shown four (4) TMA compression curves of four different membranes. Each membrane is a microporous membrane of polypropylene. Curve A is the control (i.e., no filler). Curve B has 4% by volume talc. Curve C has 8% talc. Curve D has 12% talc. Note that the control has a maximum compression of 100% at 250° C., whereas Curves C and D never cross the 80% compression lines. Referring to FIG. 2 , there is shown four (4) TMA compression curves of four different membranes. Each membrane is a microporous membrane of polypropylene. Curve A is the control (i.e., no filler). Curve B has 2.5% by volume TiO 2 . Curve C has 5% TiO 2 . Curve D has 8.5% TiO 2 . Note that the control has a maximum compression of 100% at 250° C., whereas Curve B has a maximum compression of about 95% and Curves C and D have a maximum compression of about 90%.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/f6/15/a1/d28af0ef25b504/US20060088769A1-20060427-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/0c/06/95/754a6419be7734/US20060088769A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20060088769A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/f2aac63e5581e3e966c1b2d3f99474b4a51559cda68c908c795be8873ca4e389.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:28.361671+00:00",
+    "sha256": "f2aac63e5581e3e966c1b2d3f99474b4a51559cda68c908c795be8873ca4e389",
+    "source": "patents",
+    "source_id": "d419015eea756836101b763b75e81f4d5544b083b1c005978e44058e3f066813",
+    "url": "https://patents.google.com/patent/US20060088769A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "f0118392432abf2dc231883a46f99600b9e8537dc28f3d5fa262f47735abfe47",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "d419015eea756836101b763b75e81f4d5544b083b1c005978e44058e3f066813",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/f2aac63e5581e3e966c1b2d3f99474b4a51559cda68c908c795be8873ca4e389.bin",
+      "source_id": "d419015eea756836101b763b75e81f4d5544b083b1c005978e44058e3f066813",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "f2aac63e5581e3e966c1b2d3f99474b4a51559cda68c908c795be8873ca4e389",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20060088769A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

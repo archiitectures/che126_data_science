@@ -1,0 +1,12 @@
+[
+  {
+    "fixture": "z1831.pdf",
+    "url": "https://www.celgard.com/storage/components/z1831_com_data_2026-03.pdf",
+    "sha256": "6bba8a81fc006315da533aa205e2f5d161a8adac4551c9899ffb02f1878dfaf6"
+  },
+  {
+    "fixture": "pp1611.pdf",
+    "url": "https://www.celgard.com/storage/components/pp1611_com_data_2026-01.pdf",
+    "sha256": "70a180682d0aa6e29aaf8568dae24259c835e852f442baa6d5594c4f9a660064"
+  }
+]

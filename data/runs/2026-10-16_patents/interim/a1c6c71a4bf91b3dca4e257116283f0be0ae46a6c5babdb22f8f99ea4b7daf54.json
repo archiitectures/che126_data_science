@@ -1,0 +1,272 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Component",
+          "Material",
+          "Weight Percentage"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Polymer",
+          "Polyvinylidene fluoride",
+          "33.4"
+        ],
+        [
+          "",
+          "Plasticizer",
+          "dibutyl phthalate",
+          "44.4"
+        ],
+        [
+          "",
+          "Filler",
+          "silica powder (Type I)",
+          "22.2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Component</td> <td class=\"description-td\">Material</td> <td class=\"description-td\">Weight Percentage</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Polymer</td> <td class=\"description-td\">Polyvinylidene fluoride</td> <td class=\"description-td\">33.4</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Plasticizer</td> <td class=\"description-td\">dibutyl phthalate</td> <td class=\"description-td\">44.4</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Filler</td> <td class=\"description-td\">silica powder (Type I)</td> <td class=\"description-td\">22.2</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Component",
+          "Material",
+          "Weight Percentage"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Polymer",
+          "polyvinylidene fluoride",
+          "30"
+        ],
+        [
+          "",
+          "Plasticizer",
+          "dibutyl phthalate",
+          "35"
+        ],
+        [
+          "",
+          "Filler",
+          "silica powder (Type I)",
+          "22"
+        ],
+        [
+          "",
+          "Filler",
+          "silica powder (Type II)",
+          "13"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Component</td> <td class=\"description-td\">Material</td> <td class=\"description-td\">Weight Percentage</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Polymer</td> <td class=\"description-td\">polyvinylidene fluoride</td> <td class=\"description-td\">30</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Plasticizer</td> <td class=\"description-td\">dibutyl phthalate</td> <td class=\"description-td\">35</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Filler</td> <td class=\"description-td\">silica powder (Type I)</td> <td class=\"description-td\">22</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Filler</td> <td class=\"description-td\">silica powder (Type II)</td> <td class=\"description-td\">13</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_2"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/85/8a/80/56358f586a6259/US20020102455A1-20020801-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/0d/50/fa/55207337303826/US20020102455A1-20020801-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/d7/ea/38/8d83347e488eb0/US20020102455A1-20020801-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/cb/83/92/908c0061878382/US20020102455A1-20020801-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/5e/18/f8/f339034a77b12b/US20020102455A1-20020801-D00004.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "6",
+      "url": "https://patentimages.storage.googleapis.com/fb/90/fa/798bd738769057/US20020102455A1-20020801-D00005.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "7",
+      "url": "https://patentimages.storage.googleapis.com/83/7c/16/5b662d94e784a4/US20020102455A1-20020801-D00006.png"
+    },
+    {
+      "caption": "FIG. 1 is a perspective view of a battery cell having a multi-layered separator, illustrating a preferred embodiment of the present invention; [0016] FIG. 2 is an enlarged, top view of the battery cell shown in FIG. 1; [0017] FIG. 3 is a sectional view taken along lines 3-3 of FIG. 2 showing the upper end of the battery cell shown in FIG. 1; [0018] FIG. 4 is an enlarged view of area 4-4 in FIG. 3; [0019] FIG. 5 is a micrograph at 2,000×magnification showing the structure of a cathode; [0020] FIG. 6 is a micrograph at 2,000×magnification showing the structure of an anode; [0021] FIG. 7 is a micrograph at 2,000×magnification showing a three-layered separator between a cathode and an anode, according to the present invention; [0022] FIG. 8 is a mechanical representation of the three-layered separator shown in FIG. 7; [0023] FIG. 10 is a bi-cell having two multi-layered separators illustrating another embodiment of the present invention. [0025] Referring now to the drawings wherein the showings are for the purpose of illustrating a preferred embodiment of the invention only, and not for the purpose of limiting same, FIG. 1 shows a [0026] battery 10 illustrating a preferred embodiment of the present invention. Battery 10 is formed of a polymer, electrolytic cell 12 contained within a package 14 (shown in phantom in the drawings) that is formed of a flexible laminate material. Cell 12 is preferably a lithium-based electrochemical cell. Cell 12 may be a primary (non-rechargeable) cell or a secondary (rechargeable) cell. Cell 12 is comprised of a cathode section 22 and an anode section 32 . Cathode [0027] section 22 is comprised of two layers 24 of a cathode film. The film-forming cathode layer 24 is preferably comprised of a lithiated metal oxide active material, a conductive material and a binder material. A current collector 26 formed of a metal screen, metal mesh or a sheet of perforated metal is provided between cathode layers 24 . Current collector 26 preferably has a thickness of about 25 μm to about 50 μm. Current collector 26 includes an outward extending tab or strip 28 . Each cathode layer 24 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 5 is a sectional view of cathode film layer 24 at 2,000×magnification showing lithiated metal oxide particles and conductive particles (the lighter areas) in a binder matrix (the darker background). Anode [0028] section 32 is comprised of two layers 34 of an anode film having a current collector 36 disposed therebetween. Current collector 36 is preferably formed of a metal mesh, metal screen or a sheet of perforated metal having a thickness of about 25 μm to about 50 μm. The film-forming anode layers 34 are preferably comprised of a carbon active material, a conductive material and a binder material. Current collector 36 includes an outward extending tab or strip 38 that defines the negative lead of battery 10 . Each anode layer 34 preferably has a thickness of about 50 μm to about 200 μm, and more preferably about 80 μm to about 150 μm. FIG. 6 is a sectional view of anode film layer 34 at 2,000×magnification showing the carbon active material (the larger, light areas) in a binder matrix (the darker background area). The present invention provides a [0040] multi-layered separator 40 that has at least two separator layers 40 a , 40 c , each having physical properties and a structural make-up that is different from the other separator layer 40 b . FIG. 7 is a sectional view at 2,000×magnification, showing a three- layered separator 40 disposed between a cathode film 24 and an anode film 34 . FIG. 8 is a mechanical representation of the image shown in FIG. 7 that is provided for easier identification of the respective layers and components. As shown in FIGS. 7 and 8, separator layers 40 a , 40 c are relatively thinner as contrasted with intermediate separator layer 40 b . As indicated above, layers 40 a , 40 c are preferably formed of a composition that has low porosity and improved adhesive properties. The improved adhesive properties are particularly important in providing adhesion to anode film layer 34 . As seen in FIGS. 7 and 8, the relatively large carbon particles of film 34 produce a rougher exterior surface. A porous, relatively hard separator film would not have good adhesion to such a surface. By providing separator layer 40 c that is a relatively soft and less porous material, separator layer 40 c can more easily mate with the surface of anode film 34 and provide better adhesion thereto. Similarly, separator layer 40 a provides better adhesion to cathode film 24 . Referring now to FIG. 10, a bi-cell [0054] 112 illustrating an alternate embodiment of the present invention is shown. As contrasted with cell 112 illustrated in FIGS. 1 - 9 , bi-cell 112 has two cathode sections 22 and an anode section 32 disposed therebetween. Cathode sections 22 and anode sections 32 are similar to those heretofore described, and like reference numbers are used to identify like components. Disposed between each cathode section 22 and anode section 32 is a multi-layered separator 40 similar to that heretofore described. FIG. 10 thus illustrates how a multi-layered separator 40 in accordance with the present invention finds advantageous application in multi-cell configurations.",
+      "kind": "figure",
+      "sheet": "8",
+      "url": "https://patentimages.storage.googleapis.com/1d/ec/b9/a664dba5d98a2c/US20020102455A1-20020801-D00007.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/fa/fe/a9/b50f6da26f282f/US20020102455A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"57136c15d688aae9af2123766a254cea\"",
+        "last_modified": "Mon, 16 Oct 2017 13:26:26 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/3d937bcf3c5027af3b9c4d54f9040318154ababad627e8e02e71de466994be2f.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:21:06.460582+00:00",
+        "sha256": "3d937bcf3c5027af3b9c4d54f9040318154ababad627e8e02e71de466994be2f",
+        "source": "patent_pdf",
+        "source_id": "03413111f33b4c8145066c0b344e072bff7ab6c909d75a17b9e092960c80c511",
+        "url": "https://patentimages.storage.googleapis.com/fa/fe/a9/b50f6da26f282f/US20020102455A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20020102455A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/259e7f6b740af930423c35e76a3b1c67494376760fb49968978773257b2fe628.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:21:05.606220+00:00",
+    "sha256": "259e7f6b740af930423c35e76a3b1c67494376760fb49968978773257b2fe628",
+    "source": "patents",
+    "source_id": "a1c5bef9f137cf90786837266bffac5166fe7a03b73a852d5911eb615ee31835",
+    "url": "https://patents.google.com/patent/US20020102455A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "9af95745a37dd960f821cf7e66cf8e9c916474fc27150b8e14d09742ad06504d",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "a1c5bef9f137cf90786837266bffac5166fe7a03b73a852d5911eb615ee31835",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/259e7f6b740af930423c35e76a3b1c67494376760fb49968978773257b2fe628.bin",
+      "source_id": "a1c5bef9f137cf90786837266bffac5166fe7a03b73a852d5911eb615ee31835",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "259e7f6b740af930423c35e76a3b1c67494376760fb49968978773257b2fe628",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20020102455A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

@@ -1,0 +1,11 @@
+{
+  "etag": null,
+  "last_modified": null,
+  "path": "data/runs/2026-10-16_patents/raw/c9b7fca22296c2f924843e8c5951174d3f65cd6b18df06efb34b6266763fb295.bin",
+  "restrictions": "License/reuse permission not established; local research evidence only",
+  "retrieved_at": "2026-10-16T18:20:57.936308+00:00",
+  "sha256": "c9b7fca22296c2f924843e8c5951174d3f65cd6b18df06efb34b6266763fb295",
+  "source": "patents",
+  "source_id": "dcde9caff0262861e0195ae9d01178cf4aaa952de83e09153d2a5fc8c678ff42",
+  "url": "https://patents.google.com/patent/US8710110B2/en"
+}

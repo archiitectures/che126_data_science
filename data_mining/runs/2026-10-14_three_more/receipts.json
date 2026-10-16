@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://entek.com/lithium/products/",
+    "retrieved_at": "2026-10-15T05:57:44.428788+00:00",
+    "sha256": "68bb03095d8c567241791e5257768863ce79c5b92c36f86716d6dde6770bd19e",
+    "bytes": 180824,
+    "path": "data/raw/68bb03095d8c567241791e5257768863ce79c5b92c36f86716d6dde6770bd19e.bin"
+  },
+  {
+    "url": "https://entek.com/wp-content/uploads/2024/05/Li_Brochure_2024.pdf",
+    "retrieved_at": "2026-10-15T05:57:58.968812+00:00",
+    "sha256": "ef998d2b4570549b2fda8adf00df6d89b78964bf57786e53afc40dde619813f8",
+    "bytes": 6247869,
+    "path": "data/raw/ef998d2b4570549b2fda8adf00df6d89b78964bf57786e53afc40dde619813f8.pdf"
+  },
+  {
+    "url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+    "retrieved_at": "2026-10-15T05:57:59.447296+00:00",
+    "sha256": "be345b2e81fd3411673658a49328c1e17eb445065a4a0f468d936175461ccb63",
+    "bytes": 2814486,
+    "path": "data/raw/be345b2e81fd3411673658a49328c1e17eb445065a4a0f468d936175461ccb63.pdf"
+  }
+]

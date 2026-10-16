@@ -1,0 +1,867 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Examples"
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "PE Composition"
+        ],
+        [
+          "UHMWPE (Mw, × 10.sup.5)"
+        ],
+        [
+          "25 25 25 25 25 25 25 5"
+        ],
+        [
+          "HDPE (Mw, × 10.sup.5)"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "HDPE/UHMWPE",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "0.5"
+        ],
+        [
+          "9",
+          "4"
+        ],
+        [
+          "by weight"
+        ],
+        [
+          "Concentration of PE solution"
+        ],
+        [
+          "20 20 20 10 30 20 20 20"
+        ],
+        [
+          "(wt %)"
+        ],
+        [
+          "Sheet forming conditions"
+        ],
+        [
+          "Cooling",
+          "rapid"
+        ],
+        [
+          "rapid"
+        ],
+        [
+          "rapid"
+        ],
+        [
+          "rapid"
+        ],
+        [
+          "rapid"
+        ],
+        [
+          "rapid"
+        ],
+        [
+          "rapid"
+        ],
+        [
+          "rapid"
+        ],
+        [
+          "Stretching",
+          "-- -- -- -- -- -- -- --"
+        ],
+        [
+          "Sheet forming ability"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "Solvent removing"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "Properties of PE membrane"
+        ],
+        [
+          "Thickness (μm)"
+        ],
+        [
+          "121"
+        ],
+        [
+          "32 205"
+        ],
+        [
+          "118"
+        ],
+        [
+          "125"
+        ],
+        [
+          "134"
+        ],
+        [
+          "104"
+        ],
+        [
+          "119"
+        ],
+        [
+          "Porosity (%) 68 70 64 74 62 65 60 62"
+        ],
+        [
+          "Air permeability"
+        ],
+        [
+          "82 20 108"
+        ],
+        [
+          "50 105"
+        ],
+        [
+          "99 147"
+        ],
+        [
+          "152"
+        ],
+        [
+          "(sec/100 cc)"
+        ],
+        [
+          "Average pore diameter"
+        ],
+        [
+          "0.342"
+        ],
+        [
+          "0.452"
+        ],
+        [
+          "0.218"
+        ],
+        [
+          "0.379"
+        ],
+        [
+          "0.205"
+        ],
+        [
+          "0.310"
+        ],
+        [
+          "0.273"
+        ],
+        [
+          "0.250"
+        ],
+        [
+          "(μm)"
+        ],
+        [
+          "__________________________________________________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">                                  TABLE 1                                 \n__________________________________________________________________________\n             Examples                                                     \n             1  2  3  4  5  6  7  8                                       \n__________________________________________________________________________\nPE Composition                                                            \nUHMWPE (Mw, × 10.sup.5)                                             \n             25 25 25 25 25 25 25 5                                       \nHDPE (Mw, × 10.sup.5)                                               \n             3.0                                                          \n                3.0                                                       \n                   3.0                                                    \n                      3.0                                                 \n                         3.0                                              \n                            3.0                                           \n                               3.0                                        \n                                  3.0                                     \nHDPE/UHMWPE  4  4  4  4  4  0.5                                           \n                               9  4                                       \nby weight                                                                 \nConcentration of PE solution                                              \n             20 20 20 10 30 20 20 20                                      \n(wt %)                                                                    \nSheet forming conditions                                                  \nCooling      rapid                                                        \n                rapid                                                     \n                   rapid                                                  \n                      rapid                                               \n                         rapid                                            \n                            rapid                                         \n                               rapid                                      \n                                  rapid                                   \nStretching   -- -- -- -- -- -- -- --                                      \nSheet forming ability                                                     \n             ◯                                                \n                ◯                                             \n                   ◯                                          \n                      ◯                                       \n                         ◯                                    \n                            ◯                                 \n                               ◯                              \n                                  ◯                           \nSolvent removing                                                          \n             ◯                                                \n                ◯                                             \n                   ◯                                          \n                      ◯                                       \n                         ◯                                    \n                            ◯                                 \n                               ◯                              \n                                  ◯                           \nProperties of PE membrane                                                 \nThickness (μm)                                                         \n             121                                                          \n                32 205                                                    \n                      118                                                 \n                         125                                              \n                            134                                           \n                               104                                        \n                                  119                                     \nPorosity (%) 68 70 64 74 62 65 60 62                                      \nAir permeability                                                          \n             82 20 108                                                    \n                      50 105                                              \n                            99 147                                        \n                                  152                                     \n(sec/100 cc)                                                              \nAverage pore diameter                                                     \n             0.342                                                        \n                0.452                                                     \n                   0.218                                                  \n                      0.379                                               \n                         0.205                                            \n                            0.310                                         \n                               0.273                                      \n                                  0.250                                   \n(μm)                                                                   \n__________________________________________________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Comparative Examples"
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "PE Composition"
+        ],
+        [
+          "UHMWPE",
+          "25",
+          "25",
+          "25",
+          "25",
+          "--",
+          "25"
+        ],
+        [
+          "(Mw, × 10.sup.5)"
+        ],
+        [
+          "HDPE(Mw, × 10.sup.5)"
+        ],
+        [
+          "3.0",
+          "3.0",
+          "3.0",
+          "--",
+          "3.0",
+          "3.0"
+        ],
+        [
+          "HDPE/UHMWPE",
+          "4",
+          "4",
+          "4",
+          "--",
+          "--",
+          "4"
+        ],
+        [
+          "by weight"
+        ],
+        [
+          "Concentration of PE"
+        ],
+        [
+          "20",
+          "20",
+          "40",
+          "20",
+          "20",
+          "20"
+        ],
+        [
+          "solution (wt %)"
+        ],
+        [
+          "Sheet forming conditions"
+        ],
+        [
+          "Cooling",
+          "rapid",
+          "rapid",
+          "rapid"
+        ],
+        [
+          "rapid rapid"
+        ],
+        [
+          "slow"
+        ],
+        [
+          "Stretching",
+          "5 × 5"
+        ],
+        [
+          "--",
+          "--",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "Sheet forming ability"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "Δ"
+        ],
+        [
+          "Δ to X"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "Solvent removing"
+        ],
+        [
+          "◯"
+        ],
+        [
+          "Δ X",
+          "◯"
+        ],
+        [
+          "Δ"
+        ],
+        [
+          "X"
+        ],
+        [
+          "Properties of PE"
+        ],
+        [
+          "membrane"
+        ],
+        [
+          "Thickness (μm)"
+        ],
+        [
+          "30",
+          "298",
+          "120",
+          "130",
+          "185",
+          "42"
+        ],
+        [
+          "Porosity (%) 41",
+          "58",
+          "30",
+          "60",
+          "53",
+          "16"
+        ],
+        [
+          "Air permeability"
+        ],
+        [
+          "736",
+          "74900",
+          ">10.sup.5"
+        ],
+        [
+          "155",
+          "2250 >10.sup.5"
+        ],
+        [
+          "sec/100 cc)"
+        ],
+        [
+          "Average pore diameter"
+        ],
+        [
+          "<0.05",
+          "<0.05",
+          "<0.05"
+        ],
+        [
+          "0.189 0.07 <0.05"
+        ],
+        [
+          "(μm)"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 2                                                     \n______________________________________                                    \n           Comparative Examples                                           \n           1    2       3      4     5    6                               \n______________________________________                                    \nPE Composition                                                            \nUHMWPE       25     25      25   25    --   25                            \n(Mw, × 10.sup.5)                                                    \nHDPE(Mw, × 10.sup.5)                                                \n             3.0    3.0     3.0  --    3.0  3.0                           \nHDPE/UHMWPE  4      4       4    --    --   4                             \nby weight                                                                 \nConcentration of PE                                                       \n             20     20      40   20    20   20                            \nsolution (wt %)                                                           \nSheet forming conditions                                                  \nCooling      rapid  rapid   rapid                                         \n                                 rapid rapid                              \n                                            slow                          \nStretching   5 × 5                                                  \n                    --      --   --    --   --                            \nSheet forming ability                                                     \n             ◯                                                \n                    ◯                                         \n                            Δ                                       \n                                 Δ to X                             \n                                       ◯                      \n                                            ◯                 \nSolvent removing                                                          \n             ◯                                                \n                    Δ X    ◯                            \n                                       Δ                            \n                                            X                             \nProperties of PE                                                          \nmembrane                                                                  \nThickness (μm)                                                         \n             30     298     120  130   185  42                            \nPorosity (%) 41     58      30   60    53   16                            \nAir permeability                                                          \n             736    74900   &gt;10.sup.5                                     \n                                 155   2250 &gt;10.sup.5                     \nsec/100 cc)                                                               \nAverage pore diameter                                                     \n             &lt;0.05  &lt;0.05   &lt;0.05                                         \n                                 0.189 0.07 &lt;0.05                         \n(μm)                                                                   \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/62/89/9e/834a7e95d9f106/US5786396.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US5786396A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:03.434810+00:00",
+    "sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+    "source": "patents",
+    "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+    "url": "https://patents.google.com/patent/US5786396A/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(1) Membrane thickness: Determined from a cross sectional view of a microporous membrane by a scanning electron microscope.",
+      "method": null,
+      "notes": "Publication US5786396A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "76d331bba9fa617351c4c3513aa7fda97b7010f237e7b0bebf166dfcc65cf7b3",
+      "original_property_label": "Δ X Δ X Properties of PE membrane Thickness (μm)",
+      "original_unit": "μm",
+      "original_value": "◯",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5786396A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+      "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "31",
+      "source_sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5786396A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(2) Porosity: Measured by a gravimetric method using the equation: porosity (%)=(1-density of sample membrane/density of starting material)×100.",
+      "method": null,
+      "notes": "Publication US5786396A; ; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "10a2dce9f98ec423a0f91fafe58554d6e08aa94dfff61762d327ce5be3b646ce",
+      "original_property_label": "Porosity (%) 41 Air permeability",
+      "original_unit": "%",
+      "original_value": "58",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5786396A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+      "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "38",
+      "source_sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5786396A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "%",
+      "value": 58.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(2) Porosity: Measured by a gravimetric method using the equation: porosity (%)=(1-density of sample membrane/density of starting material)×100.",
+      "method": null,
+      "notes": "Publication US5786396A; ; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "093a272847212f5ab238c654bc363b61fd65e3f18d54ceabf22360c743d5df7a",
+      "original_property_label": "Porosity (%) 41 Air permeability",
+      "original_unit": "%",
+      "original_value": "30",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5786396A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+      "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "38",
+      "source_sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5786396A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "%",
+      "value": 30.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(2) Porosity: Measured by a gravimetric method using the equation: porosity (%)=(1-density of sample membrane/density of starting material)×100.",
+      "method": null,
+      "notes": "Publication US5786396A; ; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "e61967668894a591029613829c458cb017d17e95ea421dba1bb62b8780fd06d3",
+      "original_property_label": "Porosity (%) 41 Air permeability",
+      "original_unit": "%",
+      "original_value": "60",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5786396A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+      "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "38",
+      "source_sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5786396A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "%",
+      "value": 60.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(2) Porosity: Measured by a gravimetric method using the equation: porosity (%)=(1-density of sample membrane/density of starting material)×100.",
+      "method": null,
+      "notes": "Publication US5786396A; ; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "ddbfab1b37c65545c2b09735187b3ec61facd90d54b7b043901d0ef8f8fab9ef",
+      "original_property_label": "Porosity (%) 41 Air permeability",
+      "original_unit": "%",
+      "original_value": "53",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5786396A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+      "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "38",
+      "source_sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5786396A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "%",
+      "value": 53.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(2) Porosity: Measured by a gravimetric method using the equation: porosity (%)=(1-density of sample membrane/density of starting material)×100.",
+      "method": null,
+      "notes": "Publication US5786396A; ; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "271d42561db1998ecf77e8635fafede85e3c52362fdbea6c1e7408a054c0426f",
+      "original_property_label": "Porosity (%) 41 Air permeability",
+      "original_unit": "%",
+      "original_value": "16",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5786396A:column_5",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "6",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+      "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "38",
+      "source_sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5786396A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "%",
+      "value": 16.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Average pore diameter: Measured by Coulter Porometer II manufactured by Nikkiso K. K.",
+      "method": null,
+      "notes": "Publication US5786396A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "4e523d966bb923b421db0db104fc77b703851d414ed6ad97dd5731d7b338e425",
+      "original_property_label": "155 sec/100 cc) Average pore diameter",
+      "original_unit": "",
+      "original_value": "2250 >10.sup.5",
+      "polymer": null,
+      "product": null,
+      "property": "pore_size",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5786396A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d.bin",
+      "source_id": "e8e4c27b9b364f0faaa7f120d6913e3c2439d1d6b1cef6148b379be474adb14d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "41",
+      "source_sha256": "703858e15c6bf4a5525ae69d9d07acfcd3fe3ef0e781c04fdb68ec0f16db407d",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5786396A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}

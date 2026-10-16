@@ -1,0 +1,1495 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Parameters of comparative examples 1-2 and examples 1-10"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "composite porous substrate"
+        ],
+        [
+          "",
+          "polymer matrix",
+          "plasticizer",
+          "antioxidant"
+        ],
+        [
+          "",
+          "content/%",
+          "name",
+          "content/%",
+          "name",
+          "content/%",
+          "name"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "/",
+          "polypropylene/",
+          "/",
+          "/",
+          "/",
+          "/"
+        ],
+        [
+          "example 1",
+          "",
+          "polyethylene/"
+        ],
+        [
+          "",
+          "",
+          "polypropylene"
+        ],
+        [
+          "Comparative",
+          "/",
+          "polyethylene",
+          "/",
+          "/",
+          "/",
+          "/"
+        ],
+        [
+          "example 2"
+        ],
+        [
+          "Example 1",
+          "54.0",
+          "polyvinylidene",
+          "14.5",
+          "liquid paraffin",
+          "0.5",
+          "2,6-di-tert-"
+        ],
+        [
+          "",
+          "",
+          "fluoride",
+          "",
+          "paraffin",
+          "",
+          "butylphenol"
+        ],
+        [
+          "Example 2",
+          "20.0",
+          "polypropylene",
+          "/",
+          "/",
+          "/",
+          "/"
+        ],
+        [
+          "Example 3",
+          "99.5",
+          "polypropylene",
+          "/",
+          "/",
+          "/",
+          "/"
+        ],
+        [
+          "Example 4",
+          "68.0",
+          "polyamide",
+          "19.9",
+          "dioctyl",
+          "0.1",
+          "2,6-di-tert-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "phthalate",
+          "",
+          "butylphenol"
+        ],
+        [
+          "Example 5",
+          "29.0",
+          "polyethylene",
+          "24.8",
+          "liquid paraffin",
+          "0.2",
+          "tert-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "paraffin",
+          "",
+          "butylhydroquinone"
+        ],
+        [
+          "Example 6",
+          "69.0",
+          "ethylene-",
+          "29.3",
+          "liquid paraffin",
+          "0.3",
+          "tert-"
+        ],
+        [
+          "",
+          "",
+          "propylene",
+          "",
+          "paraffin",
+          "",
+          "butylhydroquinone"
+        ],
+        [
+          "",
+          "",
+          "copolymer"
+        ],
+        [
+          "Example 7",
+          "63.0",
+          "ethylene-vinyl",
+          "34.1",
+          "liquid paraffin",
+          "0.4",
+          "tert-"
+        ],
+        [
+          "",
+          "",
+          "acetate copolymer",
+          "",
+          "paraffin",
+          "",
+          "butylhydroquinone"
+        ],
+        [
+          "Example 8",
+          "85.0",
+          "polyvinylidene",
+          "9.0",
+          "liquid paraffin",
+          "0.5",
+          "butylated"
+        ],
+        [
+          "",
+          "",
+          "fluoride",
+          "",
+          "paraffin",
+          "",
+          "hydroxytoluene"
+        ],
+        [
+          "Example 9",
+          "88.0",
+          "hexafluoropropene -",
+          "4.7",
+          "liquid paraffin",
+          "0.3",
+          "butylated"
+        ],
+        [
+          "",
+          "",
+          "tetrafluoroethylene",
+          "",
+          "paraffin",
+          "",
+          "hydroxytoluene"
+        ],
+        [
+          "Example 10",
+          "55.0",
+          "polypropylene:polyethylene =",
+          "38.0",
+          "liquid paraffin",
+          "0.3",
+          "2,6-di-tert-butyl-4-"
+        ],
+        [
+          "",
+          "",
+          "1:8",
+          "",
+          "paraffin",
+          "",
+          "methylphenol"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "composite porous substrate"
+        ],
+        [
+          "",
+          "filter A",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "inorganic",
+          ""
+        ],
+        [
+          "",
+          "total",
+          "",
+          "",
+          "",
+          "",
+          "particle/"
+        ],
+        [
+          "",
+          "content/",
+          "Rockwell",
+          "inorganic",
+          "surface modifying agent",
+          "",
+          "organic",
+          "thick-"
+        ],
+        [
+          "",
+          "%",
+          "hardness",
+          "particle",
+          "and content/%",
+          "organic particle",
+          "particle",
+          "ness/μm"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "20"
+        ],
+        [
+          "example 1"
+        ],
+        [
+          "Comparative",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "20"
+        ],
+        [
+          "example 2"
+        ],
+        [
+          "Example 1",
+          "31.0",
+          "3.6",
+          "titanium",
+          "0.1",
+          "amino propyl",
+          "/",
+          "/",
+          "14"
+        ],
+        [
+          "",
+          "",
+          "",
+          "lithium",
+          "",
+          "triethoxy silane"
+        ],
+        [
+          "",
+          "",
+          "",
+          "carbonate"
+        ],
+        [
+          "Example 2",
+          "80.0",
+          "3.6",
+          "calcium",
+          "0.15",
+          "cinnamic acid",
+          "polyimide",
+          "1:1",
+          "20"
+        ],
+        [
+          "",
+          "",
+          "",
+          "sulfate"
+        ],
+        [
+          "Example 3",
+          "0.5",
+          "/",
+          "/",
+          "/",
+          "/",
+          "poly(p-phenylene",
+          "/",
+          "11"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "terephthamide)"
+        ],
+        [
+          "Example 4",
+          "12.0",
+          "3.7",
+          "titanium",
+          "0.3",
+          "3-(trimethoxysilyl)",
+          "/",
+          "/",
+          "3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "aluminum",
+          "",
+          "propyl"
+        ],
+        [
+          "",
+          "",
+          "",
+          "lithium",
+          "",
+          "methacrylate"
+        ],
+        [
+          "",
+          "",
+          "",
+          "carbonate"
+        ],
+        [
+          "Example 5",
+          "46.0",
+          "4.1",
+          "aluminum",
+          "0.5",
+          "methyl phenyl",
+          "/",
+          "/",
+          "10"
+        ],
+        [
+          "",
+          "",
+          "",
+          "carbonate",
+          "",
+          "coconut oleic acid"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ammonium"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "chloride"
+        ],
+        [
+          "Example 6",
+          "1.0",
+          "/",
+          "/",
+          "/",
+          "/",
+          "polyethylacrylate",
+          "/",
+          "4"
+        ],
+        [
+          "Example 7",
+          "2.0",
+          "6.1",
+          "titanium",
+          "0.06",
+          "hexadecyl",
+          "polymethylacrylate",
+          "1:5",
+          "6"
+        ],
+        [
+          "",
+          "",
+          "",
+          "dioxide",
+          "",
+          "pyridinium"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "bromide"
+        ],
+        [
+          "Example 8",
+          "5.0",
+          "3.0",
+          "strontium",
+          "0.07",
+          "aluminate",
+          "polyisophthaloyl",
+          "2:5",
+          "12"
+        ],
+        [
+          "",
+          "",
+          "",
+          "sulfate",
+          "",
+          "",
+          "metaphenylene"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "diamine"
+        ],
+        [
+          "Example 9",
+          "7.0",
+          "4.3",
+          "titanium",
+          "0.1",
+          "hexadecyl",
+          "polyacrylonitrile",
+          "2:3",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "lithium",
+          "",
+          "trimethyl"
+        ],
+        [
+          "",
+          "",
+          "",
+          "carbonate",
+          "",
+          "ammonium"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "bromide"
+        ],
+        [
+          "Example 10",
+          "5.0",
+          "3.1",
+          "aluminium",
+          "0.7",
+          "borate",
+          "polyisophthaloyl",
+          "1:(3:7)",
+          "11"
+        ],
+        [
+          "",
+          "",
+          "",
+          "sulfate",
+          "",
+          "",
+          "metaphenylene"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "diamine/"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "polyacrylonitrile"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "composite porous coating"
+        ],
+        [
+          "",
+          "filler B"
+        ],
+        [
+          "",
+          "total content/",
+          "Rockwell",
+          "inorganic",
+          "surface modifying agent and",
+          ""
+        ],
+        [
+          "",
+          "%",
+          "hardness",
+          "particle",
+          "content/%",
+          "organic particle"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/"
+        ],
+        [
+          "example 1"
+        ],
+        [
+          "Comparative",
+          "90.0",
+          "8.8",
+          "aluminium",
+          "/",
+          "/",
+          "/"
+        ],
+        [
+          "example 2",
+          "",
+          "",
+          "oxide"
+        ],
+        [
+          "Example 1",
+          "98.0",
+          "8.8",
+          "aluminium",
+          "1.0",
+          "phenyl trimethoxy silane",
+          "vinylidene fluoride-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "oxide",
+          "",
+          "",
+          "hexafluoropropylene"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "copolymer"
+        ],
+        [
+          "Example 2",
+          "20.0",
+          "/",
+          "/",
+          "/",
+          "/",
+          "acrylonitrile-styrene-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "butadiene copolymer"
+        ],
+        [
+          "Example 3",
+          "76.0",
+          "6.1",
+          "silicon dioxide",
+          "2.0",
+          "3-glycidoxy propyl",
+          "polyacrylonitrile"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "trimethoxysilane"
+        ],
+        [
+          "Example 4",
+          "82.0",
+          "2.7",
+          "magnesium",
+          "0.3",
+          "acrylic acid",
+          "polyethylacrylate"
+        ],
+        [
+          "",
+          "",
+          "",
+          "sulphate"
+        ],
+        [
+          "Example 5",
+          "99.5",
+          "/",
+          "/",
+          "/",
+          "/",
+          "acrylic acid-styrene"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "copolymer"
+        ],
+        [
+          "Example 6",
+          "99.0",
+          "/",
+          "/",
+          "/",
+          "/",
+          "acrylonitrile-butadiene"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "copolymer"
+        ],
+        [
+          "Example 7",
+          "98.5",
+          "5.4",
+          "barium titanate",
+          "0.07",
+          "3-(2-",
+          "acrylonitrile-styrene-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "aminoethylamino)propyl-",
+          "butadiene copolymer"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "dimethoxymethylsilane"
+        ],
+        [
+          "Example 8",
+          "96.5",
+          "5.8",
+          "magnesium",
+          "0.08",
+          "sorbic acid:titanate = 1:2",
+          "acrylic acid-styrene"
+        ],
+        [
+          "",
+          "",
+          "",
+          "oxide",
+          "",
+          "",
+          "copolymer"
+        ],
+        [
+          "Example 9",
+          "94.5",
+          "6.2",
+          "cerium oxide",
+          "0.3",
+          "polyethenoxy ether",
+          "polyisophthaloyl"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "phosphate",
+          "metaphenylene"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "diamine"
+        ],
+        [
+          "Example 10",
+          "60.0",
+          "4.2/2.6",
+          "lithium",
+          "0.08/0.4",
+          "octadecanoic acid/",
+          "polyimide"
+        ],
+        [
+          "",
+          "",
+          "",
+          "orthophosphate/",
+          "",
+          "(titanate:octadecanoic"
+        ],
+        [
+          "",
+          "",
+          "",
+          "calcium oxide",
+          "",
+          "acid = 2:3)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "composite porous coating"
+        ],
+        [
+          "",
+          "filter B",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "inorganic",
+          "",
+          "",
+          "",
+          "",
+          "thickness"
+        ],
+        [
+          "",
+          "particle/",
+          "",
+          "",
+          "",
+          "",
+          "after"
+        ],
+        [
+          "",
+          "organic",
+          "adhesive",
+          "",
+          "solid content/",
+          "coating",
+          "drying/"
+        ],
+        [
+          "",
+          "particle",
+          "content/%",
+          "name",
+          "solvent",
+          "%",
+          "method",
+          "μm"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/",
+          "/"
+        ],
+        [
+          "example 1"
+        ],
+        [
+          "Comparative",
+          "/",
+          "10.0",
+          "polyvinylidene",
+          "deionized",
+          "40.0",
+          "micro-",
+          "10"
+        ],
+        [
+          "example 2",
+          "",
+          "",
+          "fluoride",
+          "water",
+          "",
+          "gravure"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "printing"
+        ],
+        [
+          "Example 1",
+          "2:1",
+          "2.0",
+          "polymethylacrylate",
+          "deionized",
+          "50.0",
+          "micro-",
+          "3 + 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "water",
+          "",
+          "gravure"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "printing"
+        ],
+        [
+          "Example 2",
+          "/",
+          "80.0",
+          "acrylic acid-styrene",
+          "acetone",
+          "55.0",
+          "screen",
+          "1 + 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "copolymer",
+          "",
+          "",
+          "printing"
+        ],
+        [
+          "Example 3",
+          "1:3",
+          "24.0",
+          "acrylamide emulsion",
+          "deionized",
+          "70.0",
+          "extrusion",
+          "3 + 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "water",
+          "",
+          "coating"
+        ],
+        [
+          "Example 4",
+          "3:1",
+          "18.0",
+          "epoxy resin",
+          "ethylene",
+          "70.0",
+          "transfer",
+          "6"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "carbonate",
+          "",
+          "coating"
+        ],
+        [
+          "Example 5",
+          "/",
+          "0.5",
+          "styrene butadiene",
+          "deionized",
+          "25.0",
+          "dip",
+          "2 + 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "rubber",
+          "water",
+          "",
+          "coating"
+        ],
+        [
+          "Example 6",
+          "/",
+          "1.0",
+          "polymethacrylic acid",
+          "deionized",
+          "15.0",
+          "dip",
+          "8"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "water",
+          "",
+          "coating"
+        ],
+        [
+          "Example 7",
+          "5:1",
+          "1.5",
+          "polytetrafluoroethylene",
+          "N-methyl",
+          "10.0",
+          "dip",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "pyrrolidone",
+          "",
+          "coating"
+        ],
+        [
+          "Example 8",
+          "5:2",
+          "3.5",
+          "acrylic emulsion:styrene",
+          "deionized",
+          "7.5",
+          "dip",
+          "4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "butadiene",
+          "water",
+          "",
+          "coating"
+        ],
+        [
+          "",
+          "",
+          "",
+          "rubber = 1:2"
+        ],
+        [
+          "Example 9",
+          "3:2",
+          "5.5",
+          "epoxy resin",
+          "deionized",
+          "10.0",
+          "dip",
+          "4 + 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "water",
+          "",
+          "coating"
+        ],
+        [
+          "Example 10",
+          "(2:3):2",
+          "40.0",
+          "acrylamide",
+          "deionized",
+          "23.0",
+          "dip",
+          "3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "emulsion:styrene",
+          "water",
+          "",
+          "coating"
+        ],
+        [
+          "",
+          "",
+          "",
+          "butadiene rubber = 3:2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Parameters of comparative examples 1-2 and examples 1-10</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composite porous substrate</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polymer matrix</td>\n<td class=\"description-td\">plasticizer</td>\n<td class=\"description-td\">antioxidant</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">content/%</td>\n<td class=\"description-td\">name</td>\n<td class=\"description-td\">content/%</td>\n<td class=\"description-td\">name</td>\n<td class=\"description-td\">content/%</td>\n<td class=\"description-td\">name</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">polypropylene/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyethylene/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polypropylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">54.0</td>\n<td class=\"description-td\">polyvinylidene</td>\n<td class=\"description-td\">14.5</td>\n<td class=\"description-td\">liquid paraffin</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">2,6-di-tert-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluoride</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">paraffin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butylphenol</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">20.0</td>\n<td class=\"description-td\">polypropylene</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">99.5</td>\n<td class=\"description-td\">polypropylene</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">68.0</td>\n<td class=\"description-td\">polyamide</td>\n<td class=\"description-td\">19.9</td>\n<td class=\"description-td\">dioctyl</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">2,6-di-tert-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">phthalate</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butylphenol</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">29.0</td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">24.8</td>\n<td class=\"description-td\">liquid paraffin</td>\n<td class=\"description-td\">0.2</td>\n<td class=\"description-td\">tert-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">paraffin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butylhydroquinone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">69.0</td>\n<td class=\"description-td\">ethylene-</td>\n<td class=\"description-td\">29.3</td>\n<td class=\"description-td\">liquid paraffin</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">tert-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">propylene</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">paraffin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butylhydroquinone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">63.0</td>\n<td class=\"description-td\">ethylene-vinyl</td>\n<td class=\"description-td\">34.1</td>\n<td class=\"description-td\">liquid paraffin</td>\n<td class=\"description-td\">0.4</td>\n<td class=\"description-td\">tert-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">acetate copolymer</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">paraffin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butylhydroquinone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">85.0</td>\n<td class=\"description-td\">polyvinylidene</td>\n<td class=\"description-td\"> 9.0</td>\n<td class=\"description-td\">liquid paraffin</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">butylated</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluoride</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">paraffin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">hydroxytoluene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">88.0</td>\n<td class=\"description-td\">hexafluoropropene -</td>\n<td class=\"description-td\"> 4.7</td>\n<td class=\"description-td\">liquid paraffin</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">butylated</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">tetrafluoroethylene</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">paraffin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">hydroxytoluene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">55.0</td>\n<td class=\"description-td\">polypropylene:polyethylene =</td>\n<td class=\"description-td\">38.0</td>\n<td class=\"description-td\">liquid paraffin</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">2,6-di-tert-butyl-4-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1:8</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">paraffin</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">methylphenol</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composite porous substrate</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">filter A</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">total</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particle/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">content/</td>\n<td class=\"description-td\">Rockwell</td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\">surface modifying agent</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">organic</td>\n<td class=\"description-td\">thick-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">hardness</td>\n<td class=\"description-td\">particle</td>\n<td class=\"description-td\">and content/%</td>\n<td class=\"description-td\">organic particle</td>\n<td class=\"description-td\">particle</td>\n<td class=\"description-td\">ness/μm</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">31.0</td>\n<td class=\"description-td\">3.6</td>\n<td class=\"description-td\">titanium</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">amino propyl</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">14</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">lithium</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">triethoxy silane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">carbonate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">80.0</td>\n<td class=\"description-td\">3.6</td>\n<td class=\"description-td\">calcium</td>\n<td class=\"description-td\"> 0.15</td>\n<td class=\"description-td\">cinnamic acid</td>\n<td class=\"description-td\">polyimide</td>\n<td class=\"description-td\">1:1</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">sulfate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">poly(p-phenylene</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">terephthamide)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">12.0</td>\n<td class=\"description-td\">3.7</td>\n<td class=\"description-td\">titanium</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">3-(trimethoxysilyl)</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">aluminum</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">propyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">lithium</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">methacrylate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">carbonate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">46.0</td>\n<td class=\"description-td\">4.1</td>\n<td class=\"description-td\">aluminum</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">methyl phenyl</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">carbonate</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coconut oleic acid</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ammonium</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">chloride</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">polyethylacrylate</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">2.0</td>\n<td class=\"description-td\">6.1</td>\n<td class=\"description-td\">titanium</td>\n<td class=\"description-td\"> 0.06</td>\n<td class=\"description-td\">hexadecyl</td>\n<td class=\"description-td\">polymethylacrylate</td>\n<td class=\"description-td\">1:5</td>\n<td class=\"description-td\">6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">dioxide</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pyridinium</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">bromide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">5.0</td>\n<td class=\"description-td\">3.0</td>\n<td class=\"description-td\">strontium</td>\n<td class=\"description-td\"> 0.07</td>\n<td class=\"description-td\">aluminate</td>\n<td class=\"description-td\">polyisophthaloyl</td>\n<td class=\"description-td\">2:5</td>\n<td class=\"description-td\">12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">sulfate</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">metaphenylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diamine</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">7.0</td>\n<td class=\"description-td\">4.3</td>\n<td class=\"description-td\">titanium</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">hexadecyl</td>\n<td class=\"description-td\">polyacrylonitrile</td>\n<td class=\"description-td\">2:3</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">lithium</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">trimethyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">carbonate</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ammonium</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">bromide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">5.0</td>\n<td class=\"description-td\">3.1</td>\n<td class=\"description-td\">aluminium</td>\n<td class=\"description-td\">0.7</td>\n<td class=\"description-td\">borate</td>\n<td class=\"description-td\">polyisophthaloyl</td>\n<td class=\"description-td\">1:(3:7)</td>\n<td class=\"description-td\">11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">sulfate</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">metaphenylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diamine/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyacrylonitrile</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composite porous coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">filler B</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">total content/</td>\n<td class=\"description-td\">Rockwell</td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\">surface modifying agent and</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">hardness</td>\n<td class=\"description-td\">particle</td>\n<td class=\"description-td\">content/%</td>\n<td class=\"description-td\">organic particle</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">90.0</td>\n<td class=\"description-td\">8.8</td>\n<td class=\"description-td\">aluminium</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">oxide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">98.0</td>\n<td class=\"description-td\">8.8</td>\n<td class=\"description-td\">aluminium</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">phenyl trimethoxy silane</td>\n<td class=\"description-td\">vinylidene fluoride-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">oxide</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">hexafluoropropylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">20.0</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">acrylonitrile-styrene-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butadiene copolymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">76.0</td>\n<td class=\"description-td\">6.1</td>\n<td class=\"description-td\">silicon dioxide</td>\n<td class=\"description-td\">2.0</td>\n<td class=\"description-td\">3-glycidoxy propyl</td>\n<td class=\"description-td\">polyacrylonitrile</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">trimethoxysilane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">82.0</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">magnesium</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">acrylic acid</td>\n<td class=\"description-td\">polyethylacrylate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">sulphate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">99.5</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">acrylic acid-styrene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">99.0</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">acrylonitrile-butadiene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">98.5</td>\n<td class=\"description-td\">5.4</td>\n<td class=\"description-td\">barium titanate</td>\n<td class=\"description-td\"> 0.07</td>\n<td class=\"description-td\">3-(2-</td>\n<td class=\"description-td\">acrylonitrile-styrene-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">aminoethylamino)propyl-</td>\n<td class=\"description-td\">butadiene copolymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">dimethoxymethylsilane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">96.5</td>\n<td class=\"description-td\">5.8</td>\n<td class=\"description-td\">magnesium</td>\n<td class=\"description-td\"> 0.08</td>\n<td class=\"description-td\">sorbic acid:titanate = 1:2</td>\n<td class=\"description-td\">acrylic acid-styrene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">oxide</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">94.5</td>\n<td class=\"description-td\">6.2</td>\n<td class=\"description-td\">cerium oxide</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">polyethenoxy ether</td>\n<td class=\"description-td\">polyisophthaloyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">phosphate</td>\n<td class=\"description-td\">metaphenylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diamine</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">60.0</td>\n<td class=\"description-td\">4.2/2.6</td>\n<td class=\"description-td\">lithium</td>\n<td class=\"description-td\">0.08/0.4</td>\n<td class=\"description-td\">octadecanoic acid/</td>\n<td class=\"description-td\">polyimide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">orthophosphate/</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(titanate:octadecanoic</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">calcium oxide</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">acid = 2:3)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composite porous coating</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">filter B</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particle/</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">after</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">organic</td>\n<td class=\"description-td\">adhesive</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">solid content/</td>\n<td class=\"description-td\">coating</td>\n<td class=\"description-td\">drying/</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particle</td>\n<td class=\"description-td\">content/%</td>\n<td class=\"description-td\">name</td>\n<td class=\"description-td\">solvent</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">method</td>\n<td class=\"description-td\">μm</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">10.0</td>\n<td class=\"description-td\">polyvinylidene</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">40.0</td>\n<td class=\"description-td\">micro-</td>\n<td class=\"description-td\">10 </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluoride</td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">gravure</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">printing</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">2:1</td>\n<td class=\"description-td\">2.0</td>\n<td class=\"description-td\">polymethylacrylate</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">50.0</td>\n<td class=\"description-td\">micro-</td>\n<td class=\"description-td\">3 + 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">gravure</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">printing</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">80.0</td>\n<td class=\"description-td\">acrylic acid-styrene</td>\n<td class=\"description-td\">acetone</td>\n<td class=\"description-td\">55.0</td>\n<td class=\"description-td\">screen</td>\n<td class=\"description-td\">1 + 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">printing</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">1:3</td>\n<td class=\"description-td\">24.0</td>\n<td class=\"description-td\">acrylamide emulsion</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">70.0</td>\n<td class=\"description-td\">extrusion</td>\n<td class=\"description-td\">3 + 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">3:1</td>\n<td class=\"description-td\">18.0</td>\n<td class=\"description-td\">epoxy resin</td>\n<td class=\"description-td\">ethylene</td>\n<td class=\"description-td\">70.0</td>\n<td class=\"description-td\">transfer</td>\n<td class=\"description-td\">6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">carbonate</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">styrene butadiene</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">25.0</td>\n<td class=\"description-td\">dip</td>\n<td class=\"description-td\">2 + 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">rubber</td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">/</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">polymethacrylic acid</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">15.0</td>\n<td class=\"description-td\">dip</td>\n<td class=\"description-td\">8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">5:1</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">polytetrafluoroethylene</td>\n<td class=\"description-td\">N-methyl</td>\n<td class=\"description-td\">10.0</td>\n<td class=\"description-td\">dip</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pyrrolidone</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">5:2</td>\n<td class=\"description-td\">3.5</td>\n<td class=\"description-td\">acrylic emulsion:styrene</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">7.5</td>\n<td class=\"description-td\">dip</td>\n<td class=\"description-td\">4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butadiene</td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">rubber = 1:2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">3:2</td>\n<td class=\"description-td\">5.5</td>\n<td class=\"description-td\">epoxy resin</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">10.0</td>\n<td class=\"description-td\">dip</td>\n<td class=\"description-td\">4 + 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">(2:3):2</td>\n<td class=\"description-td\">40.0</td>\n<td class=\"description-td\">acrylamide</td>\n<td class=\"description-td\">deionized</td>\n<td class=\"description-td\">23.0</td>\n<td class=\"description-td\">dip</td>\n<td class=\"description-td\">3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">emulsion:styrene</td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">butadiene rubber = 3:2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "Test results of comparative examples 1-2 and examples 1-10"
+        ],
+        [
+          "",
+          "separator",
+          "lithium-ion secondary battery"
+        ],
+        [
+          "",
+          "puncture",
+          "thermal",
+          "capacity retention",
+          "capacity retention",
+          "thickness"
+        ],
+        [
+          "",
+          "resistant",
+          "shrinkage",
+          "rate at low",
+          "rate at room temp.",
+          "expansion"
+        ],
+        [
+          "",
+          "strength/Kgf",
+          "ratio/%",
+          "temperature/%",
+          "after 500 cycles/%",
+          "rate/%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "0.241",
+          "2.1",
+          "85.0",
+          "82.1",
+          "21.1"
+        ],
+        [
+          "example 1"
+        ],
+        [
+          "Comparative",
+          "0.310",
+          "1.1",
+          "88.0",
+          "85.0",
+          "16.0"
+        ],
+        [
+          "example 2"
+        ],
+        [
+          "Example 1",
+          "0.538",
+          "0.1",
+          "91.0",
+          "92.0",
+          "4.5"
+        ],
+        [
+          "Example 2",
+          "0.446",
+          "0.2",
+          "92.0",
+          "93.0",
+          "3.1"
+        ],
+        [
+          "Example 3",
+          "0.392",
+          "0.3",
+          "90.0",
+          "92.0",
+          "3.8"
+        ],
+        [
+          "Example 4",
+          "0.388",
+          "0.3",
+          "90.0",
+          "92.0",
+          "3.5"
+        ],
+        [
+          "Example 5",
+          "0.553",
+          "0.1",
+          "92.0",
+          "93.0",
+          "3.7"
+        ],
+        [
+          "Example 6",
+          "0.397",
+          "0.2",
+          "90.0",
+          "92.0",
+          "3.6"
+        ],
+        [
+          "Example 7",
+          "0.409",
+          "0.2",
+          "90.0",
+          "92.0",
+          "4.6"
+        ],
+        [
+          "Example 8",
+          "0.579",
+          "0.1",
+          "91.0",
+          "93.0",
+          "4.6"
+        ],
+        [
+          "Example 9",
+          "0.425",
+          "0.2",
+          "91.0",
+          "92.0",
+          "4.4"
+        ],
+        [
+          "Example 10",
+          "0.549",
+          "0.1",
+          "92.0",
+          "92.0",
+          "3.2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Test results of comparative examples 1-2 and examples 1-10</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">separator</td>\n<td class=\"description-td\">lithium-ion secondary battery</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">puncture</td>\n<td class=\"description-td\">thermal</td>\n<td class=\"description-td\">capacity retention</td>\n<td class=\"description-td\">capacity retention</td>\n<td class=\"description-td\">thickness</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resistant</td>\n<td class=\"description-td\">shrinkage</td>\n<td class=\"description-td\">rate at low</td>\n<td class=\"description-td\">rate at room temp.</td>\n<td class=\"description-td\">expansion</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">strength/Kgf</td>\n<td class=\"description-td\">ratio/%</td>\n<td class=\"description-td\">temperature/%</td>\n<td class=\"description-td\">after 500 cycles/%</td>\n<td class=\"description-td\">rate/%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.241</td>\n<td class=\"description-td\">2.1</td>\n<td class=\"description-td\">85.0</td>\n<td class=\"description-td\">82.1</td>\n<td class=\"description-td\">21.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.310</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">88.0</td>\n<td class=\"description-td\">85.0</td>\n<td class=\"description-td\">16.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">0.538</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">91.0</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">4.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">0.446</td>\n<td class=\"description-td\">0.2</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">93.0</td>\n<td class=\"description-td\">3.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">0.392</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">90.0</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">3.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">0.388</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">90.0</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">3.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">0.553</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">93.0</td>\n<td class=\"description-td\">3.7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">0.397</td>\n<td class=\"description-td\">0.2</td>\n<td class=\"description-td\">90.0</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">3.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">0.409</td>\n<td class=\"description-td\">0.2</td>\n<td class=\"description-td\">90.0</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">4.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">0.579</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">91.0</td>\n<td class=\"description-td\">93.0</td>\n<td class=\"description-td\">4.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">0.425</td>\n<td class=\"description-td\">0.2</td>\n<td class=\"description-td\">91.0</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">4.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">0.549</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">92.0</td>\n<td class=\"description-td\">3.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/3f/9d/72/aed2746faaace5/US20150280197A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"98b6cdcf6848b7ab3a7b5d7af44c3b2c\"",
+        "last_modified": "Sun, 22 Oct 2017 09:28:37 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/5439ab0b28d068eb15284a167abc4887c1f74fd69dee1dae00c5b83041178697.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:26:13.519083+00:00",
+        "sha256": "5439ab0b28d068eb15284a167abc4887c1f74fd69dee1dae00c5b83041178697",
+        "source": "patent_pdf",
+        "source_id": "52753e0c361726c082cc32da90edb6b455fa3e023806c9c9f8d0b834d04d42ff",
+        "url": "https://patentimages.storage.googleapis.com/3f/9d/72/aed2746faaace5/US20150280197A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20150280197A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/977cbc8150799c0ecd65dee2dd9271124881bb38dfd092807876fa43a410f935.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:12.550310+00:00",
+    "sha256": "977cbc8150799c0ecd65dee2dd9271124881bb38dfd092807876fa43a410f935",
+    "source": "patents",
+    "source_id": "c1b8b17238e232504b43ad59509d7f66f5d1a630d6173a53e88177354c0550e3",
+    "url": "https://patents.google.com/patent/US20150280197A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "3798d787549fa344a9b8b28ede35f190111c85e5c7d0b484f33f6e1f65d602c3",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "c1b8b17238e232504b43ad59509d7f66f5d1a630d6173a53e88177354c0550e3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/977cbc8150799c0ecd65dee2dd9271124881bb38dfd092807876fa43a410f935.bin",
+      "source_id": "c1b8b17238e232504b43ad59509d7f66f5d1a630d6173a53e88177354c0550e3",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "977cbc8150799c0ecd65dee2dd9271124881bb38dfd092807876fa43a410f935",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20150280197A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

@@ -1,0 +1,6020 @@
+{
+  "tolerance_C": 0,
+  "observation_count": 24,
+  "unknown_temperature_count": 18,
+  "groups": [
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_12EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "exposure",
+      "direction": "MD",
+      "conditions": "heat exposure 1 hour; measurement temperature unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [
+            "entek_2021_12EPH_thermal_shrinkage_MD"
+          ],
+          "reported_temperatures_C": [
+            120
+          ],
+          "methods": [
+            "unspecified"
+          ],
+          "status": "reported"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_12EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "exposure",
+      "direction": "TD",
+      "conditions": "heat exposure 1 hour; measurement temperature unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [
+            "entek_2021_12EPH_thermal_shrinkage_TD"
+          ],
+          "reported_temperatures_C": [
+            120
+          ],
+          "methods": [
+            "unspecified"
+          ],
+          "status": "reported"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_12EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "MD",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_12EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "TD",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_12EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "unspecified",
+      "conditions": "Reported air volume 100 ml; pressure and area unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_12EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "unspecified",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_16EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "exposure",
+      "direction": "MD",
+      "conditions": "heat exposure 1 hour; measurement temperature unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [
+            "entek_2021_16EPH_thermal_shrinkage_MD"
+          ],
+          "reported_temperatures_C": [
+            120
+          ],
+          "methods": [
+            "unspecified"
+          ],
+          "status": "reported"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_16EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "exposure",
+      "direction": "TD",
+      "conditions": "heat exposure 1 hour; measurement temperature unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [
+            "entek_2021_16EPH_thermal_shrinkage_TD"
+          ],
+          "reported_temperatures_C": [
+            120
+          ],
+          "methods": [
+            "unspecified"
+          ],
+          "status": "reported"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_16EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "MD",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_16EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "TD",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_16EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "unspecified",
+      "conditions": "Reported air volume 100 ml; pressure and area unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_16EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "unspecified",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_9EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "exposure",
+      "direction": "MD",
+      "conditions": "heat exposure 1 hour; measurement temperature unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [
+            "entek_2021_9EPH_thermal_shrinkage_MD"
+          ],
+          "reported_temperatures_C": [
+            120
+          ],
+          "methods": [
+            "unspecified"
+          ],
+          "status": "reported"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_9EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "exposure",
+      "direction": "TD",
+      "conditions": "heat exposure 1 hour; measurement temperature unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [
+            "entek_2021_9EPH_thermal_shrinkage_TD"
+          ],
+          "reported_temperatures_C": [
+            120
+          ],
+          "methods": [
+            "unspecified"
+          ],
+          "status": "reported"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_9EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "MD",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_9EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "TD",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_9EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "unspecified",
+      "conditions": "Reported air volume 100 ml; pressure and area unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "material": "PE (UHMWPE-based)",
+      "sample_id": "entek_9EPH",
+      "source_url": "https://entek.com/wp-content/uploads/2021/05/Lithium-Prod-Portfolio-21-04-23.pdf",
+      "sample_form": "separator",
+      "state": "unknown",
+      "temperature_role": "unknown",
+      "direction": "unspecified",
+      "conditions": "unspecified",
+      "cells": [
+        {
+          "temperature_C": 25,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 25,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 60,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 90,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 105,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thickness",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "basis_weight",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "porosity",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "air_permeability_time",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "elongation",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "thermal_shrinkage",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "tensile_strength",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        },
+        {
+          "temperature_C": 120,
+          "property": "puncture_force",
+          "record_ids": [],
+          "reported_temperatures_C": [],
+          "methods": [],
+          "status": "missing"
+        }
+      ]
+    }
+  ],
+  "note": "Coverage of requested properties only; no claim of complete characterization. No interpolation."
+}

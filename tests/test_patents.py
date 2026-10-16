@@ -35,13 +35,14 @@ def test_full_text_search_is_parameterized_and_bounded(backend):
     sql = backend.query.call_args.args[0]
     config = backend.query.call_args.kwargs["job_config"]
     assert term not in sql
-    assert "STRPOS(LOWER(txt.text), LOWER(term))" in sql  # no SQL LIKE wildcards
-    assert "NOT EXISTS" in sql  # every term required
+    assert "STRPOS(LOWER(txt.text), LOWER(@term0))" in sql  # no SQL LIKE wildcards
+    assert "NOT EXISTS" not in sql  # no unsupported anti-join
+    assert "LOWER(@term1)" in sql
     for field in patents.TEXT_FIELDS:
         assert f"UNNEST(p.{field}_localized)" in sql
     assert "ORDER BY p.publication_date DESC, p.publication_number ASC" in sql
     params = {p.name: p for p in config.query_parameters}
-    assert list(params["terms"].values) == [term, "porosity"]
+    assert [params["term0"].value, params["term1"].value] == [term, "porosity"]
     assert list(params["countries"].values) == ["US"]
     assert params["limit"].value == 7
     assert config.maximum_bytes_billed == 1000
@@ -222,3 +223,36 @@ def test_real_sdk_serialization_when_installed():
     assert wire["query"]["queryParameters"][0]["parameterValue"]["arrayValues"] == [
         {"value": "battery"}
     ]
+
+
+def test_dates_cheap_projection_and_application_url(backend, tmp_path):
+    result = GooglePatentsClient(client=backend).search(
+        ["polyethylene"],
+        fields=["title"],
+        titles_only=True,
+        publication_start="2025-01-01",
+        publication_end="2026-01-01",
+        maximum_bytes_billed=100,
+    )
+    sql = backend.query.call_args.args[0]
+    assert "abstract_localized" not in sql
+    assert "p.publication_date >= @start" in sql
+    assert "p.publication_date < @end" in sql
+    params = {
+        p.name: p for p in backend.query.call_args.kwargs["job_config"].query_parameters
+    }
+    assert params["start"].value == 20250101
+    assert result.bytes_processed == 123456
+    assert patents._record({"publication_number": "US-2025326880-A1"}).url.endswith(
+        "US20250326880A1"
+    )
+    export_json(result, tmp_path / "out.json")
+    with pytest.raises(FileExistsError):
+        export_json(result, tmp_path / "out.json")
+    with pytest.raises(ValueError, match="precede"):
+        GooglePatentsClient(client=backend).search(
+            ["PE"],
+            publication_start="2026-01-01",
+            publication_end="2025-01-01",
+            maximum_bytes_billed=100,
+        )

@@ -1,0 +1,1078 @@
+[
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 2318 18\u00b5m Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae 2318",
+      "url": "https://www.celgard.com/storage/components/2318_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/2318_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:11.036343+00:00",
+      "sha256": "c44c19745b3073cb02a54a9671e0f9fb860606420eff8ad9cc52f67f47754481",
+      "bytes": 688014,
+      "path": "data/raw/c44c19745b3073cb02a54a9671e0f9fb860606420eff8ad9cc52f67f47754481.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 26,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 130 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 27,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2250 / 1500",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "At the Center of Membrane Innovation",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "www.celgard.com",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 2320 20\u00b5m Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae 2320",
+      "url": "https://www.celgard.com/storage/components/2320_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/2320_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:11.769934+00:00",
+      "sha256": "484e035cef4d2fe8bd9b2d0ff5bd3d9f996d00f0c3f02cff6a9ce1cdb5285414",
+      "bytes": 700406,
+      "path": "data/raw/484e035cef4d2fe8bd9b2d0ff5bd3d9f996d00f0c3f02cff6a9ce1cdb5285414.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 29,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 156 / 115",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2040 / 1500",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 2325 25\u00b5m Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae 2325",
+      "url": "https://www.celgard.com/storage/components/2325_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/2325_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:12.401867+00:00",
+      "sha256": "4a36ad7ea9ac716190c3e80ebd20e4495d69c0a5637db0d0f6ca367afcd530a9",
+      "bytes": 700788,
+      "path": "data/raw/4a36ad7ea9ac716190c3e80ebd20e4495d69c0a5637db0d0f6ca367afcd530a9.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 29,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 150 / 80",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1900 / 1000",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 2340 39\u00b5m\u00a0Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae 2340",
+      "url": "https://www.celgard.com/storage/components/2340_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/2340_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:13.093566+00:00",
+      "sha256": "748efb7c3dab2c0e204c7a055688c2f837664239b1bd3c1cfc3adb06acc9b5e2",
+      "bytes": 701815,
+      "path": "data/raw/748efb7c3dab2c0e204c7a055688c2f837664239b1bd3c1cfc3adb06acc9b5e2.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 29,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 165 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1630 / 1400",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae H1409 14\u00b5m Trilayer Microporous\u00a0Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae H1409",
+      "url": "https://www.celgard.com/storage/components/h1409_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/h1409_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:13.710266+00:00",
+      "sha256": "9eb2d992de3596b305098e5c4f0f1efe6995cac615abdcb7ad52faf7fe33b92c",
+      "bytes": 702581,
+      "path": "data/raw/9eb2d992de3596b305098e5c4f0f1efe6995cac615abdcb7ad52faf7fe33b92c.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 31,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 160 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 32,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2250 / 1100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae H1609 16\u00b5m Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae H1609",
+      "url": "https://www.celgard.com/storage/components/h1609_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/h1609_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:14.326102+00:00",
+      "sha256": "0815d44dd14bd9a1b2aef3b4b44ac15484d7cba564bf4899638ce9838050b35b",
+      "bytes": 608201,
+      "path": "data/raw/0815d44dd14bd9a1b2aef3b4b44ac15484d7cba564bf4899638ce9838050b35b.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 31,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 160 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 32,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2000 / 1200",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae H1612 16\u00b5m Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae H1612",
+      "url": "https://www.celgard.com/storage/components/h1612_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/h1612_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:14.940819+00:00",
+      "sha256": "052470a8a541faf2ce2be6fd4ee55adae2c43e2ea4703fd5e83dd52f6946d831",
+      "bytes": 699891,
+      "path": "data/raw/052470a8a541faf2ce2be6fd4ee55adae2c43e2ea4703fd5e83dd52f6946d831.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 29,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2080 / 1350",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae H2010 20\u00b5m Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae H2010",
+      "url": "https://www.celgard.com/storage/components/h2010_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/h2010_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:15.550213+00:00",
+      "sha256": "b2172970d0d825820caa28a7e031d2188e36f4ac2f746a07964a228871743654",
+      "bytes": 700393,
+      "path": "data/raw/b2172970d0d825820caa28a7e031d2188e36f4ac2f746a07964a228871743654.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 30,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 31,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1900 / 1200",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae H2013 20\u00b5m Trilayer Microporous\u00a0Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae H2013",
+      "url": "https://www.celgard.com/storage/components/h2013_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/h2013_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:16.223968+00:00",
+      "sha256": "f2214fe8c8ecd4b068d0464a744dada5bf07d6dfb891525ae7c5c469b3c1c56c",
+      "bytes": 701516,
+      "path": "data/raw/f2214fe8c8ecd4b068d0464a744dada5bf07d6dfb891525ae7c5c469b3c1c56c.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 29,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 120",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1600 / 1100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae H2512 25\u00b5m Trilayer Microporous\u00a0Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae H2512",
+      "url": "https://www.celgard.com/storage/components/h2512_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/h2512_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:16.845425+00:00",
+      "sha256": "48a17421e628f514a63fda2363f7b8bd1a4d15cc54e0d312a4b07de1ba24e66b",
+      "bytes": 699968,
+      "path": "data/raw/48a17421e628f514a63fda2363f7b8bd1a4d15cc54e0d312a4b07de1ba24e66b.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 29,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 130 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1850 / 1200",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae S1608 16\u03bcm Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae S1608",
+      "url": "https://www.celgard.com/storage/components/s1608_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/s1608_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:17.507102+00:00",
+      "sha256": "63026eb6522941ccfd891b485cc936971f4a80394624279ec83f44a1abd67769",
+      "bytes": 700818,
+      "path": "data/raw/63026eb6522941ccfd891b485cc936971f4a80394624279ec83f44a1abd67769.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 32,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 110 / 95",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 33,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2100 / 1200",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae S1810 18\u00b5m\u00a0Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae S1810",
+      "url": "https://www.celgard.com/storage/components/s1810_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/s1810_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:18.120674+00:00",
+      "sha256": "ad789398f7d7a23b43ef006c442c893a802c0db4683d4aaee2d77a824646965c",
+      "bytes": 699033,
+      "path": "data/raw/ad789398f7d7a23b43ef006c442c893a802c0db4683d4aaee2d77a824646965c.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 31,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 115 / 105",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 32,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2070 / 2000",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae S2010 20\u00b5m Trilayer Microporous Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae S2010",
+      "url": "https://www.celgard.com/storage/components/s2010_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/s2010_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:18.740246+00:00",
+      "sha256": "f2a939ae19fe83219f13e467ea5ffd2fdf87326222e4b4a22c74183ae94e67bb",
+      "bytes": 698836,
+      "path": "data/raw/f2a939ae19fe83219f13e467ea5ffd2fdf87326222e4b4a22c74183ae94e67bb.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 31,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 110 / 75",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 32,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 2050 / 1600",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae Q18G1SY 18\u03bcm Total Thickness One Side Ceramic Coated Microporous Trilayer Membrane (PP/PE/PP)",
+      "title": "Celgard\u00ae Q18G1SY",
+      "url": "https://www.celgard.com/storage/components/q18g1sy_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/q18g1sy_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:19.358579+00:00",
+      "sha256": "c31bc6a090aa64b67a5b34d06494158ef9ce93c37c1718ce5450c6fef161b89d",
+      "bytes": 664400,
+      "path": "data/raw/c31bc6a090aa64b67a5b34d06494158ef9ce93c37c1718ce5450c6fef161b89d.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 6,
+        "text": "Porosity (calculated) % 53",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 7,
+        "text": "Moisture Level (max) Parts per million 800",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 8,
+        "text": "MD Shrinkage @ 120\u00ba C / 1 Hour  (typical / max) % 2.5 / 8.0",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 9,
+        "text": "TD Shrinkage @ 120\u00ba C / 1 Hour (typical / max) % 0 / 1.5",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 10,
+        "text": "Product Name & Description",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 11,
+        "text": "Celgard\u00ae Q18G1SY",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 12,
+        "text": "18\u00b5m Total Thickness One Side Ceramic Coated",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 13,
+        "text": "Microporous Trilayer Membrane (PP/PE/PP)",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 14,
+        "text": "Primary Applications",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 15,
+        "text": "High Power Lithium-Ion Battery Systems;",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 16,
+        "text": "especially safety and performance-critical applications",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 17,
+        "text": "Product Benefits",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 18,
+        "text": "\u2022 High temperature structural integrity in x , y and z directions",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 19,
+        "text": "\u2022 16\u03bcm microporous trilayer membrane (PP/PE/PP) with 2\u03bcm ceramic coating on one side",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 20,
+        "text": "\u2022 Oxidation resistance for excellent cycling & trickle charge performance",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 21,
+        "text": "\u2022 Very low shrinkage reduces internal shorting over a wider temperature range",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 22,
+        "text": "\u2022 Environmentally friendly water-based binder with excellent peel strength",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 23,
+        "text": "\u2022 Enhanced wetting to improve cell manufacturability",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 24,
+        "text": "\u2022 Combination of trilayer membrane and ceramic coating provides high-speed shutdown that is sustained",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 25,
+        "text": "over a wide temperature range",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 26,
+        "text": "\u2022 Offers excellent power and safety performance",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 27,
+        "text": "Packaging",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 28,
+        "text": "Please contact your Celgard representative for more information on product roll lengths and slit widths.",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "Technical Data (Typical Properties)",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "Protected by US Patent 6432586 and other patents and/or patents pending",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 31,
+        "text": "Celgard\u00ae Q18G1SY",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 32,
+        "text": "Ceramic Coated",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 33,
+        "text": "Microporous Trilayer Membrane",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 34,
+        "text": "SEM images for",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 35,
+        "text": "illustrative",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 36,
+        "text": "purposes only",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "fsri",
+      "material": "cross linked polyethylene pex pipe",
+      "title": "cross linked polyethylene pex pipe",
+      "url": "https://materials.fsri.org/materialdetail/cross-linked-polyethylene-pex-pipe"
+    },
+    "receipt": {
+      "url": "https://materials.fsri.org/materialdetail/cross-linked-polyethylene-pex-pipe",
+      "retrieved_at": "2026-10-15T05:50:20.063539+00:00",
+      "sha256": "b154d7621af31ec803e35e11aef132946b098a8ec1ebfa0c008bdeb4b79acd39",
+      "bytes": 637354,
+      "path": "data/raw/b154d7621af31ec803e35e11aef132946b098a8ec1ebfa0c008bdeb4b79acd39.bin"
+    },
+    "figures": 3
+  },
+  {
+    "document": {
+      "source": "fsri",
+      "material": "high density polyethylene hdpe",
+      "title": "high density polyethylene hdpe",
+      "url": "https://materials.fsri.org/materialdetail/high-density-polyethylene-hdpe"
+    },
+    "receipt": {
+      "url": "https://materials.fsri.org/materialdetail/high-density-polyethylene-hdpe",
+      "retrieved_at": "2026-10-15T05:50:20.904344+00:00",
+      "sha256": "f8076c74962c9db6cc6677bc77c79f629b675de3ff0b7e92c012b47a39be4cd0",
+      "bytes": 2467244,
+      "path": "data/raw/f8076c74962c9db6cc6677bc77c79f629b675de3ff0b7e92c012b47a39be4cd0.bin"
+    },
+    "figures": 10
+  },
+  {
+    "document": {
+      "source": "fsri",
+      "material": "low density polyethylene ldpe",
+      "title": "low density polyethylene ldpe",
+      "url": "https://materials.fsri.org/materialdetail/low-density-polyethylene-ldpe"
+    },
+    "receipt": {
+      "url": "https://materials.fsri.org/materialdetail/low-density-polyethylene-ldpe",
+      "retrieved_at": "2026-10-15T05:50:21.813831+00:00",
+      "sha256": "1845c0e2f39670d6864d347a87d3d18a899475f4d584018017bf3aea39c1a2c0",
+      "bytes": 2062165,
+      "path": "data/raw/1845c0e2f39670d6864d347a87d3d18a899475f4d584018017bf3aea39c1a2c0.bin"
+    },
+    "figures": 11
+  },
+  {
+    "document": {
+      "source": "fsri",
+      "material": "polyethylene pe foam pipe insulation",
+      "title": "polyethylene pe foam pipe insulation",
+      "url": "https://materials.fsri.org/materialdetail/polyethylene-pe-foam-pipe-insulation"
+    },
+    "receipt": {
+      "url": "https://materials.fsri.org/materialdetail/polyethylene-pe-foam-pipe-insulation",
+      "retrieved_at": "2026-10-15T05:50:22.572875+00:00",
+      "sha256": "349941f127147d5f6fd5988b6b04bc19b8b3142354330c7ee71ba9cdbd8147fe",
+      "bytes": 848730,
+      "path": "data/raw/349941f127147d5f6fd5988b6b04bc19b8b3142354330c7ee71ba9cdbd8147fe.bin"
+    },
+    "figures": 11
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 2400 25\u00b5m Monolayer Microporous Membrane (PP)",
+      "title": "Celgard\u00ae 2400",
+      "url": "https://www.celgard.com/storage/components/2400_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/2400_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:23.188642+00:00",
+      "sha256": "9635c664080eace8bee12d4892e24db26c92ec4b97636be1a3302fce85e9f0ea",
+      "bytes": 682322,
+      "path": "data/raw/9635c664080eace8bee12d4892e24db26c92ec4b97636be1a3302fce85e9f0ea.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 27,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 70",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 28,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1420 / 700",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 2500 25\u00b5m Monolayer Microporous Membrane (PP)",
+      "title": "Celgard\u00ae 2500",
+      "url": "https://www.celgard.com/storage/components/2500_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/2500_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:23.842604+00:00",
+      "sha256": "09922b7fd95a5c633b6683bd4c023ab227426c1fc71e391588b12c33f4de991a",
+      "bytes": 683915,
+      "path": "data/raw/09922b7fd95a5c633b6683bd4c023ab227426c1fc71e391588b12c33f4de991a.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 28,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 130 / 80",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1170 / 770",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae PP1410 14\u00b5m\u00a0Monolayer Microporous Membrane (PP)",
+      "title": "Celgard\u00ae PP1410",
+      "url": "https://www.celgard.com/storage/components/pp1410_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/pp1410_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:24.452055+00:00",
+      "sha256": "40d8e9f8d0547b7b3aee4c9d3b441424bad4184235055fda29be7525c4b990c2",
+      "bytes": 682845,
+      "path": "data/raw/40d8e9f8d0547b7b3aee4c9d3b441424bad4184235055fda29be7525c4b990c2.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 26,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 150 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 27,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1800 / 1000",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae PP1611 16\u00b5m\u00a0Monolayer Microporous Membrane (PP)",
+      "title": "Celgard\u00ae PP1611",
+      "url": "https://www.celgard.com/storage/components/pp1611_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/pp1611_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:25.066070+00:00",
+      "sha256": "70a180682d0aa6e29aaf8568dae24259c835e852f442baa6d5594c4f9a660064",
+      "bytes": 681812,
+      "path": "data/raw/70a180682d0aa6e29aaf8568dae24259c835e852f442baa6d5594c4f9a660064.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 26,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 125 / 110",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 27,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1680 / 1560",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae PP2068 20\u00b5m Monolayer Microporous Membrane (PP)",
+      "title": "Celgard\u00ae PP2068",
+      "url": "https://www.celgard.com/storage/components/pp2068_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/pp2068_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:25.702526+00:00",
+      "sha256": "3d80dc89ba9801d940c18ce9edf8c932cefacfe0a7160ab92765d9adf6a09736",
+      "bytes": 685313,
+      "path": "data/raw/3d80dc89ba9801d940c18ce9edf8c932cefacfe0a7160ab92765d9adf6a09736.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 28,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 115 / 90",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1550 / 1400",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae PP2075 20\u00b5m Monolayer Microporous\u00a0Membrane (PP)",
+      "title": "Celgard\u00ae PP2075",
+      "url": "https://www.celgard.com/storage/components/pp2075_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/pp2075_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:26.329083+00:00",
+      "sha256": "8d2cbacf578dff3454a950f4293549a1ffa2a9ab045df8e0d7eebea804fca0c2",
+      "bytes": 683878,
+      "path": "data/raw/8d2cbacf578dff3454a950f4293549a1ffa2a9ab045df8e0d7eebea804fca0c2.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 28,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 152 / 100",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1990 / 1700",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae Z1831 18\u00b5m Monolayer Microporous Membrane (PP)",
+      "title": "Celgard\u00ae Z1831",
+      "url": "https://www.celgard.com/storage/components/z1831_com_data_2026-03.pdf"
+    },
+    "error": "Unsupported Celgard table layout; review raw PDF",
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/z1831_com_data_2026-03.pdf",
+      "retrieved_at": "2026-10-15T05:50:27.006770+00:00",
+      "sha256": "6bba8a81fc006315da533aa205e2f5d161a8adac4551c9899ffb02f1878dfaf6",
+      "bytes": 918918,
+      "path": "data/raw/6bba8a81fc006315da533aa205e2f5d161a8adac4551c9899ffb02f1878dfaf6.pdf"
+    }
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 3400 25\u03bcm Monolayer Microporous Membrane (PP),\u00a0Surfactant Coated",
+      "title": "Celgard\u00ae 3400",
+      "url": "https://www.celgard.com/storage/components/3400_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/3400_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:27.622510+00:00",
+      "sha256": "510cb7c9e1cf63bfaaf1479719f385034e0f9d1614ac106a49861915d8a87e7d",
+      "bytes": 683160,
+      "path": "data/raw/510cb7c9e1cf63bfaaf1479719f385034e0f9d1614ac106a49861915d8a87e7d.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 27,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 70",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 28,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1420 / 700",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "Wettability (max- internal method) seconds 30",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 31,
+        "text": "Shelf life: 9 months from coating date",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 3401 25\u00b5m Monolayer Microporous Membrane (PP),\u00a0Surfactant Coated",
+      "title": "Celgard\u00ae 3401",
+      "url": "https://www.celgard.com/storage/components/3401_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/3401_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:28.241622+00:00",
+      "sha256": "f3f986e220a944562d28e664b58aa217dfb4d2e39b66e3aa4364e9bf40f7031f",
+      "bytes": 683880,
+      "path": "data/raw/f3f986e220a944562d28e664b58aa217dfb4d2e39b66e3aa4364e9bf40f7031f.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 26,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 70",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 27,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1420 / 700",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "Wettability (max- internal method) seconds 30",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 3407 28\u03bcm Monolayer Microporous Membrane (PP), Surfactant Coated",
+      "title": "Celgard\u00ae 3407",
+      "url": "https://www.celgard.com/storage/components/3407_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/3407_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:28.855226+00:00",
+      "sha256": "86f41845be28c28dce09b9357dcd8fb8de3a5fd19e75ac1deeb65b54034aedc0",
+      "bytes": 672253,
+      "path": "data/raw/86f41845be28c28dce09b9357dcd8fb8de3a5fd19e75ac1deeb65b54034aedc0.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 27,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 70",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 28,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1575 / 700",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "Wettability (max- internal method) seconds 60",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 3500 25\u00b5m Monolayer Microporous Membrane (PP),\u00a0Surfactant Coated",
+      "title": "Celgard\u00ae 3500",
+      "url": "https://www.celgard.com/storage/components/3500_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/3500_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:29.465902+00:00",
+      "sha256": "ae7e41c4fa3f467c59be9a8a3875e51e4635e9172bbe991254223bc52913ae77",
+      "bytes": 683368,
+      "path": "data/raw/ae7e41c4fa3f467c59be9a8a3875e51e4635e9172bbe991254223bc52913ae77.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 27,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 130 / 80",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 28,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1170 / 770",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "Wettability (max- internal method) seconds 30",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 31,
+        "text": "Shelf life: 9 months from coating date",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 3501 25\u00b5m Monolayer Microporous Membrane (PP),\u00a0Surfactant Coated",
+      "title": "Celgard\u00ae 3501",
+      "url": "https://www.celgard.com/storage/components/3501_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/3501_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:30.088856+00:00",
+      "sha256": "a8638dedfabf6bd150184d292afb6a4dc5d5768dfdb12ac612ca4fd7b8f95fcb",
+      "bytes": 684117,
+      "path": "data/raw/a8638dedfabf6bd150184d292afb6a4dc5d5768dfdb12ac612ca4fd7b8f95fcb.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 26,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 130 / 80",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 27,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1170 / 770",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "Wettability (max- internal method) seconds 30",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 4560 25\u00b5m Monolayer Microporous Membrane (PP),\u00a0Laminated\u00a0to a PP Nonwoven Fabric",
+      "title": "Celgard\u00ae 4560",
+      "url": "https://www.celgard.com/storage/components/4560_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/4560_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:30.716104+00:00",
+      "sha256": "bc28ed7d25b876334dc1b232664634311e65f26a43048c70ee81eb925bd39d86",
+      "bytes": 661030,
+      "path": "data/raw/bc28ed7d25b876334dc1b232664634311e65f26a43048c70ee81eb925bd39d86.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 21,
+        "text": "Total Film Thickness \u03bcm 102",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 22,
+        "text": "Total Film Gurley (ASTM) Seconds 9",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 23,
+        "text": "Basic Film Properties Unit of Measure Typical Value",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 29,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 130 / 80",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 30,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1170 / 770",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 32,
+        "text": "Microporous Membrane (Typical Properties)",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 3419S & Celgard\u00ae 3420 25\u00b5m Monolayer Microporous Membrane (PP) and\u00a0220 \u00b5m\u00a0Monolayer Nonwoven Separator (PP),\u00a0Surfactant Coated\u00a0Hydrophilic Membranes",
+      "title": "Celgard\u00ae 3419S & Celgard\u00ae 3420",
+      "url": "https://www.celgard.com/storage/components/3419s_3420_com_data_2026-04.pdf"
+    },
+    "error": "Unsupported Celgard table layout; review raw PDF",
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/3419s_3420_com_data_2026-04.pdf",
+      "retrieved_at": "2026-10-15T05:50:31.387386+00:00",
+      "sha256": "05d969e95cc8b8844a36b9ba878fc0245a4fa4a32414c44c944890de0e615954",
+      "bytes": 890391,
+      "path": "data/raw/05d969e95cc8b8844a36b9ba878fc0245a4fa4a32414c44c944890de0e615954.pdf"
+    }
+  },
+  {
+    "document": {
+      "source": "celgard",
+      "material": "Celgard\u00ae 5550 25\u00b5m Monolayer Microporous Membrane (PP),\u00a0Laminated\u00a0to a PP Nonwoven Fabric,\u00a0Surfactant Coated",
+      "title": "Celgard\u00ae 5550",
+      "url": "https://www.celgard.com/storage/components/5550_com_data_2026-01.pdf"
+    },
+    "receipt": {
+      "url": "https://www.celgard.com/storage/components/5550_com_data_2026-01.pdf",
+      "retrieved_at": "2026-10-15T05:50:32.002459+00:00",
+      "sha256": "c1dfb7ca4d7c02556ecde2c660c4ea737200f08395cc73d4853c97d284fc4bef",
+      "bytes": 659546,
+      "path": "data/raw/c1dfb7ca4d7c02556ecde2c660c4ea737200f08395cc73d4853c97d284fc4bef.pdf"
+    },
+    "unresolved": [
+      {
+        "line": 22,
+        "text": "Total Film Thickness \u03bcm 102",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 23,
+        "text": "Total Film Gurley (ASTM) Seconds 9",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 24,
+        "text": "Coat Wet Out (max \u2013 internal method) seconds 30",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 25,
+        "text": "Basic Film Properties Unit of Measure Typical Value",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 31,
+        "text": "TD Tensile Strength (typical / min) Kg/cm2 130 / 80",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 32,
+        "text": "MD Tensile Strength (typical / min) Kg/cm2 1170 / 770",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      },
+      {
+        "line": 34,
+        "text": "Microporous Membrane (Typical Properties)",
+        "reason": "Unsupported row or ambiguous unit; manual review required"
+      }
+    ]
+  },
+  {
+    "document": {
+      "source": "fsri",
+      "material": "polypropylene pp",
+      "title": "polypropylene pp",
+      "url": "https://materials.fsri.org/materialdetail/polypropylene-pp"
+    },
+    "receipt": {
+      "url": "https://materials.fsri.org/materialdetail/polypropylene-pp",
+      "retrieved_at": "2026-10-15T05:50:32.863871+00:00",
+      "sha256": "d8f2f9e1295d5e936abacc7d3f802dd1bfed3142a655fc52915ccbde71e56c0e",
+      "bytes": 2033137,
+      "path": "data/raw/d8f2f9e1295d5e936abacc7d3f802dd1bfed3142a655fc52915ccbde71e56c0e.bin"
+    },
+    "figures": 10
+  }
+]

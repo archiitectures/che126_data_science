@@ -1,0 +1,100 @@
+{
+  "artifacts": [
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/b6/3c/a8/c8a94868ed3d0a/US5853633.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"a42f69ab26cf17d4db319944d3326ed5\"",
+        "last_modified": "Tue, 31 Oct 2017 08:46:30 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/ebb3813817f7eb2249701c134639580d9d11d813f48f6dce8421cd377b70e08d.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:16:06.245348+00:00",
+        "sha256": "ebb3813817f7eb2249701c134639580d9d11d813f48f6dce8421cd377b70e08d",
+        "source": "patent_pdf",
+        "source_id": "2eaeeeb42461aa7a8cbf608e0b803ce9ed660e2eba8ed3893e08ac9cf56c6562",
+        "url": "https://patentimages.storage.googleapis.com/b6/3c/a8/c8a94868ed3d0a/US5853633.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US5853633A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/f32d1691af356041d76778b9d1971cfe4ff195b1ffccd7288d340de15717dea8.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:05.403106+00:00",
+    "sha256": "f32d1691af356041d76778b9d1971cfe4ff195b1ffccd7288d340de15717dea8",
+    "source": "patents",
+    "source_id": "c44f3196ea4356764ab1e43daefd5bf4f2cb567b106f9d1da0d9baac9e8b6631",
+    "url": "https://patents.google.com/patent/US5853633A/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "16cddac813c857e01be4370b9d7cae170897cdd3158d27803b1808b65175dd66",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "c44f3196ea4356764ab1e43daefd5bf4f2cb567b106f9d1da0d9baac9e8b6631",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/f32d1691af356041d76778b9d1971cfe4ff195b1ffccd7288d340de15717dea8.bin",
+      "source_id": "c44f3196ea4356764ab1e43daefd5bf4f2cb567b106f9d1da0d9baac9e8b6631",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "f32d1691af356041d76778b9d1971cfe4ff195b1ffccd7288d340de15717dea8",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5853633A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

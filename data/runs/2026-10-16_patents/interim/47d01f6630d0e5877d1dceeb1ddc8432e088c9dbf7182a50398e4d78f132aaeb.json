@@ -1,0 +1,345 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "Rejection (%)=(1-A/B)×100"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"equation\" xml:space=\"preserve\">Rejection (%)=(1-A/B)×100</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Manufacturing Conditions"
+        ],
+        [
+          "Content of"
+        ],
+        [
+          "Thickness"
+        ],
+        [
+          "Liquid Paraffin",
+          "Orientation"
+        ],
+        [
+          "Example",
+          "of Gel-Like"
+        ],
+        [
+          "in Original",
+          "Draw Ratio"
+        ],
+        [
+          "Temperature"
+        ],
+        [
+          "No.",
+          "Sheet (mm)"
+        ],
+        [
+          "Sheet (wt%)",
+          "(L × T)*"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "1",
+          "6",
+          "84.0",
+          "7 × 7"
+        ],
+        [
+          "115"
+        ],
+        [
+          "2",
+          "6",
+          "80.1",
+          "5 × 5"
+        ],
+        [
+          "116"
+        ],
+        [
+          "3",
+          "8",
+          "78.8",
+          "6 × 6"
+        ],
+        [
+          "118"
+        ],
+        [
+          "4",
+          "10",
+          "85.0",
+          "7 × 7"
+        ],
+        [
+          "122"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Characteristic Properties"
+        ],
+        [
+          "Film",
+          "Tensile Break-"
+        ],
+        [
+          "Resistance to"
+        ],
+        [
+          "Pure Water"
+        ],
+        [
+          "Rejection of"
+        ],
+        [
+          "Rejection of"
+        ],
+        [
+          "Example"
+        ],
+        [
+          "Thickness"
+        ],
+        [
+          "ing Strength"
+        ],
+        [
+          "Passage of Air"
+        ],
+        [
+          "Flow Rate"
+        ],
+        [
+          "Solute (%)"
+        ],
+        [
+          "Solute (%)"
+        ],
+        [
+          "No.",
+          "(μm)"
+        ],
+        [
+          "15 mm Wide (kg)"
+        ],
+        [
+          "(Gurley-sec)"
+        ],
+        [
+          "(L/m.sup.2 · h · atm)"
+        ],
+        [
+          "(Mw = 100,000)"
+        ],
+        [
+          "(Mw = 200,000)"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "1",
+          "12",
+          "5.1",
+          "60",
+          "730",
+          "12",
+          "67"
+        ],
+        [
+          "2",
+          "22",
+          "4.6",
+          "270",
+          "430",
+          "2",
+          "63"
+        ],
+        [
+          "3",
+          "38",
+          "9.7",
+          "460",
+          "170",
+          "17",
+          "100"
+        ],
+        [
+          "4",
+          "16",
+          "5.4",
+          "120",
+          "380",
+          "8",
+          "66"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Note *Longitudinal × Lateral"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">                                  TABLE 1                                 \n__________________________________________________________________________\nManufacturing Conditions                                                  \n                  Content of                                              \n            Thickness                                                     \n                  Liquid Paraffin        Orientation                      \nExample     of Gel-Like                                                   \n                  in Original     Draw Ratio                              \n                                         Temperature                      \nNo.         Sheet (mm)                                                    \n                  Sheet (wt%)     (L × T)*                          \n                                         (°C.)                     \n__________________________________________________________________________\n1           6     84.0            7 × 7                             \n                                         115                              \n2           6     80.1            5 × 5                             \n                                         116                              \n3           8     78.8            6 × 6                             \n                                         118                              \n4           10    85.0            7 × 7                             \n                                         122                              \n__________________________________________________________________________\n         Characteristic Properties                                        \n     Film  Tensile Break-                                                 \n                    Resistance to                                         \n                             Pure Water                                   \n                                     Rejection of                         \n                                              Rejection of                \nExample                                                                   \n     Thickness                                                            \n           ing Strength                                                   \n                    Passage of Air                                        \n                             Flow Rate                                    \n                                     Solute (%)                           \n                                              Solute (%)                  \nNo.  (μm)                                                              \n           15 mm Wide (kg)                                                \n                    (Gurley-sec)                                          \n                             (L/m.sup.2 · h · atm)      \n                                     (Mw = 100,000)                       \n                                              (Mw = 200,000)              \n__________________________________________________________________________\n1    12    5.1      60       730     12       67                          \n2    22    4.6      270      430     2        63                          \n3    38    9.7      460      170     17       100                         \n4    16    5.4      120      380     8        66                          \n__________________________________________________________________________\n Note *Longitudinal × Lateral                                       \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/2c/ab/a7/348e4e84d4e19d/US4873034.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US4873034A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/d63d1e6da5493c109d57826892aee4e34c3ea5f9c95b2845646fdcd9522ee4f6.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:22:13.289055+00:00",
+    "sha256": "d63d1e6da5493c109d57826892aee4e34c3ea5f9c95b2845646fdcd9522ee4f6",
+    "source": "patents",
+    "source_id": "9087322ea459ec5c8ab0204ff8362b4a12a6509ef8270d4e64284ffeb9ae0701",
+    "url": "https://patents.google.com/patent/US4873034A/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(1) Membrane thickness: Measured by observing the cross section of a microporous membrane by a scanning electron microscope.",
+      "method": null,
+      "notes": "Publication US4873034A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "b431cb2ecde4fb3a5d53ba01ff278cb96ee4600a9ccf4adf6dffed54b4066df6",
+      "original_property_label": "Film Resistance to Pure Water Rejection of Rejection of Example Thickness",
+      "original_unit": "",
+      "original_value": "Tensile Break-",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US4873034A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/d63d1e6da5493c109d57826892aee4e34c3ea5f9c95b2845646fdcd9522ee4f6.bin",
+      "source_id": "9087322ea459ec5c8ab0204ff8362b4a12a6509ef8270d4e64284ffeb9ae0701",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "24",
+      "source_sha256": "d63d1e6da5493c109d57826892aee4e34c3ea5f9c95b2845646fdcd9522ee4f6",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US4873034A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "No. 15 mm Wide (kg) (Gurley-sec) (L/m.sup.2 · h · atm) (Mw = 100,000) (Mw = 200,000) __________________________________________________________________________",
+      "method": null,
+      "notes": "Publication US4873034A; ; printed unit: kg. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "75435fc98237919ad98c3b968035c3bab95b28c89cd3a009b0d8c76f9f9b93b5",
+      "original_property_label": "No. 15 mm Wide (kg) (Gurley-sec) (L/m.sup.2 · h · atm) (Mw = 100,000) (Mw = 200,000) __________________________________________________________________________",
+      "original_unit": "kg",
+      "original_value": "(μm)",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US4873034A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/d63d1e6da5493c109d57826892aee4e34c3ea5f9c95b2845646fdcd9522ee4f6.bin",
+      "source_id": "9087322ea459ec5c8ab0204ff8362b4a12a6509ef8270d4e64284ffeb9ae0701",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "36",
+      "source_sha256": "d63d1e6da5493c109d57826892aee4e34c3ea5f9c95b2845646fdcd9522ee4f6",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US4873034A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}

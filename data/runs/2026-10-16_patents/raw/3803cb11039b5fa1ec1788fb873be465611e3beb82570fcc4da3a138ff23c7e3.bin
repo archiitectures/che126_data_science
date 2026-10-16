@@ -1,0 +1,3885 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>US20050244717A1 - Battery separator with antistatic properties 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/US20050244717A1/en">
+    <meta name="description" content="
+     A battery separator comprising: a microporous polyolefin film having from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. In this battery separator the polyolefin is selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof. Preferably the polyolefin is polyethylene, mixtures of polyethylene and copolymers of polyethylene, or polypropylene, mixtures of polypropylene and copolymers of polypropylene and has less than or equal to 5% by weight of the block copolymer. In the battery separator of the invention, the microporous film generally has a thickness of no greater than 200 microns, a porosity in the range of 10 to 90%, and a pore size in the range of 0.005 micron to 1.5 micron.  
+   
+   ">
+    <meta name="DC.type" content="patent">
+    <meta name="DC.title" content="Battery separator with antistatic properties 
+       ">
+    <meta name="DC.date" content="2004-04-30" scheme="dateSubmitted">
+    <meta name="DC.description" content="
+     A battery separator comprising: a microporous polyolefin film having from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. In this battery separator the polyolefin is selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof. Preferably the polyolefin is polyethylene, mixtures of polyethylene and copolymers of polyethylene, or polypropylene, mixtures of polypropylene and copolymers of polypropylene and has less than or equal to 5% by weight of the block copolymer. In the battery separator of the invention, the microporous film generally has a thickness of no greater than 200 microns, a porosity in the range of 10 to 90%, and a pore size in the range of 0.005 micron to 1.5 micron.  
+   
+   ">
+    <meta name="citation_patent_application_number" content="US:10/836,732">
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/b4/42/89/7c8d99fe922787/US20050244717A1.pdf">
+    <meta name="citation_patent_publication_number" content="US:20050244717:A1">
+    <meta name="DC.date" content="2005-11-03">
+    <meta name="DC.contributor" content="Zhengming Zhang" scheme="inventor">
+    <meta name="DC.contributor" content="Khuy Nguyen" scheme="inventor">
+    <meta name="DC.contributor" content="Celgard LLC" scheme="assignee">
+    <meta name="DC.relation" content="US:5886098" scheme="references">
+    <meta name="DC.relation" content="US:5318866" scheme="references">
+    <meta name="DC.relation" content="US:6461772" scheme="references">
+    <meta name="DC.relation" content="US:6346350" scheme="references">
+    <meta name="DC.relation" content="US:6656981" scheme="references">
+    <meta name="DC.relation" content="US:20020160268:A1" scheme="references">
+    <meta name="DC.relation" content="US:20020168564:A1" scheme="references">
+    <meta name="DC.relation" content="US:20030219587:A1" scheme="references">
+    <meta name="DC.relation" content="US:20040171762:A1" scheme="references">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700">
+
+    <style>
+      
+      #gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+    </style>
+    <script></script>
+
+    <script>
+      window.version = 'patent-search.search_20260819_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/search-app-vulcanized.html">
+  </head>
+  <body unresolved>
+    
+    
+    <script></script>
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    <search-app>
+      
+      
+
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">US20050244717A1 - Battery separator with antistatic properties 
+        - Google Patents</h1>
+  <span itemprop="title">Battery separator with antistatic properties 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/b4/42/89/7c8d99fe922787/US20050244717A1.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">US20050244717A1</dd>
+    <meta itemprop="numberWithoutCodes" content="20050244717">
+    <meta itemprop="kindCode" content="A1">
+    <meta itemprop="publicationDescription" content="Patent application publication">
+    <span>US20050244717A1</span>
+    <span>US10/836,732</span>
+    <span>US83673204A</span>
+    <span>US2005244717A1</span>
+    <span>US 20050244717 A1</span>
+    <span>US20050244717 A1</span>
+    <span>US 20050244717A1</span>
+    <span>  </span>
+    <span> </span>
+    <span> </span>
+    <span>US 83673204 A</span>
+    <span>US83673204 A</span>
+    <span>US 83673204A</span>
+    <span>US 2005244717 A1</span>
+    <span>US2005244717 A1</span>
+    <span>US 2005244717A1</span>
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">US</dd>
+    <dd itemprop="countryName">United States</dd>
+
+    <dt>Prior art keywords</dt>
+    <dd itemprop="priorArtKeywords" repeat>mixtures</dd>
+    <dd itemprop="priorArtKeywords" repeat>polypropylene</dd>
+    <dd itemprop="priorArtKeywords" repeat>copolymers</dd>
+    <dd itemprop="priorArtKeywords" repeat>battery separator</dd>
+    <dd itemprop="priorArtKeywords" repeat>polyethylene</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2004-04-30">2004-04-30</time></dd>
+
+    <dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+    <dd itemprop="legalStatusIfi" itemscope>
+      <span itemprop="status">Abandoned</span>
+    </dd>
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">US10/836,732</dd>
+
+  
+
+  
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>Zhengming Zhang</dd>
+  <dd itemprop="inventor" repeat>Khuy Nguyen</dd>
+
+  <dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+  <dd itemprop="assigneeCurrent" repeat>
+    Celgard LLC
+  </dd>
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>Celgard LLC</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2004-04-30">2004-04-30</time></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2004-04-30">2004-04-30</time></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2005-11-03">2005-11-03</time></dd>
+
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2004-04-30">2004-04-30</time>
+    <span itemprop="title">Application filed by Celgard LLC</span>
+    <span itemprop="type">filed</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    <span itemprop="assigneeSearch">Celgard LLC</span>
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2004-04-30">2004-04-30</time>
+    <span itemprop="title">Priority to US10/836,732</span>
+    <span itemprop="type">priority</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    <span itemprop="documentId">patent/US20050244717A1/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2004-08-06">2004-08-06</time>
+    <span itemprop="title">Assigned to CELGARD INC.</span>
+    <span itemprop="type">reassignment</span>
+    
+    
+    
+    
+    <span itemprop="assigneeSearch">CELGARD INC.</span>
+    <span itemprop="description" repeat>ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).</span>
+    <span itemprop="description" repeat>Assignors: NGUYEN, KHUY V., ZHANG, ZHENGMING</span>
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-03-17">2005-03-17</time>
+    <span itemprop="title">Priority to CA 2501277</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/CA2501277A1/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-03-23">2005-03-23</time>
+    <span itemprop="title">Priority to TW94108996A</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/TWI264843B/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-04-12">2005-04-12</time>
+    <span itemprop="title">Priority to SG200502230A</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/SG116610A1/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-04-21">2005-04-21</time>
+    <span itemprop="title">Priority to CNA2005100656882A</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/CN1694280A/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-04-21">2005-04-21</time>
+    <span itemprop="title">Priority to CNA2008100916614A</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/CN101257107A/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-04-23">2005-04-23</time>
+    <span itemprop="title">Priority to EP20050008952</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/EP1592078A2/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-04-28">2005-04-28</time>
+    <span itemprop="title">Priority to KR1020050035592A</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/KR100667449B1/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-05-02">2005-05-02</time>
+    <span itemprop="title">Priority to JP2005134461A</span>
+    <span itemprop="type">priority</span>
+    
+    
+    
+    <span itemprop="documentId">patent/JP4395459B2/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-11-03">2005-11-03</time>
+    <span itemprop="title">Publication of US20050244717A1</span>
+    <span itemprop="type">publication</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    <span itemprop="documentId">patent/US20050244717A1/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2014-04-08">2014-04-08</time>
+    <span itemprop="title">Assigned to BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT</span>
+    <span itemprop="type">reassignment</span>
+    
+    
+    
+    
+    <span itemprop="assigneeSearch">BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT</span>
+    <span itemprop="description" repeat>PATENT SECURITY AGREEMENT</span>
+    <span itemprop="description" repeat>Assignors: CELGARD, LLC (F/K/A CELGARD, INC.)</span>
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2015-08-27">2015-08-27</time>
+    <span itemprop="title">Assigned to CELGARD, LLC (F/K/A/ CELGARD, INC.)</span>
+    <span itemprop="type">reassignment</span>
+    
+    
+    
+    
+    <span itemprop="assigneeSearch">CELGARD, LLC (F/K/A/ CELGARD, INC.)</span>
+    <span itemprop="description" repeat>TERMINATION AND RELEASE OF SECURITY INTEREST IN UNITED STATES PATENTS</span>
+    <span itemprop="description" repeat>Assignors: BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT</span>
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date">Status</time>
+    <span itemprop="title">Abandoned</span>
+    <span itemprop="type">legal-status</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    <span itemprop="current" content="true" bool>Current</span>
+    
+    
+    
+  </dd>
+
+  <h2>Links</h2>
+  <ul>
+    <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoLink">
+          <a href="https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20050244717.PGNR." itemprop="url" target="_blank"><span itemprop="text">USPTO</span></a>
+        </li>
+        
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoPatentCenterLink">
+          <a href="https://patentcenter.uspto.gov/applications/10836732" itemprop="url" target="_blank"><span itemprop="text">USPTO PatentCenter</span></a>
+        </li>
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoAssignmentLink">
+          <a href="https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20050244717" itemprop="url" target="_blank"><span itemprop="text">USPTO Assignment</span></a>
+        </li>
+
+    <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="espacenetLink">
+        <a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&amp;NR=2005244717A1&amp;KC=A1&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+      </li>
+      
+
+    
+
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="globalDossierLink">
+      <a href="https://globaldossier.uspto.gov/result/application/US/10836732/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+    </li>
+
+    
+
+      
+
+      
+
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="stackexchangeLink">
+        <a href="https://patents.stackexchange.com/questions/tagged/US20050244717" itemprop="url"><span itemprop="text">Discuss</span></a>
+      </li>
+      
+  </ul>
+
+  <ul itemprop="concept" itemscope>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">-1</span>
+      <span itemprop="name">polyethylene</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">92</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920000098</span>
+      <span itemprop="name">polyolefin</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">54</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000004743</span>
+      <span itemprop="name">Polypropylene</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">38</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920001155</span>
+      <span itemprop="name">polypropylene</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">38</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000000203</span>
+      <span itemprop="name">mixture</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">37</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920001577</span>
+      <span itemprop="name">copolymer</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">36</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000004698</span>
+      <span itemprop="name">Polyethylene</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">34</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920000573</span>
+      <span itemprop="name">polyethylene</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">34</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920001400</span>
+      <span itemprop="name">block copolymer</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">31</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920006146</span>
+      <span itemprop="name">polyetheresteramide block copolymer</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">24</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920001748</span>
+      <span itemprop="name">polybutylene</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">18</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920000306</span>
+      <span itemprop="name">polymethylpentene</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">18</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000011116</span>
+      <span itemprop="name">polymethylpentene</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">18</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000000178</span>
+      <span itemprop="name">monomer</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">17</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000011148</span>
+      <span itemprop="name">porous material</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>claims</span>
+      <span itemprop="sections" repeat>abstract</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">7</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000010410</span>
+      <span itemprop="name">layer</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">13</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000004020</span>
+      <span itemprop="name">conductor</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">11</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">230000003068</span>
+      <span itemprop="name">static effect</span>
+      <span itemprop="domain">Effects</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">9</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000000463</span>
+      <span itemprop="name">material</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">6</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000012528</span>
+      <span itemprop="name">membrane</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">6</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000000356</span>
+      <span itemprop="name">contaminant</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">4</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">230000007547</span>
+      <span itemprop="name">defect</span>
+      <span itemprop="domain">Effects</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">4</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">OKTJSMMVPCPJKN-UHFFFAOYSA-N</span>
+      <span itemprop="name">Carbon</span>
+      <span itemprop="domain">Chemical compound</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles">[C]</span>
+      <span itemprop="inchi_key">OKTJSMMVPCPJKN-UHFFFAOYSA-N</span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">3</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910052799</span>
+      <span itemprop="name">carbon</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">3</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">238000004519</span>
+      <span itemprop="name">manufacturing process</span>
+      <span itemprop="domain">Methods</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">3</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">238000000034</span>
+      <span itemprop="name">method</span>
+      <span itemprop="domain">Methods</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">3</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">WHXSMMKQMYFTQS-UHFFFAOYSA-N</span>
+      <span itemprop="name">Lithium</span>
+      <span itemprop="domain">Chemical group</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles">[Li]</span>
+      <span itemprop="inchi_key">WHXSMMKQMYFTQS-UHFFFAOYSA-N</span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">2</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">HBBGRARXTFLTSG-UHFFFAOYSA-N</span>
+      <span itemprop="name">Lithium ion</span>
+      <span itemprop="domain">Chemical compound</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles">[Li&#43;]</span>
+      <span itemprop="inchi_key">HBBGRARXTFLTSG-UHFFFAOYSA-N</span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">2</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">VYPSYNLAJGMNEJ-UHFFFAOYSA-N</span>
+      <span itemprop="name">Silicium dioxide</span>
+      <span itemprop="domain">Chemical compound</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles">O=[Si]=O</span>
+      <span itemprop="inchi_key">VYPSYNLAJGMNEJ-UHFFFAOYSA-N</span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">2</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">FAPWRFPIFSIZLT-UHFFFAOYSA-M</span>
+      <span itemprop="name">Sodium chloride</span>
+      <span itemprop="domain">Chemical compound</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles">[Na&#43;].[Cl-]</span>
+      <span itemprop="inchi_key">FAPWRFPIFSIZLT-UHFFFAOYSA-M</span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">2</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">238000003475</span>
+      <span itemprop="name">lamination</span>
+      <span itemprop="domain">Methods</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">2</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910052744</span>
+      <span itemprop="name">lithium</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">2</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910001416</span>
+      <span itemprop="name">lithium ion</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">2</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">JBRZTFJDHDCESZ-UHFFFAOYSA-N</span>
+      <span itemprop="name">AsGa</span>
+      <span itemprop="domain">Chemical compound</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles">[As]#[Ga]</span>
+      <span itemprop="inchi_key">JBRZTFJDHDCESZ-UHFFFAOYSA-N</span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229930185605</span>
+      <span itemprop="name">Bisphenol</span>
+      <span itemprop="domain">Natural products</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910001218</span>
+      <span itemprop="name">Gallium arsenide</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000004952</span>
+      <span itemprop="name">Polyamide</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000006096</span>
+      <span itemprop="name">absorbing agent</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000000853</span>
+      <span itemprop="name">adhesive</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">230000001070</span>
+      <span itemprop="name">adhesive effect</span>
+      <span itemprop="domain">Effects</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">150000001279</span>
+      <span itemprop="name">adipic acids</span>
+      <span itemprop="domain">Chemical class</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">230000002411</span>
+      <span itemprop="name">adverse</span>
+      <span itemprop="domain">Effects</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910052783</span>
+      <span itemprop="name">alkali metal</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000002216</span>
+      <span itemprop="name">antistatic agent</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000003795</span>
+      <span itemprop="name">chemical substances by application</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910052681</span>
+      <span itemprop="name">coesite</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910052906</span>
+      <span itemprop="name">cristobalite</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000013078</span>
+      <span itemprop="name">crystal</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">230000001627</span>
+      <span itemprop="name">detrimental effect</span>
+      <span itemprop="domain">Effects</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000003792</span>
+      <span itemprop="name">electrolyte</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000011888</span>
+      <span itemprop="name">foil</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000012212</span>
+      <span itemprop="name">insulator</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">JEIPFZHSYJVQDO-UHFFFAOYSA-N</span>
+      <span itemprop="name">iron(III) oxide</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles">O=[Fe]O[Fe]=O</span>
+      <span itemprop="inchi_key">JEIPFZHSYJVQDO-UHFFFAOYSA-N</span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">150000002531</span>
+      <span itemprop="name">isophthalic acids</span>
+      <span itemprop="domain">Chemical class</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">235000015110</span>
+      <span itemprop="name">jellies</span>
+      <span itemprop="domain">Nutrition</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000008274</span>
+      <span itemprop="name">jelly</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">238000005304</span>
+      <span itemprop="name">joining</span>
+      <span itemprop="domain">Methods</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000012982</span>
+      <span itemprop="name">microporous membrane</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">150000004767</span>
+      <span itemprop="name">nitrides</span>
+      <span itemprop="domain">Chemical class</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">125000006353</span>
+      <span itemprop="name">oxyethylene group</span>
+      <span itemprop="domain">Chemical group</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000002245</span>
+      <span itemprop="name">particle</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920002647</span>
+      <span itemprop="name">polyamide</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229920005989</span>
+      <span itemprop="name">resin</span>
+      <span itemprop="domain">Polymers</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000011347</span>
+      <span itemprop="name">resin</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">150000003330</span>
+      <span itemprop="name">sebacic acids</span>
+      <span itemprop="domain">Chemical class</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000000377</span>
+      <span itemprop="name">silicon dioxide</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000002356</span>
+      <span itemprop="name">single layer</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000011780</span>
+      <span itemprop="name">sodium chloride</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910052682</span>
+      <span itemprop="name">stishovite</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">239000000126</span>
+      <span itemprop="name">substance</span>
+      <span itemprop="domain">Substances</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">150000003504</span>
+      <span itemprop="name">terephthalic acids</span>
+      <span itemprop="domain">Chemical class</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">229910052905</span>
+      <span itemprop="name">tridymite</span>
+      <span itemprop="domain">Inorganic materials</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0.000</span>
+      <span itemprop="sections" repeat>description</span>
+      <span itemprop="count">1</span>
+    </li>
+  </ul>
+
+  
+
+  <section>
+    <h2>Classifications</h2>
+    <ul>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/409</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/449</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material having a layered structure</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="FirstCode" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/409</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/411</span>&mdash;<span itemprop="Description">Organic material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/414</span>&mdash;<span itemprop="Description">Synthetic resins, e.g. thermoplastics or thermosetting resins</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/409</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/411</span>&mdash;<span itemprop="Description">Organic material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/414</span>&mdash;<span itemprop="Description">Synthetic resins, e.g. thermoplastics or thermosetting resins</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/417</span>&mdash;<span itemprop="Description">Polyolefins</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/409</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/449</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material having a layered structure</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/457</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material having a layered structure comprising three or more layers</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/489</span>&mdash;<span itemprop="Description">Separators, membranes, diaphragms or spacing elements inside the cells, characterised by their physical properties, e.g. swelling degree, hydrophilicity or shut down properties</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/489</span>&mdash;<span itemprop="Description">Separators, membranes, diaphragms or spacing elements inside the cells, characterised by their physical properties, e.g. swelling degree, hydrophilicity or shut down properties</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/491</span>&mdash;<span itemprop="Description">Porosity</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M10/00</span>&mdash;<span itemprop="Description">Secondary cells; Manufacture thereof</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M10/05</span>&mdash;<span itemprop="Description">Accumulators with non-aqueous electrolyte</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M10/052</span>&mdash;<span itemprop="Description">Li-accumulators</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y</span>&mdash;<span itemprop="Description">GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02</span>&mdash;<span itemprop="Description">TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E</span>&mdash;<span itemprop="Description">REDUCTION OF GREENHOUSE GAS [GHG] EMISSIONS, RELATED TO ENERGY GENERATION, TRANSMISSION OR DISTRIBUTION</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E60/00</span>&mdash;<span itemprop="Description">Enabling technologies; Technologies with a potential or indirect contribution to GHG emissions mitigation</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E60/10</span>&mdash;<span itemprop="Description">Energy storage using batteries</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y</span>&mdash;<span itemprop="Description">GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10</span>&mdash;<span itemprop="Description">TECHNICAL SUBJECTS COVERED BY FORMER USPC</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T</span>&mdash;<span itemprop="Description">TECHNICAL SUBJECTS COVERED BY FORMER US CLASSIFICATION</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/00</span>&mdash;<span itemprop="Description">Stock material or miscellaneous articles</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249921</span>&mdash;<span itemprop="Description">Web or sheet containing structurally defined element or component</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249953</span>&mdash;<span itemprop="Description">Composite having voids in a component [e.g., porous, cellular, etc.]</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249978</span>&mdash;<span itemprop="Description">Voids specified as micro</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y</span>&mdash;<span itemprop="Description">GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10</span>&mdash;<span itemprop="Description">TECHNICAL SUBJECTS COVERED BY FORMER USPC</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T</span>&mdash;<span itemprop="Description">TECHNICAL SUBJECTS COVERED BY FORMER US CLASSIFICATION</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/00</span>&mdash;<span itemprop="Description">Stock material or miscellaneous articles</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249921</span>&mdash;<span itemprop="Description">Web or sheet containing structurally defined element or component</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249953</span>&mdash;<span itemprop="Description">Composite having voids in a component [e.g., porous, cellular, etc.]</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249987</span>&mdash;<span itemprop="Description">With nonvoid component of specified composition</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249991</span>&mdash;<span itemprop="Description">Synthetic resin or natural rubbers</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249992</span>&mdash;<span itemprop="Description">Linear or thermoplastic</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y10T428/249993</span>&mdash;<span itemprop="Description">Hydrocarbon polymer</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  
+
+  
+
+  <section>
+    <h2>Definitions</h2>
+    <ul>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the present invention</span>
+        <span itemprop="definition">is direct to a battery separator having antistatic properties.</span>
+        <meta itemprop="num_attr" content="0001">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">separator manufacture</span>
+        <span itemprop="definition">the static charge draws or attracts contaminants to the film. These contaminants cause film defects, such as blemishes, pin-holes, and the like. Also, during lamination of multi-layer films, contaminants are trapped between the layers. This, too, causes film defects.</span>
+        <meta itemprop="num_attr" content="0002">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">static charge</span>
+        <span itemprop="definition">has been dissipated by the use of moisture absorbing agents that can be added into or onto a polyolefin film. While these materials work well at dissipating the static charge, they are not used in battery separators, such as secondary lithium batteries, because moisture in those cells must be avoided.</span>
+        <meta itemprop="num_attr" content="0003">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">static charge</span>
+        <span itemprop="definition">has been dissipated by the inclusion of carbon into the film. This, however, must be avoided because the carbon is a conductor and can cause a short circuit between the anode and the cathode.</span>
+        <meta itemprop="num_attr" content="0003">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">P-type conductors</span>
+        <span itemprop="definition">electron conductors</span>
+        <meta itemprop="num_attr" content="0004">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">N-type conductors</span>
+        <span itemprop="definition">hole conductors</span>
+        <meta itemprop="num_attr" content="0004">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">polaron (electron hopping) materials</span>
+        <span itemprop="definition">added to the separator, to reduce static charge.</span>
+        <meta itemprop="num_attr" content="0004">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">P-type conductors (electron conductors) or N-type conductors (hole conductors) materials</span>
+        <span itemprop="definition">include but are not limited to: oxides, Fe 2 O 3 , SiO 2 , GaAs, nitrides, GeO, Ge, Si, P, B.</span>
+        <meta itemprop="num_attr" content="0004">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Examples of Polaron (electron hopping) materials where a polar medium is able to carry polarons</span>
+        <span itemprop="definition">is ionic crystal (like NaCl, KCl, RuCl, etc.).</span>
+        <meta itemprop="num_attr" content="0004">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a conductive materials</span>
+        <span itemprop="definition">e.g. carbon</span>
+        <meta itemprop="num_attr" content="0005">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator</span>
+        <span itemprop="definition">produced from a film, where the film is a multi-layered film.</span>
+        <meta itemprop="num_attr" content="0005">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the conductive material</span>
+        <span itemprop="definition">is added to the outside layers of the trilayer and the center layer acts as an insulator.</span>
+        <meta itemprop="num_attr" content="0005">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator</span>
+        <span itemprop="definition">comprising: a microporous polyolefin film having from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer.</span>
+        <meta itemprop="num_attr" content="0008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyolefin</span>
+        <span itemprop="definition">is selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof.</span>
+        <meta itemprop="num_attr" content="0008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyolefin</span>
+        <span itemprop="definition">is polyethylene, mixtures of polyethylene and copolymers of polyethylene, or polypropylene, mixtures of polypropylene and copolymers of polypropylene, and has less than or equal to 5% by weight of the block copolymer.</span>
+        <meta itemprop="num_attr" content="0008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the microporous film</span>
+        <span itemprop="definition">can have any thickness, a porosity in the range of 10 to 90%, and a pore size in the range of 0.005 micron to 1.5 micron.</span>
+        <meta itemprop="num_attr" content="0008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator</span>
+        <span itemprop="definition">comprising: a microporous polyolefin film having a block copolymer including a polyetheresteramide monomer. The specifics of this separator will be discussed in greater detail below.</span>
+        <meta itemprop="num_attr" content="0009">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Microporous polyolefin film</span>
+        <span itemprop="definition">also known as microporous membranes are well known and commercially available from Celgard Inc. of Charlotte, N.C., USA (CELGARD® membranes, single layer and tri-layer membranes); Tonen Chemical Co. of Tokyo, Japan; Asahi Kasei of Tokyo, Japan (HIPORETM), and Ube Industries of Tokyo, Japan (U-PORETM). These membranes may be made by the “dry-stretch” (or Celgard) process or the “wet” (or phase inversion) process, or by a particle stretch process.</span>
+        <meta itemprop="num_attr" content="0010">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyolefin film</span>
+        <span itemprop="definition">is selected from the group consisting of, but not limited to: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof.</span>
+        <meta itemprop="num_attr" content="0011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyolefin</span>
+        <span itemprop="definition">is polyethylene, mixtures of polyethylene and copolymers of polyethylene.</span>
+        <meta itemprop="num_attr" content="0011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyolefin</span>
+        <span itemprop="definition">is polypropylene, mixtures of polypropylene and copolymers of polypropylene.</span>
+        <meta itemprop="num_attr" content="0011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the microporous film, in the battery separator of the invention,</span>
+        <span itemprop="definition">can have a separator of any thickness.</span>
+        <meta itemprop="num_attr" content="0012">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">many separators</span>
+        <span itemprop="definition">have a thickness of no greater than 200 microns.</span>
+        <meta itemprop="num_attr" content="0012">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">separators having thickness of no greater than 80 microns</span>
+        <span itemprop="definition">work well as do separators having a thickness of no greater than 50 microns, while separators having a thickness of 25  ⁇ m or less are preferred.</span>
+        <meta itemprop="num_attr" content="0012">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">microporous membranes</span>
+        <span itemprop="definition">generally possess a porosity in the range of 10% to 90%; preferably a porosity in the range of 20% to 80%.</span>
+        <meta itemprop="num_attr" content="0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the pore size in these membranes</span>
+        <span itemprop="definition">range from 0.005  ⁇ m to 1.5  ⁇ m, with a range of 0.01  ⁇ m to 1.0  ⁇ m being preferable.</span>
+        <meta itemprop="num_attr" content="0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the microporous polyolefin film</span>
+        <span itemprop="definition">has from 0.1% by weight to 50% by weight of a block copolymer including a polyetheresteramide.</span>
+        <meta itemprop="num_attr" content="0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the block copolymer including a polyetheresteramide</span>
+        <span itemprop="definition">work well with the microporous polyolefin film at quantities in the range of 0.2% to 45% by weight of the polyolefin used in the microporous membrane.</span>
+        <meta itemprop="num_attr" content="0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the microporous polyolefin film</span>
+        <span itemprop="definition">has from 0.25% by weight to 30% by weight of a block copolymer including a polyetheresteramide.</span>
+        <meta itemprop="num_attr" content="0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the block copolymer including a polyetheresteramide</span>
+        <span itemprop="definition">having at the lower range from 20%, 23%, 25%, 28% and the upper range having from 50%, 48%, 45%, 40%, 35%, 30% by weight provide good anti-static propertries other properties of the film are adversely affected.</span>
+        <meta itemprop="num_attr" content="0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the use of the block copolymer including a polyetheresteramide</span>
+        <span itemprop="definition">is better when it is equal to or less than 15%.</span>
+        <meta itemprop="num_attr" content="0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyetheresteramide monomer of the present invention</span>
+        <span itemprop="definition">preferably comprises residues derived from (1) a polyamide oligomer having end units containing a carboxylic group and having a number average molecular weight from 200 to 5,000 and (2) an oxyalkylated bisphenol compound containing from 32 to 60 oxyethylene units.</span>
+        <meta itemprop="num_attr" content="0015">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the carboxylic group</span>
+        <span itemprop="definition">is derived from adipic, sebacic, terephthalic or isophthalic acids or 3-sulfoisophthalic acid alkali metal.</span>
+        <meta itemprop="num_attr" content="0015">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the oxyalkylated bisphenol compound of the polyetheresteramide</span>
+        <span itemprop="definition">comprises an oxyalkylated alkylidene bisphenol.</span>
+        <meta itemprop="num_attr" content="0015">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyetheresteramide monomer</span>
+        <span itemprop="definition">is produced by Sanyo Chemical Industries, Ltd., Kyoto, Japan and is available in the US from Tomen America Inc., under the Trademark Pelestat®.</span>
+        <meta itemprop="num_attr" content="0015">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the microporous film</span>
+        <span itemprop="definition">can be made up of one or more layers of materials which may be the same or different. When using more than one layer it is preferred to have the layers joined together in a manner that the stay joined together. This joining of layers my include, but is not limited to: lamination, hot nip bonding, bonding, and joined with one or more adhesives.</span>
+        <meta itemprop="num_attr" content="0016">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Trilayer polyolefin films which incorporate the block copolymer</span>
+        <span itemprop="definition">show improved antistatic properties an example is a trilayer film of polypropylene/polyethylene/polypropylene.</span>
+        <meta itemprop="num_attr" content="0016">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">This battery separator</span>
+        <span itemprop="definition">may be produced from a film, where the film is a multi-layered film and the block copolymer is in the outer most layers of said multi-layered film or in all the layers.</span>
+        <meta itemprop="num_attr" content="0017">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the block copolymer</span>
+        <span itemprop="definition">works well, in the outer most layers of said tri-layered film.</span>
+        <meta itemprop="num_attr" content="0018">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the block copolymer</span>
+        <span itemprop="definition">can be in all the layers.</span>
+        <meta itemprop="num_attr" content="0018">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a lithium ion secondary battery</span>
+        <span itemprop="definition">is a cylindrical or prismatic battery composed of anode, cathode, separator, and electrolyte, which is packaged in a rigid (e.g., metallic) can or flexible foil.</span>
+        <meta itemprop="num_attr" content="0019">
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Landscapes</h2>
+    <ul>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Chemical Kinetics &amp; Catalysis</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Electrochemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">General Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Cell Separators</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Laminated Bodies</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+    </ul>
+  </section>
+
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    
+    <div itemprop="content" html><abstract mxw-id="PA49225642" lang="EN" load-source="patent-office">
+    <div id="p-0001" num="0000" class="abstract">A battery separator comprising: a microporous polyolefin film having from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. In this battery separator the polyolefin is selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof. Preferably the polyolefin is polyethylene, mixtures of polyethylene and copolymers of polyethylene, or polypropylene, mixtures of polypropylene and copolymers of polypropylene and has less than or equal to 5% by weight of the block copolymer. In the battery separator of the invention, the microporous film generally has a thickness of no greater than 200 microns, a porosity in the range of 10 to 90%, and a pore size in the range of 0.005 micron to 1.5 micron. </div>
+  </abstract>
+  </div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    
+    <div itemprop="content" html><ul mxw-id="PDES13569101" lang="EN" load-source="patent-office" class="description">
+    
+    <heading id="h-0001">FIELD OF THE INVENTION </heading>
+    <li> <para-num num="[0001]"> </para-num> <div id="p-0002" num="0001" class="description-line"> The present invention is direct to a battery separator having antistatic properties. </div>
+    </li> <heading id="h-0002">BACKGROUND OF THE INVENTION </heading>
+    <li> <para-num num="[0002]"> </para-num> <div id="p-0003" num="0002" class="description-line"> Static charge on the mircoporous polyolefin films used as separators in batteries, for example secondary lithium batteries, cause problems. First, in separator manufacture, the static charge draws or attracts contaminants to the film. These contaminants cause film defects, such as blemishes, pin-holes, and the like. Also, during lamination of multi-layer films, contaminants are trapped between the layers. This, too, causes film defects. Second, in battery manufacture, the static charge on the film draws contaminants into the anode/separator/cathode structure (jelly roll or prismatic) that cause defects. Most noticeable of these defects are those that cause internal short circuits. In battery manufacture, the static situation is made even worst by the dry (i.e., low humidity) environment in which these batteries are made. Accordingly, static charge on the microporous polyolefin films used as battery separators is to be avoided. </div>
+    </li> <li> <para-num num="[0003]"> </para-num> <div id="p-0004" num="0003" class="description-line"> In the past, static charge has been dissipated by the use of moisture absorbing agents that can be added into or onto a polyolefin film. While these materials work well at dissipating the static charge, they are not used in battery separators, such as secondary lithium batteries, because moisture in those cells must be avoided. Alternatively, static charge has been dissipated by the inclusion of carbon into the film. This, however, must be avoided because the carbon is a conductor and can cause a short circuit between the anode and the cathode. </div>
+    </li> <li> <para-num num="[0004]"> </para-num> <div id="p-0005" num="0004" class="description-line"> It may be possible top use a semiconductive materials (P-type conductors (electron conductors) or N-type conductors (hole conductors)) or polaron (electron hopping) materials, added to the separator, to reduce static charge. Examples of P-type conductors (electron conductors) or N-type conductors (hole conductors) materials include but are not limited to: oxides, Fe<sub>2</sub>O<sub>3</sub>, SiO<sub>2</sub>, GaAs, nitrides, GeO, Ge, Si, P, B. Examples of Polaron (electron hopping) materials where a polar medium is able to carry polarons is ionic crystal (like NaCl, KCl, RuCl, etc.). </div>
+    </li> <li> <para-num num="[0005]"> </para-num> <div id="p-0006" num="0005" class="description-line"> Further, it may be possible top use a conductive materials (e.g. carbon) in a battery separator produced from a film, where the film is a multi-layered film. Where the multi-layered film is a trilayer, the conductive material is added to the outside layers of the trilayer and the center layer acts as an insulator. </div>
+    </li> <li> <para-num num="[0006]"> </para-num> <div id="p-0007" num="0006" class="description-line"> Finally, not all antistatic agents can simply be added to the resins that form the films or coated onto the microporous films because those agents can have a detrimental effect on the microporous nature of the film. </div>
+    </li> <li> <para-num num="[0007]"> </para-num> <div id="p-0008" num="0007" class="description-line"> Accordingly, there is a need for a battery separator having good antistatic properties and good microporous properties. </div>
+    </li> <heading id="h-0003">SUMMARY OF THE INVENTION </heading>
+    <li> <para-num num="[0008]"> </para-num> <div id="p-0009" num="0008" class="description-line"> A battery separator comprising: a microporous polyolefin film having from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. In this battery separator the polyolefin is selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof. Preferably the polyolefin is polyethylene, mixtures of polyethylene and copolymers of polyethylene, or polypropylene, mixtures of polypropylene and copolymers of polypropylene, and has less than or equal to 5% by weight of the block copolymer. In the battery separator of the invention, the microporous film can have any thickness, a porosity in the range of 10 to 90%, and a pore size in the range of 0.005 micron to 1.5 micron.</div>
+    
+    
+    </li> <heading id="h-0004">DETAILED DESCRIPTION OF THE INVENTION </heading>
+    <li> <para-num num="[0009]"> </para-num> <div id="p-0010" num="0009" class="description-line"> A battery separator comprising: a microporous polyolefin film having a block copolymer including a polyetheresteramide monomer. The specifics of this separator will be discussed in greater detail below. </div>
+    </li> <li> <para-num num="[0010]"> </para-num> <div id="p-0011" num="0010" class="description-line"> Microporous polyolefin film also known as microporous membranes are well known and commercially available from Celgard Inc. of Charlotte, N.C., USA (CELGARD® membranes, single layer and tri-layer membranes); Tonen Chemical Co. of Tokyo, Japan; Asahi Kasei of Tokyo, Japan (HIPORE™), and Ube Industries of Tokyo, Japan (U-PORE™). These membranes may be made by the “dry-stretch” (or Celgard) process or the “wet” (or phase inversion) process, or by a particle stretch process. </div>
+    </li> <li> <para-num num="[0011]"> </para-num> <div id="p-0012" num="0011" class="description-line"> The polyolefin film is selected from the group consisting of, but not limited to: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof. Preferably the polyolefin is polyethylene, mixtures of polyethylene and copolymers of polyethylene. More preferred the polyolefin is polypropylene, mixtures of polypropylene and copolymers of polypropylene. </div>
+    </li> <li> <para-num num="[0012]"> </para-num> <div id="p-0013" num="0012" class="description-line"> The microporous film, in the battery separator of the invention, can have a separator of any thickness. In general, many separators have a thickness of no greater than 200 microns. For batteries used in personal electronic devices, separators having thickness of no greater than 80 microns work well as do separators having a thickness of no greater than 50 microns, while separators having a thickness of 25 μm or less are preferred. </div>
+    </li> <li> <para-num num="[0013]"> </para-num> <div id="p-0014" num="0013" class="description-line"> The aforementioned microporous membranes generally possess a porosity in the range of 10% to 90%; preferably a porosity in the range of 20% to 80%. The pore size in these membranes range from 0.005 μm to 1.5 μm, with a range of 0.01 μm to 1.0 μm being preferable. </div>
+    </li> <li> <para-num num="[0014]"> </para-num> <div id="p-0015" num="0014" class="description-line"> Generally the microporous polyolefin film has from 0.1% by weight to 50% by weight of a block copolymer including a polyetheresteramide. The block copolymer including a polyetheresteramide, work well with the microporous polyolefin film at quantities in the range of 0.2% to 45% by weight of the polyolefin used in the microporous membrane. Generally the microporous polyolefin film has from 0.25% by weight to 30% by weight of a block copolymer including a polyetheresteramide. It has been found that while relatively large amounts of the block copolymer including a polyetheresteramide having at the lower range from 20%, 23%, 25%, 28% and the upper range having from 50%, 48%, 45%, 40%, 35%, 30% by weight provide good anti-static propertries other properties of the film are adversely affected. For overall performance the use of the block copolymer including a polyetheresteramide is better when it is equal to or less than 15%. Preferred are levels of blocked copolymers of less than or equal 5% by weight to the weight of the polyolefin. More preferred levels of blocked copolymers of less than 5% by weight based on the weight of the polyolefin. Surprisingly this blocked copolymer also works well at levels of 4% or less, 3% or less and 2% or less by weight to the weight of the polyolefin used. </div>
+    </li> <li> <para-num num="[0015]"> </para-num> <div id="p-0016" num="0015" class="description-line"> The polyetheresteramide monomer of the present invention preferably comprises residues derived from (1) a polyamide oligomer having end units containing a carboxylic group and having a number average molecular weight from 200 to 5,000 and (2) an oxyalkylated bisphenol compound containing from 32 to 60 oxyethylene units. In these polyetheresteramide the carboxylic group is derived from adipic, sebacic, terephthalic or isophthalic acids or 3-sulfoisophthalic acid alkali metal. The oxyalkylated bisphenol compound of the polyetheresteramide comprises an oxyalkylated alkylidene bisphenol. The polyetheresteramide monomer is produced by Sanyo Chemical Industries, Ltd., Kyoto, Japan and is available in the US from Tomen America Inc., under the Trademark Pelestat®. </div>
+    </li> <li> <para-num num="[0016]"> </para-num> <div id="p-0017" num="0016" class="description-line"> The microporous film can be made up of one or more layers of materials which may be the same or different. When using more than one layer it is preferred to have the layers joined together in a manner that the stay joined together. This joining of layers my include, but is not limited to: lamination, hot nip bonding, bonding, and joined with one or more adhesives. Trilayer polyolefin films which incorporate the block copolymer show improved antistatic properties an example is a trilayer film of polypropylene/polyethylene/polypropylene. </div>
+    </li> <li> <para-num num="[0017]"> </para-num> <div id="p-0018" num="0017" class="description-line"> This battery separator may be produced from a film, where the film is a multi-layered film and the block copolymer is in the outer most layers of said multi-layered film or in all the layers. </div>
+    </li> <li> <para-num num="[0018]"> </para-num> <div id="p-0019" num="0018" class="description-line"> Where the battery separator&#39;s film is a tri-layered film, the block copolymer works well, in the outer most layers of said tri-layered film. However, as with the multilayer, the block copolymer can be in all the layers. </div>
+    </li> <li> <para-num num="[0019]"> </para-num> <div id="p-0020" num="0019" class="description-line"> The battery separators of the present invention are well adapted for use in a lithium ion secondary battery. A lithium ion secondary battery is a cylindrical or prismatic battery composed of anode, cathode, separator, and electrolyte, which is packaged in a rigid (e.g., metallic) can or flexible foil. </div>
+    
+  </li> </ul>
+  </div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">23</span>)</h2>
+    
+    <div itemprop="content" html><div mxw-id="PCLM7194009" lang="EN" load-source="patent-office" class="claims">
+    <div class="claim"> <div id="CLM-00001" num="00001" class="claim">
+      <div class="claim-text"> <b>1</b>. A battery separator comprising: 
+<div class="claim-text">a microporous polyolefin film having a block copolymer including a polyetheresteramide monomer. </div> </div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00002" num="00002" class="claim">
+      <div class="claim-text"> <b>2</b>. A battery separator comprising: 
+<div class="claim-text">a microporous polyolefin film where said microporous polyolefin film; </div> <div class="claim-text">where said microporous polyolefin film also comprising from 0.1% by weight to 50% by weight of a block copolymer including a polyetheresteramide monomer. </div> </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00003" num="00003" class="claim">
+      <div class="claim-text"> <b>3</b>. The battery separator of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said polyolefin being selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00004" num="00004" class="claim">
+      <div class="claim-text"> <b>4</b>. The battery separator of <claim-ref idref="CLM-00002">claim 2</claim-ref> where said microporous film has a pore size in the range of 0.005 to 1.5 micron. </div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00005" num="00005" class="claim">
+      <div class="claim-text"> <b>5</b>. A battery separator comprising: 
+<div class="claim-text">a microporous polyolefin film where said microporous polyolefin film is selected from the group consisting of: polyethylene, mixtures of polyethylene, copolymers of polyethylene, polypropylene, mixtures of polypropylene, copolymers of polypropylene, polybutylene, mixtures of polybutylene, and copolymers of polybutylene, polymethylpentene, mixtures of polymethylpentene, and copolymers of polymethylpentene, and mixtures thereof; </div> <div class="claim-text">said microporous polyolefin film having a porosity in the range of 10 to 90%; and </div> <div class="claim-text">said microporous polyolefin film also comprising less than our equal to 15% by weight of a block copolymer including a polyetheresteramide monomer. </div> </div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00006" num="00006" class="claim">
+      <div class="claim-text"> <b>6</b>. A battery separator comprising: 
+<div class="claim-text">a microporous polyolefin film where said microporous polyolefin film is selected from the group consisting of: polyethylene, mixtures of polyethylene, copolymers of polyethylene, polypropylene, mixtures of polypropylene, and copolymers of polypropylene; </div> <div class="claim-text">said microporous polyolefin film having a thickness of no greater than 200 microns, a porosity in the range of 10 to 90%; and </div> <div class="claim-text">said microporous polyolefin film also comprising less than 5% by weight of a block copolymer including a polyetheresteramide monomer. </div> </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00007" num="00007" class="claim">
+      <div class="claim-text"> <b>7</b>. The battery separator of <claim-ref idref="CLM-00006">claim 6</claim-ref> where said microporous film has a pore size in the range of 0.005 to 1.5 micron. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00008" num="00008" class="claim">
+      <div class="claim-text"> <b>8</b>. The battery separator of <claim-ref idref="CLM-00006">claim 6</claim-ref> where said block copolymer including a polyetheresteramide monomer is 4% by weight or less. </div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00009" num="00009" class="claim">
+      <div class="claim-text"> <b>9</b>. A battery separator comprising: 
+<div class="claim-text">a microporous polyolefin film having less than or equal to 5% by weight of a block copolymer including a polyetheresteramide monomer. </div> </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00010" num="00010" class="claim">
+      <div class="claim-text"> <b>10</b>. The battery separator of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said polyolefin being selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00011" num="00011" class="claim">
+      <div class="claim-text"> <b>11</b>. The battery separator of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said polyolefin being polyethylene, mixtures of polyethylene and copolymers of polyethylene, and having less 5% by weight of the block copolymer. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00012" num="00012" class="claim">
+      <div class="claim-text"> <b>12</b>. The battery separator of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said polyolefin being polypropylene, mixtures of polypropylene, and copolymers of polypropylene, and having less than 5% by weight of said block copolymer. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00013" num="00013" class="claim">
+      <div class="claim-text"> <b>13</b>. The battery separator of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said polyolefin being polypropylene, mixtures of polypropylene, and copolymers of polypropylene, and having less than or equal to 4% by weight of said block copolymer. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00014" num="00014" class="claim">
+      <div class="claim-text"> <b>14</b>. The battery separator of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said microporous film having a thickness of no greater than 200 microns, a porosity in the range of 10 to 90%, and a pore size in the range of 0.005 micron to 1.5 micron. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00015" num="00015" class="claim">
+      <div class="claim-text"> <b>15</b>. The battery separator of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said film being a multi-layered film and said block copolymer being in the outer most layers of said multi-layered film. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00016" num="00016" class="claim">
+      <div class="claim-text"> <b>16</b>. The battery separator of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said film being a tri-layered film and said block copolymer being in the outer most layers of said tri-layered film. </div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00017" num="00017" class="claim">
+      <div class="claim-text"> <b>17</b>. A multilayer battery separator comprising: 
+<div class="claim-text">an inner layer of a microporous polyolefin film where said microporous polyolefin film is selected from the group consisting of: polyethylene, polypropylene, polybutylene, polymethylpentene, mixtures thereof, and copolymers thereof; </div> <div class="claim-text">an outer layer of a microporous polyolefin film where said microporous polyolefin film is selected from the group consisting of: polyethylene, mixtures of polyethylene, copolymers of polyethylene, polypropylene, mixtures of polypropylene, copolymers of polypropylene, polybutylene, mixtures of polybutylene, and copolymers of polybutylene, polymethylpentene, mixtures of polymethylpentene, and copolymers of polymethylpentene, and mixtures thereof; and </div> <div class="claim-text">said outer layer of said microporous polyolefin film also comprising from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. </div> </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00018" num="00018" class="claim">
+      <div class="claim-text"> <b>18</b>. The multilayer battery separator of <claim-ref idref="CLM-00017">claim 17</claim-ref> where said inner layer of said microporous polyolefin film comprises from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. </div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00019" num="00019" class="claim">
+      <div class="claim-text"> <b>19</b>. A trilayer battery separator comprising: 
+<div class="claim-text">an inner layer of a microporous polyolefin film where said microporous polyolefin film is selected from the group consisting of: polyethylene, mixtures of polyethylene, copolymers of polyethylene, polypropylene, mixtures of polypropylene, copolymers of polypropylene, polybutylene, mixtures of polybutylene, and copolymers of polybutylene, polymethylpentene, mixtures of polymethylpentene, copolymers of polymethylpentene, and mixtures thereof; </div> <div class="claim-text">two outer layers of a microporous polyolefin film where said microporous polyolefin film is selected from the group consisting of: polyethylene, mixtures of polyethylene, copolymers of polyethylene, polypropylene, mixtures of polypropylene, copolymers of polypropylene, polybutylene, mixtures of polybutylene, and copolymers of polybutylene, polymethylpentene, mixtures of polymethylpentene, copolymers of polymethylpentene, and mixtures thereof; and </div> <div class="claim-text">said two outer layers of said microporous polyolefin film also comprising from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. </div> </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00020" num="00020" class="claim">
+      <div class="claim-text"> <b>20</b>. The trilayer battery separator of <claim-ref idref="CLM-00019">claim 19</claim-ref> where said inner layer of said microporous polyolefin film comprises from 0.1% to 50% by weight of a block copolymer including a polyetheresteramide monomer. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00021" num="00021" class="claim">
+      <div class="claim-text"> <b>21</b>. The trilayer battery separator of <claim-ref idref="CLM-00019">claim 19</claim-ref> where said outer layers of said microporous polyolefin film comprises less than 5% by weight of a block copolymer including a polyetheresteramide monomer. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00022" num="00022" class="claim">
+      <div class="claim-text"> <b>22</b>. The trilayer battery separator of <claim-ref idref="CLM-00019">claim 19</claim-ref> where said outer layers of said microporous polyolefin film comprises from 20% to 50% by weight of a block copolymer including a polyetheresteramide monomer. </div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00023" num="00023" class="claim">
+      <div class="claim-text"> <b>23</b>. The trilayer battery separator of <claim-ref idref="CLM-00019">claim 19</claim-ref> wherein said microporous film having a thickness of no greater than 200 microns, a porosity in the range of 20 to 80%, and a pore size in the range of 0.005 micron to 1.5 micron.</div>
+    </div>
+  </div> </div>
+  </div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+      <span itemprop="applicationNumber">US10/836,732</span>
+      <span itemprop="priorityDate">2004-04-30</span>
+      <span itemprop="filingDate">2004-04-30</span>
+      <span itemprop="title">Battery separator with antistatic properties 
+       </span>
+      <span itemprop="ifiStatus">Abandoned</span>
+      
+      <a href="/patent/US20050244717A1/en">
+        <span itemprop="representativePublication">US20050244717A1</span>
+        (<span itemprop="primaryLanguage">en</span>)
+      </a>
+    </section>
+
+    <h2>Priority Applications (9)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">US10/836,732</span>
+            
+            <a href="/patent/US20050244717A1/en">
+              <span itemprop="representativePublication">US20050244717A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2004-04-30</td>
+          <td itemprop="title">Battery separator with antistatic properties 
+       </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">CA 2501277</span>
+            
+            <a href="/patent/CA2501277A1/en">
+              <span itemprop="representativePublication">CA2501277A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-03-17</td>
+          <td itemprop="title">Battery separator with antistatic properties 
+       </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">TW94108996A</span>
+            
+            <a href="/patent/TWI264843B/en">
+              <span itemprop="representativePublication">TWI264843B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-03-23</td>
+          <td itemprop="title">Battery separator with antistatic properties 
+     </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">SG200502230A</span>
+            
+            <a href="/patent/SG116610A1/en">
+              <span itemprop="representativePublication">SG116610A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-04-12</td>
+          <td itemprop="title">Battery separator with antistatic properties. 
+     </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">CNA2008100916614A</span>
+            
+            <a href="/patent/CN101257107A/en">
+              <span itemprop="representativePublication">CN101257107A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-04-21</td>
+          <td itemprop="title">Battery separator with antistatic properties 
+       </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">CNA2005100656882A</span>
+            
+            <a href="/patent/CN1694280A/en">
+              <span itemprop="representativePublication">CN1694280A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-04-21</td>
+          <td itemprop="title">
+        Battery Separators with Antistatic Properties
+       
+       </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">EP20050008952</span>
+            
+            <a href="/patent/EP1592078A2/en">
+              <span itemprop="representativePublication">EP1592078A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-04-23</td>
+          <td itemprop="title">Battery separator with antistatic properties 
+       </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">KR1020050035592A</span>
+            
+            <a href="/patent/KR100667449B1/en">
+              <span itemprop="representativePublication">KR100667449B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-04-28</td>
+          <td itemprop="title">
+        Battery separator with antistatic properties
+       
+       </td>
+        </tr>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">JP2005134461A</span>
+            
+            <a href="/patent/JP4395459B2/en">
+              <span itemprop="representativePublication">JP4395459B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2005-05-02</td>
+          <td itemprop="title">
+        Battery separator with antistatic properties
+       
+     </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Applications Claiming Priority (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="appsClaimingPriority" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">US10/836,732</span>
+            <a href="/patent/US20050244717A1/en">
+              <span itemprop="representativePublication">US20050244717A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2004-04-30</td>
+          <td itemprop="title">Battery separator with antistatic properties 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    
+
+    <h2>Publications (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication Number</th>
+          <th>Publication Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="pubs" itemscope repeat>
+          <td>
+            <span itemprop="publicationNumber">US20050244717A1</span>
+            
+            <span itemprop="thisPatent">true</span>
+            <a href="/patent/US20050244717A1/en">
+              US20050244717A1
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-11-03</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=34935646</h2>
+
+    <h2>Family Applications (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Title</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="applications" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">US10/836,732</span>
+            <span itemprop="ifiStatus">Abandoned</span>
+            
+            <a href="/patent/US20050244717A1/en">
+              <span itemprop="representativePublication">US20050244717A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2004-04-30</td>
+          <td itemprop="filingDate">2004-04-30</td>
+          <td itemprop="title">Battery separator with antistatic properties 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    
+
+    <h2>Country Status (8)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Country</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">US</span>
+            (<span itemprop="num">1</span>)
+            <meta itemprop="thisCountry" content="true">
+          </td>
+          <td>
+            <a href="/patent/US20050244717A1/en">
+              <span itemprop="representativePublication">US20050244717A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">EP</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/EP1592078A2/en">
+              <span itemprop="representativePublication">EP1592078A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">JP</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/JP4395459B2/en">
+              <span itemprop="representativePublication">JP4395459B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">KR</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/KR100667449B1/en">
+              <span itemprop="representativePublication">KR100667449B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">CN</span>
+            (<span itemprop="num">2</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/CN1694280A/en">
+              <span itemprop="representativePublication">CN1694280A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">CA</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/CA2501277A1/en">
+              <span itemprop="representativePublication">CA2501277A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">SG</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/SG116610A1/en">
+              <span itemprop="representativePublication">SG116610A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">TW</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/TWI264843B/en">
+              <span itemprop="representativePublication">TWI264843B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Cited By (6)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20100255376A1/en">
+              <span itemprop="publicationNumber">US20100255376A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2009-03-19</td>
+          <td itemprop="publicationDate">2010-10-07</td>
+          <td><span itemprop="assigneeOriginal">Carbon Micro Battery Corporation</span></td>
+          <td itemprop="title">Gas phase deposition of battery separators 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/WO2010147800A3/en">
+              <span itemprop="publicationNumber">WO2010147800A3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2009-06-19</td>
+          <td itemprop="publicationDate">2011-03-03</td>
+          <td><span itemprop="assigneeOriginal">Toray Tonen Specialty Separator Godo Kaisha</span></td>
+          <td itemprop="title">Multi-layer microporous film 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/WO2010147798A3/en">
+              <span itemprop="publicationNumber">WO2010147798A3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2009-06-19</td>
+          <td itemprop="publicationDate">2011-03-31</td>
+          <td><span itemprop="assigneeOriginal">Toray Tonen Specialty Separator Godo Kaisha</span></td>
+          <td itemprop="title">Microporous membranes, methods for making such membranes, and the use of such membranes as battery separator film 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20140302374A1/en">
+              <span itemprop="publicationNumber">US20140302374A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-02-21</td>
+          <td itemprop="publicationDate">2014-10-09</td>
+          <td><span itemprop="assigneeOriginal">Celgard Llc</span></td>
+          <td itemprop="title">Biaxially oriented microporous membrane 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20190245180A1/en">
+              <span itemprop="publicationNumber">US20190245180A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2016-10-24</td>
+          <td itemprop="publicationDate">2019-08-08</td>
+          <td><span itemprop="assigneeOriginal">Sumitomo Chemical Company, Limited</span></td>
+          <td itemprop="title">Separator and secondary battery including the separator 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN116264336A/en">
+              <span itemprop="publicationNumber">CN116264336A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2021-12-14</td>
+          <td itemprop="publicationDate">2023-06-16</td>
+          <td><span itemprop="assigneeOriginal">深圳新宙邦科技股份有限公司</span></td>
+          <td itemprop="title">
+        A kind of lithium battery diaphragm and lithium battery
+       
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Families Citing this family (11)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/EP2575196B1/en">
+              <span itemprop="publicationNumber">EP2575196B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-11-20</td>
+          <td itemprop="publicationDate">2014-05-28</td>
+          <td><span itemprop="assigneeOriginal">Teijin Limited</span></td>
+          <td itemprop="title">Separator for non-aqueous secondary battery and non-aqueous secondary battery. 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/KR100870362B1/en">
+              <span itemprop="publicationNumber">KR100870362B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2007-03-15</td>
+          <td itemprop="publicationDate">2008-11-25</td>
+          <td><span itemprop="assigneeOriginal">삼성에스디아이 주식회사</span></td>
+          <td itemprop="title">
+        Protective Circuit Board for Secondary Battery and Secondary Battery Using the Same
+       
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/JP5515260B2/en">
+              <span itemprop="publicationNumber">JP5515260B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-09-19</td>
+          <td itemprop="publicationDate">2014-06-11</td>
+          <td><span itemprop="assigneeOriginal">日産自動車株式会社</span></td>
+          <td itemprop="title">
+        Electrochemical cell
+       
+     </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/KR101916687B1/en">
+              <span itemprop="publicationNumber">KR101916687B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2010-08-12</td>
+          <td itemprop="publicationDate">2018-11-08</td>
+          <td><span itemprop="assigneeOriginal">도레이 배터리 세퍼레이터 필름 주식회사</span></td>
+          <td itemprop="title">Microporous film, process for production of the film, and use of the film 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/FI123464B/en">
+              <span itemprop="publicationNumber">FI123464B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2011-06-30</td>
+          <td itemprop="publicationDate">2013-05-31</td>
+          <td><span itemprop="assigneeOriginal">Ionphase Oy</span></td>
+          <td itemprop="title">
+  Halogen-free polymer blend
+ 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN104143614B/en">
+              <span itemprop="publicationNumber">CN104143614B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2013-05-09</td>
+          <td itemprop="publicationDate">2017-02-08</td>
+          <td><span itemprop="assigneeOriginal">中国科学院大连化学物理研究所</span></td>
+          <td itemprop="title">Lithium sulfur battery 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/AU2015258191B2/en">
+              <span itemprop="publicationNumber">AU2015258191B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2014-11-19</td>
+          <td itemprop="publicationDate">2020-02-27</td>
+          <td><span itemprop="assigneeOriginal">Flexopack S.A.</span></td>
+          <td itemprop="title">Oven skin packaging process 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN108112275A/en">
+              <span itemprop="publicationNumber">CN108112275A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2015-02-25</td>
+          <td itemprop="publicationDate">2018-06-01</td>
+          <td><span itemprop="assigneeOriginal">赛尔格有限责任公司</span></td>
+          <td itemprop="title">
+        Improved separators and related methods for high voltage rechargeable lithium batteries
+       
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN104993085B/en">
+              <span itemprop="publicationNumber">CN104993085B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2015-05-22</td>
+          <td itemprop="publicationDate">2017-12-05</td>
+          <td><span itemprop="assigneeOriginal">宁波大学</span></td>
+          <td itemprop="title">A kind of MULTILAYER COMPOSITE polyolefin diaphragm of lithium ion battery and preparation method thereof 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/EP3501823A1/en">
+              <span itemprop="publicationNumber">EP3501823A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2017-12-22</td>
+          <td itemprop="publicationDate">2019-06-26</td>
+          <td><span itemprop="assigneeOriginal">Flexopack S.A.</span></td>
+          <td itemprop="title">Film with low breakdown voltage 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/EP3501822A1/en">
+              <span itemprop="publicationNumber">EP3501822A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2017-12-22</td>
+          <td itemprop="publicationDate">2019-06-26</td>
+          <td><span itemprop="assigneeOriginal">Flexopack S.A.</span></td>
+          <td itemprop="title">Fibc liner film 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Citations (9)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5318866A/en">
+              <span itemprop="publicationNumber">US5318866A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1993-04-23</td>
+          <td itemprop="publicationDate">1994-06-07</td>
+          <td>
+            <span itemprop="assigneeOriginal">Pall Corporation</span>
+          </td>
+          <td itemprop="title">Battery separators 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5886098A/en">
+              <span itemprop="publicationNumber">US5886098A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1993-03-03</td>
+          <td itemprop="publicationDate">1999-03-23</td>
+          <td>
+            <span itemprop="assigneeOriginal">Sanyo Chemical Industries, Ltd.</span>
+          </td>
+          <td itemprop="title">Polyetheresteramide and antistatic resin composition 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US6346350B1/en">
+              <span itemprop="publicationNumber">US6346350B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1999-04-20</td>
+          <td itemprop="publicationDate">2002-02-12</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celgard Inc.</span>
+          </td>
+          <td itemprop="title">Structurally stable fusible battery separators and method of making same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US6461772B1/en">
+              <span itemprop="publicationNumber">US6461772B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1998-12-14</td>
+          <td itemprop="publicationDate">2002-10-08</td>
+          <td>
+            <span itemprop="assigneeOriginal">Sumitomo Electric Industries, Ltd.</span>
+          </td>
+          <td itemprop="title">Battery diaphragm 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20020160268A1/en">
+              <span itemprop="publicationNumber">US20020160268A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2001-02-28</td>
+          <td itemprop="publicationDate">2002-10-31</td>
+          <td>
+            <span itemprop="assigneeOriginal">Nitto Denko Corporation</span>
+          </td>
+          <td itemprop="title">Porous film, process for producing the same, and uses thereof 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20020168564A1/en">
+              <span itemprop="publicationNumber">US20020168564A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2001-05-08</td>
+          <td itemprop="publicationDate">2002-11-14</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celgard Inc.</span>
+          </td>
+          <td itemprop="title">Separator for polymer battery 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20030219587A1/en">
+              <span itemprop="publicationNumber">US20030219587A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-05-24</td>
+          <td itemprop="publicationDate">2003-11-27</td>
+          <td>
+            <span itemprop="assigneeOriginal">Pekala Richard W.</span>
+          </td>
+          <td itemprop="title">Microporous, mixed polymer phase membrane 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US6656981B2/en">
+              <span itemprop="publicationNumber">US6656981B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2000-08-29</td>
+          <td itemprop="publicationDate">2003-12-02</td>
+          <td>
+            <span itemprop="assigneeOriginal">Ciba Specialty Chemicals Corporation</span>
+          </td>
+          <td itemprop="title">Method for reducing dust deposition on polyolefin films 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20040171762A1/en">
+              <span itemprop="publicationNumber">US20040171762A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2003-01-24</td>
+          <td itemprop="publicationDate">2004-09-02</td>
+          <td>
+            <span itemprop="assigneeOriginal">Hui Chin</span>
+          </td>
+          <td itemprop="title">Antistatic composition 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    <ul>
+      <li itemprop="applicationsByYear" itemscope repeat>
+        <span itemprop="year">2004</span>
+        <ul>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2004-04-30</span>
+            <span itemprop="countryCode">US</span>
+            <span itemprop="applicationNumber">US10/836,732</span>
+            <a href="/patent/US20050244717A1/en"><span itemprop="documentId">patent/US20050244717A1/en</span></a>
+            <span itemprop="legalStatusCat">not_active</span>
+            <span itemprop="legalStatus">Abandoned</span>
+            <span itemprop="thisApp" content="true" bool></span>
+          </li>
+        </ul>
+      </li>
+      <li itemprop="applicationsByYear" itemscope repeat>
+        <span itemprop="year">2005</span>
+        <ul>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-03-17</span>
+            <span itemprop="countryCode">CA</span>
+            <span itemprop="applicationNumber">CA 2501277</span>
+            <a href="/patent/CA2501277A1/en"><span itemprop="documentId">patent/CA2501277A1/en</span></a>
+            <span itemprop="legalStatusCat">not_active</span>
+            <span itemprop="legalStatus">Abandoned</span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-03-23</span>
+            <span itemprop="countryCode">TW</span>
+            <span itemprop="applicationNumber">TW94108996A</span>
+            <a href="/patent/TWI264843B/en"><span itemprop="documentId">patent/TWI264843B/en</span></a>
+            <span itemprop="legalStatusCat">not_active</span>
+            <span itemprop="legalStatus">IP Right Cessation</span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-04-12</span>
+            <span itemprop="countryCode">SG</span>
+            <span itemprop="applicationNumber">SG200502230A</span>
+            <a href="/patent/SG116610A1/en"><span itemprop="documentId">patent/SG116610A1/en</span></a>
+            <span itemprop="legalStatusCat">unknown</span>
+            <span itemprop="legalStatus"></span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-04-21</span>
+            <span itemprop="countryCode">CN</span>
+            <span itemprop="applicationNumber">CNA2005100656882A</span>
+            <a href="/patent/CN1694280A/en"><span itemprop="documentId">patent/CN1694280A/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Pending</span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-04-21</span>
+            <span itemprop="countryCode">CN</span>
+            <span itemprop="applicationNumber">CNA2008100916614A</span>
+            <a href="/patent/CN101257107A/en"><span itemprop="documentId">patent/CN101257107A/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Pending</span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-04-23</span>
+            <span itemprop="countryCode">EP</span>
+            <span itemprop="applicationNumber">EP20050008952</span>
+            <a href="/patent/EP1592078A2/en"><span itemprop="documentId">patent/EP1592078A2/en</span></a>
+            <span itemprop="legalStatusCat">not_active</span>
+            <span itemprop="legalStatus">Withdrawn</span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-04-28</span>
+            <span itemprop="countryCode">KR</span>
+            <span itemprop="applicationNumber">KR1020050035592A</span>
+            <a href="/patent/KR100667449B1/en"><span itemprop="documentId">patent/KR100667449B1/en</span></a>
+            <span itemprop="legalStatusCat">not_active</span>
+            <span itemprop="legalStatus">Expired - Fee Related</span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2005-05-02</span>
+            <span itemprop="countryCode">JP</span>
+            <span itemprop="applicationNumber">JP2005134461A</span>
+            <a href="/patent/JP4395459B2/en"><span itemprop="documentId">patent/JP4395459B2/en</span></a>
+            <span itemprop="legalStatusCat">not_active</span>
+            <span itemprop="legalStatus">Expired - Fee Related</span>
+            
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    </section>
+
+  <section>
+    <h2>Patent Citations (9)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5886098A/en">
+              <span itemprop="publicationNumber">US5886098A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1993-03-03</td>
+          <td itemprop="publicationDate">1999-03-23</td>
+          <td><span itemprop="assigneeOriginal">Sanyo Chemical Industries, Ltd.</span></td>
+          <td itemprop="title">Polyetheresteramide and antistatic resin composition 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5318866A/en">
+              <span itemprop="publicationNumber">US5318866A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1993-04-23</td>
+          <td itemprop="publicationDate">1994-06-07</td>
+          <td><span itemprop="assigneeOriginal">Pall Corporation</span></td>
+          <td itemprop="title">Battery separators 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US6461772B1/en">
+              <span itemprop="publicationNumber">US6461772B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1998-12-14</td>
+          <td itemprop="publicationDate">2002-10-08</td>
+          <td><span itemprop="assigneeOriginal">Sumitomo Electric Industries, Ltd.</span></td>
+          <td itemprop="title">Battery diaphragm 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US6346350B1/en">
+              <span itemprop="publicationNumber">US6346350B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1999-04-20</td>
+          <td itemprop="publicationDate">2002-02-12</td>
+          <td><span itemprop="assigneeOriginal">Celgard Inc.</span></td>
+          <td itemprop="title">Structurally stable fusible battery separators and method of making same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US6656981B2/en">
+              <span itemprop="publicationNumber">US6656981B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2000-08-29</td>
+          <td itemprop="publicationDate">2003-12-02</td>
+          <td><span itemprop="assigneeOriginal">Ciba Specialty Chemicals Corporation</span></td>
+          <td itemprop="title">Method for reducing dust deposition on polyolefin films 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20020160268A1/en">
+              <span itemprop="publicationNumber">US20020160268A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2001-02-28</td>
+          <td itemprop="publicationDate">2002-10-31</td>
+          <td><span itemprop="assigneeOriginal">Nitto Denko Corporation</span></td>
+          <td itemprop="title">Porous film, process for producing the same, and uses thereof 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20020168564A1/en">
+              <span itemprop="publicationNumber">US20020168564A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2001-05-08</td>
+          <td itemprop="publicationDate">2002-11-14</td>
+          <td><span itemprop="assigneeOriginal">Celgard Inc.</span></td>
+          <td itemprop="title">Separator for polymer battery 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20030219587A1/en">
+              <span itemprop="publicationNumber">US20030219587A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-05-24</td>
+          <td itemprop="publicationDate">2003-11-27</td>
+          <td><span itemprop="assigneeOriginal">Pekala Richard W.</span></td>
+          <td itemprop="title">Microporous, mixed polymer phase membrane 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20040171762A1/en">
+              <span itemprop="publicationNumber">US20040171762A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2003-01-24</td>
+          <td itemprop="publicationDate">2004-09-02</td>
+          <td><span itemprop="assigneeOriginal">Hui Chin</span></td>
+          <td itemprop="title">Antistatic composition 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  
+
+  <h2>Cited By (11)</h2>
+  <table>
+    <caption>* Cited by examiner, † Cited by third party</caption>
+    <thead>
+      <tr>
+        <th>Publication number</th>
+        <th>Priority date</th>
+        <th>Publication date</th>
+        <th>Assignee</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US20140302374A1/en">
+            <span itemprop="publicationNumber">US20140302374A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2006-02-21</td>
+        <td itemprop="publicationDate">2014-10-09</td>
+        <td><span itemprop="assigneeOriginal">Celgard Llc</span></td>
+        <td itemprop="title">Biaxially oriented microporous membrane 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US11420416B2/en">
+            <span itemprop="publicationNumber">US11420416B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2006-02-21</td>
+        <td itemprop="publicationDate">2022-08-23</td>
+        <td><span itemprop="assigneeOriginal">Celgard, Llc</span></td>
+        <td itemprop="title">Biaxially oriented microporous membrane 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US20100255376A1/en">
+            <span itemprop="publicationNumber">US20100255376A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2009-03-19</td>
+        <td itemprop="publicationDate">2010-10-07</td>
+        <td><span itemprop="assigneeOriginal">Carbon Micro Battery Corporation</span></td>
+        <td itemprop="title">Gas phase deposition of battery separators 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US8603683B2/en">
+            <span itemprop="publicationNumber">US8603683B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2009-03-19</td>
+        <td itemprop="publicationDate">2013-12-10</td>
+        <td><span itemprop="assigneeOriginal">Enevate Corporation</span></td>
+        <td itemprop="title">Gas phase deposition of battery separators 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US9647259B2/en">
+            <span itemprop="publicationNumber">US9647259B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2009-03-19</td>
+        <td itemprop="publicationDate">2017-05-09</td>
+        <td><span itemprop="assigneeOriginal">Enevate Corporation</span></td>
+        <td itemprop="title">Gas phase deposition of battery separators 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/WO2010147800A3/en">
+            <span itemprop="publicationNumber">WO2010147800A3</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2009-06-19</td>
+        <td itemprop="publicationDate">2011-03-03</td>
+        <td><span itemprop="assigneeOriginal">Toray Tonen Specialty Separator Godo Kaisha</span></td>
+        <td itemprop="title">Multi-layer microporous film 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/WO2010147802A3/en">
+            <span itemprop="publicationNumber">WO2010147802A3</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2009-06-19</td>
+        <td itemprop="publicationDate">2011-03-31</td>
+        <td><span itemprop="assigneeOriginal">Toray Tonen Specialty Separator Godo Kaisha</span></td>
+        <td itemprop="title">Microporous membranes, methods for making these membranes, and the use of these membranes as battery separator films 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/WO2010147798A3/en">
+            <span itemprop="publicationNumber">WO2010147798A3</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2009-06-19</td>
+        <td itemprop="publicationDate">2011-03-31</td>
+        <td><span itemprop="assigneeOriginal">Toray Tonen Specialty Separator Godo Kaisha</span></td>
+        <td itemprop="title">Microporous membranes, methods for making such membranes, and the use of such membranes as battery separator film 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US20190245180A1/en">
+            <span itemprop="publicationNumber">US20190245180A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2016-10-24</td>
+        <td itemprop="publicationDate">2019-08-08</td>
+        <td><span itemprop="assigneeOriginal">Sumitomo Chemical Company, Limited</span></td>
+        <td itemprop="title">Separator and secondary battery including the separator 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/CN116264336A/en">
+            <span itemprop="publicationNumber">CN116264336A</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2021-12-14</td>
+        <td itemprop="publicationDate">2023-06-16</td>
+        <td><span itemprop="assigneeOriginal">深圳新宙邦科技股份有限公司</span></td>
+        <td itemprop="title">
+        A kind of lithium battery diaphragm and lithium battery
+       
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/WO2023109750A1/en">
+            <span itemprop="publicationNumber">WO2023109750A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2021-12-14</td>
+        <td itemprop="publicationDate">2023-06-22</td>
+        <td><span itemprop="assigneeOriginal">深圳新宙邦科技股份有限公司</span></td>
+        <td itemprop="title">Lithium battery separator and lithium battery 
+       </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/TWI264843B/en">
+              <span itemprop="publicationNumber">TWI264843B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2006-10-21</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/EP1592078A2/en">
+              <span itemprop="publicationNumber">EP1592078A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-11-02</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/SG116610A1/en">
+              <span itemprop="publicationNumber">SG116610A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-11-28</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN1694280A/en">
+              <span itemprop="publicationNumber">CN1694280A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-11-09</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN101257107A/en">
+              <span itemprop="publicationNumber">CN101257107A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2008-09-03</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CA2501277A1/en">
+              <span itemprop="publicationNumber">CA2501277A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-10-30</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/KR20060047592A/en">
+              <span itemprop="publicationNumber">KR20060047592A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2006-05-18</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/JP4395459B2/en">
+              <span itemprop="publicationNumber">JP4395459B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2010-01-06</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/JP2005322644A/en">
+              <span itemprop="publicationNumber">JP2005322644A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-11-17</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/KR100667449B1/en">
+              <span itemprop="publicationNumber">KR100667449B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2007-01-10</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/TW200603466A/en">
+              <span itemprop="publicationNumber">TW200603466A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2006-01-16</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/EP1592078A2/en">
+                <span itemprop="publicationNumber">EP1592078A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-11-02">2005-11-02</time>
+            
+            
+          </td>
+          <td itemprop="title">Battery separator with antistatic properties 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR101762087B1/en">
+                <span itemprop="publicationNumber">KR101762087B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2017-07-26">2017-07-26</time>
+            
+            
+          </td>
+          <td itemprop="title">Nonaqueous secondary battery separator, laminated body, method for producing laminated body, and nonaqueous secondary battery 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US9023506B2/en">
+                <span itemprop="publicationNumber">US9023506B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2015-05-05">2015-05-05</time>
+            
+            
+          </td>
+          <td itemprop="title">Battery separator, and battery separator manufacturing method 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US11990642B2/en">
+                <span itemprop="publicationNumber">US11990642B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2024-05-21">2024-05-21</time>
+            
+            
+          </td>
+          <td itemprop="title">Separator for electrochemical device and method for manufacturing the same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/TW388134B/en">
+                <span itemprop="publicationNumber">TW388134B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2000-04-21">2000-04-21</time>
+            
+            
+          </td>
+          <td itemprop="title">Separator for gel electrolyte battery 
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN101409367B/en">
+                <span itemprop="publicationNumber">CN101409367B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2011-05-11">2011-05-11</time>
+            
+            
+          </td>
+          <td itemprop="title">Non-aqueous electrolyte secondary battery and battery module 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20120021273A1/en">
+                <span itemprop="publicationNumber">US20120021273A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2012-01-26">2012-01-26</time>
+            
+            
+          </td>
+          <td itemprop="title">Sodium ion battery 
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20180077189A/en">
+                <span itemprop="publicationNumber">KR20180077189A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2018-07-06">2018-07-06</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Separator for non-aqueous secondary battery and non-aqueous secondary battery
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20090208831A1/en">
+                <span itemprop="publicationNumber">US20090208831A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2009-08-20">2009-08-20</time>
+            
+            
+          </td>
+          <td itemprop="title">Device having electrode group 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US9293754B2/en">
+                <span itemprop="publicationNumber">US9293754B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2016-03-22">2016-03-22</time>
+            
+            
+          </td>
+          <td itemprop="title">Battery separator, and battery separator manufacturing method 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20140315068A1/en">
+                <span itemprop="publicationNumber">US20140315068A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-10-23">2014-10-23</time>
+            
+            
+          </td>
+          <td itemprop="title">Non-aqueous secondary battery separator and non-aqueous secondary battery 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20200092323A/en">
+                <span itemprop="publicationNumber">KR20200092323A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2020-08-03">2020-08-03</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Porous film, separator for secondary battery and secondary battery
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20160149187A1/en">
+                <span itemprop="publicationNumber">US20160149187A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2016-05-26">2016-05-26</time>
+            
+            
+          </td>
+          <td itemprop="title">Separator having high heat resistance, manufacturing method thereof and secondary battery including the same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN116261802B/en">
+                <span itemprop="publicationNumber">CN116261802B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2026-03-06">2026-03-06</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Battery cell and battery module including the battery cell
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/WO2020184351A1/en">
+                <span itemprop="publicationNumber">WO2020184351A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2020-09-17">2020-09-17</time>
+            
+            
+          </td>
+          <td itemprop="title">Separator for nonaqueous secondary batteries, and nonaqueous secondary battery 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20190252662A1/en">
+                <span itemprop="publicationNumber">US20190252662A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2019-08-15">2019-08-15</time>
+            
+            
+          </td>
+          <td itemprop="title">Nonaqueous electrolyte secondary battery 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20160015770A/en">
+                <span itemprop="publicationNumber">KR20160015770A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2016-02-15">2016-02-15</time>
+            
+            
+          </td>
+          <td itemprop="title">A stack/folding type electrode assembly with safety improvement and a electrochemical cell comprising the same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/WO2025074757A1/en">
+                <span itemprop="publicationNumber">WO2025074757A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2025-04-10">2025-04-10</time>
+            
+            
+          </td>
+          <td itemprop="title">Power storage device exterior material and power storage device 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN111834586A/en">
+                <span itemprop="publicationNumber">CN111834586A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2020-10-27">2020-10-27</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Laminated separator for porous layer and non-aqueous electrolyte secondary battery
+       
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2004-08-06">2004-08-06</time></td>
+          <td itemprop="code">AS</td>
+          <td itemprop="title">Assignment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">CELGARD INC., NORTH CAROLINA</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZHANG, ZHENGMING;NGUYEN, KHUY V.;REEL/FRAME:015658/0317</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20040715</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2010-11-08">2010-11-08</time></td>
+          <td itemprop="code">STCB</td>
+          <td itemprop="title">Information on status: application discontinuation</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ABANDONED  --  AFTER EXAMINER&#39;S ANSWER OR BOARD OF APPEALS DECISION</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2014-04-08">2014-04-08</time></td>
+          <td itemprop="code">AS</td>
+          <td itemprop="title">Assignment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, NORTH CAROLINA</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PATENT SECURITY AGREEMENT;ASSIGNOR:CELGARD, LLC (F/K/A CELGARD, INC.);REEL/FRAME:032631/0655</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20140408</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, NO</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PATENT SECURITY AGREEMENT;ASSIGNOR:CELGARD, LLC (F/K/A CELGARD, INC.);REEL/FRAME:032631/0655</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20140408</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2015-08-27">2015-08-27</time></td>
+          <td itemprop="code">AS</td>
+          <td itemprop="title">Assignment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">CELGARD, LLC (F/K/A/ CELGARD, INC.), NORTH CAROLINA</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">TERMINATION AND RELEASE OF SECURITY INTEREST IN UNITED STATES PATENTS;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT;REEL/FRAME:036485/0267</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20150826</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">CELGARD, LLC (F/K/A/ CELGARD, INC.), NORTH CAROLIN</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">TERMINATION AND RELEASE OF SECURITY INTEREST IN UNITED STATES PATENTS;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT;REEL/FRAME:036485/0267</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20150826</span>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+</article>
+
+    </search-app>
+    
+    <script></script>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/js/help/prod/service/lazy.min.js"></script>
+    <script type="text/javascript">
+      if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: '[REDACTED_GOOGLE_API_KEY]', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
+    </script>
+    <script src="/sw/null_loader.js"></script>
+  </body>
+</html>

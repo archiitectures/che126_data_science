@@ -1,0 +1,18 @@
+{
+  "accepted": 95,
+  "by_record_type": {
+    "calculated": 2,
+    "measured": 82,
+    "spec_limit": 4,
+    "unknown": 7
+  },
+  "by_source": {
+    "celgard": 13,
+    "fsri": 66,
+    "patents": 16
+  },
+  "measured_only": false,
+  "review": 52,
+  "schema_version": "1",
+  "unknown_temperature": 18
+}

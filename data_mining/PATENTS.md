@@ -7,6 +7,32 @@ is `patents-public-data.patents.publications`.
 
 ## Setup
 
+For a new capstone project on macOS, run from the repository root:
+
+```bash
+bash scripts/setup_google_cloud.sh che126-separators-archi
+```
+
+The script installs Google's CLI through Homebrew if needed, opens Google
+sign-in, creates the project, enables BigQuery, configures application-default
+credentials, installs the optional Python dependencies with uv, and verifies
+access with a **dry run** of a title/abstract patent search. Project IDs must be
+globally unique; pass another ID if this one is taken. Rerunning with the same
+ID reuses an accessible project. The named `che126` CLI configuration keeps its
+project selection separate from your active configuration. Application-default
+credentials are stored by Google outside the repository and are shared by local
+Google client libraries; this setup updates their quota project.
+
+A newly created project has no billing account linked by this script and uses
+the [BigQuery sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox).
+The script does not execute the patent search. Review the scan estimate before
+running acquisition; broad patent searches can exceed sandbox limits. For a
+team member, grant BigQuery Job User (`roles/bigquery.jobUser`) and Service Usage
+Consumer (`roles/serviceusage.serviceUsageConsumer`) on this project. The
+creator normally already has those permissions through the Owner role.
+
+For an existing Google Cloud setup, install just the Python extra:
+
 ```bash
 uv sync --extra patents --group dev
 ```

@@ -1,0 +1,318 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "MD",
+          "CD",
+          "MD",
+          "MD",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Load",
+          "Load",
+          "Elmendorf",
+          "Trapezoidal",
+          "",
+          "WVTR",
+          "Hydro"
+        ],
+        [
+          "",
+          "Basis",
+          "at",
+          "at",
+          "Tear",
+          "Tear",
+          "",
+          "(grams",
+          "Head"
+        ],
+        [
+          "",
+          "Weight",
+          "Break",
+          "Break",
+          "Strength",
+          "Strength",
+          "Opacity",
+          "H 2 O/24-",
+          "Pressure"
+        ],
+        [
+          "Sample",
+          "(gsm)",
+          "(N/cm)",
+          "(N/cm)",
+          "(g)",
+          "(g)",
+          "(%)",
+          "hour/m 2 )",
+          "(psi)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "2",
+          "12.6",
+          "4.8",
+          "1.4",
+          "",
+          "",
+          "62",
+          "7938",
+          "444"
+        ],
+        [
+          "3",
+          "9.7",
+          "3.6",
+          "0.9",
+          "",
+          "",
+          "51",
+          "6571",
+          "430"
+        ],
+        [
+          "4",
+          "11.4",
+          "3.2",
+          "1.1",
+          "15",
+          "82",
+          "59",
+          "9083",
+          ""
+        ],
+        [
+          "5",
+          "11.5",
+          "3.3",
+          "0.9",
+          "19",
+          "33",
+          "57",
+          "7527",
+          ""
+        ],
+        [
+          "6",
+          "8.6",
+          "2.7",
+          "1.2",
+          "16",
+          "51",
+          "51",
+          "3320",
+          ""
+        ],
+        [
+          "7",
+          "11.3",
+          "2.6",
+          "1.8",
+          "16",
+          "58",
+          "63",
+          "4660",
+          ""
+        ],
+        [
+          "8",
+          "12.5",
+          "5.1",
+          "1.2",
+          "16",
+          "27",
+          "65",
+          "7487",
+          ""
+        ],
+        [
+          "9",
+          "12.5",
+          "3.7",
+          "1.9",
+          "43",
+          "134",
+          "54",
+          "2810",
+          ""
+        ],
+        [
+          "10",
+          "11.5",
+          "3.4",
+          "1.6",
+          "16",
+          "75",
+          "57",
+          "7487",
+          ""
+        ],
+        [
+          "11",
+          "13.3",
+          "4.7",
+          "0.8",
+          "13",
+          "",
+          "45.9",
+          "1800"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">CD</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Load</td>\n<td class=\"description-td\">Load</td>\n<td class=\"description-td\">Elmendorf </td>\n<td class=\"description-td\">Trapezoidal </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">WVTR</td>\n<td class=\"description-td\">Hydro</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Basis</td>\n<td class=\"description-td\">at</td>\n<td class=\"description-td\">at</td>\n<td class=\"description-td\">Tear </td>\n<td class=\"description-td\">Tear </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(grams</td>\n<td class=\"description-td\">Head</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Weight </td>\n<td class=\"description-td\">Break</td>\n<td class=\"description-td\">Break</td>\n<td class=\"description-td\">Strength</td>\n<td class=\"description-td\">Strength</td>\n<td class=\"description-td\">Opacity</td>\n<td class=\"description-td\">H<sub>2</sub>O/24- </td>\n<td class=\"description-td\">Pressure</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Sample</td>\n<td class=\"description-td\">(gsm)</td>\n<td class=\"description-td\">(N/cm)</td>\n<td class=\"description-td\">(N/cm)</td>\n<td class=\"description-td\">(g)</td>\n<td class=\"description-td\">(g)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">hour/m<sup>2</sup>)</td>\n<td class=\"description-td\">(psi)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">12.6</td>\n<td class=\"description-td\">4.8</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">62</td>\n<td class=\"description-td\">7938</td>\n<td class=\"description-td\">444</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">9.7</td>\n<td class=\"description-td\">3.6</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">6571</td>\n<td class=\"description-td\">430</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">11.4</td>\n<td class=\"description-td\">3.2</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">82</td>\n<td class=\"description-td\">59</td>\n<td class=\"description-td\">9083</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">11.5</td>\n<td class=\"description-td\">3.3</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">7527</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">8.6</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">3320</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">11.3</td>\n<td class=\"description-td\">2.6</td>\n<td class=\"description-td\">1.8</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">58</td>\n<td class=\"description-td\">63</td>\n<td class=\"description-td\">4660</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">12.5</td>\n<td class=\"description-td\">5.1</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">7487</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">12.5</td>\n<td class=\"description-td\">3.7</td>\n<td class=\"description-td\">1.9</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">134</td>\n<td class=\"description-td\">54</td>\n<td class=\"description-td\">2810</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">11.5</td>\n<td class=\"description-td\">3.4</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">7487</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">13.3</td>\n<td class=\"description-td\">4.7</td>\n<td class=\"description-td\">0.8</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">45.9</td>\n<td class=\"description-td\">1800</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/2c/48/84/c571b2f543e22c/US09492332-20161115-D00000.png"
+    },
+    {
+      "caption": "",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/24/d2/27/2fdd6d1f9957de/US09492332-20161115-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/c9/bd/c5/5689a9899ace3b/US9492332.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US9492332B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/9b7315854a1b6ca3eece0d4f6dd1cf14c851e2b8c5b6ecdf283394ecd9b4e7f8.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:14:22.078539+00:00",
+    "sha256": "9b7315854a1b6ca3eece0d4f6dd1cf14c851e2b8c5b6ecdf283394ecd9b4e7f8",
+    "source": "patents",
+    "source_id": "7e29c94c7a6bf401f2435e8e3dc926f9bf4ac878e3c4ed9f2d68335cfb49c282",
+    "url": "https://patents.google.com/patent/US9492332B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "f34aa812419450862e4da6293ac1a0e3bfe13426891c5dd40f26e2131d7f0522",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "7e29c94c7a6bf401f2435e8e3dc926f9bf4ac878e3c4ed9f2d68335cfb49c282",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/9b7315854a1b6ca3eece0d4f6dd1cf14c851e2b8c5b6ecdf283394ecd9b4e7f8.bin",
+      "source_id": "7e29c94c7a6bf401f2435e8e3dc926f9bf4ac878e3c4ed9f2d68335cfb49c282",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "9b7315854a1b6ca3eece0d4f6dd1cf14c851e2b8c5b6ecdf283394ecd9b4e7f8",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US9492332B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

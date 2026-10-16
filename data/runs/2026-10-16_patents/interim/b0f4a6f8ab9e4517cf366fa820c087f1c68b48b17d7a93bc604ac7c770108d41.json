@@ -1,0 +1,493 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Membrane Making Conditions",
+          "Properties of Polyethylene Microporous"
+        ],
+        [
+          "Membrane"
+        ],
+        [
+          "Shrinkage of"
+        ],
+        [
+          "Stretching",
+          "Film"
+        ],
+        [
+          "Solvent in Gel Sheet in"
+        ],
+        [
+          "Temper-"
+        ],
+        [
+          "Stretching"
+        ],
+        [
+          "Thick-"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Breaking"
+        ],
+        [
+          "Elongation"
+        ],
+        [
+          "Poro-"
+        ],
+        [
+          "Mean Pore"
+        ],
+        [
+          "Gel Sheet",
+          "Thickness Di-"
+        ],
+        [
+          "ature",
+          "Ratio*"
+        ],
+        [
+          "ness"
+        ],
+        [
+          "Modulus"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "at Breaking"
+        ],
+        [
+          "sity"
+        ],
+        [
+          "Diameter"
+        ],
+        [
+          "(wt %)",
+          "rection (%)"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "(%)",
+          "(μm)"
+        ],
+        [
+          "(kg/cm.sup.2)"
+        ],
+        [
+          "(kg/cm.sup.2)"
+        ],
+        [
+          "(%)",
+          "(%) (μm)"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Example"
+        ],
+        [
+          "1",
+          "62.2",
+          "81.2",
+          "125",
+          "10 × 10"
+        ],
+        [
+          "2.4 3970",
+          "1880",
+          "54.7",
+          "78.0"
+        ],
+        [
+          "2.5"
+        ],
+        [
+          "2",
+          "20.3",
+          "94.5",
+          "130",
+          "5 × 5"
+        ],
+        [
+          "5.6",
+          "318",
+          "234",
+          "566",
+          "32.2"
+        ],
+        [
+          "0.26"
+        ],
+        [
+          "3",
+          "67.2",
+          "84.5",
+          "130",
+          "7 × 7"
+        ],
+        [
+          "4.0",
+          "552",
+          "331",
+          "501",
+          "40.4"
+        ],
+        [
+          "1.0"
+        ],
+        [
+          "4",
+          "67.2",
+          "84.5",
+          "130",
+          "9 × 9"
+        ],
+        [
+          "2.4",
+          "552",
+          "256",
+          "304",
+          "50.8"
+        ],
+        [
+          "1.5"
+        ],
+        [
+          "5",
+          "78.0",
+          "80.0",
+          "120",
+          "10 × 10"
+        ],
+        [
+          "1.6 6340",
+          "2030",
+          "35.3",
+          "81.2"
+        ],
+        [
+          "0.46"
+        ],
+        [
+          "6",
+          "68.0",
+          "85.0",
+          "130",
+          "10 × 10"
+        ],
+        [
+          "0.6",
+          "705",
+          "312",
+          "482",
+          "52.8"
+        ],
+        [
+          "3.0"
+        ],
+        [
+          "7",
+          "62.2",
+          "81.2",
+          "120",
+          "10 × 10"
+        ],
+        [
+          "1.2 1680",
+          "1370",
+          "53.0",
+          "75.0"
+        ],
+        [
+          "1.8"
+        ],
+        [
+          "8",
+          "46.3",
+          "89.2",
+          "130",
+          "10 × 10"
+        ],
+        [
+          "0.8 1800",
+          "1200",
+          "31.7",
+          "64.6"
+        ],
+        [
+          "1.8"
+        ],
+        [
+          "9",
+          "40.5",
+          "90.1",
+          "130",
+          "10 × 10"
+        ],
+        [
+          "0.7 2040",
+          "1060",
+          "30.0",
+          "60.2"
+        ],
+        [
+          "2.5"
+        ],
+        [
+          "10",
+          "59.0",
+          "85.0",
+          "120",
+          "10 × 10"
+        ],
+        [
+          "1.0 1940",
+          "1350",
+          "64.4",
+          "68.0"
+        ],
+        [
+          "2.0"
+        ],
+        [
+          "11",
+          "42.5",
+          "88.1",
+          "130",
+          "10 × 5"
+        ],
+        [
+          "3.8",
+          "630**"
+        ],
+        [
+          "350**"
+        ],
+        [
+          "315**"
+        ],
+        [
+          "42.7"
+        ],
+        [
+          "0.22"
+        ],
+        [
+          "580***"
+        ],
+        [
+          "280***"
+        ],
+        [
+          "405***"
+        ],
+        [
+          "12",
+          "62.2",
+          "81.2",
+          "125",
+          "10 × 10"
+        ],
+        [
+          "2.0",
+          "4790**"
+        ],
+        [
+          "1970**"
+        ],
+        [
+          "41.7**"
+        ],
+        [
+          "77.8"
+        ],
+        [
+          "1.2"
+        ],
+        [
+          "3220***"
+        ],
+        [
+          "1360***"
+        ],
+        [
+          "48.0***"
+        ],
+        [
+          "Compar-"
+        ],
+        [
+          "ison"
+        ],
+        [
+          "1",
+          "8.1",
+          "95.6",
+          "130",
+          "5 × 5"
+        ],
+        [
+          "--",
+          "--",
+          "--",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "(broken)"
+        ],
+        [
+          "2",
+          "87.0",
+          "80.0",
+          "130",
+          "10 × 10"
+        ],
+        [
+          "1.0",
+          "106",
+          "75",
+          "850",
+          "58.1"
+        ],
+        [
+          "5.0"
+        ],
+        [
+          "3",
+          "47.4",
+          "82.5",
+          "130",
+          "5 × 5"
+        ],
+        [
+          "--",
+          "--",
+          "--",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "(broken)"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Note:"
+        ],
+        [
+          "*longitudinal × lateral"
+        ],
+        [
+          "**longitudinal"
+        ],
+        [
+          "***lateral"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">                                  TABLE 1                                 \n__________________________________________________________________________\nMembrane Making Conditions     Properties of Polyethylene Microporous     \n                               Membrane                                   \n           Shrinkage of                                                   \n                  Stretching   Film                                       \nSolvent in Gel Sheet in                                                   \n                  Temper-                                                 \n                         Stretching                                       \n                               Thick-                                     \n                                   Tensile                                \n                                         Breaking                         \n                                               Elongation                 \n                                                     Poro-                \n                                                         Mean Pore        \nGel Sheet  Thickness Di-                                                  \n                  ature  Ratio*                                           \n                               ness                                       \n                                   Modulus                                \n                                         Strength                         \n                                               at Breaking                \n                                                     sity                 \n                                                         Diameter         \n(wt %)     rection (%)                                                    \n                  (°C.)                                            \n                         (%)   (μm)                                    \n                                   (kg/cm.sup.2)                          \n                                         (kg/cm.sup.2)                    \n                                               (%)   (%) (μm)          \n__________________________________________________________________________\nExample                                                                   \n1    62.2  81.2   125    10 × 10                                    \n                               2.4 3970  1880  54.7  78.0                 \n                                                         2.5              \n2    20.3  94.5   130    5 × 5                                      \n                               5.6  318   234  566   32.2                 \n                                                          0.26            \n3    67.2  84.5   130    7 × 7                                      \n                               4.0  552   331  501   40.4                 \n                                                         1.0              \n4    67.2  84.5   130    9 × 9                                      \n                               2.4  552   256  304   50.8                 \n                                                         1.5              \n5    78.0  80.0   120    10 × 10                                    \n                               1.6 6340  2030  35.3  81.2                 \n                                                          0.46            \n6    68.0  85.0   130    10 × 10                                    \n                               0.6  705   312  482   52.8                 \n                                                         3.0              \n7    62.2  81.2   120    10 × 10                                    \n                               1.2 1680  1370  53.0  75.0                 \n                                                         1.8              \n8    46.3  89.2   130    10 × 10                                    \n                               0.8 1800  1200  31.7  64.6                 \n                                                         1.8              \n9    40.5  90.1   130    10 × 10                                    \n                               0.7 2040  1060  30.0  60.2                 \n                                                         2.5              \n10   59.0  85.0   120    10 × 10                                    \n                               1.0 1940  1350  64.4  68.0                 \n                                                         2.0              \n11   42.5  88.1   130    10 × 5                                     \n                               3.8   630**                                \n                                           350**                          \n                                                315**                     \n                                                     42.7                 \n                                                          0.22            \n                                     580***                               \n                                           280***                         \n                                                 405***                   \n12   62.2  81.2   125    10 × 10                                    \n                               2.0  4790**                                \n                                          1970**                          \n                                                41.7**                    \n                                                     77.8                 \n                                                         1.2              \n                                     3220***                              \n                                           1360***                        \n                                                 48.0***                  \nCompar-                                                                   \nison                                                                      \n1     8.1  95.6   130    5 × 5                                      \n                               --  --    --    --    --  --               \n                         (broken)                                         \n2    87.0  80.0   130    10 × 10                                    \n                               1.0  106   75   850   58.1                 \n                                                         5.0              \n3    47.4  82.5   130    5 × 5                                      \n                               --  --    --    --    --  --               \n                         (broken)                                         \n__________________________________________________________________________\n Note:                                                                    \n *longitudinal × lateral                                            \n **longitudinal                                                           \n ***lateral                                                               \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/ea/4a/b9/4aa4d7312e4dd4/US4620955.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US4620955A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/c1733500d830e2d1bbb03123e91e7127adcbc4e7441793a837183d669802f56b.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:21:13.342529+00:00",
+    "sha256": "c1733500d830e2d1bbb03123e91e7127adcbc4e7441793a837183d669802f56b",
+    "source": "patents",
+    "source_id": "fe36abc01f95310d16bd76a27f7a7aafbeb180f1a6f07333cd717f432307d316",
+    "url": "https://patents.google.com/patent/US4620955A/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Membrane Making Conditions Membrane Shrinkage of",
+      "method": null,
+      "notes": "Publication US4620955A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "ee06e2b67d9c22f95286279113746bab5adbc34a5e195dd6958309dd3018249f",
+      "original_property_label": "Membrane Making Conditions Membrane Shrinkage of",
+      "original_unit": "",
+      "original_value": "Properties of Polyethylene Microporous",
+      "polymer": null,
+      "product": null,
+      "property": "thermal_shrinkage",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US4620955A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c1733500d830e2d1bbb03123e91e7127adcbc4e7441793a837183d669802f56b.bin",
+      "source_id": "fe36abc01f95310d16bd76a27f7a7aafbeb180f1a6f07333cd717f432307d316",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "3",
+      "source_sha256": "c1733500d830e2d1bbb03123e91e7127adcbc4e7441793a837183d669802f56b",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US4620955A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}

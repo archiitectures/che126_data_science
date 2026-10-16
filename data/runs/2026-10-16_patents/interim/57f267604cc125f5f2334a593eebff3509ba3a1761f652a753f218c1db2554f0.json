@@ -1,0 +1,761 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Polymer",
+          "M e (g/mol or Da)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Polyethylene",
+          "1160"
+        ],
+        [
+          "",
+          "Polypropylene",
+          "4595"
+        ],
+        [
+          "",
+          "Polycarbonate",
+          "2510"
+        ],
+        [
+          "",
+          "Polyamide 6",
+          "2490"
+        ],
+        [
+          "",
+          "Polyamide 6,6",
+          "2010"
+        ],
+        [
+          "",
+          "Polyoxyethylene",
+          "1850"
+        ],
+        [
+          "",
+          "Polyethyelene terephthalate",
+          "1450"
+        ],
+        [
+          "",
+          "Polysulfone",
+          "2315"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polymer</td>\n<td class=\"description-td\">M<sub>e </sub>(g/mol or Da)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyethylene</td>\n<td class=\"description-td\">1160</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polypropylene</td>\n<td class=\"description-td\">4595</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polycarbonate</td>\n<td class=\"description-td\">2510</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyamide 6</td>\n<td class=\"description-td\">2490</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyamide 6,6</td>\n<td class=\"description-td\">2010</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyoxyethylene</td>\n<td class=\"description-td\">1850</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyethyelene terephthalate</td>\n<td class=\"description-td\">1450</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polysulfone</td>\n<td class=\"description-td\">2315</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Material ID",
+          "Solubility Parameter"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "mineral spirits",
+          "6.9"
+        ],
+        [
+          "",
+          "mineral oil",
+          "8.6"
+        ],
+        [
+          "",
+          "water",
+          "23.4"
+        ],
+        [
+          "",
+          "Polyethylene",
+          "7.9"
+        ],
+        [
+          "",
+          "Polyacetal",
+          "11.1"
+        ],
+        [
+          "",
+          "Polyamide 6",
+          "12.8"
+        ],
+        [
+          "",
+          "Polyamide 8",
+          "12.3"
+        ],
+        [
+          "",
+          "Polyamide 6/6",
+          "13.6"
+        ],
+        [
+          "",
+          "Polyethylene oxide PEO",
+          "9-12"
+        ],
+        [
+          "",
+          "Polypropylene oxide",
+          "7.7 to 10.1"
+        ],
+        [
+          "",
+          "Polyphenylene oxide",
+          "9.1"
+        ],
+        [
+          "",
+          "Polyethylene terephthalate",
+          "10.7"
+        ],
+        [
+          "",
+          "Polyvinyl alcohol",
+          "15.2"
+        ],
+        [
+          "",
+          "Polyacrylonitrile",
+          "15.4"
+        ],
+        [
+          "",
+          "Polyurethane",
+          "8.9"
+        ],
+        [
+          "",
+          "Polycarbonate",
+          "9.8"
+        ],
+        [
+          "",
+          "Polysulfone",
+          "10.6"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Material ID</td>\n<td class=\"description-td\">Solubility Parameter</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mineral spirits</td>\n<td class=\"description-td\">6.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mineral oil</td>\n<td class=\"description-td\">8.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">water</td>\n<td class=\"description-td\">23.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyethylene</td>\n<td class=\"description-td\">7.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyacetal</td>\n<td class=\"description-td\">11.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyamide 6</td>\n<td class=\"description-td\">12.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyamide 8</td>\n<td class=\"description-td\">12.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyamide 6/6</td>\n<td class=\"description-td\">13.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyethylene oxide PEO</td>\n<td class=\"description-td\">9-12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polypropylene oxide</td>\n<td class=\"description-td\">7.7 to 10.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyphenylene oxide</td>\n<td class=\"description-td\">9.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyethylene terephthalate</td>\n<td class=\"description-td\">10.7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyvinyl alcohol</td>\n<td class=\"description-td\">15.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyacrylonitrile</td>\n<td class=\"description-td\">15.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polyurethane</td>\n<td class=\"description-td\">8.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polycarbonate</td>\n<td class=\"description-td\">9.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polysulfone</td>\n<td class=\"description-td\">10.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Temp (C.)",
+          "Vapor Pressure (mmHg)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "66",
+          "3.3"
+        ],
+        [
+          "",
+          "93",
+          "15"
+        ],
+        [
+          "",
+          "121",
+          "44"
+        ],
+        [
+          "",
+          "149",
+          "122"
+        ],
+        [
+          "",
+          "177",
+          "302"
+        ],
+        [
+          "",
+          "204",
+          "663"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Temp (C.)</td>\n<td class=\"description-td\">Vapor Pressure (mmHg)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">66</td>\n<td class=\"description-td\">3.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">93</td>\n<td class=\"description-td\">15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">121</td>\n<td class=\"description-td\">44</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">149</td>\n<td class=\"description-td\">122</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">177</td>\n<td class=\"description-td\">302</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">204</td>\n<td class=\"description-td\">663</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE",
+          "TABLE"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Comparative"
+        ],
+        [
+          "",
+          "#1",
+          "#2",
+          "#3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "First Polymer Type",
+          "L5906",
+          "L5906",
+          "L5906"
+        ],
+        [
+          "Fluid 1 Type",
+          "Citgo spirits",
+          "Citgo spirits",
+          "Citgo spirits"
+        ],
+        [
+          "Extrusion Polyethylene %",
+          "40%",
+          "39%",
+          "36%"
+        ],
+        [
+          "Extrusion Polyamide 12"
+        ],
+        [
+          "(L25), %",
+          "0%",
+          "1%",
+          "0%"
+        ],
+        [
+          "Extrusion Fluid %",
+          "60%",
+          "60%",
+          "64%"
+        ],
+        [
+          "Extrusion Rate (kg/hr)",
+          "4.2",
+          "4.2",
+          "5"
+        ],
+        [
+          "Extrusion Energy (kwh/kg)",
+          "0.19",
+          "0.33",
+          "0.18"
+        ],
+        [
+          "",
+          "Above-UEL",
+          "Above-UEL",
+          "Ambient air"
+        ],
+        [
+          "Cast Vapor Type",
+          "Citgo spirits",
+          "Citgo spirits",
+          "Below-LEL"
+        ],
+        [
+          "",
+          "Above-UEL",
+          "Above-UEL"
+        ],
+        [
+          "Cast cooling liquid",
+          "Citgo spirits",
+          "Citgo spirits",
+          "none"
+        ],
+        [
+          "",
+          "Cast roll S-",
+          "Cast roll S-",
+          "Cast roll, U"
+        ],
+        [
+          "Cooling Type",
+          "wrap",
+          "wrap",
+          "wrap"
+        ],
+        [
+          "Cooling Temperature (C.)",
+          "50",
+          "50",
+          "20"
+        ],
+        [
+          "Thickness (microns)",
+          "23.0",
+          "24.7",
+          "28.0"
+        ],
+        [
+          "Basis wt (gm/m · sq.)",
+          "11.2",
+          "11.0",
+          "15.5"
+        ],
+        [
+          "Porosity (%)",
+          "61%",
+          "63%",
+          "56%"
+        ],
+        [
+          "Resistance (mohm-cm{circumflex over ( )}2)",
+          "1456",
+          "1556",
+          "2344"
+        ],
+        [
+          "Resistivity (ohm-cm)",
+          "623",
+          "625",
+          "806"
+        ],
+        [
+          "Tensile MD (kg/cm{circumflex over ( )}2)",
+          "734",
+          "684",
+          "536"
+        ],
+        [
+          "Tensile TD (kg/cm{circumflex over ( )}2)",
+          "350",
+          "230",
+          "291"
+        ],
+        [
+          "Elongation MD (%)",
+          "140%",
+          "105%",
+          "55%"
+        ],
+        [
+          "Elongation TD (%)",
+          "375%",
+          "225%",
+          "135%"
+        ],
+        [
+          "First surface Oil Wetout"
+        ],
+        [
+          "(sec.)",
+          "35",
+          "32",
+          "33"
+        ],
+        [
+          "Second surface Oil Wetout",
+          "41",
+          "36",
+          "53"
+        ],
+        [
+          "(sec.)"
+        ],
+        [
+          "Appearance:",
+          "Uniform",
+          "Uniform",
+          "Uniform"
+        ],
+        [
+          "",
+          "opaque white",
+          "opaque white",
+          "opaque white"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">#1</td>\n<td class=\"description-td\">#2</td>\n<td class=\"description-td\">#3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">First Polymer Type</td>\n<td class=\"description-td\">L5906</td>\n<td class=\"description-td\">L5906</td>\n<td class=\"description-td\">L5906</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Fluid 1 Type</td>\n<td class=\"description-td\">Citgo spirits</td>\n<td class=\"description-td\">Citgo spirits</td>\n<td class=\"description-td\">Citgo spirits</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Extrusion Polyethylene %</td>\n<td class=\"description-td\">40%</td>\n<td class=\"description-td\">39%</td>\n<td class=\"description-td\">36%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Extrusion Polyamide 12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(L25), %</td>\n<td class=\"description-td\"> 0%</td>\n<td class=\"description-td\"> 1%</td>\n<td class=\"description-td\"> 0%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Extrusion Fluid %</td>\n<td class=\"description-td\">60%</td>\n<td class=\"description-td\">60%</td>\n<td class=\"description-td\">64%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Extrusion Rate (kg/hr)</td>\n<td class=\"description-td\">4.2</td>\n<td class=\"description-td\">4.2</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Extrusion Energy (kwh/kg)</td>\n<td class=\"description-td\">0.19</td>\n<td class=\"description-td\">0.33</td>\n<td class=\"description-td\">0.18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Above-UEL</td>\n<td class=\"description-td\">Above-UEL</td>\n<td class=\"description-td\">Ambient air</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Cast Vapor Type</td>\n<td class=\"description-td\">Citgo spirits</td>\n<td class=\"description-td\">Citgo spirits</td>\n<td class=\"description-td\">Below-LEL</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Above-UEL</td>\n<td class=\"description-td\">Above-UEL</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Cast cooling liquid</td>\n<td class=\"description-td\">Citgo spirits</td>\n<td class=\"description-td\">Citgo spirits</td>\n<td class=\"description-td\">none</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cast roll S-</td>\n<td class=\"description-td\">Cast roll S-</td>\n<td class=\"description-td\">Cast roll, U</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Cooling Type</td>\n<td class=\"description-td\">wrap</td>\n<td class=\"description-td\">wrap</td>\n<td class=\"description-td\">wrap</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Cooling Temperature (C.)</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Thickness (microns)</td>\n<td class=\"description-td\">23.0</td>\n<td class=\"description-td\">24.7</td>\n<td class=\"description-td\">28.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Basis wt (gm/m · sq.)</td>\n<td class=\"description-td\">11.2</td>\n<td class=\"description-td\">11.0</td>\n<td class=\"description-td\">15.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Porosity (%)</td>\n<td class=\"description-td\">61%</td>\n<td class=\"description-td\">63%</td>\n<td class=\"description-td\">56%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resistance (mohm-cm{circumflex over ( )}2)</td>\n<td class=\"description-td\">1456</td>\n<td class=\"description-td\">1556</td>\n<td class=\"description-td\">2344</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resistivity (ohm-cm)</td>\n<td class=\"description-td\">623</td>\n<td class=\"description-td\">625</td>\n<td class=\"description-td\">806</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Tensile MD (kg/cm{circumflex over ( )}2)</td>\n<td class=\"description-td\">734</td>\n<td class=\"description-td\">684</td>\n<td class=\"description-td\">536</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Tensile TD (kg/cm{circumflex over ( )}2)</td>\n<td class=\"description-td\">350</td>\n<td class=\"description-td\">230</td>\n<td class=\"description-td\">291</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Elongation MD (%)</td>\n<td class=\"description-td\">140% </td>\n<td class=\"description-td\">105% </td>\n<td class=\"description-td\">55%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Elongation TD (%)</td>\n<td class=\"description-td\">375% </td>\n<td class=\"description-td\">225% </td>\n<td class=\"description-td\">135% </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">First surface Oil Wetout</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(sec.)</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">33</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Second surface Oil Wetout</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">36</td>\n<td class=\"description-td\">53</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(sec.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Appearance:</td>\n<td class=\"description-td\">Uniform</td>\n<td class=\"description-td\">Uniform</td>\n<td class=\"description-td\">Uniform</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">opaque white</td>\n<td class=\"description-td\">opaque white</td>\n<td class=\"description-td\">opaque white</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_4"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section view of one embodiment of an electrochemical cell according to the present invention; FIG. 2 is a schematic side view of one embodiment of a system for making a microporous sheet product according to the present invention, the system comprising an S-wrap cast configuration; FIG. 3 is a schematic side view of a first alternate cast configuration to that shown in FIG. 2 ; FIG. 4 is a schematic side view of a second alternate cast configuration to that shown in FIG. 2 ; and FIG. 5 is a schematic side view of a third alternate cast configuration to that shown in FIG. 2 . Referring now to FIG. 1 , there is shown a schematic section view of one embodiment of an electrochemical cell constructed according to the teachings of the present invention, the electrochemical cell being represented generally by reference numeral 11 . For clarity, simplicity, and/or ease of illustration, certain details of electrochemical cell 11 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 1 or may be shown therein in a simplified manner. It is to be understood that, although FIG. 1 shows a single electrochemical cell 11 , a plurality of electrochemical cells 11 may be electrically connected to one another and contained within a common housing to form a multi-cell battery. The cast sheet, upon passing through the first gas zone, may contact at least one cooling surface, preferably two cooling surfaces, to further cool both cast sheet surfaces. For example, in an S-wrap cast configuration, the first cast sheet surface may be cooled by a first roll surface, and the second cast sheet surface may be cooled by a second roll surface. By contrast, in a U-wrap cast configuration (seen in FIG. 4 , which is discussed further below), cooling of only one side of the cast sheet surface is typically achieved; consequently, the U-wrap cast configuration may produce less cooling efficiency. When an S-wrap cast configuration is used, the first roll is preferably equal to or smaller in roll diameter than the second roll to induce a shorter first surface cooling residence time. For example, the ratio of the diameter of the first roll to the diameter of the second roll may be less than 0.9:1, preferably less than 0.75:1, more preferably less than 0.5:1, and even more preferably less than 0.33:1. The cast sheet may contact the first roll anywhere along the first half of the S-shaped path in the S-wrap cast configuration before the web transfer inflection point (i.e., the point where the cast sheet is transferred from the first roll to the second roll). The cast sheet may exit or release from the second roll anywhere along the second half of the S-shaped path after the inflection point. When two cooling rolls are used, the cast sheet preferably has a shorter residence time on the first cooling roll than on the second cooling roll. For example, the residence time on the first cooling roll may be shorter than the residence time on the second cooling roll by at least 10%, preferably by at least 25%, more preferably by at least 50%, and even more preferably by at least 70%. Referring now to FIG. 2 , there is shown a simplified schematic side view of one embodiment of a system for manufacturing a microporous sheet product in accordance with the present invention, the system being represented generally by reference numeral 111 . For clarity, simplicity, and/or ease of illustration, certain details of system 111 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 2 or may be shown therein in a simplified manner. Referring now to FIG. 3 , there is shown a schematic side view of a first alternate cast configuration to that shown in system 111 , the first alternate cast configuration being constructed according to the present invention and being represented by reference numeral 211 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 211 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 3 or may be shown therein in a simplified manner. Referring now to FIG. 4 , there is shown a schematic side view of a second alternate cast configuration to that shown in system 111 , the second alternate cast configuration being constructed according to the present invention and being represented by reference numeral 311 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 311 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 4 or may be shown therein in a simplified manner. Referring now to FIG. 5 , there is shown a schematic side view of a third alternate cast configuration to that shown in system 111 , the third alternate cast configuration being constructed according to the present invention and being represented by reference numeral 411 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 411 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 5 or may be shown therein in a simplified manner. Specified amounts of polymer(s) were fed into a twin screw melt extruder via a volumetric feeder. The polymer(s) was (were) allowed to melt within the extruder and then specified amounts of fluid were introduced into the extruder via a metered pump. The polymer(s) and fluid were blended into a uniform fluid mixture. The total extrusion rate was set at between 3 and 5 kg/hr, as specified. The cast sheet speed was 2 ft/min. The melted mixture, called an extrudate, was formed into a cast sheet via a slot die. The sheet was cast into a cast roller take-off enclosure, similar to that shown in FIG. 4 , having the die head enclosed therewithin and having a 10 mm slot opening where the die or melt extrudate may enter. The first fluid vapor was trapped within, creating an above-UEL condition. The vapor was then supersaturated and condensed onto a set of cooled S-wrap cast rollers. The extrudate cast sheet first contacted this above-UEL vapor zone before the cast rollers. One surface of the cast sheet contacted the first roller, and the second and opposite surface of the cast sheet contacted the second roller, where both surfaces were cooled.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/69/f1/d9/67085b2500ead8/US20220311097A1-20220929-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section view of one embodiment of an electrochemical cell according to the present invention; FIG. 2 is a schematic side view of one embodiment of a system for making a microporous sheet product according to the present invention, the system comprising an S-wrap cast configuration; FIG. 3 is a schematic side view of a first alternate cast configuration to that shown in FIG. 2 ; FIG. 4 is a schematic side view of a second alternate cast configuration to that shown in FIG. 2 ; and FIG. 5 is a schematic side view of a third alternate cast configuration to that shown in FIG. 2 . Referring now to FIG. 1 , there is shown a schematic section view of one embodiment of an electrochemical cell constructed according to the teachings of the present invention, the electrochemical cell being represented generally by reference numeral 11 . For clarity, simplicity, and/or ease of illustration, certain details of electrochemical cell 11 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 1 or may be shown therein in a simplified manner. It is to be understood that, although FIG. 1 shows a single electrochemical cell 11 , a plurality of electrochemical cells 11 may be electrically connected to one another and contained within a common housing to form a multi-cell battery. The cast sheet, upon passing through the first gas zone, may contact at least one cooling surface, preferably two cooling surfaces, to further cool both cast sheet surfaces. For example, in an S-wrap cast configuration, the first cast sheet surface may be cooled by a first roll surface, and the second cast sheet surface may be cooled by a second roll surface. By contrast, in a U-wrap cast configuration (seen in FIG. 4 , which is discussed further below), cooling of only one side of the cast sheet surface is typically achieved; consequently, the U-wrap cast configuration may produce less cooling efficiency. When an S-wrap cast configuration is used, the first roll is preferably equal to or smaller in roll diameter than the second roll to induce a shorter first surface cooling residence time. For example, the ratio of the diameter of the first roll to the diameter of the second roll may be less than 0.9:1, preferably less than 0.75:1, more preferably less than 0.5:1, and even more preferably less than 0.33:1. The cast sheet may contact the first roll anywhere along the first half of the S-shaped path in the S-wrap cast configuration before the web transfer inflection point (i.e., the point where the cast sheet is transferred from the first roll to the second roll). The cast sheet may exit or release from the second roll anywhere along the second half of the S-shaped path after the inflection point. When two cooling rolls are used, the cast sheet preferably has a shorter residence time on the first cooling roll than on the second cooling roll. For example, the residence time on the first cooling roll may be shorter than the residence time on the second cooling roll by at least 10%, preferably by at least 25%, more preferably by at least 50%, and even more preferably by at least 70%. Referring now to FIG. 2 , there is shown a simplified schematic side view of one embodiment of a system for manufacturing a microporous sheet product in accordance with the present invention, the system being represented generally by reference numeral 111 . For clarity, simplicity, and/or ease of illustration, certain details of system 111 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 2 or may be shown therein in a simplified manner. Referring now to FIG. 3 , there is shown a schematic side view of a first alternate cast configuration to that shown in system 111 , the first alternate cast configuration being constructed according to the present invention and being represented by reference numeral 211 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 211 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 3 or may be shown therein in a simplified manner. Referring now to FIG. 4 , there is shown a schematic side view of a second alternate cast configuration to that shown in system 111 , the second alternate cast configuration being constructed according to the present invention and being represented by reference numeral 311 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 311 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 4 or may be shown therein in a simplified manner. Referring now to FIG. 5 , there is shown a schematic side view of a third alternate cast configuration to that shown in system 111 , the third alternate cast configuration being constructed according to the present invention and being represented by reference numeral 411 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 411 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 5 or may be shown therein in a simplified manner. Specified amounts of polymer(s) were fed into a twin screw melt extruder via a volumetric feeder. The polymer(s) was (were) allowed to melt within the extruder and then specified amounts of fluid were introduced into the extruder via a metered pump. The polymer(s) and fluid were blended into a uniform fluid mixture. The total extrusion rate was set at between 3 and 5 kg/hr, as specified. The cast sheet speed was 2 ft/min. The melted mixture, called an extrudate, was formed into a cast sheet via a slot die. The sheet was cast into a cast roller take-off enclosure, similar to that shown in FIG. 4 , having the die head enclosed therewithin and having a 10 mm slot opening where the die or melt extrudate may enter. The first fluid vapor was trapped within, creating an above-UEL condition. The vapor was then supersaturated and condensed onto a set of cooled S-wrap cast rollers. The extrudate cast sheet first contacted this above-UEL vapor zone before the cast rollers. One surface of the cast sheet contacted the first roller, and the second and opposite surface of the cast sheet contacted the second roller, where both surfaces were cooled.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/4f/f6/8e/f5921262dfcf24/US20220311097A1-20220929-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section view of one embodiment of an electrochemical cell according to the present invention; FIG. 2 is a schematic side view of one embodiment of a system for making a microporous sheet product according to the present invention, the system comprising an S-wrap cast configuration; FIG. 3 is a schematic side view of a first alternate cast configuration to that shown in FIG. 2 ; FIG. 4 is a schematic side view of a second alternate cast configuration to that shown in FIG. 2 ; and FIG. 5 is a schematic side view of a third alternate cast configuration to that shown in FIG. 2 . Referring now to FIG. 1 , there is shown a schematic section view of one embodiment of an electrochemical cell constructed according to the teachings of the present invention, the electrochemical cell being represented generally by reference numeral 11 . For clarity, simplicity, and/or ease of illustration, certain details of electrochemical cell 11 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 1 or may be shown therein in a simplified manner. It is to be understood that, although FIG. 1 shows a single electrochemical cell 11 , a plurality of electrochemical cells 11 may be electrically connected to one another and contained within a common housing to form a multi-cell battery. The cast sheet, upon passing through the first gas zone, may contact at least one cooling surface, preferably two cooling surfaces, to further cool both cast sheet surfaces. For example, in an S-wrap cast configuration, the first cast sheet surface may be cooled by a first roll surface, and the second cast sheet surface may be cooled by a second roll surface. By contrast, in a U-wrap cast configuration (seen in FIG. 4 , which is discussed further below), cooling of only one side of the cast sheet surface is typically achieved; consequently, the U-wrap cast configuration may produce less cooling efficiency. When an S-wrap cast configuration is used, the first roll is preferably equal to or smaller in roll diameter than the second roll to induce a shorter first surface cooling residence time. For example, the ratio of the diameter of the first roll to the diameter of the second roll may be less than 0.9:1, preferably less than 0.75:1, more preferably less than 0.5:1, and even more preferably less than 0.33:1. The cast sheet may contact the first roll anywhere along the first half of the S-shaped path in the S-wrap cast configuration before the web transfer inflection point (i.e., the point where the cast sheet is transferred from the first roll to the second roll). The cast sheet may exit or release from the second roll anywhere along the second half of the S-shaped path after the inflection point. When two cooling rolls are used, the cast sheet preferably has a shorter residence time on the first cooling roll than on the second cooling roll. For example, the residence time on the first cooling roll may be shorter than the residence time on the second cooling roll by at least 10%, preferably by at least 25%, more preferably by at least 50%, and even more preferably by at least 70%. Referring now to FIG. 2 , there is shown a simplified schematic side view of one embodiment of a system for manufacturing a microporous sheet product in accordance with the present invention, the system being represented generally by reference numeral 111 . For clarity, simplicity, and/or ease of illustration, certain details of system 111 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 2 or may be shown therein in a simplified manner. Referring now to FIG. 3 , there is shown a schematic side view of a first alternate cast configuration to that shown in system 111 , the first alternate cast configuration being constructed according to the present invention and being represented by reference numeral 211 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 211 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 3 or may be shown therein in a simplified manner. Referring now to FIG. 4 , there is shown a schematic side view of a second alternate cast configuration to that shown in system 111 , the second alternate cast configuration being constructed according to the present invention and being represented by reference numeral 311 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 311 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 4 or may be shown therein in a simplified manner. Referring now to FIG. 5 , there is shown a schematic side view of a third alternate cast configuration to that shown in system 111 , the third alternate cast configuration being constructed according to the present invention and being represented by reference numeral 411 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 411 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 5 or may be shown therein in a simplified manner. Specified amounts of polymer(s) were fed into a twin screw melt extruder via a volumetric feeder. The polymer(s) was (were) allowed to melt within the extruder and then specified amounts of fluid were introduced into the extruder via a metered pump. The polymer(s) and fluid were blended into a uniform fluid mixture. The total extrusion rate was set at between 3 and 5 kg/hr, as specified. The cast sheet speed was 2 ft/min. The melted mixture, called an extrudate, was formed into a cast sheet via a slot die. The sheet was cast into a cast roller take-off enclosure, similar to that shown in FIG. 4 , having the die head enclosed therewithin and having a 10 mm slot opening where the die or melt extrudate may enter. The first fluid vapor was trapped within, creating an above-UEL condition. The vapor was then supersaturated and condensed onto a set of cooled S-wrap cast rollers. The extrudate cast sheet first contacted this above-UEL vapor zone before the cast rollers. One surface of the cast sheet contacted the first roller, and the second and opposite surface of the cast sheet contacted the second roller, where both surfaces were cooled.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/b5/71/1a/727f928b0fb4f0/US20220311097A1-20220929-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section view of one embodiment of an electrochemical cell according to the present invention; FIG. 2 is a schematic side view of one embodiment of a system for making a microporous sheet product according to the present invention, the system comprising an S-wrap cast configuration; FIG. 3 is a schematic side view of a first alternate cast configuration to that shown in FIG. 2 ; FIG. 4 is a schematic side view of a second alternate cast configuration to that shown in FIG. 2 ; and FIG. 5 is a schematic side view of a third alternate cast configuration to that shown in FIG. 2 . Referring now to FIG. 1 , there is shown a schematic section view of one embodiment of an electrochemical cell constructed according to the teachings of the present invention, the electrochemical cell being represented generally by reference numeral 11 . For clarity, simplicity, and/or ease of illustration, certain details of electrochemical cell 11 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 1 or may be shown therein in a simplified manner. It is to be understood that, although FIG. 1 shows a single electrochemical cell 11 , a plurality of electrochemical cells 11 may be electrically connected to one another and contained within a common housing to form a multi-cell battery. The cast sheet, upon passing through the first gas zone, may contact at least one cooling surface, preferably two cooling surfaces, to further cool both cast sheet surfaces. For example, in an S-wrap cast configuration, the first cast sheet surface may be cooled by a first roll surface, and the second cast sheet surface may be cooled by a second roll surface. By contrast, in a U-wrap cast configuration (seen in FIG. 4 , which is discussed further below), cooling of only one side of the cast sheet surface is typically achieved; consequently, the U-wrap cast configuration may produce less cooling efficiency. When an S-wrap cast configuration is used, the first roll is preferably equal to or smaller in roll diameter than the second roll to induce a shorter first surface cooling residence time. For example, the ratio of the diameter of the first roll to the diameter of the second roll may be less than 0.9:1, preferably less than 0.75:1, more preferably less than 0.5:1, and even more preferably less than 0.33:1. The cast sheet may contact the first roll anywhere along the first half of the S-shaped path in the S-wrap cast configuration before the web transfer inflection point (i.e., the point where the cast sheet is transferred from the first roll to the second roll). The cast sheet may exit or release from the second roll anywhere along the second half of the S-shaped path after the inflection point. When two cooling rolls are used, the cast sheet preferably has a shorter residence time on the first cooling roll than on the second cooling roll. For example, the residence time on the first cooling roll may be shorter than the residence time on the second cooling roll by at least 10%, preferably by at least 25%, more preferably by at least 50%, and even more preferably by at least 70%. Referring now to FIG. 2 , there is shown a simplified schematic side view of one embodiment of a system for manufacturing a microporous sheet product in accordance with the present invention, the system being represented generally by reference numeral 111 . For clarity, simplicity, and/or ease of illustration, certain details of system 111 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 2 or may be shown therein in a simplified manner. Referring now to FIG. 3 , there is shown a schematic side view of a first alternate cast configuration to that shown in system 111 , the first alternate cast configuration being constructed according to the present invention and being represented by reference numeral 211 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 211 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 3 or may be shown therein in a simplified manner. Referring now to FIG. 4 , there is shown a schematic side view of a second alternate cast configuration to that shown in system 111 , the second alternate cast configuration being constructed according to the present invention and being represented by reference numeral 311 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 311 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 4 or may be shown therein in a simplified manner. Referring now to FIG. 5 , there is shown a schematic side view of a third alternate cast configuration to that shown in system 111 , the third alternate cast configuration being constructed according to the present invention and being represented by reference numeral 411 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 411 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 5 or may be shown therein in a simplified manner. Specified amounts of polymer(s) were fed into a twin screw melt extruder via a volumetric feeder. The polymer(s) was (were) allowed to melt within the extruder and then specified amounts of fluid were introduced into the extruder via a metered pump. The polymer(s) and fluid were blended into a uniform fluid mixture. The total extrusion rate was set at between 3 and 5 kg/hr, as specified. The cast sheet speed was 2 ft/min. The melted mixture, called an extrudate, was formed into a cast sheet via a slot die. The sheet was cast into a cast roller take-off enclosure, similar to that shown in FIG. 4 , having the die head enclosed therewithin and having a 10 mm slot opening where the die or melt extrudate may enter. The first fluid vapor was trapped within, creating an above-UEL condition. The vapor was then supersaturated and condensed onto a set of cooled S-wrap cast rollers. The extrudate cast sheet first contacted this above-UEL vapor zone before the cast rollers. One surface of the cast sheet contacted the first roller, and the second and opposite surface of the cast sheet contacted the second roller, where both surfaces were cooled.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/d2/00/c1/2687b9e6aad0c2/US20220311097A1-20220929-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section view of one embodiment of an electrochemical cell according to the present invention; FIG. 2 is a schematic side view of one embodiment of a system for making a microporous sheet product according to the present invention, the system comprising an S-wrap cast configuration; FIG. 3 is a schematic side view of a first alternate cast configuration to that shown in FIG. 2 ; FIG. 4 is a schematic side view of a second alternate cast configuration to that shown in FIG. 2 ; and FIG. 5 is a schematic side view of a third alternate cast configuration to that shown in FIG. 2 . Referring now to FIG. 1 , there is shown a schematic section view of one embodiment of an electrochemical cell constructed according to the teachings of the present invention, the electrochemical cell being represented generally by reference numeral 11 . For clarity, simplicity, and/or ease of illustration, certain details of electrochemical cell 11 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 1 or may be shown therein in a simplified manner. It is to be understood that, although FIG. 1 shows a single electrochemical cell 11 , a plurality of electrochemical cells 11 may be electrically connected to one another and contained within a common housing to form a multi-cell battery. The cast sheet, upon passing through the first gas zone, may contact at least one cooling surface, preferably two cooling surfaces, to further cool both cast sheet surfaces. For example, in an S-wrap cast configuration, the first cast sheet surface may be cooled by a first roll surface, and the second cast sheet surface may be cooled by a second roll surface. By contrast, in a U-wrap cast configuration (seen in FIG. 4 , which is discussed further below), cooling of only one side of the cast sheet surface is typically achieved; consequently, the U-wrap cast configuration may produce less cooling efficiency. When an S-wrap cast configuration is used, the first roll is preferably equal to or smaller in roll diameter than the second roll to induce a shorter first surface cooling residence time. For example, the ratio of the diameter of the first roll to the diameter of the second roll may be less than 0.9:1, preferably less than 0.75:1, more preferably less than 0.5:1, and even more preferably less than 0.33:1. The cast sheet may contact the first roll anywhere along the first half of the S-shaped path in the S-wrap cast configuration before the web transfer inflection point (i.e., the point where the cast sheet is transferred from the first roll to the second roll). The cast sheet may exit or release from the second roll anywhere along the second half of the S-shaped path after the inflection point. When two cooling rolls are used, the cast sheet preferably has a shorter residence time on the first cooling roll than on the second cooling roll. For example, the residence time on the first cooling roll may be shorter than the residence time on the second cooling roll by at least 10%, preferably by at least 25%, more preferably by at least 50%, and even more preferably by at least 70%. Referring now to FIG. 2 , there is shown a simplified schematic side view of one embodiment of a system for manufacturing a microporous sheet product in accordance with the present invention, the system being represented generally by reference numeral 111 . For clarity, simplicity, and/or ease of illustration, certain details of system 111 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 2 or may be shown therein in a simplified manner. Referring now to FIG. 3 , there is shown a schematic side view of a first alternate cast configuration to that shown in system 111 , the first alternate cast configuration being constructed according to the present invention and being represented by reference numeral 211 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 211 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 3 or may be shown therein in a simplified manner. Referring now to FIG. 4 , there is shown a schematic side view of a second alternate cast configuration to that shown in system 111 , the second alternate cast configuration being constructed according to the present invention and being represented by reference numeral 311 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 311 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 4 or may be shown therein in a simplified manner. Referring now to FIG. 5 , there is shown a schematic side view of a third alternate cast configuration to that shown in system 111 , the third alternate cast configuration being constructed according to the present invention and being represented by reference numeral 411 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 411 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 5 or may be shown therein in a simplified manner. Specified amounts of polymer(s) were fed into a twin screw melt extruder via a volumetric feeder. The polymer(s) was (were) allowed to melt within the extruder and then specified amounts of fluid were introduced into the extruder via a metered pump. The polymer(s) and fluid were blended into a uniform fluid mixture. The total extrusion rate was set at between 3 and 5 kg/hr, as specified. The cast sheet speed was 2 ft/min. The melted mixture, called an extrudate, was formed into a cast sheet via a slot die. The sheet was cast into a cast roller take-off enclosure, similar to that shown in FIG. 4 , having the die head enclosed therewithin and having a 10 mm slot opening where the die or melt extrudate may enter. The first fluid vapor was trapped within, creating an above-UEL condition. The vapor was then supersaturated and condensed onto a set of cooled S-wrap cast rollers. The extrudate cast sheet first contacted this above-UEL vapor zone before the cast rollers. One surface of the cast sheet contacted the first roller, and the second and opposite surface of the cast sheet contacted the second roller, where both surfaces were cooled.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/b6/98/e2/18c083436d5d70/US20220311097A1-20220929-D00004.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section view of one embodiment of an electrochemical cell according to the present invention; FIG. 2 is a schematic side view of one embodiment of a system for making a microporous sheet product according to the present invention, the system comprising an S-wrap cast configuration; FIG. 3 is a schematic side view of a first alternate cast configuration to that shown in FIG. 2 ; FIG. 4 is a schematic side view of a second alternate cast configuration to that shown in FIG. 2 ; and FIG. 5 is a schematic side view of a third alternate cast configuration to that shown in FIG. 2 . Referring now to FIG. 1 , there is shown a schematic section view of one embodiment of an electrochemical cell constructed according to the teachings of the present invention, the electrochemical cell being represented generally by reference numeral 11 . For clarity, simplicity, and/or ease of illustration, certain details of electrochemical cell 11 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 1 or may be shown therein in a simplified manner. It is to be understood that, although FIG. 1 shows a single electrochemical cell 11 , a plurality of electrochemical cells 11 may be electrically connected to one another and contained within a common housing to form a multi-cell battery. The cast sheet, upon passing through the first gas zone, may contact at least one cooling surface, preferably two cooling surfaces, to further cool both cast sheet surfaces. For example, in an S-wrap cast configuration, the first cast sheet surface may be cooled by a first roll surface, and the second cast sheet surface may be cooled by a second roll surface. By contrast, in a U-wrap cast configuration (seen in FIG. 4 , which is discussed further below), cooling of only one side of the cast sheet surface is typically achieved; consequently, the U-wrap cast configuration may produce less cooling efficiency. When an S-wrap cast configuration is used, the first roll is preferably equal to or smaller in roll diameter than the second roll to induce a shorter first surface cooling residence time. For example, the ratio of the diameter of the first roll to the diameter of the second roll may be less than 0.9:1, preferably less than 0.75:1, more preferably less than 0.5:1, and even more preferably less than 0.33:1. The cast sheet may contact the first roll anywhere along the first half of the S-shaped path in the S-wrap cast configuration before the web transfer inflection point (i.e., the point where the cast sheet is transferred from the first roll to the second roll). The cast sheet may exit or release from the second roll anywhere along the second half of the S-shaped path after the inflection point. When two cooling rolls are used, the cast sheet preferably has a shorter residence time on the first cooling roll than on the second cooling roll. For example, the residence time on the first cooling roll may be shorter than the residence time on the second cooling roll by at least 10%, preferably by at least 25%, more preferably by at least 50%, and even more preferably by at least 70%. Referring now to FIG. 2 , there is shown a simplified schematic side view of one embodiment of a system for manufacturing a microporous sheet product in accordance with the present invention, the system being represented generally by reference numeral 111 . For clarity, simplicity, and/or ease of illustration, certain details of system 111 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 2 or may be shown therein in a simplified manner. Referring now to FIG. 3 , there is shown a schematic side view of a first alternate cast configuration to that shown in system 111 , the first alternate cast configuration being constructed according to the present invention and being represented by reference numeral 211 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 211 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 3 or may be shown therein in a simplified manner. Referring now to FIG. 4 , there is shown a schematic side view of a second alternate cast configuration to that shown in system 111 , the second alternate cast configuration being constructed according to the present invention and being represented by reference numeral 311 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 311 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 4 or may be shown therein in a simplified manner. Referring now to FIG. 5 , there is shown a schematic side view of a third alternate cast configuration to that shown in system 111 , the third alternate cast configuration being constructed according to the present invention and being represented by reference numeral 411 . For clarity, simplicity, and/or ease of illustration, certain details of cast configuration 411 that are discussed elsewhere in this application or that are not critical to an understanding of the invention may be omitted from the present specification and/or may be omitted from FIG. 5 or may be shown therein in a simplified manner. Specified amounts of polymer(s) were fed into a twin screw melt extruder via a volumetric feeder. The polymer(s) was (were) allowed to melt within the extruder and then specified amounts of fluid were introduced into the extruder via a metered pump. The polymer(s) and fluid were blended into a uniform fluid mixture. The total extrusion rate was set at between 3 and 5 kg/hr, as specified. The cast sheet speed was 2 ft/min. The melted mixture, called an extrudate, was formed into a cast sheet via a slot die. The sheet was cast into a cast roller take-off enclosure, similar to that shown in FIG. 4 , having the die head enclosed therewithin and having a 10 mm slot opening where the die or melt extrudate may enter. The first fluid vapor was trapped within, creating an above-UEL condition. The vapor was then supersaturated and condensed onto a set of cooled S-wrap cast rollers. The extrudate cast sheet first contacted this above-UEL vapor zone before the cast rollers. One surface of the cast sheet contacted the first roller, and the second and opposite surface of the cast sheet contacted the second roller, where both surfaces were cooled.",
+      "kind": "figure",
+      "sheet": "6",
+      "url": "https://patentimages.storage.googleapis.com/9c/38/a6/9cf2e5e809d52e/US20220311097A1-20220929-D00005.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/93/39/fb/b6e2109e031474/US20220311097A1.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20220311097A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:18.557464+00:00",
+    "sha256": "5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c",
+    "source": "patents",
+    "source_id": "bc3725ed3e2552818c10b5e5258099ba1f86bf3ed3a1fde0dfcb815d16b0a1b9",
+    "url": "https://patents.google.com/patent/US20220311097A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "The formed mixture may be shaped into an initial sheet material (i.e., cast sheet) by any technique, such as by extrusion of the extrusion mixture through an extrusion die. Such forming of the initial sheet material may be conducted at an elevated temperature, such as those indicated above for the mixing of the fluid with the polymer(s). The initial sheet material may have a thickness that is sufficient to permit stretching to be performed without causing disintegration of the material. The proper thickness of the initial sheet material, which may be readily determined by a person of ordinary skill in the art, may be about 0.1 to 5 mm, preferably about 0.2 to 3 mm, and more preferably about 0.2 to 2 mm.",
+      "method": "Patent experimental protocol p-0204",
+      "notes": "Publication US20220311097A1; Comparative; printed unit: microns. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "7b0f1194621a0dc70864c5976cb3b2bb788055378c979a8504734e0b9179e229",
+      "original_property_label": "Thickness (microns)",
+      "original_unit": "microns",
+      "original_value": "28.0",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_property_value_or_unit",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US20220311097A1:Comparative",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c.bin",
+      "source_id": "bc3725ed3e2552818c10b5e5258099ba1f86bf3ed3a1fde0dfcb815d16b0a1b9",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "22",
+      "source_sha256": "5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c",
+      "source_table": "table_4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20220311097A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "As indicated in the Table, Examples 1 and 2 showed improved side-to-side oil wet-out, where the surface pore size and porosity differences were minimized. By contrast, Example 3 (a comparative example), which was produced in an uncontrolled conventional method, showed significant oil wet-out time discrepancy, i.e., comparing the oil wet-out of the first and second surfaces. This difference is 20 seconds, or an increase of 60%. The measure of oil wet-out time is the time when a droplet of SAE 30 motor oil turns a separator sheet product from an opaque white color to a clear translucent appearance. This color change indicates a rate of oil penetration through both surfaces of the separator. Any one surface can exhibit an impediment.",
+      "method": "Patent experimental protocol p-0253",
+      "notes": "Publication US20220311097A1; Comparative; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "442a8a2c1d8c0a824e2933ae3b6c56a97b52cee5ebc1d9c69c3e1dd66ef48f37",
+      "original_property_label": "Porosity (%)",
+      "original_unit": "%",
+      "original_value": "56%",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_property_value_or_unit",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US20220311097A1:Comparative",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c.bin",
+      "source_id": "bc3725ed3e2552818c10b5e5258099ba1f86bf3ed3a1fde0dfcb815d16b0a1b9",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "24",
+      "source_sha256": "5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c",
+      "source_table": "table_4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20220311097A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "MD",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Elongation MD (%)",
+      "method": null,
+      "notes": "Publication US20220311097A1; Comparative; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "47dace2da9e27dad7a0fea8ae7f635607daa462707bde6491bee688f338a6304",
+      "original_property_label": "Elongation MD (%)",
+      "original_unit": "%",
+      "original_value": "55%",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_test_protocol",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US20220311097A1:Comparative",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c.bin",
+      "source_id": "bc3725ed3e2552818c10b5e5258099ba1f86bf3ed3a1fde0dfcb815d16b0a1b9",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "29",
+      "source_sha256": "5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c",
+      "source_table": "table_4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20220311097A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "TD",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Elongation TD (%) First surface Oil Wetout",
+      "method": null,
+      "notes": "Publication US20220311097A1; Comparative; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "431293978b1059f664d5ea52085120c36acbe91b02f80f09f44578b0c67d4d13",
+      "original_property_label": "Elongation TD (%) First surface Oil Wetout",
+      "original_unit": "%",
+      "original_value": "135%",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_test_protocol",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US20220311097A1:Comparative",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c.bin",
+      "source_id": "bc3725ed3e2552818c10b5e5258099ba1f86bf3ed3a1fde0dfcb815d16b0a1b9",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "30",
+      "source_sha256": "5ba22a0a16bc1684b9cf60242e7b593021bd8bd4c0a16e2ea94206d80e09934c",
+      "source_table": "table_4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20220311097A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}

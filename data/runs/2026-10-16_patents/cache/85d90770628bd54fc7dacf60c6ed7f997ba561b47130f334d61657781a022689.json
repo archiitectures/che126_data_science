@@ -1,0 +1,11 @@
+{
+  "etag": "\"a9d89bd77151536c4aadf78a7e49940c\"",
+  "last_modified": "Tue, 17 Oct 2017 23:23:46 GMT",
+  "path": "data/runs/2026-10-16_patents/raw/a208ce42ea3deee6fa4a059e7ec7434aa7f64c223ffccd0498f05c0e92315fb4.pdf",
+  "restrictions": "License/reuse permission not established; local research evidence only",
+  "retrieved_at": "2026-10-16T18:24:21.729078+00:00",
+  "sha256": "a208ce42ea3deee6fa4a059e7ec7434aa7f64c223ffccd0498f05c0e92315fb4",
+  "source": "patent_pdf",
+  "source_id": "85d90770628bd54fc7dacf60c6ed7f997ba561b47130f334d61657781a022689",
+  "url": "https://patentimages.storage.googleapis.com/7f/aa/62/dab85a930d668a/US9412986.pdf"
+}

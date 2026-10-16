@@ -1,5 +1,6 @@
 """Parse FSRI HFM result-table excerpts without importing its processing stack."""
 
+import math
 import re
 from dataclasses import dataclass
 
@@ -35,6 +36,12 @@ def parse_hfm_results(
             continue
         if len(cells) != width:
             raise ValueError(f"Unexpected HFM row width: {line!r}")
+        if (
+            not all(math.isfinite(float(c)) for c in cells)
+            or float(cells[0]) < -273.15
+            or float(cells[-1]) < 0
+        ):
+            raise ValueError("Nonphysical HFM numeric result")
         observations.append(
             HFMObservation(len(observations) + 1, float(cells[0]), float(cells[-1]))
         )
@@ -134,3 +141,93 @@ def polyethylene_reference_rows(snapshot: dict) -> list[dict]:
                     )
             rows.append(row)
     return rows
+
+
+def hfm_observations(snapshot: dict):
+    """Normalize every raw HFM result in a pinned snapshot, for any material.
+
+    Snapshot entries use the existing {path, blob_sha, results_si} format.
+    No mass-specific heat is derived without independently validated density.
+    """
+    from che126_data_science.data_science.observations import Observation
+
+    commit = snapshot["source_commit"]
+    if not re.fullmatch(r"[a-f0-9]{40}", commit):
+        raise ValueError("source_commit must be an immutable Git commit")
+    rows = []
+    for entry in snapshot["exports"]:
+        if "results_si" not in entry:
+            continue
+        path = entry["path"]
+        parts = path.split("/")
+        if len(parts) != 4 or parts[0] != "01_Data" or parts[2] != "HFM":
+            raise ValueError(f"Unexpected HFM source path: {path}")
+        material, filename = parts[1], parts[-1]
+        if "conductivity" in filename.lower():
+            kind, prop, unit = "conductivity", "thermal_conductivity", "W/(m K)"
+        elif "heatcapacity" in filename.lower():
+            kind, prop, unit = "heatcapacity", "volumetric_heat_capacity", "J/(m3 K)"
+        else:
+            raise ValueError(f"Unknown HFM measurement type: {filename}")
+        for point in parse_hfm_results(entry["results_si"], kind):
+            rows.append(
+                Observation(
+                    record_id=f"{filename}:{point.table_row}",
+                    sample_id=filename,
+                    material=material,
+                    property=prop,
+                    value=point.value,
+                    unit=unit,
+                    source_url=f"https://github.com/ulfsri/fsri_materials_database/blob/{commit}/{path}",
+                    source_locator=f"SI results row {point.table_row}; blob {entry['blob_sha']}",
+                    sample_form=entry.get("sample_form", "bulk_reference"),
+                    temperature_C=point.temperature_C,
+                    temperature_role="measurement",
+                    direction="through-plane",
+                    method=f"HFM {kind}",
+                    conditions="FSRI conditioning encoded in source filename; Wet is not electrolyte-soaked",
+                    raw_value=str(point.value),
+                    raw_unit=unit,
+                    notes="Distinct repeated setpoints retained; no battery separator properties inferred.",
+                )
+            )
+    return rows
+
+
+def extract_public_curves(html: str) -> list[dict]:
+    """Read embedded JSON curves from a saved FSRI material-detail page.
+
+    This never evaluates JavaScript. Axes, trace labels and error bars are
+    preserved. These are source curves, NOT automatically classified observations:
+    time, temperature, heating rate and exposure must be reviewed before import.
+    """
+    import json
+
+    decoder = json.JSONDecoder()
+    curves = []
+    for index, match in enumerate(
+        re.finditer(r'Plotly\.newPlot\(\s*"[^"]+"\s*,\s*', html), 1
+    ):
+        try:
+            traces, end = decoder.raw_decode(html, match.end())
+            layout_start = re.match(r"\s*,\s*", html[end:])
+            if layout_start is None:
+                raise ValueError("Missing Plotly layout")
+            layout, _ = decoder.raw_decode(html, end + layout_start.end())
+            curves.append(
+                {
+                    "figure": index,
+                    "traces": traces,
+                    "xaxis": layout.get("xaxis", {}),
+                    "yaxis": layout.get("yaxis", {}),
+                    "annotations": layout.get("annotations", []),
+                    "title": layout.get("title", {}),
+                }
+            )
+        except (ValueError, TypeError, AttributeError) as exc:
+            raise ValueError(
+                f"Unsupported FSRI figure {index}; review saved source"
+            ) from exc
+    if not curves:
+        raise ValueError("No embedded FSRI JSON figures found; page may have changed")
+    return curves

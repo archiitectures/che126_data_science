@@ -1,3 +1,6 @@
+> Current implementation: see [collection guide](../docs/COLLECTION_GUIDE.md).
+> The notes below are research background; the dry CSV has 60 FSRI reference rows.
+
 # Data science: initial research notes
 
 Research date: 2026-10-12. Based on the

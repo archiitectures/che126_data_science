@@ -1,0 +1,740 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Properties of the base material (porous film) and laminated body, and the results of the permeation test"
+        ],
+        [
+          "",
+          "Base material (porous film)",
+          "Critical surface tension γc (mN/m)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Average pore",
+          "",
+          "Base material (B)",
+          "",
+          "Permeation test"
+        ],
+        [
+          "",
+          "Average pore",
+          "Porosity",
+          "diameter (C)/",
+          "Coating",
+          "after peel of",
+          "Difference",
+          "Time period (s)"
+        ],
+        [
+          "",
+          "diameter (C) (μm)",
+          "(D)",
+          "porosity (D)",
+          "layer (A)",
+          "coating layer",
+          "(A) − (B)",
+          "of permeation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "0.035",
+          "0.44",
+          "0.08",
+          "40",
+          "27.8",
+          "12.2",
+          "21"
+        ],
+        [
+          "Example 2",
+          "0.035",
+          "0.44",
+          "0.08",
+          "40.2",
+          "35.3",
+          "4.9",
+          "21"
+        ],
+        [
+          "Example 3",
+          "0.035",
+          "0.44",
+          "0.08",
+          "29.7",
+          "14.3",
+          "15.4",
+          "22"
+        ],
+        [
+          "Example 4",
+          "0.040",
+          "0.30",
+          "0.13",
+          "39",
+          "20.1",
+          "18.9",
+          "28"
+        ],
+        [
+          "Comparative",
+          "0.096",
+          "0.54",
+          "0.18",
+          "40.2",
+          "15.4",
+          "24.8",
+          "57"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "0.035",
+          "0.44",
+          "0.08",
+          "14.1",
+          "15.9",
+          "−1.8",
+          "297"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "0.035",
+          "0.44",
+          "0.08",
+          "21.9",
+          "25.8",
+          "−3.9",
+          "140"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "0.035",
+          "0.44",
+          "0.08",
+          "20.4",
+          "24.1",
+          "−3.7",
+          "380"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "0.063",
+          "0.39",
+          "0.16",
+          "38.8",
+          "16.3",
+          "22.5",
+          "51"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Properties of the base material (porous film) and laminated body, and the results of the permeation test</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Base material (porous film)</td>\n<td class=\"description-td\">Critical surface tension γc (mN/m)</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average pore</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Base material (B)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Permeation test</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average pore</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">diameter (C)/</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">after peel of</td>\n<td class=\"description-td\">Difference</td>\n<td class=\"description-td\">Time period (s)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter (C) (μm)</td>\n<td class=\"description-td\">(D)</td>\n<td class=\"description-td\">porosity (D)</td>\n<td class=\"description-td\">layer (A)</td>\n<td class=\"description-td\">coating layer</td>\n<td class=\"description-td\">(A) − (B)</td>\n<td class=\"description-td\">of permeation</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">27.8</td>\n<td class=\"description-td\">12.2</td>\n<td class=\"description-td\">21</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">40.2</td>\n<td class=\"description-td\">35.3</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">21</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">29.7</td>\n<td class=\"description-td\">14.3</td>\n<td class=\"description-td\">15.4</td>\n<td class=\"description-td\">22</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">0.040</td>\n<td class=\"description-td\">0.30</td>\n<td class=\"description-td\">0.13</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">20.1</td>\n<td class=\"description-td\">18.9</td>\n<td class=\"description-td\">28</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.096</td>\n<td class=\"description-td\">0.54</td>\n<td class=\"description-td\">0.18</td>\n<td class=\"description-td\">40.2</td>\n<td class=\"description-td\">15.4</td>\n<td class=\"description-td\">24.8</td>\n<td class=\"description-td\">57</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">14.1</td>\n<td class=\"description-td\">15.9</td>\n<td class=\"description-td\">−1.8</td>\n<td class=\"description-td\">297</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">21.9</td>\n<td class=\"description-td\">25.8</td>\n<td class=\"description-td\">−3.9</td>\n<td class=\"description-td\">140</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">20.4</td>\n<td class=\"description-td\">24.1</td>\n<td class=\"description-td\">−3.7</td>\n<td class=\"description-td\">380</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.063</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">0.16</td>\n<td class=\"description-td\">38.8</td>\n<td class=\"description-td\">16.3</td>\n<td class=\"description-td\">22.5</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "Properties of the base material (porous film) and laminated body, and the results of"
+        ],
+        [
+          "the withstand voltage defect count determining test"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Withstand voltage"
+        ],
+        [
+          "",
+          "Base material (porous film)",
+          "Dielectric strength test (V · m 2 /g)",
+          "test defect"
+        ],
+        [
+          "",
+          "Average pore",
+          "Porosity",
+          "Average pore diameter",
+          "Dielectric strength (A)",
+          "Dielectric strength (B) of",
+          "Number of"
+        ],
+        [
+          "",
+          "diameter (C) (μm)",
+          "(D)",
+          "(C)/porosity (D)",
+          "of porous layer",
+          "porous polyolefin film",
+          "deficiencies"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 5",
+          "0.035",
+          "0.44",
+          "0.08",
+          "690",
+          "176",
+          "3"
+        ],
+        [
+          "Example 6",
+          "0.035",
+          "0.44",
+          "0.08",
+          "270",
+          "176",
+          "5"
+        ],
+        [
+          "Example 7",
+          "0.040",
+          "0.30",
+          "0.13",
+          "270",
+          "176",
+          "22"
+        ],
+        [
+          "Comparative",
+          "0.063",
+          "0.39",
+          "0.16",
+          "270",
+          "176",
+          "36"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Comparative",
+          "0.096",
+          "0.54",
+          "0.18",
+          "270",
+          "254",
+          "77"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "Comparative",
+          "0.096",
+          "0.54",
+          "0.18",
+          "21",
+          "254",
+          "200"
+        ],
+        [
+          "Example 8"
+        ],
+        [
+          "Comparative",
+          "0.035",
+          "0.44",
+          "0.08",
+          "21",
+          "176",
+          "46"
+        ],
+        [
+          "Example 9"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Properties of the base material (porous film) and laminated body, and the results of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">the withstand voltage defect count determining test</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Withstand voltage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Base material (porous film)</td>\n<td class=\"description-td\">Dielectric strength test (V · m<sup>2</sup>/g)</td>\n<td class=\"description-td\">test defect</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average pore</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">Average pore diameter</td>\n<td class=\"description-td\">Dielectric strength (A)</td>\n<td class=\"description-td\">Dielectric strength (B) of</td>\n<td class=\"description-td\">Number of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter (C) (μm)</td>\n<td class=\"description-td\">(D)</td>\n<td class=\"description-td\">(C)/porosity (D)</td>\n<td class=\"description-td\">of porous layer</td>\n<td class=\"description-td\">porous polyolefin film</td>\n<td class=\"description-td\">deficiencies</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">690</td>\n<td class=\"description-td\">176</td>\n<td class=\"description-td\">3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">270</td>\n<td class=\"description-td\">176</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">0.040</td>\n<td class=\"description-td\">0.30</td>\n<td class=\"description-td\">0.13</td>\n<td class=\"description-td\">270</td>\n<td class=\"description-td\">176</td>\n<td class=\"description-td\">22</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.063</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">0.16</td>\n<td class=\"description-td\">270</td>\n<td class=\"description-td\">176</td>\n<td class=\"description-td\">36</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.096</td>\n<td class=\"description-td\">0.54</td>\n<td class=\"description-td\">0.18</td>\n<td class=\"description-td\">270</td>\n<td class=\"description-td\">254</td>\n<td class=\"description-td\">77</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.096</td>\n<td class=\"description-td\">0.54</td>\n<td class=\"description-td\">0.18</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">254</td>\n<td class=\"description-td\">200</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.44</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">176</td>\n<td class=\"description-td\">46</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Separator water",
+          "",
+          "Water content difference at dew",
+          "Proportion of pores, each of",
+          ""
+        ],
+        [
+          "",
+          "content rate (wtppm)",
+          "Water content",
+          "point of 20° C. between first",
+          "which has area of 0.5 μm 2 or"
+        ],
+        [
+          "",
+          "dew point",
+          "dew point",
+          "rate difference",
+          "porous layer and second porous layer",
+          "more, with respect to surface",
+          ""
+        ],
+        [
+          "",
+          "−30° C.",
+          "20° C.",
+          "(wtppm)",
+          "(mg/m 2 )",
+          "of second porous layer",
+          "Curl"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 8",
+          "161",
+          "445",
+          "284",
+          "4",
+          "3%",
+          "A"
+        ],
+        [
+          "Example 9",
+          "253",
+          "577",
+          "324",
+          "2",
+          "26%",
+          "A"
+        ],
+        [
+          "Comparative",
+          "926",
+          "2632",
+          "1706",
+          "35",
+          "—",
+          "C"
+        ],
+        [
+          "Example 10"
+        ],
+        [
+          "Comparative",
+          "152",
+          "4946",
+          "4794",
+          "46",
+          "—",
+          "C"
+        ],
+        [
+          "Example 11"
+        ],
+        [
+          "Comparative",
+          "88",
+          "2215",
+          "2127",
+          "16",
+          "—",
+          "B"
+        ],
+        [
+          "Example 12"
+        ],
+        [
+          "Comparative",
+          "60",
+          "579",
+          "519",
+          "3",
+          "61%",
+          "B"
+        ],
+        [
+          "Example 13"
+        ],
+        [
+          "Reference",
+          "33",
+          "450",
+          "417",
+          "—",
+          "—",
+          "A"
+        ],
+        [
+          "Example"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\">TABLE 3</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Separator water</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Water content difference at dew</td>\n<td class=\"description-td\">Proportion of pores, each of</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">content rate (wtppm)</td>\n<td class=\"description-td\">Water content</td>\n<td class=\"description-td\">point of 20° C. between first</td>\n<td class=\"description-td\">which has area of 0.5 μm<sup>2 </sup>or</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">dew point</td>\n<td class=\"description-td\">dew point</td>\n<td class=\"description-td\">rate difference</td>\n<td class=\"description-td\">porous layer and second porous layer</td>\n<td class=\"description-td\">more, with respect to surface</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">−30° C.</td>\n<td class=\"description-td\">20° C.</td>\n<td class=\"description-td\">(wtppm)</td>\n<td class=\"description-td\">(mg/m<sup>2</sup>)</td>\n<td class=\"description-td\">of second porous layer</td>\n<td class=\"description-td\">Curl</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">161</td>\n<td class=\"description-td\">445</td>\n<td class=\"description-td\">284</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\"> 3%</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">253</td>\n<td class=\"description-td\">577</td>\n<td class=\"description-td\">324</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">26%</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">926</td>\n<td class=\"description-td\">2632</td>\n<td class=\"description-td\">1706</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">C</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">152</td>\n<td class=\"description-td\">4946</td>\n<td class=\"description-td\">4794</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">C</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 11</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">88</td>\n<td class=\"description-td\">2215</td>\n<td class=\"description-td\">2127</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">B</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">579</td>\n<td class=\"description-td\">519</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">61%</td>\n<td class=\"description-td\">B</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 13</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Reference</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">450</td>\n<td class=\"description-td\">417</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Volume of resin having absorbed electrolyte",
+          "Average pore diameter (C)/",
+          "Initial battery",
+          "Battery characteristic"
+        ],
+        [
+          "",
+          "solution per square meter of porous layer after",
+          "Porosity (D) of porous base",
+          "characteristic",
+          "maitaining ratio (%)"
+        ],
+        [
+          "",
+          "being immersed in electrolyte solution (cm 3 )",
+          "material",
+          "maintaining ratio (%)",
+          "after 100 cycles"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 10",
+          "0.8",
+          "0.08",
+          "73",
+          "65"
+        ],
+        [
+          "Example 11",
+          "0.8",
+          "0.13",
+          "64",
+          "54"
+        ],
+        [
+          "Example 12",
+          "1.3",
+          "0.08",
+          "76",
+          "73"
+        ],
+        [
+          "Example 13",
+          "4.3",
+          "0.08",
+          "64",
+          "62"
+        ],
+        [
+          "Comparative",
+          "0.8",
+          "0.16",
+          "46",
+          "31"
+        ],
+        [
+          "Example 14"
+        ],
+        [
+          "Comparative",
+          "0.8",
+          "0.18",
+          "59",
+          "40"
+        ],
+        [
+          "Example 15"
+        ],
+        [
+          "Comparative",
+          "6",
+          "0.08",
+          "33",
+          "27"
+        ],
+        [
+          "Example 16"
+        ],
+        [
+          "Comparative",
+          "12",
+          "0.08",
+          "37",
+          "31"
+        ],
+        [
+          "Example 17"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\">TABLE 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Volume of resin having absorbed electrolyte</td>\n<td class=\"description-td\">Average pore diameter (C)/</td>\n<td class=\"description-td\">Initial battery</td>\n<td class=\"description-td\">Battery characteristic</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">solution per square meter of porous layer after</td>\n<td class=\"description-td\">Porosity (D) of porous base</td>\n<td class=\"description-td\">characteristic</td>\n<td class=\"description-td\">maitaining ratio (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">being immersed in electrolyte solution (cm<sup>3</sup>)</td>\n<td class=\"description-td\">material</td>\n<td class=\"description-td\">maintaining ratio (%)</td>\n<td class=\"description-td\">after 100 cycles</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">0.8</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">73</td>\n<td class=\"description-td\">65</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 11</td>\n<td class=\"description-td\">0.8</td>\n<td class=\"description-td\">0.13</td>\n<td class=\"description-td\">64</td>\n<td class=\"description-td\">54</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 12</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">76</td>\n<td class=\"description-td\">73</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 13</td>\n<td class=\"description-td\">4.3</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">64</td>\n<td class=\"description-td\">62</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.8</td>\n<td class=\"description-td\">0.16</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">31</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 14</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">0.8</td>\n<td class=\"description-td\">0.18</td>\n<td class=\"description-td\">59</td>\n<td class=\"description-td\">40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US09711775-20170718-D00001.png\" id=\"6\" label=\"Comparative\" state=\"{{state}}\">Comparative</figure-callout> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">27</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 16</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\">37</td>\n<td class=\"description-td\">31</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 17</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "caption": "FIG. 1 is a diagram (Aspect 1 of the present invention) schematically illustrating a laminated body of the present invention. FIG. 2 is a diagram (Aspect 1 of the present invention) schematically illustrating a method of an electrolyte solution permeation test involving a laminated body of the present invention. FIG. 3 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a laminated body of the present invention. FIG. 4 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a conventional laminated body (Comparative Example 4).",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/7b/d1/94/291ff4e6a06e51/US09711775-20170718-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a diagram (Aspect 1 of the present invention) schematically illustrating a laminated body of the present invention. FIG. 2 is a diagram (Aspect 1 of the present invention) schematically illustrating a method of an electrolyte solution permeation test involving a laminated body of the present invention. FIG. 3 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a laminated body of the present invention. FIG. 4 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a conventional laminated body (Comparative Example 4).",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/ef/d8/22/35b2363b03413c/US09711775-20170718-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a diagram (Aspect 1 of the present invention) schematically illustrating a laminated body of the present invention. FIG. 2 is a diagram (Aspect 1 of the present invention) schematically illustrating a method of an electrolyte solution permeation test involving a laminated body of the present invention. FIG. 3 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a laminated body of the present invention. FIG. 4 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a conventional laminated body (Comparative Example 4).",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/b4/a0/f5/5931ec9968e230/US09711775-20170718-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a diagram (Aspect 1 of the present invention) schematically illustrating a laminated body of the present invention. FIG. 2 is a diagram (Aspect 1 of the present invention) schematically illustrating a method of an electrolyte solution permeation test involving a laminated body of the present invention. FIG. 3 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a laminated body of the present invention. FIG. 4 is an image ( Aspect 3 of the present invention) captured under a scanning electron microscope of a surface of a second porous layer of a conventional laminated body (Comparative Example 4).",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/66/13/ae/59803e76e9a95c/US09711775-20170718-D00003.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/c6/f6/a9/d7f05babcea449/US9711775.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"5ee5f0a543dafab858f12fc06ba6e40d\"",
+        "last_modified": "Fri, 13 Oct 2017 18:00:08 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/fc7c0eb43d6246c2d75a68a4cf9b124eee8c66e3efbc0cbda3458bf755cab923.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:23:00.027955+00:00",
+        "sha256": "fc7c0eb43d6246c2d75a68a4cf9b124eee8c66e3efbc0cbda3458bf755cab923",
+        "source": "patent_pdf",
+        "source_id": "2e004a8e7f8793ecf1bcc97f5bb6fe8931b3541bbfccbdd5608ff64551d37c17",
+        "url": "https://patentimages.storage.googleapis.com/c6/f6/a9/d7f05babcea449/US9711775.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US9711775B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/a2d40295fbbe58900af116f992345ea28fef3aae6a25f6f8272655cf96e85b91.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:22:59.059688+00:00",
+    "sha256": "a2d40295fbbe58900af116f992345ea28fef3aae6a25f6f8272655cf96e85b91",
+    "source": "patents",
+    "source_id": "bda872ab7eb01b5bcd38279fb202c3c20f50d8602eeec71413983ea82ba56864",
+    "url": "https://patents.google.com/patent/US9711775B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "79cd869e27f793b79836484c7530f85e734ac83d87a3655f4b53628923ba9b21",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "bda872ab7eb01b5bcd38279fb202c3c20f50d8602eeec71413983ea82ba56864",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/a2d40295fbbe58900af116f992345ea28fef3aae6a25f6f8272655cf96e85b91.bin",
+      "source_id": "bda872ab7eb01b5bcd38279fb202c3c20f50d8602eeec71413983ea82ba56864",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "a2d40295fbbe58900af116f992345ea28fef3aae6a25f6f8272655cf96e85b91",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US9711775B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

@@ -1,0 +1,259 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Comparison of production efficiency between the separate process and the continuous process"
+        ],
+        [
+          "",
+          "Product Yield",
+          "Runnable Machine",
+          "Operation Cost",
+          "Productivity Index"
+        ],
+        [
+          "",
+          "PY",
+          "Usage, RMU",
+          "OC",
+          "PY * RMU/OC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Separate Processes",
+          "68%",
+          "80%",
+          "100%",
+          "54.4%"
+        ],
+        [
+          "Continuous Process",
+          "92%",
+          "100%",
+          "80%",
+          "115.0%"
+        ],
+        [
+          "Of this Invention"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparison of production efficiency between the separate process and the continuous process</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Product Yield</td>\n<td class=\"description-td\">Runnable Machine</td>\n<td class=\"description-td\">Operation Cost</td>\n<td class=\"description-td\">Productivity Index</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PY</td>\n<td class=\"description-td\">Usage, RMU</td>\n<td class=\"description-td\">OC</td>\n<td class=\"description-td\">PY * RMU/OC</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Separate Processes</td>\n<td class=\"description-td\">68%</td>\n<td class=\"description-td\"> 80%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\"> 54.4%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Continuous Process</td>\n<td class=\"description-td\">92%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\"> 80%</td>\n<td class=\"description-td\">115.0%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Of this Invention</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Resin",
+          "Extrusion Line Speed",
+          "Membrane Thickness",
+          "Gurley"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Fina PP 3271",
+          "30 ft/min",
+          "1.03 mil",
+          "26 sec"
+        ],
+        [
+          "",
+          "25 ft/min",
+          "1.04 mil",
+          "32 sec"
+        ],
+        [
+          "",
+          "20 ft/min",
+          "1.02 mil",
+          "40 sec"
+        ],
+        [
+          "Hizex 5202B",
+          "35 ft/min",
+          "1.02 mil",
+          "28 sec"
+        ],
+        [
+          "",
+          "30 ft/min",
+          "1.01 mil",
+          "33 sec"
+        ],
+        [
+          "",
+          "25 ft/min",
+          "1.00 mil",
+          "40 sec"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Resin</td>\n<td class=\"description-td\">Extrusion Line Speed</td>\n<td class=\"description-td\">Membrane Thickness</td>\n<td class=\"description-td\">Gurley</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Fina PP 3271</td>\n<td class=\"description-td\">30 ft/min</td>\n<td class=\"description-td\">1.03 mil</td>\n<td class=\"description-td\">26 sec</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">25 ft/min</td>\n<td class=\"description-td\">1.04 mil</td>\n<td class=\"description-td\">32 sec</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">20 ft/min</td>\n<td class=\"description-td\">1.02 mil</td>\n<td class=\"description-td\">40 sec</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Hizex 5202B</td>\n<td class=\"description-td\">35 ft/min</td>\n<td class=\"description-td\">1.02 mil</td>\n<td class=\"description-td\">28 sec</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">30 ft/min</td>\n<td class=\"description-td\">1.01 mil</td>\n<td class=\"description-td\">33 sec</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">25 ft/min</td>\n<td class=\"description-td\">1.00 mil</td>\n<td class=\"description-td\">40 sec</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 shows an example of the set-up for the continuous production line for multiply PP or PE membranes, in which each ply has a thickness ranging from 0.2 mil to 2 mil. Extruder 1 is hooked up with a rotational circular die 2 . The die 2 extrudes a tubular film going through an air ring 3 to form a bubble. The bubble is collapsed by a pair of collapsing frames 4 and by a pair of collapsing rolls 4 to form two-ply films. Four two-ply films are continuously fed to an annealing oven 5 . At the exit of the annealing oven 5 , the total eight-ply annealed films are quenched with a pair of quenching rolls 6 . The eight-ply quenched, annealed films are continuously fed through two pair of cold-stretching rolls 7 , and then through an oven 8 for stretching. At the exit of the stretching oven 8 , the eight-ply stretched membranes are quenched with a pair of quenching rolls 9 before the eight-ply membranes are collected on a winder roll 10 . FIG. 2 shows an example of the film-extrusion set-up for making multiply PP/PE/PP trilayer precursor films, in which each ply has a thickness ranging from 0.6 mil to 4 mil. Two-ply collapsed PP precursor films 11 with two edges trimmed are separated into two separate plies of films, 12 and 13 . Two-ply collapsed PE precursor films 14 with two edges trimmed are separated into two separate plies of films, part of 15 and 16 . One ply of PP film 12 and one ply of PE film from trimmed PE film 14 form PP/PE non-bonded bilayer 15 . Below the extrusion lines, a non-bonded PP/ PE bilayer 18 is continuously fed to combine with two- ply PP film 17 and with PE/PP non-bonded bilayer 15 to form two-ply non-bonded PP/PE/ PP trilayer films 19 . The two-ply non-bonded PP/PE/ PP trilayer films 19 are combined with another stream of two-ply non-bonded PP/PE/PP trilayer films to form four-ply non-bonded PP/PE/PP trilayer films 20 . The combined four-ply PP/PE/PP precursor films are continuously fed to annealing oven for annealing and bonding between PP and PE layers. Then, the annealed films are continuously fed through the cold stretching unit and through the hot-stretching oven to form PP/PE/PP trilayer membrane as described in FIG. 1 . In this invention, the process is continuous while in the prior art U.S. Pat. No. 5,952,120, the process is comprised of separate steps.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/f7/70/31/4ced2b7660b80d/US06878226-20050412-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 shows an example of the set-up for the continuous production line for multiply PP or PE membranes, in which each ply has a thickness ranging from 0.2 mil to 2 mil. Extruder 1 is hooked up with a rotational circular die 2 . The die 2 extrudes a tubular film going through an air ring 3 to form a bubble. The bubble is collapsed by a pair of collapsing frames 4 and by a pair of collapsing rolls 4 to form two-ply films. Four two-ply films are continuously fed to an annealing oven 5 . At the exit of the annealing oven 5 , the total eight-ply annealed films are quenched with a pair of quenching rolls 6 . The eight-ply quenched, annealed films are continuously fed through two pair of cold-stretching rolls 7 , and then through an oven 8 for stretching. At the exit of the stretching oven 8 , the eight-ply stretched membranes are quenched with a pair of quenching rolls 9 before the eight-ply membranes are collected on a winder roll 10 . FIG. 2 shows an example of the film-extrusion set-up for making multiply PP/PE/PP trilayer precursor films, in which each ply has a thickness ranging from 0.6 mil to 4 mil. Two-ply collapsed PP precursor films 11 with two edges trimmed are separated into two separate plies of films, 12 and 13 . Two-ply collapsed PE precursor films 14 with two edges trimmed are separated into two separate plies of films, part of 15 and 16 . One ply of PP film 12 and one ply of PE film from trimmed PE film 14 form PP/PE non-bonded bilayer 15 . Below the extrusion lines, a non-bonded PP/ PE bilayer 18 is continuously fed to combine with two- ply PP film 17 and with PE/PP non-bonded bilayer 15 to form two-ply non-bonded PP/PE/ PP trilayer films 19 . The two-ply non-bonded PP/PE/ PP trilayer films 19 are combined with another stream of two-ply non-bonded PP/PE/PP trilayer films to form four-ply non-bonded PP/PE/PP trilayer films 20 . The combined four-ply PP/PE/PP precursor films are continuously fed to annealing oven for annealing and bonding between PP and PE layers. Then, the annealed films are continuously fed through the cold stretching unit and through the hot-stretching oven to form PP/PE/PP trilayer membrane as described in FIG. 1 . In this invention, the process is continuous while in the prior art U.S. Pat. No. 5,952,120, the process is comprised of separate steps.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/06/cd/66/0d3a127747488f/US06878226-20050412-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 shows an example of the set-up for the continuous production line for multiply PP or PE membranes, in which each ply has a thickness ranging from 0.2 mil to 2 mil. Extruder 1 is hooked up with a rotational circular die 2 . The die 2 extrudes a tubular film going through an air ring 3 to form a bubble. The bubble is collapsed by a pair of collapsing frames 4 and by a pair of collapsing rolls 4 to form two-ply films. Four two-ply films are continuously fed to an annealing oven 5 . At the exit of the annealing oven 5 , the total eight-ply annealed films are quenched with a pair of quenching rolls 6 . The eight-ply quenched, annealed films are continuously fed through two pair of cold-stretching rolls 7 , and then through an oven 8 for stretching. At the exit of the stretching oven 8 , the eight-ply stretched membranes are quenched with a pair of quenching rolls 9 before the eight-ply membranes are collected on a winder roll 10 . FIG. 2 shows an example of the film-extrusion set-up for making multiply PP/PE/PP trilayer precursor films, in which each ply has a thickness ranging from 0.6 mil to 4 mil. Two-ply collapsed PP precursor films 11 with two edges trimmed are separated into two separate plies of films, 12 and 13 . Two-ply collapsed PE precursor films 14 with two edges trimmed are separated into two separate plies of films, part of 15 and 16 . One ply of PP film 12 and one ply of PE film from trimmed PE film 14 form PP/PE non-bonded bilayer 15 . Below the extrusion lines, a non-bonded PP/ PE bilayer 18 is continuously fed to combine with two- ply PP film 17 and with PE/PP non-bonded bilayer 15 to form two-ply non-bonded PP/PE/ PP trilayer films 19 . The two-ply non-bonded PP/PE/ PP trilayer films 19 are combined with another stream of two-ply non-bonded PP/PE/PP trilayer films to form four-ply non-bonded PP/PE/PP trilayer films 20 . The combined four-ply PP/PE/PP precursor films are continuously fed to annealing oven for annealing and bonding between PP and PE layers. Then, the annealed films are continuously fed through the cold stretching unit and through the hot-stretching oven to form PP/PE/PP trilayer membrane as described in FIG. 1 . In this invention, the process is continuous while in the prior art U.S. Pat. No. 5,952,120, the process is comprised of separate steps.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/93/01/fd/378c527371abbe/US06878226-20050412-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/98/95/43/47bd0a80c1a9a2/US6878226.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"22bee0e7eab25a4c5576ed97c9a417a3\"",
+        "last_modified": "Mon, 06 Nov 2017 12:37:17 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/9e6760e913fed854953e207b2d3a7e37a4d5402a46e94d8ef77f308d669036c0.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:23:49.621916+00:00",
+        "sha256": "9e6760e913fed854953e207b2d3a7e37a4d5402a46e94d8ef77f308d669036c0",
+        "source": "patent_pdf",
+        "source_id": "37b862021b69d8791235dd8d121fba4ecf94e542807d8c3af363217cc473f028",
+        "url": "https://patentimages.storage.googleapis.com/98/95/43/47bd0a80c1a9a2/US6878226.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US6878226B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/0917916bb368eb544a85e8fbc1c8d4dcb0519d41a055333e5acca941376475d2.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:23:48.702424+00:00",
+    "sha256": "0917916bb368eb544a85e8fbc1c8d4dcb0519d41a055333e5acca941376475d2",
+    "source": "patents",
+    "source_id": "526f0adcb639009eabd4e1afa8ce46105f4f93516b1de570df21e4834bcf9735",
+    "url": "https://patents.google.com/patent/US6878226B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "4402d36a00cf778b8b8ff50b374f16a3dfcbddfd832a57591e3a36261a33010f",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "526f0adcb639009eabd4e1afa8ce46105f4f93516b1de570df21e4834bcf9735",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/0917916bb368eb544a85e8fbc1c8d4dcb0519d41a055333e5acca941376475d2.bin",
+      "source_id": "526f0adcb639009eabd4e1afa8ce46105f4f93516b1de570df21e4834bcf9735",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "0917916bb368eb544a85e8fbc1c8d4dcb0519d41a055333e5acca941376475d2",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6878226B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

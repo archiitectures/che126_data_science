@@ -1,0 +1,97 @@
+{
+  "artifacts": [
+    {
+      "caption": "FIG. 1 is schematic illustration of the instant invention. Referring to the FIGURE wherein like numerals indicate like elements, there are shown, in FIG. 1 , a separator 10 for a polymer battery. Separator 10 comprises a microporous membrane 12 and a coating 14 . The membrane 12 has a first surface 16 , a second surface 18 , and a plurality of micropores 20 . The coating 14 is disposed on surfaces 16 and 18 . Coating 14 covers the membrane 12 , but does not fill the plurality of micropores 20 . Separator 10 , with a thickness less than 38 microns, preferably has a MacMullin Number (see U.S. Pat. No. 4,464,238, incorporated herein by reference) less than 20, and most preferably in the range of 4-12.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/b3/5f/01/a695c6cd1aa0b5/US06881515-20050419-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is schematic illustration of the instant invention. Referring to the FIGURE wherein like numerals indicate like elements, there are shown, in FIG. 1 , a separator 10 for a polymer battery. Separator 10 comprises a microporous membrane 12 and a coating 14 . The membrane 12 has a first surface 16 , a second surface 18 , and a plurality of micropores 20 . The coating 14 is disposed on surfaces 16 and 18 . Coating 14 covers the membrane 12 , but does not fill the plurality of micropores 20 . Separator 10 , with a thickness less than 38 microns, preferably has a MacMullin Number (see U.S. Pat. No. 4,464,238, incorporated herein by reference) less than 20, and most preferably in the range of 4-12.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/92/dd/3e/c1d653d803746b/US06881515-20050419-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/37/94/d4/a4d64c699e7b24/US6881515.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US6881515B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/50054458f886924e6258a260b18fe6a51869f0bafd35987a5bc21784ef71e558.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:20.938334+00:00",
+    "sha256": "50054458f886924e6258a260b18fe6a51869f0bafd35987a5bc21784ef71e558",
+    "source": "patents",
+    "source_id": "6f6fd7c92e75e3d4e9b53b155679d6d5a1a0d0389332ef9b3d786cb4769765ce",
+    "url": "https://patents.google.com/patent/US6881515B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "acb108b96426ab31e90d5b67530ad847dfa391cac4f2709cd6cae154b9faee9c",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "6f6fd7c92e75e3d4e9b53b155679d6d5a1a0d0389332ef9b3d786cb4769765ce",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/50054458f886924e6258a260b18fe6a51869f0bafd35987a5bc21784ef71e558.bin",
+      "source_id": "6f6fd7c92e75e3d4e9b53b155679d6d5a1a0d0389332ef9b3d786cb4769765ce",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "50054458f886924e6258a260b18fe6a51869f0bafd35987a5bc21784ef71e558",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6881515B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

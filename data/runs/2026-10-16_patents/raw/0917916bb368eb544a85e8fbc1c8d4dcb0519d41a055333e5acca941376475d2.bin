@@ -1,0 +1,3525 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>US6878226B2 - Continuous methods of making microporous battery separators 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/US6878226B2/en">
+    <meta name="description" content="
+     A continuous method of making dry-stretch microporous membrane battery separators from polypropylene (PP) or polyethylene (PE) or both benefits to the manufacturers in the production efficiency. The precursor-film extrusion in this invention is accomplished by multiple small film-extrusion lines at a compatible line speed with the followed oven processes (annealing and stretching). The overall production process starts continuously from film extrusion to annealing and to stretching. The benefits of the inventive continuous process includes a higher product yield, more effective oven-time usage, no need to handle and manage the intermediate products, less need in labor and machine maintenance, and potentially more stable product quality. 
+     The dry-stretch membrane separators made with this inventive continuous method include (1) single-ply PP or PE separators having a thickness ranging from 0.2 mil to 2.0 mil; (2) PP/PE/PP trilayer microporous membrane separators having a thickness ranging from 0.6 mil to 4.0 mil. The PP/PE/PP trilayer can be accomplished in the early extrusion via either co-extrusion or extruding separately and then interposing PE layer between two PP layers, continuously, right before annealing/bonding and stretching process. 
+   
+   ">
+    <meta name="DC.type" content="patent">
+    <meta name="DC.title" content="Continuous methods of making microporous battery separators 
+       ">
+    <meta name="DC.date" content="2002-01-08" scheme="dateSubmitted">
+    <meta name="DC.description" content="
+     A continuous method of making dry-stretch microporous membrane battery separators from polypropylene (PP) or polyethylene (PE) or both benefits to the manufacturers in the production efficiency. The precursor-film extrusion in this invention is accomplished by multiple small film-extrusion lines at a compatible line speed with the followed oven processes (annealing and stretching). The overall production process starts continuously from film extrusion to annealing and to stretching. The benefits of the inventive continuous process includes a higher product yield, more effective oven-time usage, no need to handle and manage the intermediate products, less need in labor and machine maintenance, and potentially more stable product quality. 
+     The dry-stretch membrane separators made with this inventive continuous method include (1) single-ply PP or PE separators having a thickness ranging from 0.2 mil to 2.0 mil; (2) PP/PE/PP trilayer microporous membrane separators having a thickness ranging from 0.6 mil to 4.0 mil. The PP/PE/PP trilayer can be accomplished in the early extrusion via either co-extrusion or extruding separately and then interposing PE layer between two PP layers, continuously, right before annealing/bonding and stretching process. 
+   
+   ">
+    <meta name="citation_patent_application_number" content="US:10/041,348">
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/98/95/43/47bd0a80c1a9a2/US6878226.pdf">
+    <meta name="citation_patent_number" content="US:6878226">
+    <meta name="DC.date" content="2005-04-12" scheme="issue">
+    <meta name="DC.contributor" content="Wei-Ching Yu" scheme="inventor">
+    <meta name="DC.contributor" content="Individual" scheme="assignee">
+    <meta name="DC.relation" content="US:3426754" scheme="references">
+    <meta name="DC.relation" content="US:3558764" scheme="references">
+    <meta name="DC.relation" content="US:3801692" scheme="references">
+    <meta name="DC.relation" content="US:3932682" scheme="references">
+    <meta name="DC.relation" content="US:3679538" scheme="references">
+    <meta name="DC.relation" content="US:3801404" scheme="references">
+    <meta name="DC.relation" content="US:3679540" scheme="references">
+    <meta name="DC.relation" content="US:3843761" scheme="references">
+    <meta name="DC.relation" content="US:4138459" scheme="references">
+    <meta name="DC.relation" content="US:4384023" scheme="references">
+    <meta name="DC.relation" content="US:4539256" scheme="references">
+    <meta name="DC.relation" content="US:4726989" scheme="references">
+    <meta name="DC.relation" content="US:4994335" scheme="references">
+    <meta name="DC.relation" content="US:5173235" scheme="references">
+    <meta name="DC.relation" content="US:5667911" scheme="references">
+    <meta name="DC.relation" content="US:5565281" scheme="references">
+    <meta name="DC.relation" content="US:5691077" scheme="references">
+    <meta name="DC.relation" content="US:6132654" scheme="references">
+    <meta name="DC.relation" content="US:5952120" scheme="references">
+    <meta name="DC.relation" content="US:6080507" scheme="references">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700">
+
+    <style>
+      
+      #gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+    </style>
+    <script></script>
+
+    <script>
+      window.version = 'patent-search.search_20260819_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/search-app-vulcanized.html">
+  </head>
+  <body unresolved>
+    
+    
+    <script></script>
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    <search-app>
+      
+      
+
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">US6878226B2 - Continuous methods of making microporous battery separators 
+        - Google Patents</h1>
+  <span itemprop="title">Continuous methods of making microporous battery separators 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/98/95/43/47bd0a80c1a9a2/US6878226.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">US6878226B2</dd>
+    <meta itemprop="numberWithoutCodes" content="6878226">
+    <meta itemprop="kindCode" content="B2">
+    <meta itemprop="publicationDescription" content="Patent ( having previously published pre-grant publication)">
+    <span>US6878226B2</span>
+    <span>US10/041,348</span>
+    <span>US4134802A</span>
+    <span>US6878226B2</span>
+    <span>US 6878226 B2</span>
+    <span>US6878226 B2</span>
+    <span>US 6878226B2</span>
+    <span>  </span>
+    <span> </span>
+    <span> </span>
+    <span>US 4134802 A</span>
+    <span>US4134802 A</span>
+    <span>US 4134802A</span>
+    <span>US 6878226 B2</span>
+    <span>US6878226 B2</span>
+    <span>US 6878226B2</span>
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">US</dd>
+    <dd itemprop="countryName">United States</dd>
+
+    <dt>Prior art keywords</dt>
+    <dd itemprop="priorArtKeywords" repeat>film</dd>
+    <dd itemprop="priorArtKeywords" repeat>extrusion</dd>
+    <dd itemprop="priorArtKeywords" repeat>stretching</dd>
+    <dd itemprop="priorArtKeywords" repeat>annealing</dd>
+    <dd itemprop="priorArtKeywords" repeat>mil</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2002-01-08">2002-01-08</time></dd>
+
+    <dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+    <dd itemprop="legalStatusIfi" itemscope>
+      <span itemprop="status">Expired - Fee Related</span>, expires <time itemprop="expiration" datetime="2022-04-26">2022-04-26</time>
+    </dd>
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">US10/041,348</dd>
+
+  
+
+  <dt>Other versions</dt>
+  <dd itemprop="directAssociations" itemscope repeat>
+    <a href="/patent/US20030136500A1/en">
+      <span itemprop="publicationNumber">US20030136500A1</span>
+      (<span itemprop="primaryLanguage">en</span>
+    </a>
+  </dd>
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>Wei-Ching Yu</dd>
+
+  <dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+  <dd itemprop="assigneeCurrent" repeat>
+    Individual
+  </dd>
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>Individual</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2002-01-08">2002-01-08</time></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2002-01-08">2002-01-08</time></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2005-04-12">2005-04-12</time></dd>
+
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2002-01-08">2002-01-08</time>
+    <span itemprop="title">Application filed by Individual</span>
+    <span itemprop="type">filed</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    <span itemprop="assigneeSearch">Individual</span>
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2002-01-08">2002-01-08</time>
+    <span itemprop="title">Priority to US10/041,348</span>
+    <span itemprop="type">priority</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    <span itemprop="documentId">patent/US6878226B2/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2003-07-24">2003-07-24</time>
+    <span itemprop="title">Publication of US20030136500A1</span>
+    <span itemprop="type">publication</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    <span itemprop="documentId">patent/US20030136500A1/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-04-12">2005-04-12</time>
+    <span itemprop="title">Application granted</span>
+    <span itemprop="type">granted</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2005-04-12">2005-04-12</time>
+    <span itemprop="title">Publication of US6878226B2</span>
+    <span itemprop="type">publication</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    <span itemprop="documentId">patent/US6878226B2/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2022-04-26">2022-04-26</time>
+    <span itemprop="title">Adjusted expiration</span>
+    <span itemprop="type">legal-status</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date">Status</time>
+    <span itemprop="title">Expired - Fee Related</span>
+    <span itemprop="type">legal-status</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    <span itemprop="current" content="true" bool>Current</span>
+    
+    
+    
+  </dd>
+
+  <h2>Links</h2>
+  <ul>
+    
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoLink">
+          <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6878226.PN." itemprop="url" target="_blank"><span itemprop="text">USPTO</span></a>
+        </li>
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoPatentCenterLink">
+          <a href="https://patentcenter.uspto.gov/applications/10041348" itemprop="url" target="_blank"><span itemprop="text">USPTO PatentCenter</span></a>
+        </li>
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoAssignmentLink">
+          <a href="https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6878226" itemprop="url" target="_blank"><span itemprop="text">USPTO Assignment</span></a>
+        </li>
+
+    <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="espacenetLink">
+        <a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&amp;NR=6878226B2&amp;KC=B2&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+      </li>
+      
+
+    
+
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="globalDossierLink">
+      <a href="https://globaldossier.uspto.gov/result/application/US/10041348/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+    </li>
+
+    
+
+      
+
+      
+
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="stackexchangeLink">
+        <a href="https://patents.stackexchange.com/questions/tagged/US6878226" itemprop="url"><span itemprop="text">Discuss</span></a>
+      </li>
+      
+  </ul>
+
+  
+
+  <section>
+    <h2>Images</h2>
+    <ul>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/52/94/25/798ea89b4d0d4c/US06878226-20050412-D00000.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/f7/70/31/4ced2b7660b80d/US06878226-20050412-D00000.png">
+        <ul>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="0">
+            <meta itemprop="id" content="10">
+            <meta itemprop="label" content="winder roll">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="143">
+              <meta itemprop="top" content="933">
+              <meta itemprop="right" content="196">
+              <meta itemprop="bottom" content="973">
+            </span>
+          </li>
+        </ul>
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/45/42/fb/9a0d8385b06d0d/US06878226-20050412-D00001.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/06/cd/66/0d3a127747488f/US06878226-20050412-D00001.png">
+        <ul>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="1">
+            <meta itemprop="id" content="10">
+            <meta itemprop="label" content="winder roll">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="1090">
+              <meta itemprop="top" content="3273">
+              <meta itemprop="right" content="1132">
+              <meta itemprop="bottom" content="3336">
+            </span>
+          </li>
+        </ul>
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/ea/15/7a/ea1d8f1d964ab1/US06878226-20050412-D00002.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/93/01/fd/378c527371abbe/US06878226-20050412-D00002.png">
+        <ul>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="2">
+            <meta itemprop="id" content="11">
+            <meta itemprop="label" content="ply PP film">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="1661">
+              <meta itemprop="top" content="498">
+              <meta itemprop="right" content="1712">
+              <meta itemprop="bottom" content="534">
+            </span>
+          </li>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="2">
+            <meta itemprop="id" content="12">
+            <meta itemprop="label" content="PP film">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="1450">
+              <meta itemprop="top" content="383">
+              <meta itemprop="right" content="1504">
+              <meta itemprop="bottom" content="422">
+            </span>
+          </li>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="2">
+            <meta itemprop="id" content="14">
+            <meta itemprop="label" content="PE precursor films">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="1392">
+              <meta itemprop="top" content="566">
+              <meta itemprop="right" content="1446">
+              <meta itemprop="bottom" content="608">
+            </span>
+          </li>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="2">
+            <meta itemprop="id" content="15">
+            <meta itemprop="label" content="non-bonded bilayer">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="1144">
+              <meta itemprop="top" content="394">
+              <meta itemprop="right" content="1198">
+              <meta itemprop="bottom" content="431">
+            </span>
+          </li>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="2">
+            <meta itemprop="id" content="17">
+            <meta itemprop="label" content="ply PP film">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="1109">
+              <meta itemprop="top" content="567">
+              <meta itemprop="right" content="1164">
+              <meta itemprop="bottom" content="606">
+            </span>
+          </li>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="2">
+            <meta itemprop="id" content="18">
+            <meta itemprop="label" content="PE bilayer">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="658">
+              <meta itemprop="top" content="900">
+              <meta itemprop="right" content="717">
+              <meta itemprop="bottom" content="946">
+            </span>
+          </li>
+          <li itemprop="callouts" itemscope repeat>
+            <meta itemprop="figurePage" content="2">
+            <meta itemprop="id" content="19">
+            <meta itemprop="label" content="PP trilayer films">
+            <span itemprop="bounds" itemscope>
+              <meta itemprop="left" content="591">
+              <meta itemprop="top" content="634">
+              <meta itemprop="right" content="645">
+              <meta itemprop="bottom" content="669">
+            </span>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Classifications</h2>
+    <ul>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B27/00</span>&mdash;<span itemprop="Description">Layered products comprising a layer of synthetic resin</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B27/32</span>&mdash;<span itemprop="Description">Layered products comprising a layer of synthetic resin comprising polyolefins</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="FirstCode" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B38/00</span>&mdash;<span itemprop="Description">Ancillary operations in connection with laminating processes</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B38/0032</span>&mdash;<span itemprop="Description">Ancillary operations in connection with laminating processes increasing porosity</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/403</span>&mdash;<span itemprop="Description">Manufacturing processes of separators, membranes or diaphragms</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/403</span>&mdash;<span itemprop="Description">Manufacturing processes of separators, membranes or diaphragms</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/406</span>&mdash;<span itemprop="Description">Moulding; Embossing; Cutting</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/409</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/411</span>&mdash;<span itemprop="Description">Organic material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/414</span>&mdash;<span itemprop="Description">Synthetic resins, e.g. thermoplastics or thermosetting resins</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/417</span>&mdash;<span itemprop="Description">Polyolefins</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/489</span>&mdash;<span itemprop="Description">Separators, membranes, diaphragms or spacing elements inside the cells, characterised by their physical properties, e.g. swelling degree, hydrophilicity or shut down properties</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/491</span>&mdash;<span itemprop="Description">Porosity</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B38/00</span>&mdash;<span itemprop="Description">Ancillary operations in connection with laminating processes</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B38/0012</span>&mdash;<span itemprop="Description">Mechanical treatment, e.g. roughening, deforming, stretching</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2038/0028</span>&mdash;<span itemprop="Description">Stretching, elongating</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B38/00</span>&mdash;<span itemprop="Description">Ancillary operations in connection with laminating processes</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B38/0036</span>&mdash;<span itemprop="Description">Heat treatment</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2038/0048</span>&mdash;<span itemprop="Description">Annealing, relaxing</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2323/00</span>&mdash;<span itemprop="Description">Polyalkenes</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2323/04</span>&mdash;<span itemprop="Description">Polyethylene</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2323/00</span>&mdash;<span itemprop="Description">Polyalkenes</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2323/10</span>&mdash;<span itemprop="Description">Polypropylene</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2457/00</span>&mdash;<span itemprop="Description">Electrical equipment</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B2457/10</span>&mdash;<span itemprop="Description">Batteries</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/00</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/08</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding characterised by the cooling method</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/085</span>&mdash;<span itemprop="Description">Quenching</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/00</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/14</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding characterised by the properties of the layers</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/16</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding characterised by the properties of the layers with all layers existing as coherent layers before laminating</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/20</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding characterised by the properties of the layers with all layers existing as coherent layers before laminating involving the assembly of continuous webs only</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B</span>&mdash;<span itemprop="Description">LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-FLAT, e.g. CELLULAR OR HONEYCOMB, FORM</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/00</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">B32B37/28</span>&mdash;<span itemprop="Description">Methods or apparatus for laminating, e.g. by curing or by ultrasonic bonding involving assembly of non-flat intermediate products which are flattened at a later step, e.g. tubes</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y</span>&mdash;<span itemprop="Description">GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02</span>&mdash;<span itemprop="Description">TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E</span>&mdash;<span itemprop="Description">REDUCTION OF GREENHOUSE GAS [GHG] EMISSIONS, RELATED TO ENERGY GENERATION, TRANSMISSION OR DISTRIBUTION</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E60/00</span>&mdash;<span itemprop="Description">Enabling technologies; Technologies with a potential or indirect contribution to GHG emissions mitigation</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E60/10</span>&mdash;<span itemprop="Description">Energy storage using batteries</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  
+
+  
+
+  <section>
+    <h2>Definitions</h2>
+    <ul>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">This invention</span>
+        <span itemprop="definition">relates to dry stretched polyolefin (PP, PE, and PP/PE/PP) microporous membranes as battery separators, specifically to the continuous method of making the membrane separators.</span>
+        <meta itemprop="num_attr" content="P-00005">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">lithium batteries</span>
+        <span itemprop="definition">In batteries, the anode and cathode are separated from one another by a separator.</span>
+        <meta itemprop="num_attr" content="P-00007">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">lithium batteries</span>
+        <span itemprop="definition">are very popular because they are able to generate high-energy outputs.</span>
+        <meta itemprop="num_attr" content="P-00007">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the lithium battery market</span>
+        <span itemprop="definition">can be divided into two groups, the “primary” lithium battery and the “secondary” lithium battery.</span>
+        <meta itemprop="num_attr" content="P-00007">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the primary lithium battery</span>
+        <span itemprop="definition">is a disposable battery, while the secondary lithium battery is a rechargeable battery.</span>
+        <meta itemprop="num_attr" content="P-00007">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the rechargeable lithium battery technology</span>
+        <span itemprop="definition">was first commercialized by Sony in 1992. Since then, this new type of high-energy rechargeable batteries has been widely used in consumer markets, such as computer, camcorder and cellular phone. More applications are being developed. One of them is the Electric Vehicle (EV) and the Hybrid Electric Vehicle (HEV) applications.</span>
+        <meta itemprop="num_attr" content="P-00008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">EV</span>
+        <span itemprop="definition">Electric Vehicle</span>
+        <meta itemprop="num_attr" content="P-00008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">HEV</span>
+        <span itemprop="definition">Hybrid Electric Vehicle</span>
+        <meta itemprop="num_attr" content="P-00008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the rechargeable lithium batteries for EV and HEV applications</span>
+        <span itemprop="definition">are significantly larger than the consumer rechargeable lithium batteries.</span>
+        <meta itemprop="num_attr" content="P-00009">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the separator used in the batteries</span>
+        <span itemprop="definition">needs much more square footage than that in the consumer batteries.</span>
+        <meta itemprop="num_attr" content="P-00009">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the unit cost of the separator</span>
+        <span itemprop="definition">needs to be much lower to make the EV and HEV batteries commercially possible.</span>
+        <meta itemprop="num_attr" content="P-00009">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the cost of the separator in non-rechargeable lithium battery</span>
+        <span itemprop="definition">remains relatively high in comparison to that of the separators in other types of batteries.</span>
+        <meta itemprop="num_attr" content="P-00009">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the separators for lithium batteries</span>
+        <span itemprop="definition">can be made from polyolefin basically with two types of processes in the prior art: dry-stretch process and solvent-stretch process.</span>
+        <meta itemprop="num_attr" content="P-00011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the solvent-stretch process</span>
+        <span itemprop="definition">(such as U.S. Pat. Nos. 4,539,256; 4,726,989) usually costs more than the dry-stretch process, and it creates environmental issues. It is not our interest. Our focus is on the clean dry-stretch process for the micro-porous membranes as separators for the lithium batteries.</span>
+        <meta itemprop="num_attr" content="P-00011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Polyolefin</span>
+        <span itemprop="definition">refers to a class or group name for thermoplastic polymers derived from simple olefins.</span>
+        <meta itemprop="num_attr" content="P-00012">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Exemplary polyolefins</span>
+        <span itemprop="definition">include polyethylene and polypropylene.</span>
+        <meta itemprop="num_attr" content="P-00012">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Polyethylene</span>
+        <span itemprop="definition">refers to, for example, polymers and copolymer substantially consisting of ethylene monomers.</span>
+        <meta itemprop="num_attr" content="P-00012">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Polypropylene</span>
+        <span itemprop="definition">refers to, for example, polymers and copolymers substantially consisting of propylene monomers.</span>
+        <meta itemprop="num_attr" content="P-00012">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">multiply</span>
+        <span itemprop="definition">herein is defined as more than one ply of film or membrane stacked together and then rolled up into a big roll.</span>
+        <meta itemprop="num_attr" content="P-00014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the adhesion between plies</span>
+        <span itemprop="definition">is minimum, and the multiply films or membranes can be easily deplied into multiple single-ply film or membrane. So, multiply can be two-ply, four-ply, or eight-ply.</span>
+        <meta itemprop="num_attr" content="P-00014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">multi-layer</span>
+        <span itemprop="definition">herein is defined as more than one layer of film adhered together with a reasonably good adhesion.</span>
+        <meta itemprop="num_attr" content="P-00014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the multi-layer film (or membrane)</span>
+        <span itemprop="definition">can be handled as a single-ply film (or membrane). So, multi-layer can be bilayer, trilayer, penta-layer.</span>
+        <meta itemprop="num_attr" content="P-00014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PP/PE/PP trilayer membrane</span>
+        <span itemprop="definition">means that the two layers of PP membrane sandwich one layer of PE membrane with a reasonably good adhesion, and that the trilayer can be handled as a single-ply membrane without losing its integrity.</span>
+        <meta itemprop="num_attr" content="P-00014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">microporous membrane and membrane</span>
+        <span itemprop="definition">herein imply the open-cell microporous membrane.</span>
+        <meta itemprop="num_attr" content="P-00015">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the process</span>
+        <span itemprop="definition">also includes three separate steps: film extrusion, annealing and stretching.</span>
+        <meta itemprop="num_attr" content="P-00020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the extruded films</span>
+        <span itemprop="definition">are rolled up first into big film rolls, and the film rolls are then unrolled and fed to an oven for annealing.</span>
+        <meta itemprop="num_attr" content="P-00020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the annealed films</span>
+        <span itemprop="definition">are rolled up into multiply big rolls, and the annealed rolls are then unrolled and fed to another oven for stretching into membranes.</span>
+        <meta itemprop="num_attr" content="P-00020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the stretched membranes from the oven</span>
+        <span itemprop="definition">are rolled up into rolls with desired length and filter sent for deplying and slitting separately.</span>
+        <meta itemprop="num_attr" content="P-00020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a continuous method for making microporous polyolefin (PP, PE or PP/PE/PP trilayer) membrane for use in battery separator having a thickness ranging from about 0.2 mil to about 4.0 mil</span>
+        <span itemprop="definition">comprising the sequential connected steps of: extruding multiple parison with multiple smaller film extrusion lines; collapsing the parison onto itself to form a flat sheet comprising multiple plies; annealing the multiply flat-sheet precursor films; stretching the multiply flat-sheet precursor films; and winding up the multiply flat-sheet membranes.</span>
+        <meta itemprop="num_attr" content="P-00030">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the novelty of this invention</span>
+        <span itemprop="definition">is to use multiple small film extrusion lines and to run at a line speed compatible with the speed of the following annealing step and then the following cold stretching step and then the following hot stretching step and then the following relaxing step. And, the sequential steps of making the dry-stretch membrane as described above are run continuously from film extrusion to film annealing and to film stretching without stop.</span>
+        <meta itemprop="num_attr" content="P-00031">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a single large film extrusion line</span>
+        <span itemprop="definition">is used to extrude the multiple rolls at a much faster speed.</span>
+        <meta itemprop="num_attr" content="P-00031">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the multiple collected rolls of film</span>
+        <span itemprop="definition">are unrolled and fed to an annealing oven and collected as annealed rolls.</span>
+        <meta itemprop="num_attr" content="P-00031">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the rolls of the collected annealed film</span>
+        <span itemprop="definition">are unrolled and fed to a stretching oven (cold and hot stretch) for the membrane rolls.</span>
+        <meta itemprop="num_attr" content="P-00031">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the yield of the product</span>
+        <span itemprop="definition">is much higher; the operation cost is lower; the machine usage time is much higher; the more stable process is potentially for more stable quality product.</span>
+        <meta itemprop="num_attr" content="P-00032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">FIG. 1</span>
+        <span itemprop="definition">schematically illustrates the continuous process of making multiply PP membranes or multiply PE membranes, in which each ply has a thickness ranging from 0.2 mil to 2 mil.</span>
+        <meta itemprop="num_attr" content="P-00033">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">FIG. 2</span>
+        <span itemprop="definition">schematically illustrates the film-extrusion set-up for making multiply PP/PE/PP trilayer precursor films.</span>
+        <meta itemprop="num_attr" content="P-00034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the combined multiply PP/PE/PP precursor films</span>
+        <span itemprop="definition">are continuously fed to annealing oven for annealing and bonding between PP and PE layers.</span>
+        <meta itemprop="num_attr" content="P-00034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the battery separators according to the instant invention of continuous process</span>
+        <span itemprop="definition">comprises singly-ply polyolefin (preferably PP or PE) microporous membranes, the thickness of which ranges from 0.2 mil to 2.0 mil. One mil is equal to 0.001 inch.</span>
+        <meta itemprop="num_attr" content="P-00056">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the instant invention</span>
+        <span itemprop="definition">uses one or multiple small film-extrusion lines, preferably four blown-film extrusion lines, placed directly before annealing oven at a line speed compatible with the line speed of the annealing process in the annealing oven. So, the extruded multiple-ply films from multiple film-extrusion lines can be continuously and directly fed to the annealing oven.</span>
+        <meta itemprop="num_attr" content="P-00056">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the exit of the annealing oven</span>
+        <span itemprop="definition">is aligned with the entrance of stretching oven, which is composed of cold stretching section, then hot stretching section, and then relaxing/heat-set section.</span>
+        <meta itemprop="num_attr" content="P-00056">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">stretching oven</span>
+        <span itemprop="definition">which is composed of cold stretching section, then hot stretching section, and then relaxing/heat-set section.</span>
+        <meta itemprop="num_attr" content="P-00056">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a winder</span>
+        <span itemprop="definition">collects the stretched membrane cut at the desired length for further separate deplying and slitting process.</span>
+        <meta itemprop="num_attr" content="P-00056">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the process of the instant invention</span>
+        <span itemprop="definition">produces the dry-stretch microporous membrane separator continuously and directly from extrusion to annealing and to stretching.</span>
+        <meta itemprop="num_attr" content="P-00056">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the process of the instant invention</span>
+        <span itemprop="definition">provides the advantages of (1) higher yield, (2) more stable quality products, (3) more machine time usage, (4) no need to handle and manage the intermediate product rolls, (5) less manpower needed and (6) less maintenance with this continuous process.</span>
+        <meta itemprop="num_attr" content="P-00056">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the inventive continuous process</span>
+        <span itemprop="definition">provides a big jump in production efficiency by converting a single large fast film extrusion line into multiple smaller film extrusion lines.</span>
+        <meta itemprop="num_attr" content="P-00057">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the latter</span>
+        <span itemprop="definition">runs continuously at a compatible speed with the followed annealing and stretching operations.</span>
+        <meta itemprop="num_attr" content="P-00057">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">FIG. 1</span>
+        <span itemprop="definition">shows an example of the set-up for the continuous production line for multiply PP or PE membranes, in which each ply has a thickness ranging from 0.2 mil to 2 mil.</span>
+        <meta itemprop="num_attr" content="P-00058">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Extruder 1</span>
+        <span itemprop="definition">is hooked up with a rotational circular die 2 .</span>
+        <meta itemprop="num_attr" content="P-00058">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the die 2</span>
+        <span itemprop="definition">extrudes a tubular film going through an air ring 3 to form a bubble.</span>
+        <meta itemprop="num_attr" content="P-00058">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the bubble</span>
+        <span itemprop="definition">is collapsed by a pair of collapsing frames 4 and by a pair of collapsing rolls 4 to form two-ply films.</span>
+        <meta itemprop="num_attr" content="P-00058">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Four two-ply films</span>
+        <span itemprop="definition">are continuously fed to an annealing oven 5 .</span>
+        <meta itemprop="num_attr" content="P-00058">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the total eight-ply annealed films</span>
+        <span itemprop="definition">are quenched with a pair of quenching rolls 6 .</span>
+        <meta itemprop="num_attr" content="P-00058">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the eight-ply quenched, annealed films</span>
+        <span itemprop="definition">are continuously fed through two pair of cold-stretching rolls 7 , and then through an oven 8 for stretching. At the exit of the stretching oven 8 , the eight-ply stretched membranes are quenched with a pair of quenching rolls 9 before the eight-ply membranes are collected on a winder roll 10 .</span>
+        <meta itemprop="num_attr" content="P-00058">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">FIG. 2</span>
+        <span itemprop="definition">shows an example of the film-extrusion set-up for making multiply PP/PE/PP trilayer precursor films, in which each ply has a thickness ranging from 0.6 mil to 4 mil.</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Two-ply collapsed PP precursor films 11 with two edges trimmed</span>
+        <span itemprop="definition">are separated into two separate plies of films, 12 and 13 .</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Two-ply collapsed PE precursor films 14 with two edges trimmed</span>
+        <span itemprop="definition">are separated into two separate plies of films, part of 15 and 16 .</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">One ply of PP film 12 and one ply of PE film from trimmed PE film 14</span>
+        <span itemprop="definition">form PP/PE non-bonded bilayer 15 .</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a non-bonded PP/PE bilayer 18</span>
+        <span itemprop="definition">is continuously fed to combine with two-ply PP film 17 and with PE/PP non-bonded bilayer 15 to form two-ply non-bonded PP/PE/PP trilayer films 19 .</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the two-ply non-bonded PP/PE/PP trilayer films 19</span>
+        <span itemprop="definition">are combined with another stream of two-ply non-bonded PP/PE/PP trilayer films to form four-ply non-bonded PP/PE/PP trilayer films 20 .</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the combined four-ply PP/PE/PP precursor films</span>
+        <span itemprop="definition">are continuously fed to annealing oven for annealing and bonding between PP and PE layers.</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the annealed films</span>
+        <span itemprop="definition">are continuously fed through the cold stretching unit and through the hot-stretching oven to form PP/PE/PP trilayer membrane as described in FIG. 1 .</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the process</span>
+        <span itemprop="definition">is continuous while in the prior art U.S. Pat. No. 5,952,120, the process is comprised of separate steps.</span>
+        <meta itemprop="num_attr" content="P-00059">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">annealing temperature, stretching temperature, line speeds in the oven, cold stretching ratio, hot stretching ratio and heat-set/relaxing ratio</span>
+        <span itemprop="definition">can be the same as or different from those described in the prior art, U.S. Pat. No. 4,138,459 for multiply (PP or PE) single-layer separator, U.S. Pat. No. 5,952,120 for multiply PP/PE/PP trilayer separator, U.S. Pat. No. 6,057,060 for multiply ultra-thin (PP or PE) separator. They need to be adjusted based on different grades of PP or PE raw materials used.</span>
+        <meta itemprop="num_attr" content="P-00060">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Table 1</span>
+        <span itemprop="definition">list the comparison of production efficiency between the continuous process and the process comprised of separate steps.</span>
+        <meta itemprop="num_attr" content="P-00061">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the separate processes</span>
+        <span itemprop="definition">are comprised of three separate steps: film extrusion, annealing and stretching.</span>
+        <meta itemprop="num_attr" content="P-00062">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the estimate yields</span>
+        <span itemprop="definition">are 90% for film extrusion, 90% for annealing and 85% for stretching.</span>
+        <meta itemprop="num_attr" content="P-00062">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the yield of stretching</span>
+        <span itemprop="definition">is expected to be lower because of losing the film during starting-up and ending under high tension.</span>
+        <meta itemprop="num_attr" content="P-00062">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Runnable machine usage</span>
+        <span itemprop="definition">is estimated to be 80% because of idle time during roll change, starting up, and ending.</span>
+        <meta itemprop="num_attr" content="P-00062">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the operation cost</span>
+        <span itemprop="definition">is assumed to be 100% as a comparison basis. So, the total productivity index is estimated to be 54.4%.</span>
+        <meta itemprop="num_attr" content="P-00062">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the continuous process of this invention</span>
+        <span itemprop="definition">is a single step.</span>
+        <meta itemprop="num_attr" content="P-00063">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the yield of film extrusion</span>
+        <span itemprop="definition">is estimated to be 95%, slightly higher than that in the separate processes because of no roll-collection operation.</span>
+        <meta itemprop="num_attr" content="P-00063">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Membrane collection yield at the end of the process</span>
+        <span itemprop="definition">is expected to be 98%. So, the product yield would be 92%.</span>
+        <meta itemprop="num_attr" content="P-00063">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Runnable machine usage</span>
+        <span itemprop="definition">is expected to be 100% because of no idle time for roll change, roll starting up and roll ending.</span>
+        <meta itemprop="num_attr" content="P-00063">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the operation cost</span>
+        <span itemprop="definition">is estimated to be 80% of that in the separate processes because of no need for operation, management and storage for intermediate products. So, the total productivity index is estimated to be 115.0%.</span>
+        <meta itemprop="num_attr" content="P-00063">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the production efficiency of the continuous process in this invention</span>
+        <span itemprop="definition">is much greater than that of the conventional separate processes.</span>
+        <meta itemprop="num_attr" content="P-00064">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the extrusion conditions</span>
+        <span itemprop="definition">are mainly dominated by the process conditions in the ovens, especially to the film-extrusion line speed. It needs to be compatible with the planned line speed in the annealing oven so that it can be run continuously.</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the PP film extrusion and the PE film extrusion</span>
+        <span itemprop="definition">need to be run at the same speed.</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the preferred annealing line speed</span>
+        <span itemprop="definition">ranges from 15 ft/min and 35 ft/min.</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the film extrusion speed</span>
+        <span itemprop="definition">is preferably in the range of 15 ft/min and 35 ft/min. In the conventional processes of separate steps, the higher line extrusion speed is preferred.</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the film extrusion line speed</span>
+        <span itemprop="definition">is preferably in the range of 30 ft/min and 700 ft/min for blown film extrusion and preferably in the range of 50 ft/min and 500 ft/min for slit film extrusion as described in the prior art, U.S. Pat. Nos. 3,426,754; 3,558,764; 3,679,538; 3,679,540; 3,801,404; 3,801,692; 3,843,761; 3,932,682.</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the line speed of extrusion</span>
+        <span itemprop="definition">was in the range of 100 ft/min and 120 ft/min (30 meter/min and 36 meter/min).</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the line extrusion speed</span>
+        <span itemprop="definition">is preferred at a compatible speed with the line speed in the annealing oven.</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Film extrusion line speeds</span>
+        <span itemprop="definition">can be higher than 35 ft/min, but it needs longer ovens to accommodate the need of the optimized residence time of the film in the ovens. In this case, the investment of oven capital is required more, but it certainly produces even more products.</span>
+        <meta itemprop="num_attr" content="P-00065">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the following examples</span>
+        <span itemprop="definition">demonstrate the quality precursor produced at a preferable speed described above, and the precursor can be made into the quality membrane.</span>
+        <meta itemprop="num_attr" content="P-00067">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PP(Fina PP 3271) produced by Fina Oil &amp; Chemical</span>
+        <span itemprop="definition">has a density of 0.905 g/cc and a melt index of 1.5 g/10 min.</span>
+        <meta itemprop="num_attr" content="P-00068">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PE(Hizex 5202B) produced by Mitsui Chemical</span>
+        <span itemprop="definition">has a density of 0.964 g/min and a melt index of 0.3 g/10 min.</span>
+        <meta itemprop="num_attr" content="P-00068">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Either PP or PE</span>
+        <span itemprop="definition">are blended with 2500 ppm sodium benzoate as a nucleating agent to promote the crystal formation during film formation at a lower speed.</span>
+        <meta itemprop="num_attr" content="P-00068">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a blown-film extrusion line made by Lung-Meng Plastics Machinery</span>
+        <span itemprop="definition">is equipped with a  ⁇ 1.6 inch diameter of screw with a L/D ratio of 36. The line is equipped with a 300-cm circular die with a die gap of  ⁇ 100 mil. The air ring height is adjusted to a level around 1.0 inch above the die.</span>
+        <meta itemprop="num_attr" content="P-00068">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the PP and PE precursor films</span>
+        <span itemprop="definition">have been annealed in a batch convention oven, respectively, at 150° C. and 120° C. for  ⁇ 12 min.</span>
+        <meta itemprop="num_attr" content="P-00069">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the annealed precursors</span>
+        <span itemprop="definition">are further stretched on an Instron Machine equipped with an environment control chamber.</span>
+        <meta itemprop="num_attr" content="P-00069">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PP films</span>
+        <span itemprop="definition">are stretched, respectively, at 150° C., 20% cold stretch, 140% hot stretch, 40% relax; PE films, at 120° C., 40% cold stretch, 140% hot stretch, and 40% relax.</span>
+        <meta itemprop="num_attr" content="P-00069">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the film precursors from lower extrusion speed</span>
+        <span itemprop="definition">can yield quality membranes.</span>
+        <meta itemprop="num_attr" content="P-00070">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">this preferred slower line speed of film extrusion in this invention</span>
+        <span itemprop="definition">can result in quality membranes.</span>
+        <meta itemprop="num_attr" content="P-00070">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">ultra-thin PP and ultra-thin PE precursor films</span>
+        <span itemprop="definition">(0.2  ⁇ 0.5 mil) can be extruded at the preferred line speed for making PP/PE/PP trilayer separator, continuously.</span>
+        <meta itemprop="num_attr" content="P-00070">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the intention of the lower extrusion speed</span>
+        <span itemprop="definition">is to lower down the line speed in the ovens, which will need smaller size of ovens for the same residence time.</span>
+        <meta itemprop="num_attr" content="P-00070">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">annealing temperature, stretching temperature, line speeds in the oven, cold stretching ratio, hot stretching ratio and heat-set/relaxing ratio</span>
+        <span itemprop="definition">can be the same as or different from those described in the prior art, U.S. Pat. No. 4,138,459 for multiply (PP or PE) single-layer separator; U.S. Pat. No. 5,952,120 for multiply PP/PE/PP trilayer separator, U.S. Pat. No. 6,057,060 for multiply ultra-thin (PP or PE) separator. They need to be slightly adjusted based on different grades of PP or PE raw materials used.</span>
+        <meta itemprop="num_attr" content="P-00071">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the stretch ratios</span>
+        <span itemprop="definition">one can estimate the needed length of film path in the stretching oven.</span>
+        <meta itemprop="num_attr" content="P-00072">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the slower line speed of extrusion</span>
+        <span itemprop="definition">requires shorter length of film path in the ovens.</span>
+        <meta itemprop="num_attr" content="P-00072">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">One of the major advantages with it</span>
+        <span itemprop="definition">is that the shorter length of film path in the annealing oven and then in the stretching oven allows the smaller needed size of the ovens and then the less investment.</span>
+        <meta itemprop="num_attr" content="P-00072">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Another advantage with the preferred line speed of the film extrusion</span>
+        <span itemprop="definition">is to allow an excellent control on the overall operation of the continuous process in this invention.</span>
+        <meta itemprop="num_attr" content="P-00072">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the continuous method of this invention</span>
+        <span itemprop="definition">will benefit the process at both fast and slow film extrusion speeds.</span>
+        <meta itemprop="num_attr" content="P-00073">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Gurley</span>
+        <span itemprop="definition">is a resistance to air flow measured by the Gurley densometer. Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water pressure.</span>
+        <meta itemprop="num_attr" content="P-00076">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the continuous process of this invention</span>
+        <span itemprop="definition">can produce dry-stretch PP, PE, and PP/PE/PP trilayer membrane separators in a highly efficiency.</span>
+        <meta itemprop="num_attr" content="P-00081">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the preferred extrusion line speed with multiple blown film extrusion (or slit film extrusion)</span>
+        <span itemprop="definition">can be a line speed compatible with the line speed in the annealing oven.</span>
+        <meta itemprop="num_attr" content="P-00081">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the membrane thickness</span>
+        <span itemprop="definition">can be in the range of 0.2 mil and 4.0 mil.</span>
+        <meta itemprop="num_attr" content="P-00081">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the annealing conditions and stretching conditions</span>
+        <span itemprop="definition">can be the conditions described herein or the conditions in the prior art.</span>
+        <meta itemprop="num_attr" content="P-00081">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the raw material used</span>
+        <span itemprop="definition">is polyolefin as defined early.</span>
+        <meta itemprop="num_attr" content="P-00082">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the PE layer</span>
+        <span itemprop="definition">is served as potential shutdown layer as described in U.S. Pat. No. 5,691,077.</span>
+        <meta itemprop="num_attr" content="P-00082">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the PE layer</span>
+        <span itemprop="definition">can be a pure PE resin, PE containing particles, as described in U.S. Pat. No. 6,080,507, and PE containing other additives or minor polymeric components (less than 30%). All the membranes obtained from the invented continuous process will not be involved in solvent.</span>
+        <meta itemprop="num_attr" content="P-00082">
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Landscapes</h2>
+    <ul>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Chemical Kinetics &amp; Catalysis</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Electrochemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">General Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Engineering &amp; Computer Science</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Manufacturing &amp; Machinery</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Cell Separators</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Shaping By String And By Release Of Stress In Plastics And The Like</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Manufacture Of Porous Articles, And Recovery And Treatment Of Waste Products</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+    </ul>
+  </section>
+
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    
+    <div itemprop="content" html><abstract mxw-id="PA50810599" lang="EN" load-source="patent-office">
+    <div num="P-00001" class="abstract">A continuous method of making dry-stretch microporous membrane battery separators from polypropylene (PP) or polyethylene (PE) or both benefits to the manufacturers in the production efficiency. The precursor-film extrusion in this invention is accomplished by multiple small film-extrusion lines at a compatible line speed with the followed oven processes (annealing and stretching). The overall production process starts continuously from film extrusion to annealing and to stretching. The benefits of the inventive continuous process includes a higher product yield, more effective oven-time usage, no need to handle and manage the intermediate products, less need in labor and machine maintenance, and potentially more stable product quality.</div>
+    <div num="P-00002" class="abstract">The dry-stretch membrane separators made with this inventive continuous method include (1) single-ply PP or PE separators having a thickness ranging from 0.2 mil to 2.0 mil; (2) PP/PE/PP trilayer microporous membrane separators having a thickness ranging from 0.6 mil to 4.0 mil. The PP/PE/PP trilayer can be accomplished in the early extrusion via either co-extrusion or extruding separately and then interposing PE layer between two PP layers, continuously, right before annealing/bonding and stretching process.</div>
+  </abstract>
+  </div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    
+    <div itemprop="content" html><div mxw-id="PDES15852836" lang="EN" load-source="patent-office" class="description">
+
+  <heading>CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+  <div num="P-00003" class="description-paragraph">Not applicable.</div>
+  <heading>BACKGROUND</heading>
+  <div num="P-00004" class="description-paragraph">1. Field of the Invention</div>
+  <div num="P-00005" class="description-paragraph">This invention relates to dry stretched polyolefin (PP, PE, and PP/PE/PP) microporous membranes as battery separators, specifically to the continuous method of making the membrane separators.</div>
+  <div num="P-00006" class="description-paragraph">2. Discussion of Prior Art</div>
+  <div num="P-00007" class="description-paragraph">In batteries, the anode and cathode are separated from one another by a separator. Today, “lithium batteries” are very popular because they are able to generate high-energy outputs. The lithium battery market can be divided into two groups, the “primary” lithium battery and the “secondary” lithium battery. The primary lithium battery is a disposable battery, while the secondary lithium battery is a rechargeable battery.</div>
+  <div num="P-00008" class="description-paragraph">The rechargeable lithium battery technology was first commercialized by Sony in 1992. Since then, this new type of high-energy rechargeable batteries has been widely used in consumer markets, such as computer, camcorder and cellular phone. More applications are being developed. One of them is the Electric Vehicle (EV) and the Hybrid Electric Vehicle (HEV) applications.</div>
+  <div num="P-00009" class="description-paragraph">However, the rechargeable lithium batteries for EV and HEV applications are significantly larger than the consumer rechargeable lithium batteries. The separator used in the batteries needs much more square footage than that in the consumer batteries. In the EV and HEV batteries, the unit cost of the separator needs to be much lower to make the EV and HEV batteries commercially possible. In addition, the cost of the separator in non-rechargeable lithium battery remains relatively high in comparison to that of the separators in other types of batteries.</div>
+  <div num="P-00010" class="description-paragraph">In summary, there is a strong need for low-cost separators for lithium batteries, especially for rechargeable lithium battery.</div>
+  <div num="P-00011" class="description-paragraph">The separators for lithium batteries can be made from polyolefin basically with two types of processes in the prior art: dry-stretch process and solvent-stretch process. The solvent-stretch process (such as U.S. Pat. Nos. 4,539,256; 4,726,989) usually costs more than the dry-stretch process, and it creates environmental issues. It is not our interest. Our focus is on the clean dry-stretch process for the micro-porous membranes as separators for the lithium batteries.</div>
+  <div num="P-00012" class="description-paragraph">Polyolefin, as used herein, refers to a class or group name for thermoplastic polymers derived from simple olefins. Exemplary polyolefins include polyethylene and polypropylene. Polyethylene refers to, for example, polymers and copolymer substantially consisting of ethylene monomers. Polypropylene refers to, for example, polymers and copolymers substantially consisting of propylene monomers.</div>
+  <div num="P-00013" class="description-paragraph">Developed in the prior art are single-ply and multiply of dry-stretch microporous membrane from polyolefin resins, including polypropylene (PP) and polyethylene (PE), with at least three separate steps: (a) film extrusion (blown film or slit film), (b) annealing, and (c) stretching, as described in U.S. Pat. Nos. 3,426,754; 3,558,764; 3,679,538; 3,801,404; 3,801,692; 3,843,761; 4,138,459; 4,994,335 and 5,173,235.</div>
+  <div num="P-00014" class="description-paragraph">The term, multiply, herein is defined as more than one ply of film or membrane stacked together and then rolled up into a big roll. The adhesion between plies is minimum, and the multiply films or membranes can be easily deplied into multiple single-ply film or membrane. So, multiply can be two-ply, four-ply, or eight-ply. In contrast, the term, multi-layer, herein is defined as more than one layer of film adhered together with a reasonably good adhesion. The multi-layer film (or membrane) can be handled as a single-ply film (or membrane). So, multi-layer can be bilayer, trilayer, penta-layer. For example, PP/PE/PP trilayer membrane means that the two layers of PP membrane sandwich one layer of PE membrane with a reasonably good adhesion, and that the trilayer can be handled as a single-ply membrane without losing its integrity.</div>
+  <div num="P-00015" class="description-paragraph">The terms, microporous membrane and membrane, herein imply the open-cell microporous membrane.</div>
+  <div num="P-00016" class="description-paragraph">In the prior art, U.S. Pat. No. 3,801,692, a cold stretching was applied right before hot stretching, and the stretched membrane gave a higher porosity.</div>
+  <div num="P-00017" class="description-paragraph">In the prior art, U.S. Pat. No. 3,843,761, right after cold stretching, the precursor film was hot stretched in a plurality of discrete hot stretching increments. The obtained stretched microporous membrane had greater gas flux.</div>
+  <div num="P-00018" class="description-paragraph">In the prior art, U.S. Pat. No. 4,058,582, more than two plies of precursor film were simultaneously stretched for the first time. The surface properties of microporous membranes were significantly improved.</div>
+  <div num="P-00019" class="description-paragraph">In the prior art, U.S. Pat. No. 4,138,459, an additional heat relaxing step was added to the end of the hot stretching process, and the dimensional stability of the final membrane was improved with a significantly lower shrinkage.</div>
+  <div num="P-00020" class="description-paragraph">In the recent multi-layer products (PP/PE/PP trilayer and PP/PE bilayer separators) as described in U.S. Pat. Nos. 5,565,281; 5,691,077; 5,952,120, the process also includes three separate steps: film extrusion, annealing and stretching. The extruded films are rolled up first into big film rolls, and the film rolls are then unrolled and fed to an oven for annealing. The annealed films are rolled up into multiply big rolls, and the annealed rolls are then unrolled and fed to another oven for stretching into membranes. The stretched membranes from the oven are rolled up into rolls with desired length and filter sent for deplying and slitting separately.</div>
+  <div num="P-00021" class="description-paragraph">The disadvantages of the conventional process with separate steps are the following:
+</div> <ul> <li id="ul100002-li00002"> <ul> <li id="ul100002-p00022" num="00022">1. Yield loss due to many more start-ups and endings of the film rolls.</li> <li id="ul100002-p00023" num="00023">2. Potentially less stable product quality due to the start-up and ending of each step</li> <li id="ul100002-p00024" num="00024">3. More oven idle time during the change of film rolls</li> <li id="ul100002-p00025" num="00025">4. More space and film-roll/inventory management is needed for the intermediate products. It adds extra operation cost.</li> <li id="ul100002-p00026" num="00026">5. Need more manpower for more separate steps of operation. It adds extra operation cost.</li> <li id="ul100002-p00027" num="00027">6. Potentially more maintenance needed due to much more frequently machine on and off, especially with the ovens for annealing and stretching.</li> </ul> </li> </ul>
+
+  <div num="P-00028" class="description-paragraph">As described in U.S. Pat. Nos. 3,426,754; 3,558,764; 3,679,538; 3,801,404; 3,801,692; 3,843,761; 4,138,459; 4,994,335 and 5,173,235, the films (either blown film extrusion or slit film extrusion) was extruded with the state-of-the-art film extrusion machine technology for packaging films, which require as fast as possible. However, in the process for the dry stretch membranes, the fast film extrusion speed is not compatible with rest of the processes in ovens. It made the overall process break into three separate steps, which are undesirable. Even though the state-of-the-art film extrusion line can be run faster for multi-rolls for the followed separate processes in the oven, the obtained precursor film and membranes lost some products during start-up and ending in the separate oven processes. It lost the production efficiency.</div>
+  <div num="P-00029" class="description-paragraph">Accordingly, there is a strong need to reinvent a process for low-cost membrane separators.</div>
+  <heading>SUMMARY OF THE INVENTION</heading>
+  <div num="P-00030" class="description-paragraph">A continuous method for making microporous polyolefin (PP, PE or PP/PE/PP trilayer) membrane for use in battery separator having a thickness ranging from about 0.2 mil to about 4.0 mil comprising the sequential connected steps of: extruding multiple parison with multiple smaller film extrusion lines; collapsing the parison onto itself to form a flat sheet comprising multiple plies; annealing the multiply flat-sheet precursor films; stretching the multiply flat-sheet precursor films; and winding up the multiply flat-sheet membranes.</div>
+  <div num="P-00031" class="description-paragraph">The novelty of this invention is to use multiple small film extrusion lines and to run at a line speed compatible with the speed of the following annealing step and then the following cold stretching step and then the following hot stretching step and then the following relaxing step. And, the sequential steps of making the dry-stretch membrane as described above are run continuously from film extrusion to film annealing and to film stretching without stop. In contrast, in the conventional process with separate steps, a single large film extrusion line is used to extrude the multiple rolls at a much faster speed. Then the multiple collected rolls of film are unrolled and fed to an annealing oven and collected as annealed rolls. The rolls of the collected annealed film are unrolled and fed to a stretching oven (cold and hot stretch) for the membrane rolls.</div>
+  <div num="P-00032" class="description-paragraph">In this invention of the continuous process, the yield of the product is much higher; the operation cost is lower; the machine usage time is much higher; the more stable process is potentially for more stable quality product.</div>
+
+
+  <description-of-drawings>
+    <heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+    <div num="P-00033" class="description-paragraph"> <figref idrefs="DRAWINGS">FIG. 1</figref> schematically illustrates the continuous process of making multiply PP membranes or multiply PE membranes, in which each ply has a thickness ranging from 0.2 mil to 2 mil.</div>
+    <div num="P-00034" class="description-paragraph"> <figref idrefs="DRAWINGS">FIG. 2</figref> schematically illustrates the film-extrusion set-up for making multiply PP/PE/PP trilayer precursor films. The combined multiply PP/PE/PP precursor films are continuously fed to annealing oven for annealing and bonding between PP and PE layers.</div>
+  </description-of-drawings>
+
+
+  <heading>REFERENCE NUMERALS IN DRAWINGS</heading>
+  <div num="P-00035" class="description-paragraph">
+    </div> <ul>
+      <li id="ul200001-p00035" num="00035"> <b>1</b>. Extruder</li>
+      <li id="ul200001-p00036" num="00036"> <b>2</b>. Die</li>
+      <li id="ul200001-p00037" num="00037"> <b>3</b>. Air Ring</li>
+      <li id="ul200001-p00038" num="00038"> <b>4</b>. Collapsing frames and collapsing rolls</li>
+      <li id="ul200001-p00039" num="00039"> <b>5</b>. Annealing Oven</li>
+      <li id="ul200001-p00040" num="00040"> <b>6</b>. Quenching Rolls</li>
+      <li id="ul200001-p00041" num="00041"> <b>7</b>. Cold-stretching rolls</li>
+      <li id="ul200001-p00042" num="00042"> <b>8</b>. Stretching Oven</li>
+      <li id="ul200001-p00043" num="00043"> <b>9</b>. Quenching Rolls</li>
+      <li id="ul200001-p00044" num="00044"> <b>10</b>. Winder Roll</li>
+      <li id="ul200001-p00045" num="00045"> <b>11</b>. Two-ply collapsed PP precursor films with two edges trimmed</li>
+      <li id="ul200001-p00046" num="00046"> <b>12</b>. one of the two-<figure-callout id="11" label="ply PP film" filenames="US06878226-20050412-D00002.png" state="{{state}}">ply PP film</figure-callout> <b>11</b>.</li>
+      <li id="ul200001-p00047" num="00047"> <b>13</b>. one of the two-<figure-callout id="11" label="ply PP film" filenames="US06878226-20050412-D00002.png" state="{{state}}">ply PP film</figure-callout> <b>11</b>.</li>
+      <li id="ul200001-p00048" num="00048"> <b>14</b>. Two-ply collapsed PE precursor films with two edges trimmed</li>
+      <li id="ul200001-p00049" num="00049"> <b>15</b>. non-bonded PE/PP bilayer</li>
+      <li id="ul200001-p00050" num="00050"> <b>16</b>. one-ply PE from <b>14</b>.</li>
+      <li id="ul200001-p00051" num="00051"> <b>17</b>. two-ply PP film</li>
+      <li id="ul200001-p00052" num="00052"> <b>18</b>. non-bonded PP/PE bilayer</li>
+      <li id="ul200001-p00053" num="00053"> <b>19</b>. two-ply non-bonded PP/PE/PP trilayer films</li>
+      <li id="ul200001-p00054" num="00054"> <b>20</b>. four-ply non-bonded PP/PE/PP trilayer films</li>
+    </ul>
+  
+  <heading>DESCRIPTION OF THE INVENTION</heading>
+  <div num="P-00055" class="description-paragraph">The present invention shall be described in further detail below by way of the following detailed description and the non-limiting examples.</div>
+  <div num="P-00056" class="description-paragraph">The battery separators according to the instant invention of continuous process comprises singly-ply polyolefin (preferably PP or PE) microporous membranes, the thickness of which ranges from 0.2 mil to 2.0 mil. One mil is equal to 0.001 inch. The instant invention uses one or multiple small film-extrusion lines, preferably four blown-film extrusion lines, placed directly before annealing oven at a line speed compatible with the line speed of the annealing process in the annealing oven. So, the extruded multiple-ply films from multiple film-extrusion lines can be continuously and directly fed to the annealing oven. Following that, the exit of the annealing oven is aligned with the entrance of stretching oven, which is composed of cold stretching section, then hot stretching section, and then relaxing/heat-set section. At the end of the stretching oven, a winder collects the stretched membrane cut at the desired length for further separate deplying and slitting process. The process of the instant invention produces the dry-stretch microporous membrane separator continuously and directly from extrusion to annealing and to stretching. The process of the instant invention provides the advantages of (1) higher yield, (2) more stable quality products, (3) more machine time usage, (4) no need to handle and manage the intermediate product rolls, (5) less manpower needed and (6) less maintenance with this continuous process.</div>
+  <div num="P-00057" class="description-paragraph">In summary, the inventive continuous process provides a big jump in production efficiency by converting a single large fast film extrusion line into multiple smaller film extrusion lines. The latter runs continuously at a compatible speed with the followed annealing and stretching operations.</div>
+  <div num="P-00058" class="description-paragraph"> <figref idrefs="DRAWINGS">FIG. 1</figref> shows an example of the set-up for the continuous production line for multiply PP or PE membranes, in which each ply has a thickness ranging from 0.2 mil to 2 mil. Extruder <b>1</b> is hooked up with a rotational circular die <b>2</b>. The die <b>2</b> extrudes a tubular film going through an air ring <b>3</b> to form a bubble. The bubble is collapsed by a pair of collapsing frames <b>4</b> and by a pair of collapsing rolls <b>4</b> to form two-ply films. Four two-ply films are continuously fed to an annealing oven <b>5</b>. At the exit of the annealing oven <b>5</b>, the total eight-ply annealed films are quenched with a pair of quenching rolls <b>6</b>. The eight-ply quenched, annealed films are continuously fed through two pair of cold-stretching rolls <b>7</b>, and then through an oven <b>8</b> for stretching. At the exit of the stretching oven <b>8</b>, the eight-ply stretched membranes are quenched with a pair of quenching rolls <b>9</b> before the eight-ply membranes are collected on a <figure-callout id="10" label="winder roll" filenames="US06878226-20050412-D00000.png,US06878226-20050412-D00001.png" state="{{state}}">winder roll</figure-callout> <b>10</b>.</div>
+  <div num="P-00059" class="description-paragraph"> <figref idrefs="DRAWINGS">FIG. 2</figref> shows an example of the film-extrusion set-up for making multiply PP/PE/PP trilayer precursor films, in which each ply has a thickness ranging from 0.6 mil to 4 mil. Two-ply collapsed <figure-callout id="11" label="PP precursor films" filenames="US06878226-20050412-D00002.png" state="{{state}}">PP precursor films</figure-callout> <b>11</b> with two edges trimmed are separated into two separate plies of films, <b>12</b> and <b>13</b>. Two-ply collapsed <figure-callout id="14" label="PE precursor films" filenames="US06878226-20050412-D00002.png" state="{{state}}">PE precursor films</figure-callout> <b>14</b> with two edges trimmed are separated into two separate plies of films, part of <b>15</b> and <b>16</b>. One ply of <figure-callout id="12" label="PP film" filenames="US06878226-20050412-D00002.png" state="{{state}}">PP film</figure-callout> <b>12</b> and one ply of PE film from trimmed <figure-callout id="14" label="PE film" filenames="US06878226-20050412-D00002.png" state="{{state}}">PE film</figure-callout> <b>14</b> form PP/PE <figure-callout id="15" label="non-bonded bilayer" filenames="US06878226-20050412-D00002.png" state="{{state}}">non-bonded bilayer</figure-callout> <b>15</b>. Below the extrusion lines, a non-bonded PP/<figure-callout id="18" label="PE bilayer" filenames="US06878226-20050412-D00002.png" state="{{state}}">PE bilayer</figure-callout> <b>18</b> is continuously fed to combine with two-<figure-callout id="17" label="ply PP film" filenames="US06878226-20050412-D00002.png" state="{{state}}">ply PP film</figure-callout> <b>17</b> and with PE/PP <figure-callout id="15" label="non-bonded bilayer" filenames="US06878226-20050412-D00002.png" state="{{state}}">non-bonded bilayer</figure-callout> <b>15</b> to form two-ply non-bonded PP/PE/<figure-callout id="19" label="PP trilayer films" filenames="US06878226-20050412-D00002.png" state="{{state}}">PP trilayer films</figure-callout> <b>19</b>. The two-ply non-bonded PP/PE/<figure-callout id="19" label="PP trilayer films" filenames="US06878226-20050412-D00002.png" state="{{state}}">PP trilayer films</figure-callout> <b>19</b> are combined with another stream of two-ply non-bonded PP/PE/PP trilayer films to form four-ply non-bonded PP/PE/PP trilayer films <b>20</b>. The combined four-ply PP/PE/PP precursor films are continuously fed to annealing oven for annealing and bonding between PP and PE layers. Then, the annealed films are continuously fed through the cold stretching unit and through the hot-stretching oven to form PP/PE/PP trilayer membrane as described in FIG. <b>1</b>. In this invention, the process is continuous while in the prior art U.S. Pat. No. 5,952,120, the process is comprised of separate steps.</div>
+  <div num="P-00060" class="description-paragraph">The detailed running conditions in the annealing and stretching ovens are mostly described in the prior art for dry-stretch polyolefin microporous membranes. For example, annealing temperature, stretching temperature, line speeds in the oven, cold stretching ratio, hot stretching ratio and heat-set/relaxing ratio can be the same as or different from those described in the prior art, U.S. Pat. No. 4,138,459 for multiply (PP or PE) single-layer separator, U.S. Pat. No. 5,952,120 for multiply PP/PE/PP trilayer separator, U.S. Pat. No. 6,057,060 for multiply ultra-thin (PP or PE) separator. They need to be adjusted based on different grades of PP or PE raw materials used.</div>
+  <div num="P-00061" class="description-paragraph">The following lists an example of production efficiency advantage with the continuous method described herein. Taking the example shown in <figref idrefs="DRAWINGS">FIG. 1</figref>, Table 1 list the comparison of production efficiency between the continuous process and the process comprised of separate steps.</div>
+  <div num="P-d0e1529" class="description-paragraph">
+    <tables id="TABLE-US-00001" num="00001">
+      <patent-tables frame="none" colsep="0" rowsep="0" pgwide="1">
+        <table align="left" colsep="0" rowsep="0" cols="1" class="description-table" width="100%">
+          <thead>
+            <tr class="description-tr">
+              <td namest="1" nameend="1" rowsep="1" class="description-td" colspan="1">TABLE 1</td>
+            </tr>
+          </thead>
+          
+            <tbody><tr class="description-tr">
+              <td namest="1" nameend="1" align="center" rowsep="1" class="description-td" colspan="1"> </td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td">Comparison of production efficiency between the separate process and the continuous process</td>
+            </tr>
+          
+        </tbody></table>
+        <table align="left" colsep="0" rowsep="0" cols="5" class="description-table" width="100%">
+          <tbody><tr class="description-tr">
+              <td class="description-td"> </td>
+              <td class="description-td">Product Yield</td>
+              <td class="description-td">Runnable Machine</td>
+              <td class="description-td">Operation Cost</td>
+              <td class="description-td">Productivity Index</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td"> </td>
+              <td class="description-td">PY</td>
+              <td class="description-td">Usage, RMU</td>
+              <td class="description-td">OC</td>
+              <td class="description-td">PY * RMU/OC</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td"> </td>
+              <td namest="offset" nameend="4" align="center" rowsep="1" class="description-td" colspan="5"> </td>
+            </tr>
+          
+        </tbody></table>
+        <table align="left" colsep="0" rowsep="0" cols="5" class="description-table" width="100%">
+          <tbody><tr class="description-tr">
+              <td class="description-td">Separate Processes</td>
+              <td class="description-td">68%</td>
+              <td class="description-td"> 80%</td>
+              <td class="description-td">100%</td>
+              <td class="description-td"> 54.4%</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td">Continuous Process</td>
+              <td class="description-td">92%</td>
+              <td class="description-td">100%</td>
+              <td class="description-td"> 80%</td>
+              <td class="description-td">115.0%</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td">Of this Invention</td>
+            </tr>
+            <tr class="description-tr">
+              <td namest="1" nameend="5" align="center" rowsep="1" class="description-td" colspan="5"> </td>
+            </tr>
+          
+        </tbody></table>
+      </patent-tables>
+    </tables>
+  </div>
+  <div num="P-00062" class="description-paragraph">The separate processes are comprised of three separate steps: film extrusion, annealing and stretching. The estimate yields are 90% for film extrusion, 90% for annealing and 85% for stretching. The yield of stretching is expected to be lower because of losing the film during starting-up and ending under high tension. Runnable machine usage is estimated to be 80% because of idle time during roll change, starting up, and ending. The operation cost is assumed to be 100% as a comparison basis. So, the total productivity index is estimated to be 54.4%.</div>
+  <div num="P-00063" class="description-paragraph">In contrast, the continuous process of this invention is a single step. The yield of film extrusion is estimated to be 95%, slightly higher than that in the separate processes because of no roll-collection operation. Membrane collection yield at the end of the process is expected to be 98%. So, the product yield would be 92%. Runnable machine usage is expected to be 100% because of no idle time for roll change, roll starting up and roll ending. The operation cost is estimated to be 80% of that in the separate processes because of no need for operation, management and storage for intermediate products. So, the total productivity index is estimated to be 115.0%.</div>
+  <div num="P-00064" class="description-paragraph">The production efficiency of the continuous process in this invention is much greater than that of the conventional separate processes.</div>
+  <div num="P-00065" class="description-paragraph">The extrusion conditions are mainly dominated by the process conditions in the ovens, especially to the film-extrusion line speed. It needs to be compatible with the planned line speed in the annealing oven so that it can be run continuously. For the PP/PE/PP trilayer membrane, the PP film extrusion and the PE film extrusion need to be run at the same speed. The preferred annealing line speed ranges from 15 ft/min and 35 ft/min. The film extrusion speed is preferably in the range of 15 ft/min and 35 ft/min. In the conventional processes of separate steps, the higher line extrusion speed is preferred. In the prior art, with the conventional separate processes, the film extrusion line speed is preferably in the range of 30 ft/min and 700 ft/min for blown film extrusion and preferably in the range of 50 ft/min and 500 ft/min for slit film extrusion as described in the prior art, U.S. Pat. Nos. 3,426,754; 3,558,764; 3,679,538; 3,679,540; 3,801,404; 3,801,692; 3,843,761; 3,932,682. For the line speed of blown film extrusion for the precursor in another prior art U.S. Pat. Nos. 4,994,335; 5,173,235, the line speed of extrusion was in the range of 100 ft/min and 120 ft/min (30 meter/min and 36 meter/min). In this invention, the line extrusion speed is preferred at a compatible speed with the line speed in the annealing oven. Film extrusion line speeds can be higher than 35 ft/min, but it needs longer ovens to accommodate the need of the optimized residence time of the film in the ovens. In this case, the investment of oven capital is required more, but it certainly produces even more products.</div>
+  <div num="P-00066" class="description-paragraph">The overall process speeds of this invention need to be considered from technical point of view and from business point of view.</div>
+  <div num="P-00067" class="description-paragraph">The following examples demonstrate the quality precursor produced at a preferable speed described above, and the precursor can be made into the quality membrane.</div>
+  <heading>EXAMPLE 1</heading>
+  <div num="P-00068" class="description-paragraph">PP(Fina PP 3271) produced by Fina Oil &amp; Chemical has a density of 0.905 g/cc and a melt index of 1.5 g/10 min. PE(Hizex 5202B) produced by Mitsui Chemical has a density of 0.964 g/min and a melt index of 0.3 g/10 min. Either PP or PE are blended with 2500 ppm sodium benzoate as a nucleating agent to promote the crystal formation during film formation at a lower speed. A blown-film extrusion line made by Lung-Meng Plastics Machinery is equipped with a ˜1.6 inch diameter of screw with a L/D ratio of 36. The line is equipped with a 300-cm circular die with a die gap of ˜100 mil. The air ring height is adjusted to a level around 1.0 inch above the die.</div>
+  <div num="P-00069" class="description-paragraph">The PP and PE precursor films have been annealed in a batch convention oven, respectively, at 150° C. and 120° C. for ˜12 min. The annealed precursors are further stretched on an Instron Machine equipped with an environment control chamber. PP films are stretched, respectively, at 150° C., 20% cold stretch, 140% hot stretch, 40% relax; PE films, at 120° C., 40% cold stretch, 140% hot stretch, and 40% relax.</div>
+  <div num="P-d0e1776" class="description-paragraph">
+    <tables id="TABLE-US-00002" num="00002">
+      <patent-tables frame="none" colsep="0" rowsep="0">
+        <table align="left" colsep="0" rowsep="0" cols="4" class="description-table" width="100%">
+          <thead>
+            <tr class="description-tr">
+              <td namest="1" nameend="4" rowsep="1" class="description-td" colspan="4">TABLE 2</td>
+            </tr>
+            <tr class="description-tr">
+              <td namest="1" nameend="4" align="center" rowsep="1" class="description-td" colspan="4"> </td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td">Resin</td>
+              <td class="description-td">Extrusion Line Speed</td>
+              <td class="description-td">Membrane Thickness</td>
+              <td class="description-td">Gurley</td>
+            </tr>
+            <tr class="description-tr">
+              <td namest="1" nameend="4" align="center" rowsep="1" class="description-td" colspan="4"> </td>
+            </tr>
+          </thead>
+          
+            <tbody><tr class="description-tr">
+              <td class="description-td">Fina PP 3271</td>
+              <td class="description-td">30 ft/min</td>
+              <td class="description-td">1.03 mil</td>
+              <td class="description-td">26 sec</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td"> </td>
+              <td class="description-td">25 ft/min</td>
+              <td class="description-td">1.04 mil</td>
+              <td class="description-td">32 sec</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td"> </td>
+              <td class="description-td">20 ft/min</td>
+              <td class="description-td">1.02 mil</td>
+              <td class="description-td">40 sec</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td">Hizex 5202B</td>
+              <td class="description-td">35 ft/min</td>
+              <td class="description-td">1.02 mil</td>
+              <td class="description-td">28 sec</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td"> </td>
+              <td class="description-td">30 ft/min</td>
+              <td class="description-td">1.01 mil</td>
+              <td class="description-td">33 sec</td>
+            </tr>
+            <tr class="description-tr">
+              <td class="description-td"> </td>
+              <td class="description-td">25 ft/min</td>
+              <td class="description-td">1.00 mil</td>
+              <td class="description-td">40 sec</td>
+            </tr>
+            <tr class="description-tr">
+              <td namest="1" nameend="4" align="center" rowsep="1" class="description-td" colspan="4"> </td>
+            </tr>
+          
+        </tbody></table>
+      </patent-tables>
+    </tables>
+  </div>
+  <div num="P-00070" class="description-paragraph">From the above example, the film precursors from lower extrusion speed can yield quality membranes. There are no prior art found that this preferred slower line speed of film extrusion in this invention can result in quality membranes. In the same way, ultra-thin PP and ultra-thin PE precursor films (0.2˜0.5 mil) can be extruded at the preferred line speed for making PP/PE/PP trilayer separator, continuously. The intention of the lower extrusion speed is to lower down the line speed in the ovens, which will need smaller size of ovens for the same residence time.</div>
+  <div num="P-00071" class="description-paragraph">The detailed running conditions in the annealing and stretching ovens are mostly described in the prior art for dry-stretch polyolefin microporous membranes. For example, annealing temperature, stretching temperature, line speeds in the oven, cold stretching ratio, hot stretching ratio and heat-set/relaxing ratio can be the same as or different from those described in the prior art, U.S. Pat. No. 4,138,459 for multiply (PP or PE) single-layer separator; U.S. Pat. No. 5,952,120 for multiply PP/PE/PP trilayer separator, U.S. Pat. No. 6,057,060 for multiply ultra-thin (PP or PE) separator. They need to be slightly adjusted based on different grades of PP or PE raw materials used.</div>
+  <div num="P-00072" class="description-paragraph">According to the above information, one can estimate the needed length of film path in the annealing oven to be equal to Extrusion Line Speed multiplying 12 min. According to the stretch ratios, one can estimate the needed length of film path in the stretching oven. The slower line speed of extrusion requires shorter length of film path in the ovens. One of the major advantages with it is that the shorter length of film path in the annealing oven and then in the stretching oven allows the smaller needed size of the ovens and then the less investment. Another advantage with the preferred line speed of the film extrusion is to allow an excellent control on the overall operation of the continuous process in this invention.</div>
+  <div num="P-00073" class="description-paragraph">The continuous method of this invention will benefit the process at both fast and slow film extrusion speeds.</div>
+  <div num="P-00074" class="description-paragraph">Test Methods:</div>
+  <div num="P-00075" class="description-paragraph">Gurley ASTM-D726(B)</div>
+  <div num="P-00076" class="description-paragraph">Gurley is a resistance to air flow measured by the Gurley densometer. Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water pressure.</div>
+  <div num="P-00077" class="description-paragraph">Porosity ASTM D-2873</div>
+  <div num="P-00078" class="description-paragraph">Density ASTM D-792</div>
+  <div num="P-00079" class="description-paragraph">Melt Index ASTM D 1238; PE: 190° C./2.16 Kg; PP: 230° C./2.16 Kg.</div>
+  <div num="P-00080" class="description-paragraph">CONCLUSION, RAMIFICATIONS, AND SCOPE OF INVENTION</div>
+  <div num="P-00081" class="description-paragraph">Thus the reader will see that the continuous process of this invention can produce dry-stretch PP, PE, and PP/PE/PP trilayer membrane separators in a highly efficiency. The preferred extrusion line speed with multiple blown film extrusion (or slit film extrusion) can be a line speed compatible with the line speed in the annealing oven. The membrane thickness can be in the range of 0.2 mil and 4.0 mil. The annealing conditions and stretching conditions can be the conditions described herein or the conditions in the prior art.</div>
+  <div num="P-00082" class="description-paragraph">The raw material used is polyolefin as defined early. In PP/PE/PP trilayer membrane separators, the PE layer is served as potential shutdown layer as described in U.S. Pat. No. 5,691,077. In this invention, the PE layer can be a pure PE resin, PE containing particles, as described in U.S. Pat. No. 6,080,507, and PE containing other additives or minor polymeric components (less than 30%). All the membranes obtained from the invented continuous process will not be involved in solvent.</div>
+  <div num="P-00083" class="description-paragraph">The present invention may be embodied in other specific forms without departing from the spirit or essential attributes thereof, and, accordingly, reference should be made to the appended claims, rather than to the foregoing specification as indicating the scope of the invention.</div>
+
+</div>
+  </div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">2</span>)</h2>
+    
+    <div itemprop="content" html><div mxw-id="PCLM8830292" lang="EN" load-source="patent-office" class="claims">
+  <div class="claim"> <div id="CLM-00001" num="00001" class="claim">
+    <div class="claim-text">1. A continuous method of making a microporous polyolefin (polypropylene or polyethylene) membrane for use as a battery separator having a thickness ranging from about 0.20 mils to about 2.0 mils comprising sequential connected continuous steps of:
+<div class="claim-text">extruding parison (precursor film) with from one film-extrusion line to five film extrusion lines with either blown-film circular dies or slit-film slit dies; </div>
+<div class="claim-text">collapsing the parison onto themselves to form multiply flat sheets comprising from two plies to ten plies; </div>
+<div class="claim-text">annealing the multiply flat sheets; </div>
+<div class="claim-text">stretching the annealed multiply flat sheet for the microporous membrane; and </div>
+<div class="claim-text">winding up the multiply microporous membrane for further separate deplying and slitting operation. </div>
+</div>
+  </div>
+  </div> <div class="claim"> <div id="CLM-00002" num="00002" class="claim">
+    <div class="claim-text">2. A continuous method of making a microporous polyolefin (polypropylene or polyethylene) membrane for use as a battery separator having a thickness ranging from about 0.20 mils to about 2.0 mils comprising sequential connected continuous steps of:
+<div class="claim-text">extruding parison with from one film extrusion line to five film extrusion lines with either a blown-film circular die or slit-film slit dies at a preferred film-line speed in the range of 15 ft/min and 35 ft/min; </div>
+<div class="claim-text">collapsing the parison onto themselves to form multiply flat sheets comprising from two plies to ten plies; </div>
+<div class="claim-text">annealing the multiply flat sheets; </div>
+<div class="claim-text">stretching the annealed multiply flat sheet for the microporous membrane; and </div>
+<div class="claim-text">winding up the multiply microporous membrane for further separate deplying and slitting operation.</div>
+</div>
+  </div>
+</div> </div>
+  </div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+      <span itemprop="applicationNumber">US10/041,348</span>
+      <span itemprop="priorityDate">2002-01-08</span>
+      <span itemprop="filingDate">2002-01-08</span>
+      <span itemprop="title">Continuous methods of making microporous battery separators 
+       </span>
+      <span itemprop="ifiStatus">Expired - Fee Related</span>
+      
+      <a href="/patent/US6878226B2/en">
+        <span itemprop="representativePublication">US6878226B2</span>
+        (<span itemprop="primaryLanguage">en</span>)
+      </a>
+    </section>
+
+    <h2>Priority Applications (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="priorityApps" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">US10/041,348</span>
+            
+            <a href="/patent/US6878226B2/en">
+              <span itemprop="representativePublication">US6878226B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2002-01-08</td>
+          <td itemprop="filingDate">2002-01-08</td>
+          <td itemprop="title">Continuous methods of making microporous battery separators 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Applications Claiming Priority (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="appsClaimingPriority" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">US10/041,348</span>
+            <a href="/patent/US6878226B2/en">
+              <span itemprop="representativePublication">US6878226B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2002-01-08</td>
+          <td itemprop="filingDate">2002-01-08</td>
+          <td itemprop="title">Continuous methods of making microporous battery separators 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    
+
+    <h2>Publications (2)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication Number</th>
+          <th>Publication Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="pubs" itemscope repeat>
+          <td>
+            <span itemprop="publicationNumber">US20030136500A1</span>
+            
+            <a href="/patent/US20030136500A1/en">
+              US20030136500A1
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2003-07-24</td>
+        </tr>
+        <tr itemprop="pubs" itemscope repeat>
+          <td>
+            <span itemprop="publicationNumber">US6878226B2</span>
+            
+            <span itemprop="thisPatent">true</span>
+            <a href="/patent/US6878226B2/en">
+              US6878226B2
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-04-12</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=21916021</h2>
+
+    <h2>Family Applications (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Title</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="applications" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">US10/041,348</span>
+            <span itemprop="ifiStatus">Expired - Fee Related</span>
+            
+            <a href="/patent/US6878226B2/en">
+              <span itemprop="representativePublication">US6878226B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2002-01-08</td>
+          <td itemprop="filingDate">2002-01-08</td>
+          <td itemprop="title">Continuous methods of making microporous battery separators 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    
+
+    <h2>Country Status (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Country</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">US</span>
+            (<span itemprop="num">1</span>)
+            <meta itemprop="thisCountry" content="true">
+          </td>
+          <td>
+            <a href="/patent/US6878226B2/en">
+              <span itemprop="representativePublication">US6878226B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Cited By (7)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20080057388A1/en">
+              <span itemprop="publicationNumber">US20080057388A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-08-31</td>
+          <td itemprop="publicationDate">2008-03-06</td>
+          <td><span itemprop="assigneeOriginal">Koichi Kono</span></td>
+          <td itemprop="title">Multi-layer, microporous membrane, battery separator and battery 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20080118827A1/en">
+              <span itemprop="publicationNumber">US20080118827A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-11-17</td>
+          <td itemprop="publicationDate">2008-05-22</td>
+          <td><span itemprop="assigneeOriginal">Call Ronald W</span></td>
+          <td itemprop="title">Co-extruded, multi-layered battery separator 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20080187825A1/en">
+              <span itemprop="publicationNumber">US20080187825A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2003-11-06</td>
+          <td itemprop="publicationDate">2008-08-07</td>
+          <td><span itemprop="assigneeOriginal">Ube Industries Ltd.</span></td>
+          <td itemprop="title">Battery Separator and Lithium Secondary Battery 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US7981536B2/en">
+              <span itemprop="publicationNumber">US7981536B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2006-08-31</td>
+          <td itemprop="publicationDate">2011-07-19</td>
+          <td><span itemprop="assigneeOriginal">Toray Tonen Specialty Separator Godo Kaisha</span></td>
+          <td itemprop="title">Microporous membrane, battery separator and battery 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN105374967A/en">
+              <span itemprop="publicationNumber">CN105374967A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2015-12-18</td>
+          <td itemprop="publicationDate">2016-03-02</td>
+          <td><span itemprop="assigneeOriginal">江苏安瑞达新材料有限公司</span></td>
+          <td itemprop="title">Technological method for eliminating rolling stress of microporous membrane of lithium battery 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/WO2016206145A1/en">
+              <span itemprop="publicationNumber">WO2016206145A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2015-06-26</td>
+          <td itemprop="publicationDate">2016-12-29</td>
+          <td><span itemprop="assigneeOriginal">深圳市星源材质科技股份有限公司</span></td>
+          <td itemprop="title">Preparation method for high-safety multilayer lithium battery diaphragm 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN110154482A/en">
+              <span itemprop="publicationNumber">CN110154482A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2019-06-22</td>
+          <td itemprop="publicationDate">2019-08-23</td>
+          <td><span itemprop="assigneeOriginal">郑州轻工业学院</span></td>
+          <td itemprop="title">A kind of composite material and preparation method for inscription on ancient bronze objects inscription rubbing 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Families Citing this family (10)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/US20050031943A1/en">
+              <span itemprop="publicationNumber">US20050031943A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2003-08-07</td>
+          <td itemprop="publicationDate">2005-02-10</td>
+          <td><span itemprop="assigneeOriginal">Call Ronald W.</span></td>
+          <td itemprop="title">Battery separator and method of making same 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/FR2866154B1/en">
+              <span itemprop="publicationNumber">FR2866154B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2004-02-10</td>
+          <td itemprop="publicationDate">2014-02-21</td>
+          <td><span itemprop="assigneeOriginal">Batscap Sa</span></td>
+          <td itemprop="title">
+  PROCESS FOR PRODUCING AN ELECTROCHEMICAL DEVICE
+ 
+     </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/KR20260015340A/en">
+              <span itemprop="publicationNumber">KR20260015340A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2012-09-20</td>
+          <td itemprop="publicationDate">2026-02-02</td>
+          <td><span itemprop="assigneeOriginal">셀가드 엘엘씨</span></td>
+          <td itemprop="title">Thin battery separators and methods 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN102881852A/en">
+              <span itemprop="publicationNumber">CN102881852A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2012-09-28</td>
+          <td itemprop="publicationDate">2013-01-16</td>
+          <td><span itemprop="assigneeOriginal">达尼特材料科技（芜湖）有限公司</span></td>
+          <td itemprop="title">Method and device for manufacturing microporous films 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN103072262A/en">
+              <span itemprop="publicationNumber">CN103072262A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2013-01-21</td>
+          <td itemprop="publicationDate">2013-05-01</td>
+          <td><span itemprop="assigneeOriginal">江苏景宏新材料科技有限公司</span></td>
+          <td itemprop="title">Enhanced annealing method of biaxial stretching PP (Polypropylene) diaphragm 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/US9623640B2/en">
+              <span itemprop="publicationNumber">US9623640B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2013-12-27</td>
+          <td itemprop="publicationDate">2017-04-18</td>
+          <td><span itemprop="assigneeOriginal">Sk Innovation Co., Ltd.</span></td>
+          <td itemprop="title">Multilayer separator with superior permeability 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN104993085B/en">
+              <span itemprop="publicationNumber">CN104993085B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2015-05-22</td>
+          <td itemprop="publicationDate">2017-12-05</td>
+          <td><span itemprop="assigneeOriginal">宁波大学</span></td>
+          <td itemprop="title">A kind of MULTILAYER COMPOSITE polyolefin diaphragm of lithium ion battery and preparation method thereof 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/US10256447B2/en">
+              <span itemprop="publicationNumber">US10256447B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2015-06-03</td>
+          <td itemprop="publicationDate">2019-04-09</td>
+          <td><span itemprop="assigneeOriginal">Celgard, Llc</span></td>
+          <td itemprop="title">Low electrical resistance microporous battery separator membranes, separators, cells, batteries, and related methods 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN114744365B/en">
+              <span itemprop="publicationNumber">CN114744365B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2022-02-28</td>
+          <td itemprop="publicationDate">2023-07-07</td>
+          <td><span itemprop="assigneeOriginal">中材锂膜有限公司</span></td>
+          <td itemprop="title">Device for folding and unfolding extraction inlet film and application method thereof 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN114725613A/en">
+              <span itemprop="publicationNumber">CN114725613A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2022-03-07</td>
+          <td itemprop="publicationDate">2022-07-08</td>
+          <td><span itemprop="assigneeOriginal">武汉惠强新能源材料科技有限公司</span></td>
+          <td itemprop="title">
+        A kind of preparation method of primary lithium ion battery separator
+       
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Citations (19)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3426754A/en">
+              <span itemprop="publicationNumber">US3426754A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1964-06-12</td>
+          <td itemprop="publicationDate">1969-02-11</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corp</span>
+          </td>
+          <td itemprop="title">Breathable medical dressing 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3558764A/en">
+              <span itemprop="publicationNumber">US3558764A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1966-09-06</td>
+          <td itemprop="publicationDate">1971-01-26</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corp</span>
+          </td>
+          <td itemprop="title">Process for preparing microporous film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3679540A/en">
+              <span itemprop="publicationNumber">US3679540A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-11-27</td>
+          <td itemprop="publicationDate">1972-07-25</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corp</span>
+          </td>
+          <td itemprop="title">Reinforced microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3679538A/en">
+              <span itemprop="publicationNumber">US3679538A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-10-28</td>
+          <td itemprop="publicationDate">1972-07-25</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corp</span>
+          </td>
+          <td itemprop="title">Novel open-celled microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3801692A/en">
+              <span itemprop="publicationNumber">US3801692A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1969-11-13</td>
+          <td itemprop="publicationDate">1974-04-02</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corp</span>
+          </td>
+          <td itemprop="title">Production of novel open-celled microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3801404A/en">
+              <span itemprop="publicationNumber">US3801404A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-10-28</td>
+          <td itemprop="publicationDate">1974-04-02</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corp</span>
+          </td>
+          <td itemprop="title">Novel open-celled microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3843761A/en">
+              <span itemprop="publicationNumber">US3843761A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1973-05-30</td>
+          <td itemprop="publicationDate">1974-10-22</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corp</span>
+          </td>
+          <td itemprop="title">Process for preparing a thermoplastic microporous film involving a cold stretching step and multiple hot stretching steps 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US3932682A/en">
+              <span itemprop="publicationNumber">US3932682A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-06-04</td>
+          <td itemprop="publicationDate">1976-01-13</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corporation</span>
+          </td>
+          <td itemprop="title">Air permeable waterproof products having fabric-like aesthetic properties and methods for making the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US4138459A/en">
+              <span itemprop="publicationNumber">US4138459A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1975-09-08</td>
+          <td itemprop="publicationDate">1979-02-06</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celanese Corporation</span>
+          </td>
+          <td itemprop="title">Process for preparing a microporous polymer film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US4384023A/en">
+              <span itemprop="publicationNumber">US4384023A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1981-01-16</td>
+          <td itemprop="publicationDate">1983-05-17</td>
+          <td>
+            <span itemprop="assigneeOriginal">Mitsubishi Rayon Company, Limited</span>
+          </td>
+          <td itemprop="title">Porous polyethylene film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US4539256A/en">
+              <span itemprop="publicationNumber">US4539256A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1982-09-09</td>
+          <td itemprop="publicationDate">1985-09-03</td>
+          <td>
+            <span itemprop="assigneeOriginal">Minnesota Mining And Manufacturing Co.</span>
+          </td>
+          <td itemprop="title">Microporous sheet material, method of making and articles made therewith 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US4726989A/en">
+              <span itemprop="publicationNumber">US4726989A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1986-12-11</td>
+          <td itemprop="publicationDate">1988-02-23</td>
+          <td>
+            <span itemprop="assigneeOriginal">Minnesota Mining And Manufacturing</span>
+          </td>
+          <td itemprop="title">Microporous materials incorporating a nucleating agent and methods for making same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US4994335A/en">
+              <span itemprop="publicationNumber">US4994335A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1988-09-10</td>
+          <td itemprop="publicationDate">1991-02-19</td>
+          <td>
+            <span itemprop="assigneeOriginal">Ube Industries, Ltd.</span>
+          </td>
+          <td itemprop="title">Microporous film, battery separator employing the same, and method of producing them 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5173235A/en">
+              <span itemprop="publicationNumber">US5173235A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1988-09-10</td>
+          <td itemprop="publicationDate">1992-12-22</td>
+          <td>
+            <span itemprop="assigneeOriginal">Ube Industries, Ltd.</span>
+          </td>
+          <td itemprop="title">Method of producing microporous film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5565281A/en">
+              <span itemprop="publicationNumber">US5565281A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-12-02</td>
+          <td itemprop="publicationDate">1996-10-15</td>
+          <td>
+            <span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span>
+          </td>
+          <td itemprop="title">Shutdown, bilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5667911A/en">
+              <span itemprop="publicationNumber">US5667911A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1994-11-17</td>
+          <td itemprop="publicationDate">1997-09-16</td>
+          <td>
+            <span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span>
+          </td>
+          <td itemprop="title">Methods of making cross-ply microporous membrane battery separator, and the battery separators made thereby 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5691077A/en">
+              <span itemprop="publicationNumber">US5691077A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-12-20</td>
+          <td itemprop="publicationDate">1997-11-25</td>
+          <td>
+            <span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span>
+          </td>
+          <td itemprop="title">Shutdown, trilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5952120A/en">
+              <span itemprop="publicationNumber">US5952120A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-04-15</td>
+          <td itemprop="publicationDate">1999-09-14</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celgard Llc</span>
+          </td>
+          <td itemprop="title">Method of making a trilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US6080507A/en">
+              <span itemprop="publicationNumber">US6080507A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-04-13</td>
+          <td itemprop="publicationDate">2000-06-27</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celgard Inc.</span>
+          </td>
+          <td itemprop="title">Trilayer battery separator 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    <ul>
+      <li itemprop="applicationsByYear" itemscope repeat>
+        <span itemprop="year">2002</span>
+        <ul>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2002-01-08</span>
+            <span itemprop="countryCode">US</span>
+            <span itemprop="applicationNumber">US10/041,348</span>
+            <a href="/patent/US6878226B2/en"><span itemprop="documentId">patent/US6878226B2/en</span></a>
+            <span itemprop="legalStatusCat">not_active</span>
+            <span itemprop="legalStatus">Expired - Fee Related</span>
+            <span itemprop="thisApp" content="true" bool></span>
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    </section>
+
+  <section>
+    <h2>Patent Citations (20)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3426754A/en">
+              <span itemprop="publicationNumber">US3426754A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1964-06-12</td>
+          <td itemprop="publicationDate">1969-02-11</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corp</span></td>
+          <td itemprop="title">Breathable medical dressing 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3558764A/en">
+              <span itemprop="publicationNumber">US3558764A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1966-09-06</td>
+          <td itemprop="publicationDate">1971-01-26</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corp</span></td>
+          <td itemprop="title">Process for preparing microporous film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3801692A/en">
+              <span itemprop="publicationNumber">US3801692A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1969-11-13</td>
+          <td itemprop="publicationDate">1974-04-02</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corp</span></td>
+          <td itemprop="title">Production of novel open-celled microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3932682A/en">
+              <span itemprop="publicationNumber">US3932682A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-06-04</td>
+          <td itemprop="publicationDate">1976-01-13</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corporation</span></td>
+          <td itemprop="title">Air permeable waterproof products having fabric-like aesthetic properties and methods for making the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3679538A/en">
+              <span itemprop="publicationNumber">US3679538A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-10-28</td>
+          <td itemprop="publicationDate">1972-07-25</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corp</span></td>
+          <td itemprop="title">Novel open-celled microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3801404A/en">
+              <span itemprop="publicationNumber">US3801404A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-10-28</td>
+          <td itemprop="publicationDate">1974-04-02</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corp</span></td>
+          <td itemprop="title">Novel open-celled microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3679540A/en">
+              <span itemprop="publicationNumber">US3679540A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1970-11-27</td>
+          <td itemprop="publicationDate">1972-07-25</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corp</span></td>
+          <td itemprop="title">Reinforced microporous film 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US3843761A/en">
+              <span itemprop="publicationNumber">US3843761A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1973-05-30</td>
+          <td itemprop="publicationDate">1974-10-22</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corp</span></td>
+          <td itemprop="title">Process for preparing a thermoplastic microporous film involving a cold stretching step and multiple hot stretching steps 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US4138459A/en">
+              <span itemprop="publicationNumber">US4138459A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1975-09-08</td>
+          <td itemprop="publicationDate">1979-02-06</td>
+          <td><span itemprop="assigneeOriginal">Celanese Corporation</span></td>
+          <td itemprop="title">Process for preparing a microporous polymer film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US4384023A/en">
+              <span itemprop="publicationNumber">US4384023A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1981-01-16</td>
+          <td itemprop="publicationDate">1983-05-17</td>
+          <td><span itemprop="assigneeOriginal">Mitsubishi Rayon Company, Limited</span></td>
+          <td itemprop="title">Porous polyethylene film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US4539256A/en">
+              <span itemprop="publicationNumber">US4539256A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1982-09-09</td>
+          <td itemprop="publicationDate">1985-09-03</td>
+          <td><span itemprop="assigneeOriginal">Minnesota Mining And Manufacturing Co.</span></td>
+          <td itemprop="title">Microporous sheet material, method of making and articles made therewith 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US4726989A/en">
+              <span itemprop="publicationNumber">US4726989A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1986-12-11</td>
+          <td itemprop="publicationDate">1988-02-23</td>
+          <td><span itemprop="assigneeOriginal">Minnesota Mining And Manufacturing</span></td>
+          <td itemprop="title">Microporous materials incorporating a nucleating agent and methods for making same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US4994335A/en">
+              <span itemprop="publicationNumber">US4994335A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1988-09-10</td>
+          <td itemprop="publicationDate">1991-02-19</td>
+          <td><span itemprop="assigneeOriginal">Ube Industries, Ltd.</span></td>
+          <td itemprop="title">Microporous film, battery separator employing the same, and method of producing them 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5173235A/en">
+              <span itemprop="publicationNumber">US5173235A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1988-09-10</td>
+          <td itemprop="publicationDate">1992-12-22</td>
+          <td><span itemprop="assigneeOriginal">Ube Industries, Ltd.</span></td>
+          <td itemprop="title">Method of producing microporous film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5667911A/en">
+              <span itemprop="publicationNumber">US5667911A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1994-11-17</td>
+          <td itemprop="publicationDate">1997-09-16</td>
+          <td><span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span></td>
+          <td itemprop="title">Methods of making cross-ply microporous membrane battery separator, and the battery separators made thereby 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5565281A/en">
+              <span itemprop="publicationNumber">US5565281A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-12-02</td>
+          <td itemprop="publicationDate">1996-10-15</td>
+          <td><span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span></td>
+          <td itemprop="title">Shutdown, bilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5691077A/en">
+              <span itemprop="publicationNumber">US5691077A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-12-20</td>
+          <td itemprop="publicationDate">1997-11-25</td>
+          <td><span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span></td>
+          <td itemprop="title">Shutdown, trilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US6132654A/en">
+              <span itemprop="publicationNumber">US6132654A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1994-12-20</td>
+          <td itemprop="publicationDate">2000-10-17</td>
+          <td><span itemprop="assigneeOriginal">Celgard Inc.</span></td>
+          <td itemprop="title">Ultra-thin, single-ply battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5952120A/en">
+              <span itemprop="publicationNumber">US5952120A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-04-15</td>
+          <td itemprop="publicationDate">1999-09-14</td>
+          <td><span itemprop="assigneeOriginal">Celgard Llc</span></td>
+          <td itemprop="title">Method of making a trilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US6080507A/en">
+              <span itemprop="publicationNumber">US6080507A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-04-13</td>
+          <td itemprop="publicationDate">2000-06-27</td>
+          <td><span itemprop="assigneeOriginal">Celgard Inc.</span></td>
+          <td itemprop="title">Trilayer battery separator 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  
+
+  <h2>Cited By (13)</h2>
+  <table>
+    <caption>* Cited by examiner, † Cited by third party</caption>
+    <thead>
+      <tr>
+        <th>Publication number</th>
+        <th>Priority date</th>
+        <th>Publication date</th>
+        <th>Assignee</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US20080187825A1/en">
+            <span itemprop="publicationNumber">US20080187825A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2003-11-06</td>
+        <td itemprop="publicationDate">2008-08-07</td>
+        <td><span itemprop="assigneeOriginal">Ube Industries Ltd.</span></td>
+        <td itemprop="title">Battery Separator and Lithium Secondary Battery 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US7595130B2/en">
+            <span itemprop="publicationNumber">US7595130B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2003-11-06</td>
+        <td itemprop="publicationDate">2009-09-29</td>
+        <td><span itemprop="assigneeOriginal">Ube Industries, Ltd.</span></td>
+        <td itemprop="title">Battery separator and lithium secondary battery 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US7981536B2/en">
+            <span itemprop="publicationNumber">US7981536B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2006-08-31</td>
+        <td itemprop="publicationDate">2011-07-19</td>
+        <td><span itemprop="assigneeOriginal">Toray Tonen Specialty Separator Godo Kaisha</span></td>
+        <td itemprop="title">Microporous membrane, battery separator and battery 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US20080057388A1/en">
+            <span itemprop="publicationNumber">US20080057388A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2006-08-31</td>
+        <td itemprop="publicationDate">2008-03-06</td>
+        <td><span itemprop="assigneeOriginal">Koichi Kono</span></td>
+        <td itemprop="title">Multi-layer, microporous membrane, battery separator and battery 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US7807287B2/en">
+            <span itemprop="publicationNumber">US7807287B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2006-08-31</td>
+        <td itemprop="publicationDate">2010-10-05</td>
+        <td><span itemprop="assigneeOriginal">Tonen Chemical Corporation</span></td>
+        <td itemprop="title">Multi-layer, microporous membrane, battery separator and battery 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US10003058B2/en">
+            <span itemprop="publicationNumber">US10003058B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2006-11-17</td>
+        <td itemprop="publicationDate">2018-06-19</td>
+        <td><span itemprop="assigneeOriginal">Celgard, Llc</span></td>
+        <td itemprop="title">Method of making a co-extruded, multi-layered battery separator 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US20080118827A1/en">
+            <span itemprop="publicationNumber">US20080118827A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2006-11-17</td>
+        <td itemprop="publicationDate">2008-05-22</td>
+        <td><span itemprop="assigneeOriginal">Call Ronald W</span></td>
+        <td itemprop="title">Co-extruded, multi-layered battery separator 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/EP3379606A2/en">
+            <span itemprop="publicationNumber">EP3379606A2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2006-11-17</td>
+        <td itemprop="publicationDate">2018-09-26</td>
+        <td><span itemprop="assigneeOriginal">Celgard LLC</span></td>
+        <td itemprop="title">Co-extruded, multi-layered battery separator 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/US10818899B2/en">
+            <span itemprop="publicationNumber">US10818899B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2006-11-17</td>
+        <td itemprop="publicationDate">2020-10-27</td>
+        <td><span itemprop="assigneeOriginal">Celgard, Llc</span></td>
+        <td itemprop="title">Co-extruded, multi-layered battery separator 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/WO2016206145A1/en">
+            <span itemprop="publicationNumber">WO2016206145A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2015-06-26</td>
+        <td itemprop="publicationDate">2016-12-29</td>
+        <td><span itemprop="assigneeOriginal">深圳市星源材质科技股份有限公司</span></td>
+        <td itemprop="title">Preparation method for high-safety multilayer lithium battery diaphragm 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/CN105374967A/en">
+            <span itemprop="publicationNumber">CN105374967A</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2015-12-18</td>
+        <td itemprop="publicationDate">2016-03-02</td>
+        <td><span itemprop="assigneeOriginal">江苏安瑞达新材料有限公司</span></td>
+        <td itemprop="title">Technological method for eliminating rolling stress of microporous membrane of lithium battery 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/CN105374967B/en">
+            <span itemprop="publicationNumber">CN105374967B</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2015-12-18</td>
+        <td itemprop="publicationDate">2017-10-24</td>
+        <td><span itemprop="assigneeOriginal">江苏安瑞达新材料有限公司</span></td>
+        <td itemprop="title">It is a kind of to eliminate the process that lithium battery micro-pore septum winds stress 
+       </td>
+      </tr>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          <a href="/patent/CN110154482A/en">
+            <span itemprop="publicationNumber">CN110154482A</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2019-06-22</td>
+        <td itemprop="publicationDate">2019-08-23</td>
+        <td><span itemprop="assigneeOriginal">郑州轻工业学院</span></td>
+        <td itemprop="title">A kind of composite material and preparation method for inscription on ancient bronze objects inscription rubbing 
+       </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/US20030136500A1/en">
+              <span itemprop="publicationNumber">US20030136500A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2003-07-24</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20250074032A1/en">
+                <span itemprop="publicationNumber">US20250074032A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2025-03-06">2025-03-06</time>
+            
+            
+          </td>
+          <td itemprop="title">Biaxially oriented microporous membrane 
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20030136500A1/en">
+                <span itemprop="publicationNumber">US20030136500A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2003-07-24">2003-07-24</time>
+            
+            
+          </td>
+          <td itemprop="title">Continuous methods of making microporous battery separators 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US11626349B2/en">
+                <span itemprop="publicationNumber">US11626349B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2023-04-11">2023-04-11</time>
+            
+            
+          </td>
+          <td itemprop="title">Multilayer hybrid battery separators for lithium ion secondary batteries and methods of making same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP4931911B2/en">
+                <span itemprop="publicationNumber">JP4931911B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2012-05-16">2012-05-16</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Polyolefin microporous membrane
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US6602593B1/en">
+                <span itemprop="publicationNumber">US6602593B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2003-08-05">2003-08-05</time>
+            
+            
+          </td>
+          <td itemprop="title">Battery separators with reduced splitting propensity 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR100512540B1/en">
+                <span itemprop="publicationNumber">KR100512540B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-11-22">2005-11-22</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Manufacturing method of three-layer battery separator
+       
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US6132654A/en">
+                <span itemprop="publicationNumber">US6132654A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2000-10-17">2000-10-17</time>
+            
+            
+          </td>
+          <td itemprop="title">Ultra-thin, single-ply battery separator 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/EP0682376B1/en">
+                <span itemprop="publicationNumber">EP0682376B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2000-01-26">2000-01-26</time>
+            
+            
+          </td>
+          <td itemprop="title">Porous multi-layer film 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/TWI500206B/en">
+                <span itemprop="publicationNumber">TWI500206B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2015-09-11">2015-09-11</time>
+            
+            
+          </td>
+          <td itemprop="title">Co-extruded, multi-layered battery separator 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20070148538A1/en">
+                <span itemprop="publicationNumber">US20070148538A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2007-06-28">2007-06-28</time>
+            
+            
+          </td>
+          <td itemprop="title">Battery separator and method of making same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN102782027A/en">
+                <span itemprop="publicationNumber">CN102782027A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2012-11-14">2012-11-14</time>
+            
+            
+          </td>
+          <td itemprop="title">Porous polypropylene resin film, cell separator, and cell 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN115023460B/en">
+                <span itemprop="publicationNumber">CN115023460B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2024-04-05">2024-04-05</time>
+            
+            
+          </td>
+          <td itemprop="title">Microporous membrane and method for producing same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20150091973A/en">
+                <span itemprop="publicationNumber">KR20150091973A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2015-08-12">2015-08-12</time>
+            
+            
+          </td>
+          <td itemprop="title">Manufacturing method of battery separator and battery separator using the same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP7170424B2/en">
+                <span itemprop="publicationNumber">JP7170424B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2022-11-14">2022-11-14</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Microporous membrane manufacturing method and microporous membrane using the same
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP6040777B2/en">
+                <span itemprop="publicationNumber">JP6040777B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2016-12-07">2016-12-07</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Polypropylene porous membrane
+       
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20160112518A/en">
+                <span itemprop="publicationNumber">KR20160112518A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2016-09-28">2016-09-28</time>
+            
+            
+          </td>
+          <td itemprop="title">Manufacturing method for a multilayered composite separator having strong interlayer adhesion 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2008-07-09">2008-07-09</time></td>
+          <td itemprop="code">FPAY</td>
+          <td itemprop="title">Fee payment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">4</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2012-11-26">2012-11-26</time></td>
+          <td itemprop="code">REMI</td>
+          <td itemprop="title">Maintenance fee reminder mailed</td>
+          <td>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2013-04-12">2013-04-12</time></td>
+          <td itemprop="code">LAPS</td>
+          <td itemprop="title">Lapse for failure to pay maintenance fees</td>
+          <td>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2013-05-10">2013-05-10</time></td>
+          <td itemprop="code">STCH</td>
+          <td itemprop="title">Information on status: patent discontinuation</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2013-05-13">2013-05-13</time></td>
+          <td itemprop="code">STCH</td>
+          <td itemprop="title">Information on status: patent discontinuation</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2013-06-04">2013-06-04</time></td>
+          <td itemprop="code">FP</td>
+          <td itemprop="title">Lapsed due to failure to pay maintenance fee</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20130412</span>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+</article>
+
+    </search-app>
+    
+    <script></script>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/js/help/prod/service/lazy.min.js"></script>
+    <script type="text/javascript">
+      if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: '[REDACTED_GOOGLE_API_KEY]', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
+    </script>
+    <script src="/sw/null_loader.js"></script>
+  </body>
+</html>

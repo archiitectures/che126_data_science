@@ -1,0 +1,16 @@
+{
+  "unresolved": [
+    {
+      "line": 27,
+      "text": "TD Tensile Strength (typical / min) Kg/cm2 140 / 70",
+      "reason": "Unsupported row or ambiguous unit; manual review required"
+    },
+    {
+      "line": 28,
+      "text": "MD Tensile Strength (typical / min) Kg/cm2 1420 / 700",
+      "reason": "Unsupported row or ambiguous unit; manual review required"
+    }
+  ],
+  "observations": 8,
+  "output": "data_mining/examples/celgard_2400_observations.csv"
+}

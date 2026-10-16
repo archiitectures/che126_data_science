@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.celgard.com/storage/components/2400_com_data_2026-01.pdf",
+    "retrieved_at": "2026-10-15T05:43:00.749295+00:00",
+    "sha256": "9635c664080eace8bee12d4892e24db26c92ec4b97636be1a3302fce85e9f0ea",
+    "bytes": 682322,
+    "path": "data/raw/9635c664080eace8bee12d4892e24db26c92ec4b97636be1a3302fce85e9f0ea.pdf"
+  },
+  {
+    "url": "https://materials.fsri.org/materialdetail/high-density-polyethylene-hdpe",
+    "retrieved_at": "2026-10-15T05:43:01.647064+00:00",
+    "sha256": "f8076c74962c9db6cc6677bc77c79f629b675de3ff0b7e92c012b47a39be4cd0",
+    "bytes": 2467244,
+    "path": "data/raw/f8076c74962c9db6cc6677bc77c79f629b675de3ff0b7e92c012b47a39be4cd0.bin"
+  }
+]

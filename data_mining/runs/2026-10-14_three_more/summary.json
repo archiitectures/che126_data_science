@@ -1,0 +1,18 @@
+{
+  "new_separator_products": [
+    "9EPH",
+    "12EPH",
+    "16EPH"
+  ],
+  "new_scalar_records": 24,
+  "scalar_records_per_product": 8,
+  "known_exposure_temperature_C": 120,
+  "known_temperature_records": 6,
+  "combined_separator_products": 28,
+  "combined_separator_records": 223,
+  "google_billing_enabled": false,
+  "google_queries_executed": 0,
+  "cloud_spend_usd": 0,
+  "unknown_temperature_records": 18,
+  "known_measurement_temperature_records": 0
+}

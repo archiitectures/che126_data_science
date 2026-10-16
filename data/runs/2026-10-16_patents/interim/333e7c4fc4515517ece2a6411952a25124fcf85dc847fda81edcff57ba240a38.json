@@ -1,0 +1,307 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Puncture",
+          "Perme-",
+          "Shrinkage",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thickness",
+          "strength",
+          "ability",
+          "ratio (%)",
+          "Production",
+          "Quality"
+        ],
+        [
+          "",
+          "(μm)",
+          "(N/μm)",
+          "(Darcy × 10 −5 )",
+          "MD",
+          "TD",
+          "stability",
+          "uniformity"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 1",
+          "26",
+          "0.35",
+          "2.5",
+          "7",
+          "1",
+          "Pass",
+          "1.3%"
+        ],
+        [
+          "Ex. 2",
+          "33",
+          "0.45",
+          "2.1",
+          "8",
+          "4",
+          "Pass",
+          "1.5%"
+        ],
+        [
+          "Ex. 3",
+          "8",
+          "0.30",
+          "4.9",
+          "5",
+          "6",
+          "Pass",
+          "1.1%"
+        ],
+        [
+          "Com. Ex. 1",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "Fail",
+          "—"
+        ],
+        [
+          "Com. Ex. 2",
+          "25",
+          "0.32",
+          "2.8",
+          "10",
+          "14",
+          "Pass",
+          "2.5%"
+        ],
+        [
+          "Com. Ex. 3",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Com. Ex. 4",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "Fail",
+          "—"
+        ],
+        [
+          "Com. Ex. 5",
+          "25",
+          "0.27",
+          "3.8",
+          "8",
+          "10",
+          "Pass",
+          "2.3%"
+        ],
+        [
+          "Com. Ex. 6",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "Fail",
+          "—"
+        ],
+        [
+          "Com. Ex. 7",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "Fail",
+          "—"
+        ],
+        [
+          "Com. Ex. 8",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "Fail",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Puncture</td>\n<td class=\"description-td\">Perme-</td>\n<td class=\"description-td\">Shrinkage</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">ability</td>\n<td class=\"description-td\">ratio (%)</td>\n<td class=\"description-td\">Production</td>\n<td class=\"description-td\">Quality</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(N/μm)</td>\n<td class=\"description-td\">(Darcy × 10<sup>−5</sup>)</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">stability</td>\n<td class=\"description-td\">uniformity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 1</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">0.35</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">1.3%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">0.45</td>\n<td class=\"description-td\">2.1</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">1.5%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 3</td>\n<td class=\"description-td\"> 8</td>\n<td class=\"description-td\">0.30</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">1.1%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 1</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Fail</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 2</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">0.32</td>\n<td class=\"description-td\">2.8</td>\n<td class=\"description-td\">10 </td>\n<td class=\"description-td\">14 </td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">2.5%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 4</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Fail</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 5</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">0.27</td>\n<td class=\"description-td\">3.8</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">10 </td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">2.3%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 6</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Fail</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 7</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Fail</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 8</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Fail</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "A simultaneously biaxial stretching process is a stretching method that uses a chuck (an biting device) to grip and fix the top and bottom sides of a sheet prepared by mixing polyolefin and a diluent, similar to thumbs and index fingers of hands of a human, and broadens the gap between chucks in both a machine direction and a transverse direction, simultaneously. In case of the simultaneously biaxial stretching process, a gap between chucks is narrow before stretching, however, broadened by a specific draw ratio after stretching, thus increasing an area not gripped by the chucks (see FIG. 1 ). Such a non-gripped area has a lower actual stretching ratio than that of a gripped area, to cause non-uniformity in qualities between the gripped area and the non-gripped area. The above tendency is more serious in the case where a stretching ratio is increased, a stretching temperature is decreased for enhancing a mechanical strength, and a sheet before stretching has a relatively large thickness, or the like. For this reason, when a thick film, having a high strength is fabricated by the simultaneously biaxial stretching process, a problem of deteriorated uniformity in quality may be encountered. As the application of lithium ion secondary batteries is increased from small electronics to laptop computers, electronic tools, hybrid cars, or the like, a battery separator having high strength and a high thickness is required. Therefore, when a microporous film is fabricated, a stretching ratio and/or a thickness of a sheet before stretching must be increased. However, the simultaneous biaxial drawing process has disadvantages in that quality uniformity is reduced when the sheet is thick and rigid, which can be easily disengaged from the grip chuck, thus causing a decrease in productivity stability.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/96/17/71/84035f2d88a0c5/US20140349193A1-20141127-D00000.png"
+    },
+    {
+      "caption": "A simultaneously biaxial stretching process is a stretching method that uses a chuck (an biting device) to grip and fix the top and bottom sides of a sheet prepared by mixing polyolefin and a diluent, similar to thumbs and index fingers of hands of a human, and broadens the gap between chucks in both a machine direction and a transverse direction, simultaneously. In case of the simultaneously biaxial stretching process, a gap between chucks is narrow before stretching, however, broadened by a specific draw ratio after stretching, thus increasing an area not gripped by the chucks (see FIG. 1 ). Such a non-gripped area has a lower actual stretching ratio than that of a gripped area, to cause non-uniformity in qualities between the gripped area and the non-gripped area. The above tendency is more serious in the case where a stretching ratio is increased, a stretching temperature is decreased for enhancing a mechanical strength, and a sheet before stretching has a relatively large thickness, or the like. For this reason, when a thick film, having a high strength is fabricated by the simultaneously biaxial stretching process, a problem of deteriorated uniformity in quality may be encountered. As the application of lithium ion secondary batteries is increased from small electronics to laptop computers, electronic tools, hybrid cars, or the like, a battery separator having high strength and a high thickness is required. Therefore, when a microporous film is fabricated, a stretching ratio and/or a thickness of a sheet before stretching must be increased. However, the simultaneous biaxial drawing process has disadvantages in that quality uniformity is reduced when the sheet is thick and rigid, which can be easily disengaged from the grip chuck, thus causing a decrease in productivity stability.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/67/6f/b1/b0cf0bdff84065/US20140349193A1-20141127-D00001.png"
+    },
+    {
+      "caption": "A simultaneously biaxial stretching process is a stretching method that uses a chuck (an biting device) to grip and fix the top and bottom sides of a sheet prepared by mixing polyolefin and a diluent, similar to thumbs and index fingers of hands of a human, and broadens the gap between chucks in both a machine direction and a transverse direction, simultaneously. In case of the simultaneously biaxial stretching process, a gap between chucks is narrow before stretching, however, broadened by a specific draw ratio after stretching, thus increasing an area not gripped by the chucks (see FIG. 1 ). Such a non-gripped area has a lower actual stretching ratio than that of a gripped area, to cause non-uniformity in qualities between the gripped area and the non-gripped area. The above tendency is more serious in the case where a stretching ratio is increased, a stretching temperature is decreased for enhancing a mechanical strength, and a sheet before stretching has a relatively large thickness, or the like. For this reason, when a thick film, having a high strength is fabricated by the simultaneously biaxial stretching process, a problem of deteriorated uniformity in quality may be encountered. As the application of lithium ion secondary batteries is increased from small electronics to laptop computers, electronic tools, hybrid cars, or the like, a battery separator having high strength and a high thickness is required. Therefore, when a microporous film is fabricated, a stretching ratio and/or a thickness of a sheet before stretching must be increased. However, the simultaneous biaxial drawing process has disadvantages in that quality uniformity is reduced when the sheet is thick and rigid, which can be easily disengaged from the grip chuck, thus causing a decrease in productivity stability.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/0a/88/9d/ae66ee9a0c9d60/US20140349193A1-20141127-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/b6/5c/2d/f4444072f12799/US20140349193A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"14ed788ec576594f1dbdbc77c289e825\"",
+        "last_modified": "Sun, 15 Oct 2017 18:30:05 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/c63970be62c0a6eba4f62ef897d38ba0c50e61f842ac84d70ccc3e4634b887fa.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:24:05.680850+00:00",
+        "sha256": "c63970be62c0a6eba4f62ef897d38ba0c50e61f842ac84d70ccc3e4634b887fa",
+        "source": "patent_pdf",
+        "source_id": "825d49e2b810fba5b42d65c5cbdb0e3c01c548cc546fafb037a976acb9a69e97",
+        "url": "https://patentimages.storage.googleapis.com/b6/5c/2d/f4444072f12799/US20140349193A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20140349193A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/b053960234d747666a93bb42fc9e9b45c7e15461905cc6c5c0750be6d599f076.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:24:04.733493+00:00",
+    "sha256": "b053960234d747666a93bb42fc9e9b45c7e15461905cc6c5c0750be6d599f076",
+    "source": "patents",
+    "source_id": "e3b2eeee9cd1f20bd475e9dffa4900728d5771bdbead5f44b06a4ba5a30f8a4f",
+    "url": "https://patents.google.com/patent/US20140349193A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "3e117d8422e7657b9c6dcd693a4f1080b02a590bba23d6e08333f96e8e34623d",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "e3b2eeee9cd1f20bd475e9dffa4900728d5771bdbead5f44b06a4ba5a30f8a4f",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/b053960234d747666a93bb42fc9e9b45c7e15461905cc6c5c0750be6d599f076.bin",
+      "source_id": "e3b2eeee9cd1f20bd475e9dffa4900728d5771bdbead5f44b06a4ba5a30f8a4f",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "b053960234d747666a93bb42fc9e9b45c7e15461905cc6c5c0750be6d599f076",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20140349193A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

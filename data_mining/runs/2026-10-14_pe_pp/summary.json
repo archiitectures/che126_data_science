@@ -1,0 +1,44 @@
+{
+  "separator_scalar_records": 199,
+  "separator_products": 25,
+  "by_material": {
+    "PP/PE/PP": 111,
+    "PP": 88
+  },
+  "by_property": {
+    "thickness": 25,
+    "gurley_time": 25,
+    "porosity": 25,
+    "thermal_shrinkage": 76,
+    "puncture_force": 48
+  },
+  "by_value_type": {
+    "typical": 124,
+    "calculated": 25,
+    "maximum": 26,
+    "minimum": 24
+  },
+  "exposure_temperatures_C": [
+    105.0,
+    120
+  ],
+  "unknown_temperature_records": 123,
+  "laminate_records_held_for_review": 16,
+  "bulk_thermal_aggregate_records": 26,
+  "new_bulk_aggregate_records_excluding_HDPE_LDPE": 14,
+  "bulk_thermal_temperatures_C": [
+    10.0,
+    15.0,
+    20.0,
+    30.0,
+    40.0,
+    45.0
+  ],
+  "google_status": "blocked pending explicit billing-link approval",
+  "google_executed_queries": 0,
+  "new_separator_records": 191,
+  "previously_collected_separator_records": 8,
+  "fsri_figures_archived": 45,
+  "cloud_spend_this_run_usd": 0,
+  "google_total_maximum_bytes_prepared": 100000000000
+}

@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local acquisition and document-rendering intermediates
+/tmp/
+/data/raw/
+/data/interim/
+/data/cache/
+

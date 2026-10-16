@@ -1,0 +1,524 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Real Polymer Solvent(s) for Polymer Materials"
+        ],
+        [
+          "",
+          "Polymer Material",
+          "Real Polymer Solvent(s)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "PEI",
+          "NMP"
+        ],
+        [
+          "",
+          "PVdF",
+          "NMP; DMF; DMAc"
+        ],
+        [
+          "",
+          "PES",
+          "NMP; DMF; THF"
+        ],
+        [
+          "",
+          "PSf, PPSf, PAS",
+          "NMP; DMF"
+        ],
+        [
+          "",
+          "PAN",
+          "NMP; DMF"
+        ],
+        [
+          "",
+          "PMMA",
+          "NMP; DMF; DMSO; Acetone"
+        ],
+        [
+          "",
+          "Aliphatic PA",
+          "Aqueous Acetic Acid"
+        ],
+        [
+          "",
+          "Aromatic PA",
+          "Sulfuric Acid"
+        ],
+        [
+          "",
+          "Cellulose",
+          "Ethylenediamine with dissolved KSCN"
+        ],
+        [
+          "",
+          "Cellulose Derivatives",
+          "NMP; DMF"
+        ],
+        [
+          "",
+          "PC",
+          "NMP; DMF; DMSO"
+        ],
+        [
+          "",
+          "PU",
+          "NMP; DMF; DMSO"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "NMP = N-Methyl-2-Pyrrolidone",
+          "NMP = N-Methyl-2-Pyrrolidone",
+          "NMP = N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "",
+          "DMF = Dimethyl Formamide",
+          "DMF = Dimethyl Formamide",
+          "DMF = Dimethyl Formamide"
+        ],
+        [
+          "",
+          "DMAc = Dimethylacetamide",
+          "DMAc = Dimethylacetamide",
+          "DMAc = Dimethylacetamide"
+        ],
+        [
+          "",
+          "THF = Tetrahydrofuran",
+          "THF = Tetrahydrofuran",
+          "THF = Tetrahydrofuran"
+        ],
+        [
+          "",
+          "DMSO = Dimethyl Sulfoxide",
+          "DMSO = Dimethyl Sulfoxide",
+          "DMSO = Dimethyl Sulfoxide"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Real Polymer Solvent(s) for Polymer Materials</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polymer Material</td>\n<td class=\"description-td\">Real Polymer Solvent(s)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEI</td>\n<td class=\"description-td\">NMP</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PVdF</td>\n<td class=\"description-td\">NMP; DMF; DMAc</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PES</td>\n<td class=\"description-td\">NMP; DMF; THF</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PSf, PPSf, PAS</td>\n<td class=\"description-td\">NMP; DMF</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PAN</td>\n<td class=\"description-td\">NMP; DMF</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PMMA</td>\n<td class=\"description-td\">NMP; DMF; DMSO; Acetone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Aliphatic PA</td>\n<td class=\"description-td\">Aqueous Acetic Acid</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Aromatic PA</td>\n<td class=\"description-td\">Sulfuric Acid</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cellulose</td>\n<td class=\"description-td\">Ethylenediamine with dissolved KSCN</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Cellulose Derivatives</td>\n<td class=\"description-td\">NMP; DMF</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PC</td>\n<td class=\"description-td\">NMP; DMF; DMSO</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PU</td>\n<td class=\"description-td\">NMP; DMF; DMSO</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00001\" nameend=\"2\" namest=\"offset\">NMP = N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00002\" nameend=\"2\" namest=\"offset\">DMF = Dimethyl Formamide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00003\" nameend=\"2\" namest=\"offset\">DMAc = Dimethylacetamide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00004\" nameend=\"2\" namest=\"offset\">THF = Tetrahydrofuran</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00005\" nameend=\"2\" namest=\"offset\">DMSO = Dimethyl Sulfoxide</td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "Latent Polymer Solvent(s) for Polymer Materials"
+        ],
+        [
+          "",
+          "Polymer Material",
+          "Latent Polymer Solvent(s)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "PEI",
+          "DMF; THF"
+        ],
+        [
+          "",
+          "PVdF",
+          "MIK; DMP; Acetone"
+        ],
+        [
+          "",
+          "PSf, PPSf, PAS",
+          "THF"
+        ],
+        [
+          "",
+          "PAN",
+          "Propylene Carbonate"
+        ],
+        [
+          "",
+          "PMMA",
+          "Tert-Butyl Alcohol"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "DMF = Dimethyl Formamide",
+          "DMF = Dimethyl Formamide",
+          "DMF = Dimethyl Formamide"
+        ],
+        [
+          "",
+          "THF = Tetrahydrofuran",
+          "THF = Tetrahydrofuran",
+          "THF = Tetrahydrofuran"
+        ],
+        [
+          "",
+          "MIK = Methyl Isobutyl Ketone",
+          "MIK = Methyl Isobutyl Ketone",
+          "MIK = Methyl Isobutyl Ketone"
+        ],
+        [
+          "",
+          "DMP = Dimethyl Phthalate",
+          "DMP = Dimethyl Phthalate",
+          "DMP = Dimethyl Phthalate"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Latent Polymer Solvent(s) for Polymer Materials</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polymer Material</td>\n<td class=\"description-td\">Latent Polymer Solvent(s)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEI</td>\n<td class=\"description-td\">DMF; THF</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PVdF</td>\n<td class=\"description-td\">MIK; DMP; Acetone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PSf, PPSf, PAS</td>\n<td class=\"description-td\">THF</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PAN</td>\n<td class=\"description-td\">Propylene Carbonate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PMMA</td>\n<td class=\"description-td\">Tert-Butyl Alcohol</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00006\" nameend=\"2\" namest=\"offset\">DMF = Dimethyl Formamide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00007\" nameend=\"2\" namest=\"offset\">THF = Tetrahydrofuran</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00008\" nameend=\"2\" namest=\"offset\">MIK = Methyl Isobutyl Ketone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00009\" nameend=\"2\" namest=\"offset\">DMP = Dimethyl Phthalate</td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3"
+        ],
+        [
+          ""
+        ],
+        [
+          "Real Polymer Solvent(s) and"
+        ],
+        [
+          "Polymer Non-Solvent(s) for Polymer Materials"
+        ],
+        [
+          "",
+          "",
+          "Polymer"
+        ],
+        [
+          "Polymer Material",
+          "Real Polymer Solvent(s)",
+          "Non-Solvent(s)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "PEI",
+          "NMP",
+          "Water; Ac; Al"
+        ],
+        [
+          "PVdF",
+          "NMP; DMF; THF",
+          "Water; Al"
+        ],
+        [
+          "PES",
+          "NMP; DMF; THF",
+          "Water; Ac; Al"
+        ],
+        [
+          "PSf, PPSf, PAS",
+          "NMP; DMF",
+          "Water; Ac; Al"
+        ],
+        [
+          "PAN",
+          "NMP; DMF",
+          "Water; Ac; Al"
+        ],
+        [
+          "PMMA",
+          "NMP; DMF; DMSO; Acetone",
+          "Water; Al"
+        ],
+        [
+          "Aliphatic PA",
+          "Aqueous Acetic Acid",
+          "Water; Al"
+        ],
+        [
+          "Aromatic PA",
+          "Sulfuric Acid",
+          "Water"
+        ],
+        [
+          "Cellulose",
+          "Ethylenediamine with",
+          "Water; Al"
+        ],
+        [
+          "",
+          "dissolved KSCN",
+          ""
+        ],
+        [
+          "Cellulose Derivatives",
+          "NMP; DMF",
+          "Water"
+        ],
+        [
+          "PC",
+          "NMP; DMF; DMSO",
+          "Water; Al"
+        ],
+        [
+          "PU",
+          "NMP; DMF; DMSO",
+          "Water"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "NMP = N-Methyl-2-Pyrrolidone",
+          "NMP = N-Methyl-2-Pyrrolidone",
+          "NMP = N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "DMF = Dimethyl Formamide",
+          "DMF = Dimethyl Formamide",
+          "DMF = Dimethyl Formamide"
+        ],
+        [
+          "THF = Tetrahydrofuran",
+          "THF = Tetrahydrofuran",
+          "THF = Tetrahydrofuran"
+        ],
+        [
+          "DMSO = Dimethyl Sulfoxide",
+          "DMSO = Dimethyl Sulfoxide",
+          "DMSO = Dimethyl Sulfoxide"
+        ],
+        [
+          "Ac = Acetone",
+          "Ac = Acetone",
+          "Ac = Acetone"
+        ],
+        [
+          "Al = C1-C6 aliphatic alcohol",
+          "Al = C1-C6 aliphatic alcohol",
+          "Al = C1-C6 aliphatic alcohol"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 3</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Real Polymer Solvent(s) and</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polymer Non-Solvent(s) for Polymer Materials</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polymer Material</td>\n<td class=\"description-td\">Real Polymer Solvent(s)</td>\n<td class=\"description-td\">Non-Solvent(s)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PEI</td>\n<td class=\"description-td\">NMP</td>\n<td class=\"description-td\">Water; Ac; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PVdF</td>\n<td class=\"description-td\">NMP; DMF; THF</td>\n<td class=\"description-td\">Water; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PES</td>\n<td class=\"description-td\">NMP; DMF; THF</td>\n<td class=\"description-td\">Water; Ac; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PSf, PPSf, PAS</td>\n<td class=\"description-td\">NMP; DMF</td>\n<td class=\"description-td\">Water; Ac; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PAN</td>\n<td class=\"description-td\">NMP; DMF</td>\n<td class=\"description-td\">Water; Ac; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PMMA</td>\n<td class=\"description-td\">NMP; DMF; DMSO; Acetone</td>\n<td class=\"description-td\">Water; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Aliphatic PA</td>\n<td class=\"description-td\">Aqueous Acetic Acid</td>\n<td class=\"description-td\">Water; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Aromatic PA</td>\n<td class=\"description-td\">Sulfuric Acid</td>\n<td class=\"description-td\">Water</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Cellulose</td>\n<td class=\"description-td\">Ethylenediamine with </td>\n<td class=\"description-td\">Water; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">dissolved KSCN</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Cellulose Derivatives</td>\n<td class=\"description-td\">NMP; DMF</td>\n<td class=\"description-td\">Water</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PC</td>\n<td class=\"description-td\">NMP; DMF; DMSO</td>\n<td class=\"description-td\">Water; Al</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PU</td>\n<td class=\"description-td\">NMP; DMF; DMSO</td>\n<td class=\"description-td\">Water</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00010\" nameend=\"3\" namest=\"1\">NMP = N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00011\" nameend=\"3\" namest=\"1\">DMF = Dimethyl Formamide</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00012\" nameend=\"3\" namest=\"1\">THF = Tetrahydrofuran</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00013\" nameend=\"3\" namest=\"1\">DMSO = Dimethyl Sulfoxide</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00014\" nameend=\"3\" namest=\"1\">Ac = Acetone</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"3\" id=\"FOO-00015\" nameend=\"3\" namest=\"1\">Al = C1-C6 aliphatic alcohol</td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4"
+        ],
+        [
+          ""
+        ],
+        [
+          "Polymer Solvent(s) and Polymer"
+        ],
+        [
+          "Non-Solvent(s) for Polymer Materials"
+        ],
+        [
+          "Polymer",
+          "Polymer",
+          "Polymer"
+        ],
+        [
+          "Material",
+          "Solvent(s)",
+          "Non-Solvent(s)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "PVdF",
+          "Acetone (latent)",
+          "Water"
+        ],
+        [
+          "PMMA",
+          "Acetone (real)",
+          "Water"
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 4</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polymer Solvent(s) and Polymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Non-Solvent(s) for Polymer Materials</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Polymer</td>\n<td class=\"description-td\">Polymer</td>\n<td class=\"description-td\">Polymer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Material</td>\n<td class=\"description-td\">Solvent(s)</td>\n<td class=\"description-td\">Non-Solvent(s)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PVdF</td>\n<td class=\"description-td\">Acetone (latent)</td>\n<td class=\"description-td\">Water</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PMMA</td>\n<td class=\"description-td\">Acetone (real)</td>\n<td class=\"description-td\">Water</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective view of a porous polymer separator layer for use in an electrochemical battery cell of a secondary liquid-electrolyte battery. FIG. 2 is a generalized cross-sectional view of the porous polymer separator layer shown in FIG. 1 taken along the line 2 - 2 . FIG. 3 is a generalized and partially magnified cross-sectional view of the porous polymer separator layer taken from the encircled portion of FIG. 2 and identified by the numeral 3 . FIG. 4 is a general and diagrammatic depiction of a phase-separation process for making the porous polymer separator layer shown in FIGS. 1-3 . FIG. 5 is a generalized cross-sectional view of an electrochemical battery cell for a lithium ion battery that includes a negative electrode, a positive electrode, and the porous polymer separator layer depicted in FIGS. 1-3 disposed between the negative and positive electrodes. FIG. 6 is a generalized and schematic illustration of a lithium ion battery that includes several of the electrochemical battery cells depicted in FIG. 5 . The porous polymer separator layer 10 , as shown best in FIG. 2 , has a cross-section spanning its width 200 that exhibits a non-uniform thickness. This cross-section includes the first edge 12 , which has a first height 400 , and the second edge 14 , which has a second height 500 . These first and second edge heights 400 , 500 establish the spacing between the first and second major faces 16 , 18 and, consequently, the thickness 300 of the porous polymer separator layer 10 at the first and second edges 12 , 14 , respectively. Moreover, in terms of their relationship, the height 400 of the first edge 12 is greater than the height 500 of the second edge 14 such that the thickness 300 of the porous polymer separator 10 decreases from the first edge 12 to the second edge 14 as the major faces 16 , 18 converge towards one another. The difference between the heights 400 , 500 of the first and second edges 12 , 14 is not a random variation that falls within an acceptable tolerance range usually associated with a uniform cross-sectional thickness; rather, it is meant and controlled to be more pronounced. The height 400 of the first edge 12 , more specifically, in a preferred embodiment, is about 2% to about 50% greater than the height 500 of the second edge 14 , more preferably about 5% to about 40% greater, and most preferably about 5% to about 30% greater. In order to accommodate the internal communication of lithium ions, a porosity that traverses the thickness 300 of the porous polymer separator layer 10 and connects the opposed first and second major faces 16 , 18 is provided within polymer matrix 20 . The term “porosity” as used here refers to the volume percentage of the porous polymer separator layer 10 within the polymer matrix 20 that is occupied by pores 22 , which are depicted generally in FIG. 3 although not necessarily to scale. These pores 22 may vary in size, shape, and spacing. But collectively they are generally small enough and sufficiently distributed to prevent contact between the confronting surfaces of the negative and positive electrodes the separator layer 10 is meant to separate yet still large enough and adequately interconnected to contain a liquid electrolyte and facilitate lithium ion mobility. A notable proportion of the pores, for instance, preferably has at least one cross-sectional dimension sized between 0.01 to 2.0 μm, although such a size range is not exclusive or even necessary to ensure proper operability of the porous polymer separator layer 10 . Larger and smaller cross-sectional pore sizes may be present depending on the thickness 300 of the porous polymer separator layer 10 , the particular lithium ion battery application in which the porous polymer separator layer 10 is employed, and various other considerations known to skilled artisans. The porosity of the porous polymer separator layer 10 as a whole is preferably anywhere between about 30% and about 90% and most preferably between about 40% and 70%. The porosity may be distributed such that lithium ions can be communicated through the thickness 300 of the porous polymer separator layer 10 coextensively between the first and second opposed major faces 16 , 18 when the separator layer 10 is infiltrated with a liquid electrolyte. The porosity may further be evenly distributed throughout the porous polymer separator layer 10 . An evenly distributed porosity would be present if, referring for the moment back to FIG. 2 , the cross-section taken across the width 200 of the porous polymer separator layer 10 is divided vertically along the thickness 300 direction into two segments of equal width, one that includes the first edge 12 (segment 1 ) and one that includes the second edge 14 (segment 2 ), and the porosity of those segments as measured by any suitable technique, such as mercury porosimetry, deviates from the porosity of the porous polymer separator layer 10 as a whole by no more than 3%. For example, if the entire porous polymer separator layer 10 has a porosity of 60%, and a segment 1 and a segment 2 of the porous polymer separator layer 10 are obtained as just described, and each of those segments has a porosity within the range of 57% to 63%, then the porous polymer separator layer 10 can be said to have an evenly distributed porosity. One or more types of particles 24 having a melting temperature equal to or higher than the melting temperature of the polymer matrix 20 may be dispersed, if desired, within the polymer matrix 20 , as depicted generally in FIG. 3 . The presence of such particles 24 may improve mechanical properties and enhance lithium ion conductance through the porous polymer separator layer 10 by helping open the pores 22 that furnish the separator layer 10 with its porosity. Some particular types of particles 24 that may be employed include ceramic particles, cross-linked thermoset polymer particles, and engineering thermoplastic polymer particles, to name but a few examples. Exactly how much of the particles 24 are dispersed within the polymer matrix 20 is subject to a wide variance. In many instances, however, the particles 24 are preferably present in an amount that ranges from about 0 wt. % to about 400 wt. % of the polymer matrix 20 ; that is, the porous polymer separator layer 10 may comprise, by weight, up to about 80% of the dispersed particles 24 based on the total weight of the polymer matrix 20 and the particles 24 . A preferred particle diameter for the particles 24 is about 0.005 μm to about 15 μm and, most preferably, from about 0.05 μm to about 3 μm. The porous polymer separator layer 10 is made by the phase-separation process shown generally and diagrammatically in FIG. 4 . This process includes (1) forming a film 110 , which has a cross-section with a non-uniform thickness, from a polymer solution that comprises a polymer material dissolved in a polymer solvent and (2) precipitating the polymer material present in the film 110 into the porous polymer separator layer 10 . The phase-separation process may be accomplished according to any of a variety of embodiments. In particular, several different techniques may be employed to precipitate the porous polymer separator layer 10 from the film 110 depending on the polymer material selected to make the separator layer 10 , the polymer solvents that are available for dissolving the selected polymer material, and the practicalities that accompany such precipitation techniques, to name but a few factors. The porous polymer separator layer 10 is also preferably dried before being incorporated into an electrochemical battery cell of a lithium ion battery. The dissolved polymer material may be precipitated into the porous polymer separator layer 10 by rendering the polymer material insoluble in the polymer solution. Such precipitation causes the film 110 to shrink progressively as more polymer material precipitates until eventually the porous polymer separator layer 10 is formed, as shown in FIG. 4 , and also cultivates the porosity of the porous polymer separator layer 10 . In other words, the first edge 12 , the second edge 14 , the first major face 16 , and the second major face 18 of the porous polymer separator layer 10 are derived, respectively, from the first edge 112 , the second edge 114 , the first major face 116 , and the second major face 118 of the film 110 . The height relationship originally devised between the first and second edges 112 , 114 of the film 110 is also maintained during precipitation of the polymer material such that the height 400 of the first edge 12 of the porous polymer separator layer 10 is greater than the height 500 of the second edge 14 as previously described. The porous polymer separator layer 10 may be assembled into an electrochemical battery cell 40 of a lithium ion battery as depicted, for example, in the exploded cross-sectional view of FIG. 5 . The electrochemical battery cell 40 includes a negative electrode 42 , a positive electrode 44 , and the porous polymer separator layer 10 disposed between the two electrodes 42 , 44 . The negative electrode 42 includes an inner face surface 46 and an outer face surface 48 relative to the location of the porous polymer separator layer 10 . The positive electrode 44 similarly includes an inner face surface 50 and an outer face surface 52 . And when assembled into the electrochemical battery cell 40 , the inner face surfaces 46 , 50 of the negative and positive electrodes 42 , 44 confront one another and are pressed against the second major face 18 and the first major face 16 of the porous polymer separator layer 10 , respectively, as shown. Of course other arrangements of the porous polymer separator layer 10 are possible. For instance, the porous polymer separator layer 10 could be arranged so that the inner face surface 46 of the negative electrode 42 is pressed against the first major face 16 of the separator layer 10 and the inner face surface 50 of the positive electrode 44 is pressed against the second major face 18 . The porous polymer separator layer 10 may also be combined with other materials or layers to form a multi-component composite separator in which one or both of the first and second major faces 16 , 18 is no longer pressed against their respective electrode inner face surfaces 46 , 50 . The electrochemical battery cell 40 may be connected to a plurality of other similarly constructed electrochemical battery cells 40 to produce a lithium ion battery 70 as shown in FIG. 6 . Anywhere from five to fifty of the electrochemical battery cells 40 are typically connected in series (although a parallel connection is also permitted) to form a battery cell pack 72 that includes a thick end 74 and a thin end 76 in the stacking direction of the cells 10 . The thick end 74 of the cell pack 72 is the end that includes alignment of the first edges 12 of the porous polymer separators 10 and, conversely, the thin end 76 of the cell pack 72 is the end that includes alignment of the second edges 14 . Several of the battery cell packs 72 may be further connected in series or in parallel to provide the lithium ion battery 70 with the voltage and current capacity demanded for a particular vehicle application. A total of 20 to 150 electrochemical battery cells 40 are typically included in the lithium ion battery 70 if the battery 70 is intended to be used as an on-board a power source for a HEV or an EREV. To maintain an overall rectangular shape of the lithium ion battery 70 , moreover, a pair of adjacent battery cell packs 72 may be aligned with the thick end 74 of the cell pack 72 diametrically opposed to the thin end 76 of the other cell pack 72 . While the lithium ion battery 70 shown in FIG. 6 includes several battery cell packs 72 arranged with diametrically opposed thick and thin ends 74 , 76 —with each of the cell packs 72 including several modularly-stacked electrochemical battery cells 40 —it should be understood the illustrated lithium ion battery 70 is a schematic representation of only one possible configuration. FIG. 6 is not intended to inform the relative sizes of the electrochemical battery cells' components or to limit the wide variety of structural configurations the lithium ion battery 70 may assume. Various structural modifications to the lithium ion battery 70 shown in FIG. 6 are possible, despite what is explicitly illustrated, as is well understood by skilled artisans. For example, the battery cell packs 72 could just as easily be arranged with their thick ends 74 adjacent to one another and their thin ends 76 adjacent to one another such that the lithium ion battery assumes a donut-shaped configuration instead of the rectangular configuration shown in FIG. 6 .",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/c3/ba/77/853c10a4bb5db5/US08455140-20130604-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective view of a porous polymer separator layer for use in an electrochemical battery cell of a secondary liquid-electrolyte battery. FIG. 2 is a generalized cross-sectional view of the porous polymer separator layer shown in FIG. 1 taken along the line 2 - 2 . FIG. 3 is a generalized and partially magnified cross-sectional view of the porous polymer separator layer taken from the encircled portion of FIG. 2 and identified by the numeral 3 . FIG. 4 is a general and diagrammatic depiction of a phase-separation process for making the porous polymer separator layer shown in FIGS. 1-3 . FIG. 5 is a generalized cross-sectional view of an electrochemical battery cell for a lithium ion battery that includes a negative electrode, a positive electrode, and the porous polymer separator layer depicted in FIGS. 1-3 disposed between the negative and positive electrodes. FIG. 6 is a generalized and schematic illustration of a lithium ion battery that includes several of the electrochemical battery cells depicted in FIG. 5 . The porous polymer separator layer 10 , as shown best in FIG. 2 , has a cross-section spanning its width 200 that exhibits a non-uniform thickness. This cross-section includes the first edge 12 , which has a first height 400 , and the second edge 14 , which has a second height 500 . These first and second edge heights 400 , 500 establish the spacing between the first and second major faces 16 , 18 and, consequently, the thickness 300 of the porous polymer separator layer 10 at the first and second edges 12 , 14 , respectively. Moreover, in terms of their relationship, the height 400 of the first edge 12 is greater than the height 500 of the second edge 14 such that the thickness 300 of the porous polymer separator 10 decreases from the first edge 12 to the second edge 14 as the major faces 16 , 18 converge towards one another. The difference between the heights 400 , 500 of the first and second edges 12 , 14 is not a random variation that falls within an acceptable tolerance range usually associated with a uniform cross-sectional thickness; rather, it is meant and controlled to be more pronounced. The height 400 of the first edge 12 , more specifically, in a preferred embodiment, is about 2% to about 50% greater than the height 500 of the second edge 14 , more preferably about 5% to about 40% greater, and most preferably about 5% to about 30% greater. In order to accommodate the internal communication of lithium ions, a porosity that traverses the thickness 300 of the porous polymer separator layer 10 and connects the opposed first and second major faces 16 , 18 is provided within polymer matrix 20 . The term “porosity” as used here refers to the volume percentage of the porous polymer separator layer 10 within the polymer matrix 20 that is occupied by pores 22 , which are depicted generally in FIG. 3 although not necessarily to scale. These pores 22 may vary in size, shape, and spacing. But collectively they are generally small enough and sufficiently distributed to prevent contact between the confronting surfaces of the negative and positive electrodes the separator layer 10 is meant to separate yet still large enough and adequately interconnected to contain a liquid electrolyte and facilitate lithium ion mobility. A notable proportion of the pores, for instance, preferably has at least one cross-sectional dimension sized between 0.01 to 2.0 μm, although such a size range is not exclusive or even necessary to ensure proper operability of the porous polymer separator layer 10 . Larger and smaller cross-sectional pore sizes may be present depending on the thickness 300 of the porous polymer separator layer 10 , the particular lithium ion battery application in which the porous polymer separator layer 10 is employed, and various other considerations known to skilled artisans. The porosity of the porous polymer separator layer 10 as a whole is preferably anywhere between about 30% and about 90% and most preferably between about 40% and 70%. The porosity may be distributed such that lithium ions can be communicated through the thickness 300 of the porous polymer separator layer 10 coextensively between the first and second opposed major faces 16 , 18 when the separator layer 10 is infiltrated with a liquid electrolyte. The porosity may further be evenly distributed throughout the porous polymer separator layer 10 . An evenly distributed porosity would be present if, referring for the moment back to FIG. 2 , the cross-section taken across the width 200 of the porous polymer separator layer 10 is divided vertically along the thickness 300 direction into two segments of equal width, one that includes the first edge 12 (segment 1 ) and one that includes the second edge 14 (segment 2 ), and the porosity of those segments as measured by any suitable technique, such as mercury porosimetry, deviates from the porosity of the porous polymer separator layer 10 as a whole by no more than 3%. For example, if the entire porous polymer separator layer 10 has a porosity of 60%, and a segment 1 and a segment 2 of the porous polymer separator layer 10 are obtained as just described, and each of those segments has a porosity within the range of 57% to 63%, then the porous polymer separator layer 10 can be said to have an evenly distributed porosity. One or more types of particles 24 having a melting temperature equal to or higher than the melting temperature of the polymer matrix 20 may be dispersed, if desired, within the polymer matrix 20 , as depicted generally in FIG. 3 . The presence of such particles 24 may improve mechanical properties and enhance lithium ion conductance through the porous polymer separator layer 10 by helping open the pores 22 that furnish the separator layer 10 with its porosity. Some particular types of particles 24 that may be employed include ceramic particles, cross-linked thermoset polymer particles, and engineering thermoplastic polymer particles, to name but a few examples. Exactly how much of the particles 24 are dispersed within the polymer matrix 20 is subject to a wide variance. In many instances, however, the particles 24 are preferably present in an amount that ranges from about 0 wt. % to about 400 wt. % of the polymer matrix 20 ; that is, the porous polymer separator layer 10 may comprise, by weight, up to about 80% of the dispersed particles 24 based on the total weight of the polymer matrix 20 and the particles 24 . A preferred particle diameter for the particles 24 is about 0.005 μm to about 15 μm and, most preferably, from about 0.05 μm to about 3 μm. The porous polymer separator layer 10 is made by the phase-separation process shown generally and diagrammatically in FIG. 4 . This process includes (1) forming a film 110 , which has a cross-section with a non-uniform thickness, from a polymer solution that comprises a polymer material dissolved in a polymer solvent and (2) precipitating the polymer material present in the film 110 into the porous polymer separator layer 10 . The phase-separation process may be accomplished according to any of a variety of embodiments. In particular, several different techniques may be employed to precipitate the porous polymer separator layer 10 from the film 110 depending on the polymer material selected to make the separator layer 10 , the polymer solvents that are available for dissolving the selected polymer material, and the practicalities that accompany such precipitation techniques, to name but a few factors. The porous polymer separator layer 10 is also preferably dried before being incorporated into an electrochemical battery cell of a lithium ion battery. The dissolved polymer material may be precipitated into the porous polymer separator layer 10 by rendering the polymer material insoluble in the polymer solution. Such precipitation causes the film 110 to shrink progressively as more polymer material precipitates until eventually the porous polymer separator layer 10 is formed, as shown in FIG. 4 , and also cultivates the porosity of the porous polymer separator layer 10 . In other words, the first edge 12 , the second edge 14 , the first major face 16 , and the second major face 18 of the porous polymer separator layer 10 are derived, respectively, from the first edge 112 , the second edge 114 , the first major face 116 , and the second major face 118 of the film 110 . The height relationship originally devised between the first and second edges 112 , 114 of the film 110 is also maintained during precipitation of the polymer material such that the height 400 of the first edge 12 of the porous polymer separator layer 10 is greater than the height 500 of the second edge 14 as previously described. The porous polymer separator layer 10 may be assembled into an electrochemical battery cell 40 of a lithium ion battery as depicted, for example, in the exploded cross-sectional view of FIG. 5 . The electrochemical battery cell 40 includes a negative electrode 42 , a positive electrode 44 , and the porous polymer separator layer 10 disposed between the two electrodes 42 , 44 . The negative electrode 42 includes an inner face surface 46 and an outer face surface 48 relative to the location of the porous polymer separator layer 10 . The positive electrode 44 similarly includes an inner face surface 50 and an outer face surface 52 . And when assembled into the electrochemical battery cell 40 , the inner face surfaces 46 , 50 of the negative and positive electrodes 42 , 44 confront one another and are pressed against the second major face 18 and the first major face 16 of the porous polymer separator layer 10 , respectively, as shown. Of course other arrangements of the porous polymer separator layer 10 are possible. For instance, the porous polymer separator layer 10 could be arranged so that the inner face surface 46 of the negative electrode 42 is pressed against the first major face 16 of the separator layer 10 and the inner face surface 50 of the positive electrode 44 is pressed against the second major face 18 . The porous polymer separator layer 10 may also be combined with other materials or layers to form a multi-component composite separator in which one or both of the first and second major faces 16 , 18 is no longer pressed against their respective electrode inner face surfaces 46 , 50 . The electrochemical battery cell 40 may be connected to a plurality of other similarly constructed electrochemical battery cells 40 to produce a lithium ion battery 70 as shown in FIG. 6 . Anywhere from five to fifty of the electrochemical battery cells 40 are typically connected in series (although a parallel connection is also permitted) to form a battery cell pack 72 that includes a thick end 74 and a thin end 76 in the stacking direction of the cells 10 . The thick end 74 of the cell pack 72 is the end that includes alignment of the first edges 12 of the porous polymer separators 10 and, conversely, the thin end 76 of the cell pack 72 is the end that includes alignment of the second edges 14 . Several of the battery cell packs 72 may be further connected in series or in parallel to provide the lithium ion battery 70 with the voltage and current capacity demanded for a particular vehicle application. A total of 20 to 150 electrochemical battery cells 40 are typically included in the lithium ion battery 70 if the battery 70 is intended to be used as an on-board a power source for a HEV or an EREV. To maintain an overall rectangular shape of the lithium ion battery 70 , moreover, a pair of adjacent battery cell packs 72 may be aligned with the thick end 74 of the cell pack 72 diametrically opposed to the thin end 76 of the other cell pack 72 . While the lithium ion battery 70 shown in FIG. 6 includes several battery cell packs 72 arranged with diametrically opposed thick and thin ends 74 , 76 —with each of the cell packs 72 including several modularly-stacked electrochemical battery cells 40 —it should be understood the illustrated lithium ion battery 70 is a schematic representation of only one possible configuration. FIG. 6 is not intended to inform the relative sizes of the electrochemical battery cells' components or to limit the wide variety of structural configurations the lithium ion battery 70 may assume. Various structural modifications to the lithium ion battery 70 shown in FIG. 6 are possible, despite what is explicitly illustrated, as is well understood by skilled artisans. For example, the battery cell packs 72 could just as easily be arranged with their thick ends 74 adjacent to one another and their thin ends 76 adjacent to one another such that the lithium ion battery assumes a donut-shaped configuration instead of the rectangular configuration shown in FIG. 6 .",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/3d/d5/ec/e092106ac4d49f/US08455140-20130604-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective view of a porous polymer separator layer for use in an electrochemical battery cell of a secondary liquid-electrolyte battery. FIG. 2 is a generalized cross-sectional view of the porous polymer separator layer shown in FIG. 1 taken along the line 2 - 2 . FIG. 3 is a generalized and partially magnified cross-sectional view of the porous polymer separator layer taken from the encircled portion of FIG. 2 and identified by the numeral 3 . FIG. 4 is a general and diagrammatic depiction of a phase-separation process for making the porous polymer separator layer shown in FIGS. 1-3 . FIG. 5 is a generalized cross-sectional view of an electrochemical battery cell for a lithium ion battery that includes a negative electrode, a positive electrode, and the porous polymer separator layer depicted in FIGS. 1-3 disposed between the negative and positive electrodes. FIG. 6 is a generalized and schematic illustration of a lithium ion battery that includes several of the electrochemical battery cells depicted in FIG. 5 . The porous polymer separator layer 10 , as shown best in FIG. 2 , has a cross-section spanning its width 200 that exhibits a non-uniform thickness. This cross-section includes the first edge 12 , which has a first height 400 , and the second edge 14 , which has a second height 500 . These first and second edge heights 400 , 500 establish the spacing between the first and second major faces 16 , 18 and, consequently, the thickness 300 of the porous polymer separator layer 10 at the first and second edges 12 , 14 , respectively. Moreover, in terms of their relationship, the height 400 of the first edge 12 is greater than the height 500 of the second edge 14 such that the thickness 300 of the porous polymer separator 10 decreases from the first edge 12 to the second edge 14 as the major faces 16 , 18 converge towards one another. The difference between the heights 400 , 500 of the first and second edges 12 , 14 is not a random variation that falls within an acceptable tolerance range usually associated with a uniform cross-sectional thickness; rather, it is meant and controlled to be more pronounced. The height 400 of the first edge 12 , more specifically, in a preferred embodiment, is about 2% to about 50% greater than the height 500 of the second edge 14 , more preferably about 5% to about 40% greater, and most preferably about 5% to about 30% greater. In order to accommodate the internal communication of lithium ions, a porosity that traverses the thickness 300 of the porous polymer separator layer 10 and connects the opposed first and second major faces 16 , 18 is provided within polymer matrix 20 . The term “porosity” as used here refers to the volume percentage of the porous polymer separator layer 10 within the polymer matrix 20 that is occupied by pores 22 , which are depicted generally in FIG. 3 although not necessarily to scale. These pores 22 may vary in size, shape, and spacing. But collectively they are generally small enough and sufficiently distributed to prevent contact between the confronting surfaces of the negative and positive electrodes the separator layer 10 is meant to separate yet still large enough and adequately interconnected to contain a liquid electrolyte and facilitate lithium ion mobility. A notable proportion of the pores, for instance, preferably has at least one cross-sectional dimension sized between 0.01 to 2.0 μm, although such a size range is not exclusive or even necessary to ensure proper operability of the porous polymer separator layer 10 . Larger and smaller cross-sectional pore sizes may be present depending on the thickness 300 of the porous polymer separator layer 10 , the particular lithium ion battery application in which the porous polymer separator layer 10 is employed, and various other considerations known to skilled artisans. The porosity of the porous polymer separator layer 10 as a whole is preferably anywhere between about 30% and about 90% and most preferably between about 40% and 70%. The porosity may be distributed such that lithium ions can be communicated through the thickness 300 of the porous polymer separator layer 10 coextensively between the first and second opposed major faces 16 , 18 when the separator layer 10 is infiltrated with a liquid electrolyte. The porosity may further be evenly distributed throughout the porous polymer separator layer 10 . An evenly distributed porosity would be present if, referring for the moment back to FIG. 2 , the cross-section taken across the width 200 of the porous polymer separator layer 10 is divided vertically along the thickness 300 direction into two segments of equal width, one that includes the first edge 12 (segment 1 ) and one that includes the second edge 14 (segment 2 ), and the porosity of those segments as measured by any suitable technique, such as mercury porosimetry, deviates from the porosity of the porous polymer separator layer 10 as a whole by no more than 3%. For example, if the entire porous polymer separator layer 10 has a porosity of 60%, and a segment 1 and a segment 2 of the porous polymer separator layer 10 are obtained as just described, and each of those segments has a porosity within the range of 57% to 63%, then the porous polymer separator layer 10 can be said to have an evenly distributed porosity. One or more types of particles 24 having a melting temperature equal to or higher than the melting temperature of the polymer matrix 20 may be dispersed, if desired, within the polymer matrix 20 , as depicted generally in FIG. 3 . The presence of such particles 24 may improve mechanical properties and enhance lithium ion conductance through the porous polymer separator layer 10 by helping open the pores 22 that furnish the separator layer 10 with its porosity. Some particular types of particles 24 that may be employed include ceramic particles, cross-linked thermoset polymer particles, and engineering thermoplastic polymer particles, to name but a few examples. Exactly how much of the particles 24 are dispersed within the polymer matrix 20 is subject to a wide variance. In many instances, however, the particles 24 are preferably present in an amount that ranges from about 0 wt. % to about 400 wt. % of the polymer matrix 20 ; that is, the porous polymer separator layer 10 may comprise, by weight, up to about 80% of the dispersed particles 24 based on the total weight of the polymer matrix 20 and the particles 24 . A preferred particle diameter for the particles 24 is about 0.005 μm to about 15 μm and, most preferably, from about 0.05 μm to about 3 μm. The porous polymer separator layer 10 is made by the phase-separation process shown generally and diagrammatically in FIG. 4 . This process includes (1) forming a film 110 , which has a cross-section with a non-uniform thickness, from a polymer solution that comprises a polymer material dissolved in a polymer solvent and (2) precipitating the polymer material present in the film 110 into the porous polymer separator layer 10 . The phase-separation process may be accomplished according to any of a variety of embodiments. In particular, several different techniques may be employed to precipitate the porous polymer separator layer 10 from the film 110 depending on the polymer material selected to make the separator layer 10 , the polymer solvents that are available for dissolving the selected polymer material, and the practicalities that accompany such precipitation techniques, to name but a few factors. The porous polymer separator layer 10 is also preferably dried before being incorporated into an electrochemical battery cell of a lithium ion battery. The dissolved polymer material may be precipitated into the porous polymer separator layer 10 by rendering the polymer material insoluble in the polymer solution. Such precipitation causes the film 110 to shrink progressively as more polymer material precipitates until eventually the porous polymer separator layer 10 is formed, as shown in FIG. 4 , and also cultivates the porosity of the porous polymer separator layer 10 . In other words, the first edge 12 , the second edge 14 , the first major face 16 , and the second major face 18 of the porous polymer separator layer 10 are derived, respectively, from the first edge 112 , the second edge 114 , the first major face 116 , and the second major face 118 of the film 110 . The height relationship originally devised between the first and second edges 112 , 114 of the film 110 is also maintained during precipitation of the polymer material such that the height 400 of the first edge 12 of the porous polymer separator layer 10 is greater than the height 500 of the second edge 14 as previously described. The porous polymer separator layer 10 may be assembled into an electrochemical battery cell 40 of a lithium ion battery as depicted, for example, in the exploded cross-sectional view of FIG. 5 . The electrochemical battery cell 40 includes a negative electrode 42 , a positive electrode 44 , and the porous polymer separator layer 10 disposed between the two electrodes 42 , 44 . The negative electrode 42 includes an inner face surface 46 and an outer face surface 48 relative to the location of the porous polymer separator layer 10 . The positive electrode 44 similarly includes an inner face surface 50 and an outer face surface 52 . And when assembled into the electrochemical battery cell 40 , the inner face surfaces 46 , 50 of the negative and positive electrodes 42 , 44 confront one another and are pressed against the second major face 18 and the first major face 16 of the porous polymer separator layer 10 , respectively, as shown. Of course other arrangements of the porous polymer separator layer 10 are possible. For instance, the porous polymer separator layer 10 could be arranged so that the inner face surface 46 of the negative electrode 42 is pressed against the first major face 16 of the separator layer 10 and the inner face surface 50 of the positive electrode 44 is pressed against the second major face 18 . The porous polymer separator layer 10 may also be combined with other materials or layers to form a multi-component composite separator in which one or both of the first and second major faces 16 , 18 is no longer pressed against their respective electrode inner face surfaces 46 , 50 . The electrochemical battery cell 40 may be connected to a plurality of other similarly constructed electrochemical battery cells 40 to produce a lithium ion battery 70 as shown in FIG. 6 . Anywhere from five to fifty of the electrochemical battery cells 40 are typically connected in series (although a parallel connection is also permitted) to form a battery cell pack 72 that includes a thick end 74 and a thin end 76 in the stacking direction of the cells 10 . The thick end 74 of the cell pack 72 is the end that includes alignment of the first edges 12 of the porous polymer separators 10 and, conversely, the thin end 76 of the cell pack 72 is the end that includes alignment of the second edges 14 . Several of the battery cell packs 72 may be further connected in series or in parallel to provide the lithium ion battery 70 with the voltage and current capacity demanded for a particular vehicle application. A total of 20 to 150 electrochemical battery cells 40 are typically included in the lithium ion battery 70 if the battery 70 is intended to be used as an on-board a power source for a HEV or an EREV. To maintain an overall rectangular shape of the lithium ion battery 70 , moreover, a pair of adjacent battery cell packs 72 may be aligned with the thick end 74 of the cell pack 72 diametrically opposed to the thin end 76 of the other cell pack 72 . While the lithium ion battery 70 shown in FIG. 6 includes several battery cell packs 72 arranged with diametrically opposed thick and thin ends 74 , 76 —with each of the cell packs 72 including several modularly-stacked electrochemical battery cells 40 —it should be understood the illustrated lithium ion battery 70 is a schematic representation of only one possible configuration. FIG. 6 is not intended to inform the relative sizes of the electrochemical battery cells' components or to limit the wide variety of structural configurations the lithium ion battery 70 may assume. Various structural modifications to the lithium ion battery 70 shown in FIG. 6 are possible, despite what is explicitly illustrated, as is well understood by skilled artisans. For example, the battery cell packs 72 could just as easily be arranged with their thick ends 74 adjacent to one another and their thin ends 76 adjacent to one another such that the lithium ion battery assumes a donut-shaped configuration instead of the rectangular configuration shown in FIG. 6 .",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/61/34/be/c2bd8c06735886/US08455140-20130604-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective view of a porous polymer separator layer for use in an electrochemical battery cell of a secondary liquid-electrolyte battery. FIG. 2 is a generalized cross-sectional view of the porous polymer separator layer shown in FIG. 1 taken along the line 2 - 2 . FIG. 3 is a generalized and partially magnified cross-sectional view of the porous polymer separator layer taken from the encircled portion of FIG. 2 and identified by the numeral 3 . FIG. 4 is a general and diagrammatic depiction of a phase-separation process for making the porous polymer separator layer shown in FIGS. 1-3 . FIG. 5 is a generalized cross-sectional view of an electrochemical battery cell for a lithium ion battery that includes a negative electrode, a positive electrode, and the porous polymer separator layer depicted in FIGS. 1-3 disposed between the negative and positive electrodes. FIG. 6 is a generalized and schematic illustration of a lithium ion battery that includes several of the electrochemical battery cells depicted in FIG. 5 . The porous polymer separator layer 10 , as shown best in FIG. 2 , has a cross-section spanning its width 200 that exhibits a non-uniform thickness. This cross-section includes the first edge 12 , which has a first height 400 , and the second edge 14 , which has a second height 500 . These first and second edge heights 400 , 500 establish the spacing between the first and second major faces 16 , 18 and, consequently, the thickness 300 of the porous polymer separator layer 10 at the first and second edges 12 , 14 , respectively. Moreover, in terms of their relationship, the height 400 of the first edge 12 is greater than the height 500 of the second edge 14 such that the thickness 300 of the porous polymer separator 10 decreases from the first edge 12 to the second edge 14 as the major faces 16 , 18 converge towards one another. The difference between the heights 400 , 500 of the first and second edges 12 , 14 is not a random variation that falls within an acceptable tolerance range usually associated with a uniform cross-sectional thickness; rather, it is meant and controlled to be more pronounced. The height 400 of the first edge 12 , more specifically, in a preferred embodiment, is about 2% to about 50% greater than the height 500 of the second edge 14 , more preferably about 5% to about 40% greater, and most preferably about 5% to about 30% greater. In order to accommodate the internal communication of lithium ions, a porosity that traverses the thickness 300 of the porous polymer separator layer 10 and connects the opposed first and second major faces 16 , 18 is provided within polymer matrix 20 . The term “porosity” as used here refers to the volume percentage of the porous polymer separator layer 10 within the polymer matrix 20 that is occupied by pores 22 , which are depicted generally in FIG. 3 although not necessarily to scale. These pores 22 may vary in size, shape, and spacing. But collectively they are generally small enough and sufficiently distributed to prevent contact between the confronting surfaces of the negative and positive electrodes the separator layer 10 is meant to separate yet still large enough and adequately interconnected to contain a liquid electrolyte and facilitate lithium ion mobility. A notable proportion of the pores, for instance, preferably has at least one cross-sectional dimension sized between 0.01 to 2.0 μm, although such a size range is not exclusive or even necessary to ensure proper operability of the porous polymer separator layer 10 . Larger and smaller cross-sectional pore sizes may be present depending on the thickness 300 of the porous polymer separator layer 10 , the particular lithium ion battery application in which the porous polymer separator layer 10 is employed, and various other considerations known to skilled artisans. The porosity of the porous polymer separator layer 10 as a whole is preferably anywhere between about 30% and about 90% and most preferably between about 40% and 70%. The porosity may be distributed such that lithium ions can be communicated through the thickness 300 of the porous polymer separator layer 10 coextensively between the first and second opposed major faces 16 , 18 when the separator layer 10 is infiltrated with a liquid electrolyte. The porosity may further be evenly distributed throughout the porous polymer separator layer 10 . An evenly distributed porosity would be present if, referring for the moment back to FIG. 2 , the cross-section taken across the width 200 of the porous polymer separator layer 10 is divided vertically along the thickness 300 direction into two segments of equal width, one that includes the first edge 12 (segment 1 ) and one that includes the second edge 14 (segment 2 ), and the porosity of those segments as measured by any suitable technique, such as mercury porosimetry, deviates from the porosity of the porous polymer separator layer 10 as a whole by no more than 3%. For example, if the entire porous polymer separator layer 10 has a porosity of 60%, and a segment 1 and a segment 2 of the porous polymer separator layer 10 are obtained as just described, and each of those segments has a porosity within the range of 57% to 63%, then the porous polymer separator layer 10 can be said to have an evenly distributed porosity. One or more types of particles 24 having a melting temperature equal to or higher than the melting temperature of the polymer matrix 20 may be dispersed, if desired, within the polymer matrix 20 , as depicted generally in FIG. 3 . The presence of such particles 24 may improve mechanical properties and enhance lithium ion conductance through the porous polymer separator layer 10 by helping open the pores 22 that furnish the separator layer 10 with its porosity. Some particular types of particles 24 that may be employed include ceramic particles, cross-linked thermoset polymer particles, and engineering thermoplastic polymer particles, to name but a few examples. Exactly how much of the particles 24 are dispersed within the polymer matrix 20 is subject to a wide variance. In many instances, however, the particles 24 are preferably present in an amount that ranges from about 0 wt. % to about 400 wt. % of the polymer matrix 20 ; that is, the porous polymer separator layer 10 may comprise, by weight, up to about 80% of the dispersed particles 24 based on the total weight of the polymer matrix 20 and the particles 24 . A preferred particle diameter for the particles 24 is about 0.005 μm to about 15 μm and, most preferably, from about 0.05 μm to about 3 μm. The porous polymer separator layer 10 is made by the phase-separation process shown generally and diagrammatically in FIG. 4 . This process includes (1) forming a film 110 , which has a cross-section with a non-uniform thickness, from a polymer solution that comprises a polymer material dissolved in a polymer solvent and (2) precipitating the polymer material present in the film 110 into the porous polymer separator layer 10 . The phase-separation process may be accomplished according to any of a variety of embodiments. In particular, several different techniques may be employed to precipitate the porous polymer separator layer 10 from the film 110 depending on the polymer material selected to make the separator layer 10 , the polymer solvents that are available for dissolving the selected polymer material, and the practicalities that accompany such precipitation techniques, to name but a few factors. The porous polymer separator layer 10 is also preferably dried before being incorporated into an electrochemical battery cell of a lithium ion battery. The dissolved polymer material may be precipitated into the porous polymer separator layer 10 by rendering the polymer material insoluble in the polymer solution. Such precipitation causes the film 110 to shrink progressively as more polymer material precipitates until eventually the porous polymer separator layer 10 is formed, as shown in FIG. 4 , and also cultivates the porosity of the porous polymer separator layer 10 . In other words, the first edge 12 , the second edge 14 , the first major face 16 , and the second major face 18 of the porous polymer separator layer 10 are derived, respectively, from the first edge 112 , the second edge 114 , the first major face 116 , and the second major face 118 of the film 110 . The height relationship originally devised between the first and second edges 112 , 114 of the film 110 is also maintained during precipitation of the polymer material such that the height 400 of the first edge 12 of the porous polymer separator layer 10 is greater than the height 500 of the second edge 14 as previously described. The porous polymer separator layer 10 may be assembled into an electrochemical battery cell 40 of a lithium ion battery as depicted, for example, in the exploded cross-sectional view of FIG. 5 . The electrochemical battery cell 40 includes a negative electrode 42 , a positive electrode 44 , and the porous polymer separator layer 10 disposed between the two electrodes 42 , 44 . The negative electrode 42 includes an inner face surface 46 and an outer face surface 48 relative to the location of the porous polymer separator layer 10 . The positive electrode 44 similarly includes an inner face surface 50 and an outer face surface 52 . And when assembled into the electrochemical battery cell 40 , the inner face surfaces 46 , 50 of the negative and positive electrodes 42 , 44 confront one another and are pressed against the second major face 18 and the first major face 16 of the porous polymer separator layer 10 , respectively, as shown. Of course other arrangements of the porous polymer separator layer 10 are possible. For instance, the porous polymer separator layer 10 could be arranged so that the inner face surface 46 of the negative electrode 42 is pressed against the first major face 16 of the separator layer 10 and the inner face surface 50 of the positive electrode 44 is pressed against the second major face 18 . The porous polymer separator layer 10 may also be combined with other materials or layers to form a multi-component composite separator in which one or both of the first and second major faces 16 , 18 is no longer pressed against their respective electrode inner face surfaces 46 , 50 . The electrochemical battery cell 40 may be connected to a plurality of other similarly constructed electrochemical battery cells 40 to produce a lithium ion battery 70 as shown in FIG. 6 . Anywhere from five to fifty of the electrochemical battery cells 40 are typically connected in series (although a parallel connection is also permitted) to form a battery cell pack 72 that includes a thick end 74 and a thin end 76 in the stacking direction of the cells 10 . The thick end 74 of the cell pack 72 is the end that includes alignment of the first edges 12 of the porous polymer separators 10 and, conversely, the thin end 76 of the cell pack 72 is the end that includes alignment of the second edges 14 . Several of the battery cell packs 72 may be further connected in series or in parallel to provide the lithium ion battery 70 with the voltage and current capacity demanded for a particular vehicle application. A total of 20 to 150 electrochemical battery cells 40 are typically included in the lithium ion battery 70 if the battery 70 is intended to be used as an on-board a power source for a HEV or an EREV. To maintain an overall rectangular shape of the lithium ion battery 70 , moreover, a pair of adjacent battery cell packs 72 may be aligned with the thick end 74 of the cell pack 72 diametrically opposed to the thin end 76 of the other cell pack 72 . While the lithium ion battery 70 shown in FIG. 6 includes several battery cell packs 72 arranged with diametrically opposed thick and thin ends 74 , 76 —with each of the cell packs 72 including several modularly-stacked electrochemical battery cells 40 —it should be understood the illustrated lithium ion battery 70 is a schematic representation of only one possible configuration. FIG. 6 is not intended to inform the relative sizes of the electrochemical battery cells' components or to limit the wide variety of structural configurations the lithium ion battery 70 may assume. Various structural modifications to the lithium ion battery 70 shown in FIG. 6 are possible, despite what is explicitly illustrated, as is well understood by skilled artisans. For example, the battery cell packs 72 could just as easily be arranged with their thick ends 74 adjacent to one another and their thin ends 76 adjacent to one another such that the lithium ion battery assumes a donut-shaped configuration instead of the rectangular configuration shown in FIG. 6 .",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/68/a0/3b/dfd9145d690102/US08455140-20130604-D00003.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/63/8e/70/749c9f4c9e6657/US8455140.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"6593a27b852db6c7d7d6b06b74b7b5f2\"",
+        "last_modified": "Fri, 03 Nov 2017 04:04:50 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/df8716f2e789710710b0f82c79850aad2c2b2cf15ee38bf87a5163bed237e035.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:04.461947+00:00",
+        "sha256": "df8716f2e789710710b0f82c79850aad2c2b2cf15ee38bf87a5163bed237e035",
+        "source": "patent_pdf",
+        "source_id": "aa6988312621a29059e1e0b0f63b8e05881f907e5bca066fb3a14b3a537d193d",
+        "url": "https://patentimages.storage.googleapis.com/63/8e/70/749c9f4c9e6657/US8455140.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US8455140B1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/286e3cb39dca6d44538e92c93a549f37533fa4877a11a631715d961587071ba9.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:03.241884+00:00",
+    "sha256": "286e3cb39dca6d44538e92c93a549f37533fa4877a11a631715d961587071ba9",
+    "source": "patents",
+    "source_id": "c9678f7054cff06a80c5d750f57d3fb9082705724cea50ab1f03878134d97ccb",
+    "url": "https://patents.google.com/patent/US8455140B1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "c8f483799890050755fa2bb1f19eb7d9099ec04c1976684470536c8b02acfdc9",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "c9678f7054cff06a80c5d750f57d3fb9082705724cea50ab1f03878134d97ccb",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/286e3cb39dca6d44538e92c93a549f37533fa4877a11a631715d961587071ba9.bin",
+      "source_id": "c9678f7054cff06a80c5d750f57d3fb9082705724cea50ab1f03878134d97ccb",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "286e3cb39dca6d44538e92c93a549f37533fa4877a11a631715d961587071ba9",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US8455140B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

@@ -1,0 +1,118 @@
+{
+  "artifacts": [
+    {
+      "caption": "FIG. 1 shows a schematic flow sheet of a continuous process, including optional steps, for the production of the microporous films of this invention. The resin is extruded in the maner described herein; optionally and preferably annealed; swollen in contact with a swelling agent, preferably immersed therein; stretched while still in contact with the swelling agent; swelling agent removed, preferably by evaporation, while under tension, preferably at the same extension; optionally stretched further; optionally stabilized by heat-setting while under tension or by irradiation; optionally slitting; and finally taking up the product microporous film by conventional means, such as a driven roll; trimmings from the slitting step may be recycled as can the solvent, as indicated. FIG. 2 shows electron photomicrographs of the indicated scale of the surface of the microporous polyethylene produced in Example 1. FIG. 3 shows electron photomicrographs of the indicated scale of the surface of the restretched microporous polyethylene of Example 1.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/ca/89/99/8a8f85fc49d35e/US3839516-drawings-page-1.png"
+    },
+    {
+      "caption": "FIG. 1 shows a schematic flow sheet of a continuous process, including optional steps, for the production of the microporous films of this invention. The resin is extruded in the maner described herein; optionally and preferably annealed; swollen in contact with a swelling agent, preferably immersed therein; stretched while still in contact with the swelling agent; swelling agent removed, preferably by evaporation, while under tension, preferably at the same extension; optionally stretched further; optionally stabilized by heat-setting while under tension or by irradiation; optionally slitting; and finally taking up the product microporous film by conventional means, such as a driven roll; trimmings from the slitting step may be recycled as can the solvent, as indicated. FIG. 2 shows electron photomicrographs of the indicated scale of the surface of the microporous polyethylene produced in Example 1. FIG. 3 shows electron photomicrographs of the indicated scale of the surface of the restretched microporous polyethylene of Example 1.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/5b/66/3d/5a4dd3f0e56608/US3839516-drawings-page-2.png"
+    },
+    {
+      "caption": "FIG. 1 shows a schematic flow sheet of a continuous process, including optional steps, for the production of the microporous films of this invention. The resin is extruded in the maner described herein; optionally and preferably annealed; swollen in contact with a swelling agent, preferably immersed therein; stretched while still in contact with the swelling agent; swelling agent removed, preferably by evaporation, while under tension, preferably at the same extension; optionally stretched further; optionally stabilized by heat-setting while under tension or by irradiation; optionally slitting; and finally taking up the product microporous film by conventional means, such as a driven roll; trimmings from the slitting step may be recycled as can the solvent, as indicated. FIG. 2 shows electron photomicrographs of the indicated scale of the surface of the microporous polyethylene produced in Example 1. FIG. 3 shows electron photomicrographs of the indicated scale of the surface of the restretched microporous polyethylene of Example 1.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/2a/85/6c/41ae7dbc8cccc1/US3839516-drawings-page-3.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/eb/4b/e1/e7ee684e79ca98/US3839516.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"d73947a5ed492c20ce35bfef03876bb4\"",
+        "last_modified": "Wed, 04 Oct 2017 05:04:20 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/6beb216baf5232bf66e28400d2e92ad07ac7a8b8ad5fcbce493a59f5b0f4d0cf.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:15:58.303825+00:00",
+        "sha256": "6beb216baf5232bf66e28400d2e92ad07ac7a8b8ad5fcbce493a59f5b0f4d0cf",
+        "source": "patent_pdf",
+        "source_id": "c996e5ee364bc728f4725dbdd0d9a6fabbf14eb476907f518e6ca9fa7396d39d",
+        "url": "https://patentimages.storage.googleapis.com/eb/4b/e1/e7ee684e79ca98/US3839516.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US3839516A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/9253d599158a42926c4a202f5637c59115323f65921accc47d4459b86410b14a.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:15:57.428370+00:00",
+    "sha256": "9253d599158a42926c4a202f5637c59115323f65921accc47d4459b86410b14a",
+    "source": "patents",
+    "source_id": "b948d4b6d608ab14ee0ceaa3f1b1437821dda07771e89c5d60b6b69aa4c98337",
+    "url": "https://patents.google.com/patent/US3839516A/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "58adff216028cb535d9a7010661d75c9eb7fa14c50033b2e18410a8cd2566499",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "b948d4b6d608ab14ee0ceaa3f1b1437821dda07771e89c5d60b6b69aa4c98337",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/9253d599158a42926c4a202f5637c59115323f65921accc47d4459b86410b14a.bin",
+      "source_id": "b948d4b6d608ab14ee0ceaa3f1b1437821dda07771e89c5d60b6b69aa4c98337",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "9253d599158a42926c4a202f5637c59115323f65921accc47d4459b86410b14a",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US3839516A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

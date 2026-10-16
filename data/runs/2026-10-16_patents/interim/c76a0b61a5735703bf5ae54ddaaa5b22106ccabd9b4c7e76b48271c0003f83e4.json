@@ -1,0 +1,325 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "FILM",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "THICKNESS",
+          "GURLEY"
+        ],
+        [
+          "#",
+          "PRECURSOR",
+          "POLYMERIC MATERIAL",
+          "EXTRACTABLE",
+          "(mil)",
+          "(sec)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "1",
+          "PE",
+          "4% LD102",
+          "8% DBP",
+          "1.04",
+          "25"
+        ],
+        [
+          "2",
+          "PE",
+          "8% LD102",
+          "8% DBP",
+          "2.0",
+          "20-30"
+        ],
+        [
+          "3",
+          "PE",
+          "8% LD102",
+          "16% DBP",
+          "2.1",
+          "10.0-15.0"
+        ],
+        [
+          "4",
+          "PE",
+          "8% PEWAX 1000",
+          "8% DBP",
+          "0.41",
+          "37"
+        ],
+        [
+          "5",
+          "PE",
+          "6% LDPE 102",
+          "NO",
+          "1.50",
+          "220-430"
+        ],
+        [
+          "6",
+          "PE",
+          "8% PEWAX 1000 + 1% Vistalon 878",
+          "NO",
+          "1.32",
+          "60"
+        ],
+        [
+          "7",
+          "PE",
+          "6% PEWAX 1000 + 2% X-1147",
+          "NO",
+          "0.66",
+          "54"
+        ],
+        [
+          "8",
+          "PE",
+          "LLDPE (laminating in PE)",
+          "NO",
+          "1.96",
+          "46.3"
+        ],
+        [
+          "9",
+          "PP",
+          "LLDPE (laminating in PP)",
+          "NO",
+          "2.09",
+          "43.1"
+        ],
+        [
+          "10",
+          "PE",
+          "4% PEWAX 1000 + 2% MAPEG 400 DS",
+          "",
+          "0.64",
+          "24"
+        ],
+        [
+          "11",
+          "PE",
+          "4% PEWAX 1000 + 2% MAPEG 400 DS",
+          "",
+          "0.59",
+          "30"
+        ],
+        [
+          "12",
+          "PP",
+          "4% PEWAX 1000 + 2% MAPEG 400 DS",
+          "",
+          "0.67",
+          "37"
+        ],
+        [
+          "13",
+          "PP",
+          "4% PP CHLORINATED",
+          "4% DBP",
+          "0.40",
+          "52"
+        ],
+        [
+          "14",
+          "PE",
+          "4% PP CHLORINATED",
+          "4% DBP",
+          "0.37",
+          "28"
+        ],
+        [
+          "15",
+          "PP",
+          "4% PVDF KYNAR 2800",
+          "NO",
+          "0.76",
+          "14"
+        ],
+        [
+          "16",
+          "PP",
+          "6% PVDF KYNAR 2800",
+          "NO",
+          "0.87",
+          "17"
+        ],
+        [
+          "17",
+          "PP",
+          "2% PVF",
+          "NO",
+          "0.51",
+          "15"
+        ],
+        [
+          "18",
+          "PE",
+          "2% PVF",
+          "NO",
+          "0.54",
+          "11"
+        ],
+        [
+          "19",
+          "PE",
+          "2.5% ETHOXYLATE X-1134",
+          "NO",
+          "0.30",
+          "127"
+        ],
+        [
+          "20",
+          "PE",
+          "1.25% ETHOXYLATE X-1134",
+          "NO",
+          "0.35",
+          "17"
+        ],
+        [
+          "21",
+          "PE",
+          "1.25% ETHOXYLATE X-1134",
+          "NO",
+          "0.38",
+          "20"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\">TABLE 1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">FILM</td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">THICKNESS</td> <td class=\"description-td\">GURLEY</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">#</td> <td class=\"description-td\">PRECURSOR</td> <td class=\"description-td\">POLYMERIC MATERIAL</td> <td class=\"description-td\">EXTRACTABLE</td> <td class=\"description-td\">(mil)</td> <td class=\"description-td\">(sec)</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">1</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  4% LD102</td> <td class=\"description-td\"> 8% DBP</td> <td class=\"description-td\">1.04</td> <td class=\"description-td\">25</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">2</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  8% LD102</td> <td class=\"description-td\"> 8% DBP</td> <td class=\"description-td\">2.0</td> <td class=\"description-td\">20-30</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">3</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  8% LD102</td> <td class=\"description-td\">16% DBP</td> <td class=\"description-td\">2.1</td> <td class=\"description-td\">10.0-15.0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">4</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  8% PEWAX 1000</td> <td class=\"description-td\"> 8% DBP</td> <td class=\"description-td\">0.41</td> <td class=\"description-td\">37</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">5</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  6% LDPE 102</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">1.50</td> <td class=\"description-td\">220-430</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">6</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  8% PEWAX 1000 + 1% Vistalon 878</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">1.32</td> <td class=\"description-td\">60</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">7</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  6% PEWAX 1000 + 2% X-1147</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.66</td> <td class=\"description-td\">54</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">8</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">LLDPE (laminating in PE)</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">1.96</td> <td class=\"description-td\">46.3</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">9</td> <td class=\"description-td\">PP</td> <td class=\"description-td\">LLDPE (laminating in PP)</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">2.09</td> <td class=\"description-td\">43.1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">10</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  4% PEWAX 1000 + 2% MAPEG 400 DS</td> <td class=\"description-td\"> </td> <td class=\"description-td\">0.64</td> <td class=\"description-td\">24</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">11</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  4% PEWAX 1000 + 2% MAPEG 400 DS</td> <td class=\"description-td\"> </td> <td class=\"description-td\">0.59</td> <td class=\"description-td\">30</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">12</td> <td class=\"description-td\">PP</td> <td class=\"description-td\">  4% PEWAX 1000 + 2% MAPEG 400 DS</td> <td class=\"description-td\"> </td> <td class=\"description-td\">0.67</td> <td class=\"description-td\">37</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">13</td> <td class=\"description-td\">PP</td> <td class=\"description-td\">  4% PP CHLORINATED</td> <td class=\"description-td\"> 4% DBP</td> <td class=\"description-td\">0.40</td> <td class=\"description-td\">52</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">14</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  4% PP CHLORINATED</td> <td class=\"description-td\"> 4% DBP</td> <td class=\"description-td\">0.37</td> <td class=\"description-td\">28</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">15</td> <td class=\"description-td\">PP</td> <td class=\"description-td\">  4% PVDF KYNAR 2800</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.76</td> <td class=\"description-td\">14</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">16</td> <td class=\"description-td\">PP</td> <td class=\"description-td\">  6% PVDF KYNAR 2800</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.87</td> <td class=\"description-td\">17</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">17</td> <td class=\"description-td\">PP</td> <td class=\"description-td\">  2% PVF</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.51</td> <td class=\"description-td\">15</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">18</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">  2% PVF</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.54</td> <td class=\"description-td\">11</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">19</td> <td class=\"description-td\">PE</td> <td class=\"description-td\"> 2.5% ETHOXYLATE X-1134</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.30</td> <td class=\"description-td\">127</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">20</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">1.25% ETHOXYLATE X-1134</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.35</td> <td class=\"description-td\">17</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">21</td> <td class=\"description-td\">PE</td> <td class=\"description-td\">1.25% ETHOXYLATE X-1134</td> <td class=\"description-td\">NO</td> <td class=\"description-td\">0.38</td> <td class=\"description-td\">20</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/a1/1d/c4/8a72c953f1d97b/US20050202163A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20050202163A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/c17cbd0309f1333f21b949d8c6f7bc1562fff3a663bab09b3d608ed633d5b9fa.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:23.052509+00:00",
+    "sha256": "c17cbd0309f1333f21b949d8c6f7bc1562fff3a663bab09b3d608ed633d5b9fa",
+    "source": "patents",
+    "source_id": "7d8f912b14f8df9397dcdfc6894b2fe3807edb121ab78c4c3ada4d23b422b2f2",
+    "url": "https://patents.google.com/patent/US20050202163A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "6234e19034284594dafef4a834cbe4f70fcfc0390d1d4777163815c5b9e52c56",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "7d8f912b14f8df9397dcdfc6894b2fe3807edb121ab78c4c3ada4d23b422b2f2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c17cbd0309f1333f21b949d8c6f7bc1562fff3a663bab09b3d608ed633d5b9fa.bin",
+      "source_id": "7d8f912b14f8df9397dcdfc6894b2fe3807edb121ab78c4c3ada4d23b422b2f2",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "c17cbd0309f1333f21b949d8c6f7bc1562fff3a663bab09b3d608ed633d5b9fa",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20050202163A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

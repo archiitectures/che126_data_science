@@ -1,0 +1,199 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "CELGARD ® 2500",
+          "Composite Separator"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "σ ⁡ ( mS cm )",
+          "1.47",
+          "1.58"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thickness (μm)",
+          "25",
+          "33"
+        ],
+        [
+          "",
+          "Thermal Shrinkage",
+          "45%",
+          "0%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">CELGARD ® 2500</td>\n<td class=\"description-td\">Composite Separator</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">\n<maths id=\"MATH-US-00002\" num=\"00002\">\n<math overflow=\"scroll\">\n<mrow>\n<mi>σ</mi>\n<mo>⁡</mo>\n<mrow>\n<mo>(</mo>\n<mfrac>\n<mi>mS</mi>\n<mi>cm</mi>\n</mfrac>\n<mo>)</mo>\n</mrow>\n</mrow>\n</math>\n</maths>\n</td>\n<td class=\"description-td\">1.47</td>\n<td class=\"description-td\">1.58</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness (μm)</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">33</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal Shrinkage</td>\n<td class=\"description-td\">45%</td>\n<td class=\"description-td\">0%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell including a composite separator; FIG. 2 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; FIG. 3 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; and FIG. 4 is a flow chart illustrating an exemplary method of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions in accordance with certain aspects of the present disclosure. In certain aspects, a portion of the coagulant medium enters the at least one non-porous polymeric layer during the precipitation process. The at least one non-porous polymeric layer and the insulating porous substrate are subsequently washed to remove residual primary solvent and coagulant and dried (e.g., oven-dried). During the drying process, the coagulant medium that entered the at least one non-porous polymeric layer evaporates or volatilizes forming substantially uniformed pores therein. In this fashion, the selected coagulant medium may control the morphology of the pores of the at least one substantially uniform porous polymer layer. For example, FIG. 2 is a micrograph showing a cross section of a composite separator made using a coagulant medium including ethylene glycol, and FIG. 3 is a micrograph showing a cross section of a composite separator made using a coagulant medium including glycerol. FIG. 4 is a flow chart that provides an exemplary method 50 of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions. The method includes, at 52 , preparing a polymer coating solution, and at 54 , measuring the viscosity (Pa·s) of the prepared polymer coating solution. The viscosity (Pa·s) of the prepared polymer coating solution determines the coating sequence at 56 . If the measured viscosity (Pa·s) is greater than or equal to about 1 Pa·s and less than or equal to about 80 Pa·s, and in certain aspects, optionally greater than or equal to about 10 Pa·s and less than or equal to about 80 Pa·s, the at least one non-porous polymeric layer of the coated substrate is formed by applying the polymer coating solution via a deposition process to one or more surface regions of the insulating porous substrate at 58 . If the measured viscosity (Pa·s) is greater than or equal to about 0.1 Pa·s and less than or equal to about 20 Pa·s, and in certain aspects, optionally greater than or equal to about 0.1 Pa·s and less than or equal to about 10 Pa·s, the at least one non-porous polymeric layer is first disposed onto a conveying system and subsequently contacted with the insulating porous substrate to form the coated substrate at 60 . At 62 , one or more surface regions of the insulating porous substrate having the at least one non-porous polymeric layer on one or more surface regions then is contacted with a coagulant medium to create pores and form at least one substantially uniform porous polymer layer on one or more surfaces of an insulating porous substrate of the coated substrate, as detailed above. At 64 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be washed, and at 66 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be oven dried, as detailed above, to form the thermally-stable composite separator.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/61/55/54/0431b98ee8f186/US10680222-20200609-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell including a composite separator; FIG. 2 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; FIG. 3 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; and FIG. 4 is a flow chart illustrating an exemplary method of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions in accordance with certain aspects of the present disclosure. In certain aspects, a portion of the coagulant medium enters the at least one non-porous polymeric layer during the precipitation process. The at least one non-porous polymeric layer and the insulating porous substrate are subsequently washed to remove residual primary solvent and coagulant and dried (e.g., oven-dried). During the drying process, the coagulant medium that entered the at least one non-porous polymeric layer evaporates or volatilizes forming substantially uniformed pores therein. In this fashion, the selected coagulant medium may control the morphology of the pores of the at least one substantially uniform porous polymer layer. For example, FIG. 2 is a micrograph showing a cross section of a composite separator made using a coagulant medium including ethylene glycol, and FIG. 3 is a micrograph showing a cross section of a composite separator made using a coagulant medium including glycerol. FIG. 4 is a flow chart that provides an exemplary method 50 of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions. The method includes, at 52 , preparing a polymer coating solution, and at 54 , measuring the viscosity (Pa·s) of the prepared polymer coating solution. The viscosity (Pa·s) of the prepared polymer coating solution determines the coating sequence at 56 . If the measured viscosity (Pa·s) is greater than or equal to about 1 Pa·s and less than or equal to about 80 Pa·s, and in certain aspects, optionally greater than or equal to about 10 Pa·s and less than or equal to about 80 Pa·s, the at least one non-porous polymeric layer of the coated substrate is formed by applying the polymer coating solution via a deposition process to one or more surface regions of the insulating porous substrate at 58 . If the measured viscosity (Pa·s) is greater than or equal to about 0.1 Pa·s and less than or equal to about 20 Pa·s, and in certain aspects, optionally greater than or equal to about 0.1 Pa·s and less than or equal to about 10 Pa·s, the at least one non-porous polymeric layer is first disposed onto a conveying system and subsequently contacted with the insulating porous substrate to form the coated substrate at 60 . At 62 , one or more surface regions of the insulating porous substrate having the at least one non-porous polymeric layer on one or more surface regions then is contacted with a coagulant medium to create pores and form at least one substantially uniform porous polymer layer on one or more surfaces of an insulating porous substrate of the coated substrate, as detailed above. At 64 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be washed, and at 66 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be oven dried, as detailed above, to form the thermally-stable composite separator.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/f9/d2/d4/9529cf5569a5ea/US10680222-20200609-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell including a composite separator; FIG. 2 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; FIG. 3 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; and FIG. 4 is a flow chart illustrating an exemplary method of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions in accordance with certain aspects of the present disclosure. In certain aspects, a portion of the coagulant medium enters the at least one non-porous polymeric layer during the precipitation process. The at least one non-porous polymeric layer and the insulating porous substrate are subsequently washed to remove residual primary solvent and coagulant and dried (e.g., oven-dried). During the drying process, the coagulant medium that entered the at least one non-porous polymeric layer evaporates or volatilizes forming substantially uniformed pores therein. In this fashion, the selected coagulant medium may control the morphology of the pores of the at least one substantially uniform porous polymer layer. For example, FIG. 2 is a micrograph showing a cross section of a composite separator made using a coagulant medium including ethylene glycol, and FIG. 3 is a micrograph showing a cross section of a composite separator made using a coagulant medium including glycerol. FIG. 4 is a flow chart that provides an exemplary method 50 of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions. The method includes, at 52 , preparing a polymer coating solution, and at 54 , measuring the viscosity (Pa·s) of the prepared polymer coating solution. The viscosity (Pa·s) of the prepared polymer coating solution determines the coating sequence at 56 . If the measured viscosity (Pa·s) is greater than or equal to about 1 Pa·s and less than or equal to about 80 Pa·s, and in certain aspects, optionally greater than or equal to about 10 Pa·s and less than or equal to about 80 Pa·s, the at least one non-porous polymeric layer of the coated substrate is formed by applying the polymer coating solution via a deposition process to one or more surface regions of the insulating porous substrate at 58 . If the measured viscosity (Pa·s) is greater than or equal to about 0.1 Pa·s and less than or equal to about 20 Pa·s, and in certain aspects, optionally greater than or equal to about 0.1 Pa·s and less than or equal to about 10 Pa·s, the at least one non-porous polymeric layer is first disposed onto a conveying system and subsequently contacted with the insulating porous substrate to form the coated substrate at 60 . At 62 , one or more surface regions of the insulating porous substrate having the at least one non-porous polymeric layer on one or more surface regions then is contacted with a coagulant medium to create pores and form at least one substantially uniform porous polymer layer on one or more surfaces of an insulating porous substrate of the coated substrate, as detailed above. At 64 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be washed, and at 66 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be oven dried, as detailed above, to form the thermally-stable composite separator.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/07/3d/41/ce4fc6252b699d/US10680222-20200609-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell including a composite separator; FIG. 2 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; FIG. 3 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; and FIG. 4 is a flow chart illustrating an exemplary method of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions in accordance with certain aspects of the present disclosure. In certain aspects, a portion of the coagulant medium enters the at least one non-porous polymeric layer during the precipitation process. The at least one non-porous polymeric layer and the insulating porous substrate are subsequently washed to remove residual primary solvent and coagulant and dried (e.g., oven-dried). During the drying process, the coagulant medium that entered the at least one non-porous polymeric layer evaporates or volatilizes forming substantially uniformed pores therein. In this fashion, the selected coagulant medium may control the morphology of the pores of the at least one substantially uniform porous polymer layer. For example, FIG. 2 is a micrograph showing a cross section of a composite separator made using a coagulant medium including ethylene glycol, and FIG. 3 is a micrograph showing a cross section of a composite separator made using a coagulant medium including glycerol. FIG. 4 is a flow chart that provides an exemplary method 50 of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions. The method includes, at 52 , preparing a polymer coating solution, and at 54 , measuring the viscosity (Pa·s) of the prepared polymer coating solution. The viscosity (Pa·s) of the prepared polymer coating solution determines the coating sequence at 56 . If the measured viscosity (Pa·s) is greater than or equal to about 1 Pa·s and less than or equal to about 80 Pa·s, and in certain aspects, optionally greater than or equal to about 10 Pa·s and less than or equal to about 80 Pa·s, the at least one non-porous polymeric layer of the coated substrate is formed by applying the polymer coating solution via a deposition process to one or more surface regions of the insulating porous substrate at 58 . If the measured viscosity (Pa·s) is greater than or equal to about 0.1 Pa·s and less than or equal to about 20 Pa·s, and in certain aspects, optionally greater than or equal to about 0.1 Pa·s and less than or equal to about 10 Pa·s, the at least one non-porous polymeric layer is first disposed onto a conveying system and subsequently contacted with the insulating porous substrate to form the coated substrate at 60 . At 62 , one or more surface regions of the insulating porous substrate having the at least one non-porous polymeric layer on one or more surface regions then is contacted with a coagulant medium to create pores and form at least one substantially uniform porous polymer layer on one or more surfaces of an insulating porous substrate of the coated substrate, as detailed above. At 64 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be washed, and at 66 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be oven dried, as detailed above, to form the thermally-stable composite separator.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/4a/b4/c3/4881831256306a/US10680222-20200609-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell including a composite separator; FIG. 2 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; FIG. 3 is a micrograph showing a cross section of a composite separator made in accordance with certain aspects of the present disclosure; and FIG. 4 is a flow chart illustrating an exemplary method of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions in accordance with certain aspects of the present disclosure. In certain aspects, a portion of the coagulant medium enters the at least one non-porous polymeric layer during the precipitation process. The at least one non-porous polymeric layer and the insulating porous substrate are subsequently washed to remove residual primary solvent and coagulant and dried (e.g., oven-dried). During the drying process, the coagulant medium that entered the at least one non-porous polymeric layer evaporates or volatilizes forming substantially uniformed pores therein. In this fashion, the selected coagulant medium may control the morphology of the pores of the at least one substantially uniform porous polymer layer. For example, FIG. 2 is a micrograph showing a cross section of a composite separator made using a coagulant medium including ethylene glycol, and FIG. 3 is a micrograph showing a cross section of a composite separator made using a coagulant medium including glycerol. FIG. 4 is a flow chart that provides an exemplary method 50 of producing a thermally-stable composite separator for an electrochemical cell that cycles lithium ions. The method includes, at 52 , preparing a polymer coating solution, and at 54 , measuring the viscosity (Pa·s) of the prepared polymer coating solution. The viscosity (Pa·s) of the prepared polymer coating solution determines the coating sequence at 56 . If the measured viscosity (Pa·s) is greater than or equal to about 1 Pa·s and less than or equal to about 80 Pa·s, and in certain aspects, optionally greater than or equal to about 10 Pa·s and less than or equal to about 80 Pa·s, the at least one non-porous polymeric layer of the coated substrate is formed by applying the polymer coating solution via a deposition process to one or more surface regions of the insulating porous substrate at 58 . If the measured viscosity (Pa·s) is greater than or equal to about 0.1 Pa·s and less than or equal to about 20 Pa·s, and in certain aspects, optionally greater than or equal to about 0.1 Pa·s and less than or equal to about 10 Pa·s, the at least one non-porous polymeric layer is first disposed onto a conveying system and subsequently contacted with the insulating porous substrate to form the coated substrate at 60 . At 62 , one or more surface regions of the insulating porous substrate having the at least one non-porous polymeric layer on one or more surface regions then is contacted with a coagulant medium to create pores and form at least one substantially uniform porous polymer layer on one or more surfaces of an insulating porous substrate of the coated substrate, as detailed above. At 64 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be washed, and at 66 , the at least one substantially uniform porous polymer layer disposed on one or more surfaces of the insulating porous substrate may be oven dried, as detailed above, to form the thermally-stable composite separator.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/b6/4f/34/ecbd17f53b21f6/US10680222-20200609-D00004.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/3b/55/25/ad1a37d3a4e2e2/US10680222.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"eeed79df891fcf0e1c1f66dbd97da73d\"",
+        "last_modified": "Mon, 06 Jul 2020 10:12:44 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/562e8e3cf36e3a8850c8be7643758adcaf59bcb46e22e90570a1ba543c970cce.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:24:34.624147+00:00",
+        "sha256": "562e8e3cf36e3a8850c8be7643758adcaf59bcb46e22e90570a1ba543c970cce",
+        "source": "patent_pdf",
+        "source_id": "9971fb79a62abd0f7d6ab5cd3ad0e4750297e42f732951a76cb5b18e21316d0f",
+        "url": "https://patentimages.storage.googleapis.com/3b/55/25/ad1a37d3a4e2e2/US10680222.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10680222B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/8d9273d67235266bee4aa84ed59b0f1b785ca13e9e0c25f288025345b6428289.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:24:33.615992+00:00",
+    "sha256": "8d9273d67235266bee4aa84ed59b0f1b785ca13e9e0c25f288025345b6428289",
+    "source": "patents",
+    "source_id": "8a2f361b84796035465a1714a047fc68f560d0c158c765b2112f777cacfe8e23",
+    "url": "https://patents.google.com/patent/US10680222B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "022b2f6ead2f6a6dcd5c627254c560e6100fea2ebf91575c2e06bfd2f5d905de",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "8a2f361b84796035465a1714a047fc68f560d0c158c765b2112f777cacfe8e23",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/8d9273d67235266bee4aa84ed59b0f1b785ca13e9e0c25f288025345b6428289.bin",
+      "source_id": "8a2f361b84796035465a1714a047fc68f560d0c158c765b2112f777cacfe8e23",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "8d9273d67235266bee4aa84ed59b0f1b785ca13e9e0c25f288025345b6428289",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10680222B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

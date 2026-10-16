@@ -1,0 +1,1159 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "[d/2].sup.2 =[γ.sup.2 ]",
+          "(1)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"equation\" xml:space=\"preserve\">[d/2].sup.2 =[γ.sup.2 ]                              (1)</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_1"
+    },
+    {
+      "cells": [
+        [
+          "[η]M=2.1×10.sup.21 [γ.sup.2 ].sup.3/2",
+          "(2)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"equation\" xml:space=\"preserve\">[η]M=2.1×10.sup.21 [γ.sup.2 ].sup.3/2      (2)</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Example No."
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Polyolefin Composition"
+        ],
+        [
+          "Mw/Mn",
+          "16.8"
+        ],
+        [
+          "16.7 190 150",
+          "240"
+        ],
+        [
+          "Ultra-High-Molecular-Weight"
+        ],
+        [
+          "Polyethylene"
+        ],
+        [
+          "Mw (× 10.sup.6).sup.(1)"
+        ],
+        [
+          "2.5 2.5",
+          "2.5 2.5",
+          "2.5"
+        ],
+        [
+          "Content",
+          "20.0"
+        ],
+        [
+          "13.3 13.3"
+        ],
+        [
+          "5.0",
+          "2.5"
+        ],
+        [
+          "Other Polyethylene"
+        ],
+        [
+          "6.8 2.4",
+          "4.1 4.1",
+          "3.5"
+        ],
+        [
+          "Mw (× 10.sup.5).sup.(1)"
+        ],
+        [
+          "Concentration in"
+        ],
+        [
+          "10",
+          "15",
+          "15",
+          "20",
+          "40"
+        ],
+        [
+          "Solution.sup.(2) (Wt. %)"
+        ],
+        [
+          "Stretching Conditions"
+        ],
+        [
+          "Stretching Temperature"
+        ],
+        [
+          "115 115",
+          "115 115",
+          "115"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "Stretching Ratio"
+        ],
+        [
+          "7 × 7"
+        ],
+        [
+          "7 × 7"
+        ],
+        [
+          "7 × 7"
+        ],
+        [
+          "7 × 7"
+        ],
+        [
+          "7 × 7"
+        ],
+        [
+          "MD × TD (times)"
+        ],
+        [
+          "Properties"
+        ],
+        [
+          "Thickness (μm)"
+        ],
+        [
+          "4",
+          "5",
+          "4",
+          "16",
+          "12"
+        ],
+        [
+          "Breaking Strength"
+        ],
+        [
+          "0.70"
+        ],
+        [
+          "0.65 0.35"
+        ],
+        [
+          "0.35 0.40"
+        ],
+        [
+          "(kg/15 mm width)"
+        ],
+        [
+          "Air Permeability"
+        ],
+        [
+          "148 37",
+          "30",
+          "55",
+          "112"
+        ],
+        [
+          "(sec/100 cc)"
+        ],
+        [
+          "Water Permeability.sup.(3)"
+        ],
+        [
+          "234 727",
+          "842 680",
+          "415"
+        ],
+        [
+          "Pore Diameter (μm)"
+        ],
+        [
+          "0.02"
+        ],
+        [
+          "0.03 0.04"
+        ],
+        [
+          "0.05 0.04"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Comparative Example No."
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Polyolefin Composition"
+        ],
+        [
+          "Mw/Mn",
+          "8.0 350",
+          "6.0 120",
+          "14.5"
+        ],
+        [
+          "Ultra-High-Molecular-Weight"
+        ],
+        [
+          "Polyethylene"
+        ],
+        [
+          "Mw (× 10.sup.6).sup.(1)"
+        ],
+        [
+          "--",
+          "2.5",
+          "2.5 2.5",
+          "2.5"
+        ],
+        [
+          "Content",
+          "0",
+          "13.3 100 0.8",
+          "3.3"
+        ],
+        [
+          "Other Polyethylene"
+        ],
+        [
+          "6.8 5.9",
+          "--",
+          "3.5",
+          "2.4"
+        ],
+        [
+          "Mw (× 10.sup.5).sup.(1)"
+        ],
+        [
+          "Concentration in"
+        ],
+        [
+          "12",
+          "15",
+          "12",
+          "25",
+          "60"
+        ],
+        [
+          "Solution.sup.(2) (Wt. %)"
+        ],
+        [
+          "Stretching Conditions"
+        ],
+        [
+          "Stretching Temperature"
+        ],
+        [
+          "--",
+          "115",
+          "--",
+          "115",
+          "--"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "Stretching Ratio"
+        ],
+        [
+          "--",
+          "7 × 7"
+        ],
+        [
+          "--",
+          "7 × 7"
+        ],
+        [
+          "--"
+        ],
+        [
+          "MD × TD (times)"
+        ],
+        [
+          "Properties"
+        ],
+        [
+          "Thickness (μm)"
+        ],
+        [
+          "--",
+          "10",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "Breaking Strength"
+        ],
+        [
+          "--",
+          "0.12 --",
+          "--",
+          "--"
+        ],
+        [
+          "(kg/15 mm width)"
+        ],
+        [
+          "Air Permeability"
+        ],
+        [
+          "--",
+          "108",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "(sec/100 cc)"
+        ],
+        [
+          "Water Permeability.sup.(3)"
+        ],
+        [
+          "--",
+          "530",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "Pore Diameter (μm)"
+        ],
+        [
+          "--",
+          "0.05 --",
+          "--",
+          "--"
+        ],
+        [
+          "__________________________________________________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">                                  TABLE 1                                 \n__________________________________________________________________________\n                Example No.                                               \n                1   2    3   4    5                                       \n__________________________________________________________________________\nPolyolefin Composition                                                    \nMw/Mn           16.8                                                      \n                    16.7 190 150  240                                     \nUltra-High-Molecular-Weight                                               \nPolyethylene                                                              \nMw (× 10.sup.6).sup.(1)                                             \n                2.5 2.5  2.5 2.5  2.5                                     \nContent         20.0                                                      \n                    13.3 13.3                                             \n                             5.0  2.5                                     \nOther Polyethylene                                                        \n                6.8 2.4  4.1 4.1  3.5                                     \nMw (× 10.sup.5).sup.(1)                                             \nConcentration in                                                          \n                10  15   15  20   40                                      \nSolution.sup.(2) (Wt. %)                                                  \nStretching Conditions                                                     \nStretching Temperature                                                    \n                115 115  115 115  115                                     \n(°C.)                                                              \nStretching Ratio                                                          \n                7 × 7                                               \n                    7 × 7                                           \n                         7 × 7                                      \n                             7 × 7                                  \n                                  7 × 7                             \nMD × TD (times)                                                     \nProperties                                                                \nThickness (μm)                                                         \n                4   5    4   16   12                                      \nBreaking Strength                                                         \n                0.70                                                      \n                    0.65 0.35                                             \n                             0.35 0.40                                    \n(kg/15 mm width)                                                          \nAir Permeability                                                          \n                148 37   30  55   112                                     \n(sec/100 cc)                                                              \nWater Permeability.sup.(3)                                                \n                234 727  842 680  415                                     \nPore Diameter (μm)                                                     \n                0.02                                                      \n                    0.03 0.04                                             \n                             0.05 0.04                                    \n__________________________________________________________________________\n                Comparative Example No.                                   \n                1   2    3   4    5                                       \n__________________________________________________________________________\nPolyolefin Composition                                                    \nMw/Mn           8.0 350  6.0 120  14.5                                    \nUltra-High-Molecular-Weight                                               \nPolyethylene                                                              \nMw (× 10.sup.6).sup.(1)                                             \n                --  2.5  2.5 2.5  2.5                                     \nContent         0   13.3 100 0.8  3.3                                     \nOther Polyethylene                                                        \n                6.8 5.9  --  3.5  2.4                                     \nMw (× 10.sup.5).sup.(1)                                             \nConcentration in                                                          \n                12  15   12  25   60                                      \nSolution.sup.(2) (Wt. %)                                                  \nStretching Conditions                                                     \nStretching Temperature                                                    \n                --  115  --  115  --                                      \n(°C.)                                                              \nStretching Ratio                                                          \n                --  7 × 7                                           \n                         --  7 × 7                                  \n                                  --                                      \nMD × TD (times)                                                     \nProperties                                                                \nThickness (μm)                                                         \n                --  10   --  --   --                                      \nBreaking Strength                                                         \n                --  0.12 --  --   --                                      \n(kg/15 mm width)                                                          \nAir Permeability                                                          \n                --  108  --  --   --                                      \n(sec/100 cc)                                                              \nWater Permeability.sup.(3)                                                \n                --  530  --  --   --                                      \nPore Diameter (μm)                                                     \n                --  0.05 --  --   --                                      \n__________________________________________________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/f1/3c/65/cbe9bf5e52c4a3/US5051183.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US5051183A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:22:14.327575+00:00",
+    "sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+    "source": "patents",
+    "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+    "url": "https://patents.google.com/patent/US5051183A/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Air permeability: Measured according to JIS P8117.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: kg/15 mm width. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "8d337c7cd431cdcd822ac1c55ae727edc1551b42f0f70df964a2d6637f38612c",
+      "original_property_label": "4 Breaking Strength 0.70 0.65 0.35 0.35 0.40 (kg/15 mm width) Air Permeability",
+      "original_unit": "kg/15 mm width",
+      "original_value": "5",
+      "polymer": null,
+      "product": null,
+      "property": "air_permeability_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "35",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Air permeability: Measured according to JIS P8117.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: kg/15 mm width. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "a8f453edd86b919047e82508e640049beb238e9af35f78d2dff05433ec1a578b",
+      "original_property_label": "4 Breaking Strength 0.70 0.65 0.35 0.35 0.40 (kg/15 mm width) Air Permeability",
+      "original_unit": "kg/15 mm width",
+      "original_value": "4",
+      "polymer": null,
+      "product": null,
+      "property": "air_permeability_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "35",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Air permeability: Measured according to JIS P8117.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: kg/15 mm width. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "0df39cc39a8669cbeb96ae4f2cabdbab1e6ff4c52213ee21ae71d927145c0f95",
+      "original_property_label": "4 Breaking Strength 0.70 0.65 0.35 0.35 0.40 (kg/15 mm width) Air Permeability",
+      "original_unit": "kg/15 mm width",
+      "original_value": "16",
+      "polymer": null,
+      "product": null,
+      "property": "air_permeability_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "35",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Air permeability: Measured according to JIS P8117.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: kg/15 mm width. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "0029e62667d06a82906b9c05cbe39cf0a631f2e8955968fc29532aead6ad4bc5",
+      "original_property_label": "4 Breaking Strength 0.70 0.65 0.35 0.35 0.40 (kg/15 mm width) Air Permeability",
+      "original_unit": "kg/15 mm width",
+      "original_value": "12",
+      "polymer": null,
+      "product": null,
+      "property": "air_permeability_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "35",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "234 727 Pore Diameter (μm) 0.02 0.03 0.04 0.05 0.04 __________________________________________________________________________ Comparative Example No.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "5a03351a24270367843919098e35c6bc08ea70c6488e4505a0d1813bf094e2b4",
+      "original_property_label": "234 727 Pore Diameter (μm) 0.02 0.03 0.04 0.05 0.04 __________________________________________________________________________ Comparative Example No.",
+      "original_unit": "μm",
+      "original_value": "842 680",
+      "polymer": null,
+      "product": null,
+      "property": "pore_size",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "45",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"um\", \"unit_alias\": \"\\u03bcm\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "234 727 Pore Diameter (μm) 0.02 0.03 0.04 0.05 0.04 __________________________________________________________________________ Comparative Example No.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "7fe54d6217e92d4de0f4bf68d25e75072e67c5814713bcfcb7c70b3f6ea654b6",
+      "original_property_label": "234 727 Pore Diameter (μm) 0.02 0.03 0.04 0.05 0.04 __________________________________________________________________________ Comparative Example No.",
+      "original_unit": "μm",
+      "original_value": "415",
+      "polymer": null,
+      "product": null,
+      "property": "pore_size",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "45",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "um",
+      "value": 415.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(2) Membrane thickness: Determined by measuring a cross section of a microporous membrane by a scanning electron microscope.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: times. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "35a7f181be1cc9684c4eeb4549eaa1f24b9f904815fdd387aa42e6e59a6a466d",
+      "original_property_label": "-- -- MD × TD (times) Properties Thickness (μm)",
+      "original_unit": "times",
+      "original_value": "7 × 7",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "73",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Air permeability: Measured according to JIS P8117.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: kg/15 mm width. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "ab6f4791f505a52abc75ad6558f87777eaa39bc786c8d6497020f28364005def",
+      "original_property_label": "-- (kg/15 mm width) Air Permeability",
+      "original_unit": "kg/15 mm width",
+      "original_value": "0.12 --",
+      "polymer": null,
+      "product": null,
+      "property": "air_permeability_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "80",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Air permeability: Measured according to JIS P8117.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: kg/15 mm width. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "ed00264e043a595cd4d50699c9fed52b55310d74ffff0c09dfcad9b46d6fc4f4",
+      "original_property_label": "-- (kg/15 mm width) Air Permeability",
+      "original_unit": "kg/15 mm width",
+      "original_value": "--",
+      "polymer": null,
+      "product": null,
+      "property": "air_permeability_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "80",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "(4) Air permeability: Measured according to JIS P8117.",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: kg/15 mm width. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "c95adbb65a625e2aa4fd6e4f8cef97ad324079455be29eae39e5d9a34e3bda58",
+      "original_property_label": "-- (kg/15 mm width) Air Permeability",
+      "original_unit": "kg/15 mm width",
+      "original_value": "--",
+      "polymer": null,
+      "product": null,
+      "property": "air_permeability_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "80",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"um\", \"unit_alias\": \"\\u03bcm\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "-- Pore Diameter (μm)",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "39c4e92a3d936789278520cc27fe8682a8a41fc5ead98a52ed8bf8763dc73384",
+      "original_property_label": "-- Pore Diameter (μm)",
+      "original_unit": "μm",
+      "original_value": "530",
+      "polymer": null,
+      "product": null,
+      "property": "pore_size",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "86",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "um",
+      "value": 530.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "-- Pore Diameter (μm)",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "be06990037ffcfb83c40011cc8ed12d07c123b323adefa9fe75084322d0f0fa0",
+      "original_property_label": "-- Pore Diameter (μm)",
+      "original_unit": "μm",
+      "original_value": "--",
+      "polymer": null,
+      "product": null,
+      "property": "pore_size",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "86",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "-- Pore Diameter (μm)",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "a4e5c54de82fd0f9459fd4a9ef9f868b11666766395c24ae8265704813dbe8ca",
+      "original_property_label": "-- Pore Diameter (μm)",
+      "original_unit": "μm",
+      "original_value": "--",
+      "polymer": null,
+      "product": null,
+      "property": "pore_size",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "86",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "-- Pore Diameter (μm)",
+      "method": null,
+      "notes": "Publication US5051183A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "14417ab79f54f50d9178f24a93994c061baecfb938f863844256529945d814be",
+      "original_property_label": "-- Pore Diameter (μm)",
+      "original_unit": "μm",
+      "original_value": "--",
+      "polymer": null,
+      "product": null,
+      "property": "pore_size",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5051183A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e.bin",
+      "source_id": "05b6a9927d21f2bfb719e1af82c7dffda27b41a8eb6806011dd5db3e68356486",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "86",
+      "source_sha256": "c3717ba050fc015e8a1397e2a243d84539fcd3212ad50f47a92e5ee61089367e",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5051183A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}
