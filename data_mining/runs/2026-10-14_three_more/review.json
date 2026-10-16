@@ -1,0 +1,38 @@
+{
+  "withheld": [
+    {
+      "row": "Puncture Resistance",
+      "unit_as_printed": "g",
+      "values": {
+        "9EPH": 255,
+        "12EPH": 315,
+        "16EPH": 375
+      },
+      "reason": "Mass symbol used for a force quantity; do not silently convert to newtons."
+    },
+    {
+      "row": "Tensile Strength MD",
+      "unit_as_printed": "kg/cm2",
+      "comparator": ">=",
+      "values": {
+        "9EPH": 1100,
+        "12EPH": 1000,
+        "16EPH": 900
+      },
+      "reason": "Force-unit interpretation requires confirmation; retain lower bounds."
+    },
+    {
+      "row": "Tensile Strength TD",
+      "unit_as_printed": "kg/cm2",
+      "comparator": ">=",
+      "values": {
+        "9EPH": 800,
+        "12EPH": 800,
+        "16EPH": 700
+      },
+      "reason": "Force-unit interpretation requires confirmation; retain lower bounds."
+    }
+  ],
+  "air_permeability": "Stored as time for the stated 100 ml volume, not assumed Gurley/JIS method.",
+  "source_version": "2021 portfolio; current product availability/specifications not established."
+}

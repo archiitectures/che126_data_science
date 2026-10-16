@@ -1,0 +1,235 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Wet",
+          "25",
+          "35",
+          "1",
+          "15",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "adhesion"
+        ],
+        [
+          "force"
+        ],
+        [
+          "(gf/20"
+        ],
+        [
+          "mm)"
+        ],
+        [
+          "Dry",
+          "45",
+          "55",
+          "60",
+          "5",
+          "10",
+          "7",
+          "7"
+        ],
+        [
+          "adhesion"
+        ],
+        [
+          "force"
+        ],
+        [
+          "(gf/20"
+        ],
+        [
+          "mm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Wet</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">adhesion</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">force</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(gf/20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">mm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Dry</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">adhesion</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">force</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(gf/20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">mm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram showing a cross-section of a separator according to a specific embodiment of the present disclosure; FIG. 2 a shows a SEM image of the surface of the separator of Example 1 before the electrolyte impregnation, and FIG. 2 b is a partially enlarged view of FIG. 2 a; FIG. 3 a shows an SEM image of the surface of the separator of Comparative Example 1, and FIG. 3 b is a partially enlarged view of FIG. 3 a; FIG. 4 is a SEM image of a cross-section of the separator of Example 1; and FIG. 5 is an EDS image of a cross-section of the separator of Example 1. FIG. 1 is a schematic diagram showing a cross-section of a separator 10 for an electrochemical device according to a specific embodiment of the present disclosure. In the present disclosure, the separator 10 includes a porous polymer substrate 1 and a porous organic/inorganic composite coating layer 3 formed on at least one side of the polymer substrate. Although FIG. 1 shows that the porous organic/inorganic composite coating layer 3 is formed only on one side surface of the polymer substrate 1 , the porous organic/inorganic composite coating layer 3 may also be formed on the other side surface of the polymer substrate 1 . As shown in FIG. 1 , the porous organic/inorganic composite coating layer 3 has the heterogeneity in composition morphology in a thickness direction, in which the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present on a surface portion opposite to the surface in contact with the polymer substrate 1 is greater than the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present inside the porous organic/inorganic composite coating layer. FIG. 4 is an SEM image of a cross-section of the separator according to Example 1, and FIG. 5 is an EDS image of a cross-section of the separator according to Example 1. Referring to FIG. 5 , the distribution of the hybrid polymer particles included in the porous organic/inorganic composite coating layer may be confirmed from the image of F Kα1,2 by analyzing the distribution of the F element contained in the hybrid polymer particles. Meanwhile, the distribution of the acrylic polymer particles may be confirmed from the image of Ru Lα1 in which the distribution of Ru element is analyzed after dyeing with RuO 4 .",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/6c/cb/e1/92e14dff3f3b62/US20250158231A1-20250515-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram showing a cross-section of a separator according to a specific embodiment of the present disclosure; FIG. 2 a shows a SEM image of the surface of the separator of Example 1 before the electrolyte impregnation, and FIG. 2 b is a partially enlarged view of FIG. 2 a; FIG. 3 a shows an SEM image of the surface of the separator of Comparative Example 1, and FIG. 3 b is a partially enlarged view of FIG. 3 a; FIG. 4 is a SEM image of a cross-section of the separator of Example 1; and FIG. 5 is an EDS image of a cross-section of the separator of Example 1. FIG. 1 is a schematic diagram showing a cross-section of a separator 10 for an electrochemical device according to a specific embodiment of the present disclosure. In the present disclosure, the separator 10 includes a porous polymer substrate 1 and a porous organic/inorganic composite coating layer 3 formed on at least one side of the polymer substrate. Although FIG. 1 shows that the porous organic/inorganic composite coating layer 3 is formed only on one side surface of the polymer substrate 1 , the porous organic/inorganic composite coating layer 3 may also be formed on the other side surface of the polymer substrate 1 . As shown in FIG. 1 , the porous organic/inorganic composite coating layer 3 has the heterogeneity in composition morphology in a thickness direction, in which the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present on a surface portion opposite to the surface in contact with the polymer substrate 1 is greater than the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present inside the porous organic/inorganic composite coating layer. FIG. 4 is an SEM image of a cross-section of the separator according to Example 1, and FIG. 5 is an EDS image of a cross-section of the separator according to Example 1. Referring to FIG. 5 , the distribution of the hybrid polymer particles included in the porous organic/inorganic composite coating layer may be confirmed from the image of F Kα1,2 by analyzing the distribution of the F element contained in the hybrid polymer particles. Meanwhile, the distribution of the acrylic polymer particles may be confirmed from the image of Ru Lα1 in which the distribution of Ru element is analyzed after dyeing with RuO 4 .",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/6f/1b/74/795bc0592ac618/US20250158231A1-20250515-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram showing a cross-section of a separator according to a specific embodiment of the present disclosure; FIG. 2 a shows a SEM image of the surface of the separator of Example 1 before the electrolyte impregnation, and FIG. 2 b is a partially enlarged view of FIG. 2 a; FIG. 3 a shows an SEM image of the surface of the separator of Comparative Example 1, and FIG. 3 b is a partially enlarged view of FIG. 3 a; FIG. 4 is a SEM image of a cross-section of the separator of Example 1; and FIG. 5 is an EDS image of a cross-section of the separator of Example 1. FIG. 1 is a schematic diagram showing a cross-section of a separator 10 for an electrochemical device according to a specific embodiment of the present disclosure. In the present disclosure, the separator 10 includes a porous polymer substrate 1 and a porous organic/inorganic composite coating layer 3 formed on at least one side of the polymer substrate. Although FIG. 1 shows that the porous organic/inorganic composite coating layer 3 is formed only on one side surface of the polymer substrate 1 , the porous organic/inorganic composite coating layer 3 may also be formed on the other side surface of the polymer substrate 1 . As shown in FIG. 1 , the porous organic/inorganic composite coating layer 3 has the heterogeneity in composition morphology in a thickness direction, in which the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present on a surface portion opposite to the surface in contact with the polymer substrate 1 is greater than the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present inside the porous organic/inorganic composite coating layer. FIG. 4 is an SEM image of a cross-section of the separator according to Example 1, and FIG. 5 is an EDS image of a cross-section of the separator according to Example 1. Referring to FIG. 5 , the distribution of the hybrid polymer particles included in the porous organic/inorganic composite coating layer may be confirmed from the image of F Kα1,2 by analyzing the distribution of the F element contained in the hybrid polymer particles. Meanwhile, the distribution of the acrylic polymer particles may be confirmed from the image of Ru Lα1 in which the distribution of Ru element is analyzed after dyeing with RuO 4 .",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/ba/4f/c1/13d9a4c252f24f/US20250158231A1-20250515-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram showing a cross-section of a separator according to a specific embodiment of the present disclosure; FIG. 2 a shows a SEM image of the surface of the separator of Example 1 before the electrolyte impregnation, and FIG. 2 b is a partially enlarged view of FIG. 2 a; FIG. 3 a shows an SEM image of the surface of the separator of Comparative Example 1, and FIG. 3 b is a partially enlarged view of FIG. 3 a; FIG. 4 is a SEM image of a cross-section of the separator of Example 1; and FIG. 5 is an EDS image of a cross-section of the separator of Example 1. FIG. 1 is a schematic diagram showing a cross-section of a separator 10 for an electrochemical device according to a specific embodiment of the present disclosure. In the present disclosure, the separator 10 includes a porous polymer substrate 1 and a porous organic/inorganic composite coating layer 3 formed on at least one side of the polymer substrate. Although FIG. 1 shows that the porous organic/inorganic composite coating layer 3 is formed only on one side surface of the polymer substrate 1 , the porous organic/inorganic composite coating layer 3 may also be formed on the other side surface of the polymer substrate 1 . As shown in FIG. 1 , the porous organic/inorganic composite coating layer 3 has the heterogeneity in composition morphology in a thickness direction, in which the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present on a surface portion opposite to the surface in contact with the polymer substrate 1 is greater than the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present inside the porous organic/inorganic composite coating layer. FIG. 4 is an SEM image of a cross-section of the separator according to Example 1, and FIG. 5 is an EDS image of a cross-section of the separator according to Example 1. Referring to FIG. 5 , the distribution of the hybrid polymer particles included in the porous organic/inorganic composite coating layer may be confirmed from the image of F Kα1,2 by analyzing the distribution of the F element contained in the hybrid polymer particles. Meanwhile, the distribution of the acrylic polymer particles may be confirmed from the image of Ru Lα1 in which the distribution of Ru element is analyzed after dyeing with RuO 4 .",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/46/29/57/ee880060761e5b/US20250158231A1-20250515-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram showing a cross-section of a separator according to a specific embodiment of the present disclosure; FIG. 2 a shows a SEM image of the surface of the separator of Example 1 before the electrolyte impregnation, and FIG. 2 b is a partially enlarged view of FIG. 2 a; FIG. 3 a shows an SEM image of the surface of the separator of Comparative Example 1, and FIG. 3 b is a partially enlarged view of FIG. 3 a; FIG. 4 is a SEM image of a cross-section of the separator of Example 1; and FIG. 5 is an EDS image of a cross-section of the separator of Example 1. FIG. 1 is a schematic diagram showing a cross-section of a separator 10 for an electrochemical device according to a specific embodiment of the present disclosure. In the present disclosure, the separator 10 includes a porous polymer substrate 1 and a porous organic/inorganic composite coating layer 3 formed on at least one side of the polymer substrate. Although FIG. 1 shows that the porous organic/inorganic composite coating layer 3 is formed only on one side surface of the polymer substrate 1 , the porous organic/inorganic composite coating layer 3 may also be formed on the other side surface of the polymer substrate 1 . As shown in FIG. 1 , the porous organic/inorganic composite coating layer 3 has the heterogeneity in composition morphology in a thickness direction, in which the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present on a surface portion opposite to the surface in contact with the polymer substrate 1 is greater than the content ratio of hybrid polymer particles 5 / acrylic polymer particles 7 present inside the porous organic/inorganic composite coating layer. FIG. 4 is an SEM image of a cross-section of the separator according to Example 1, and FIG. 5 is an EDS image of a cross-section of the separator according to Example 1. Referring to FIG. 5 , the distribution of the hybrid polymer particles included in the porous organic/inorganic composite coating layer may be confirmed from the image of F Kα1,2 by analyzing the distribution of the F element contained in the hybrid polymer particles. Meanwhile, the distribution of the acrylic polymer particles may be confirmed from the image of Ru Lα1 in which the distribution of Ru element is analyzed after dyeing with RuO 4 .",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/76/0a/92/17aeb2460f8335/US20250158231A1-20250515-D00004.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/12/4a/a8/165fd94a9c2b27/US20250158231A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20250158231A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/5ff52a273de2e2eef7f4aaad7d44d67f5df151774e471f50226556ee974fb3e4.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:14:18.891956+00:00",
+    "sha256": "5ff52a273de2e2eef7f4aaad7d44d67f5df151774e471f50226556ee974fb3e4",
+    "source": "patents",
+    "source_id": "7f488e9c26e4476f5ebb754badf7c7fa83cbc8ac12b3063eb32ed07503101f4f",
+    "url": "https://patents.google.com/patent/US20250158231A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "8467cf710ae903743a5c432dbf8ab8ab24ebd7709dd4427fe64b5a5ceca154cc",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "7f488e9c26e4476f5ebb754badf7c7fa83cbc8ac12b3063eb32ed07503101f4f",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/5ff52a273de2e2eef7f4aaad7d44d67f5df151774e471f50226556ee974fb3e4.bin",
+      "source_id": "7f488e9c26e4476f5ebb754badf7c7fa83cbc8ac12b3063eb32ed07503101f4f",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "5ff52a273de2e2eef7f4aaad7d44d67f5df151774e471f50226556ee974fb3e4",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20250158231A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

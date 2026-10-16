@@ -1,0 +1,409 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Maximum",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Mean",
+          "Repre-",
+          "",
+          "",
+          "TMA"
+        ],
+        [
+          "",
+          "",
+          "",
+          "pore",
+          "sentative",
+          "",
+          "High",
+          "shrinkage"
+        ],
+        [
+          "",
+          "",
+          "",
+          "diameter",
+          "diameter",
+          "",
+          "temperature",
+          "in"
+        ],
+        [
+          "",
+          "",
+          "",
+          "of poly-",
+          "of heat",
+          "",
+          "puncture",
+          "transverse",
+          "Melt",
+          "Shrinkage"
+        ],
+        [
+          "",
+          "Film",
+          "Permeability",
+          "ethylene",
+          "resistant",
+          "Puncture",
+          "strength",
+          "direction",
+          "fracture",
+          "(120° C., 1 hr)"
+        ],
+        [
+          "",
+          "thickness",
+          "(Darcy ×",
+          "layer",
+          "layer",
+          "strength",
+          "(120° C.,",
+          "(%)",
+          "temperature",
+          "Longitudinal",
+          "Transverse"
+        ],
+        [
+          "Item",
+          "(μm)",
+          "10 −5 )",
+          "(μm)",
+          "(μm)",
+          "(N/μm)",
+          "N/μm)",
+          "2.0 mN/μm",
+          "(° C.)",
+          "direction",
+          "direction"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "20",
+          "3.2",
+          "0.04",
+          "18",
+          "0.20",
+          "0.08",
+          "0% or less",
+          "185",
+          "10%",
+          "12%"
+        ],
+        [
+          "Example 2",
+          "20",
+          "3.0",
+          "0.04",
+          "13",
+          "0.23",
+          "0.11",
+          "0% or less",
+          "190",
+          "9%",
+          "8%"
+        ],
+        [
+          "Example 3",
+          "20",
+          "4.9",
+          "0.05",
+          "21",
+          "0.19",
+          "0.08",
+          "0% or less",
+          "210",
+          "9%",
+          "10%"
+        ],
+        [
+          "Example 4",
+          "20",
+          "2.5",
+          "0.04",
+          "15",
+          "0.25",
+          "0.12",
+          "0% or less",
+          "190",
+          "8%",
+          "7%"
+        ],
+        [
+          "Example 5",
+          "29",
+          "2.7",
+          "0.04",
+          "12",
+          "0.18",
+          "0.06",
+          "0% or less",
+          "185",
+          "9%",
+          "11%"
+        ],
+        [
+          "Example 6",
+          "16",
+          "2.2",
+          "0.03",
+          "17",
+          "0.27",
+          "0.14",
+          "0% or less",
+          "215",
+          "8%",
+          "9%"
+        ],
+        [
+          "Comparative",
+          "20",
+          "3.0",
+          "0.04",
+          "—",
+          "0.21",
+          "0.06",
+          "0% or less",
+          "145",
+          "10%",
+          "11%"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "21",
+          "4.5",
+          "0.04",
+          ">50",
+          "0.15",
+          "0.02",
+          "11%",
+          "165",
+          "10%",
+          "8%"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "23",
+          "3.3",
+          "—",
+          "15",
+          "0.20",
+          "0.06",
+          "6%",
+          "155",
+          "11%",
+          "15%"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "18",
+          "0",
+          "0.03",
+          "<5",
+          "0.20",
+          "0.10",
+          "0% or less",
+          "185",
+          "10%",
+          "10%"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximum</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Mean</td>\n<td class=\"description-td\">Repre-</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TMA</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pore</td>\n<td class=\"description-td\">sentative</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">High</td>\n<td class=\"description-td\">shrinkage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter</td>\n<td class=\"description-td\">diameter</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">in</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of poly-</td>\n<td class=\"description-td\">of heat</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">puncture</td>\n<td class=\"description-td\">transverse</td>\n<td class=\"description-td\">Melt</td>\n<td class=\"description-td\">Shrinkage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Film</td>\n<td class=\"description-td\">Permeability</td>\n<td class=\"description-td\">ethylene</td>\n<td class=\"description-td\">resistant</td>\n<td class=\"description-td\">Puncture</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">direction</td>\n<td class=\"description-td\">fracture</td>\n<td class=\"description-td\">(120° C., 1 hr)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness</td>\n<td class=\"description-td\">(Darcy ×</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">(120° C.,</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">Longitudinal</td>\n<td class=\"description-td\">Transverse</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Item</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">10<sup>−5</sup>)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(N/μm)</td>\n<td class=\"description-td\">N/μm)</td>\n<td class=\"description-td\">2.0 mN/μm</td>\n<td class=\"description-td\">(° C.)</td>\n<td class=\"description-td\">direction</td>\n<td class=\"description-td\">direction</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">3.2</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">0.20</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">185</td>\n<td class=\"description-td\">10%</td>\n<td class=\"description-td\">12%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">3.0</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">0.23</td>\n<td class=\"description-td\">0.11</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">190</td>\n<td class=\"description-td\">9%</td>\n<td class=\"description-td\">8%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">0.05</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">0.19</td>\n<td class=\"description-td\">0.08</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">210</td>\n<td class=\"description-td\">9%</td>\n<td class=\"description-td\">10%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">0.25</td>\n<td class=\"description-td\">0.12</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">190</td>\n<td class=\"description-td\">8%</td>\n<td class=\"description-td\">7%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">29</td>\n<td class=\"description-td\">2.7</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">0.18</td>\n<td class=\"description-td\">0.06</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">185</td>\n<td class=\"description-td\">9%</td>\n<td class=\"description-td\">11%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">2.2</td>\n<td class=\"description-td\">0.03</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">0.27</td>\n<td class=\"description-td\">0.14</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">215</td>\n<td class=\"description-td\">8%</td>\n<td class=\"description-td\">9%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">3.0</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.21</td>\n<td class=\"description-td\">0.06</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">145</td>\n<td class=\"description-td\">10%</td>\n<td class=\"description-td\">11%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">4.5</td>\n<td class=\"description-td\">0.04</td>\n<td class=\"description-td\">&gt;50</td>\n<td class=\"description-td\">0.15</td>\n<td class=\"description-td\">0.02</td>\n<td class=\"description-td\">11%</td>\n<td class=\"description-td\">165</td>\n<td class=\"description-td\">10%</td>\n<td class=\"description-td\">8%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">3.3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">0.20</td>\n<td class=\"description-td\">0.06</td>\n<td class=\"description-td\"> 6%</td>\n<td class=\"description-td\">155</td>\n<td class=\"description-td\">11%</td>\n<td class=\"description-td\">15%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0.03</td>\n<td class=\"description-td\">&lt;5</td>\n<td class=\"description-td\">0.20</td>\n<td class=\"description-td\">0.10</td>\n<td class=\"description-td\"> 0% or less</td>\n<td class=\"description-td\">185</td>\n<td class=\"description-td\">10%</td>\n<td class=\"description-td\">10%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 2 illustrates that a microporous film in accordance with an embodiment of the present invention is fixed to the frame for measuring the melt fracture temperature of the microporous film using a tape.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/99/58/3f/5738cb69831961/US20120070644A1-20120322-D00000.png"
+    },
+    {
+      "caption": "FIG. 2 illustrates that a microporous film in accordance with an embodiment of the present invention is fixed to the frame for measuring the melt fracture temperature of the microporous film using a tape.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/ee/85/41/864c109b72bc53/US20120070644A1-20120322-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/da/bc/5f/c5dacff57f3bc9/US20120070644A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20120070644A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/964231dad50e7110e42fb778784b42d89527c62d589e8dfee390c8af0ff249d0.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:15:14.080260+00:00",
+    "sha256": "964231dad50e7110e42fb778784b42d89527c62d589e8dfee390c8af0ff249d0",
+    "source": "patents",
+    "source_id": "2c7b0eec7815b2e8d7570bcbba3c23f93eb2e757a832c50c4fd20422e00068ae",
+    "url": "https://patents.google.com/patent/US20120070644A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "4b2f9d3e45efa7116586a79814accb5b7674727b21bec8c5be672478f6c0d075",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "2c7b0eec7815b2e8d7570bcbba3c23f93eb2e757a832c50c4fd20422e00068ae",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/964231dad50e7110e42fb778784b42d89527c62d589e8dfee390c8af0ff249d0.bin",
+      "source_id": "2c7b0eec7815b2e8d7570bcbba3c23f93eb2e757a832c50c4fd20422e00068ae",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "964231dad50e7110e42fb778784b42d89527c62d589e8dfee390c8af0ff249d0",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20120070644A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

@@ -1,0 +1,335 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "After 24 h"
+        ],
+        [
+          "",
+          "Elongation",
+          "After",
+          "",
+          "Thickness of",
+          ""
+        ],
+        [
+          "",
+          "Elongation",
+          "percentage",
+          "0.5 h",
+          "",
+          "wrinkled",
+          ""
+        ],
+        [
+          "",
+          "percentage (%)",
+          "difference",
+          "Wrinkle",
+          "Thickness",
+          "portion",
+          "Wrinkle"
+        ],
+        [
+          "",
+          "0.5 h",
+          "24 h",
+          "(%)",
+          "evaluation",
+          "(μm)",
+          "(μm)",
+          "evaluation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 1",
+          "0.24%",
+          "0.36%",
+          "0.12%",
+          "VG",
+          "14.5",
+          "—",
+          "VG"
+        ],
+        [
+          "Ex. 2",
+          "0.16%",
+          "0.21%",
+          "0.05%",
+          "VG",
+          "14.8",
+          "—",
+          "VG"
+        ],
+        [
+          "Ex. 3",
+          "0.36%",
+          "0.52%",
+          "0.16%",
+          "VG",
+          "15.9",
+          "16.1",
+          "G"
+        ],
+        [
+          "Com. Ex. 1",
+          "0.39%",
+          "0.61%",
+          "0.22%",
+          "VG",
+          "15.1",
+          "16.9",
+          "P"
+        ],
+        [
+          "Com. Ex. 2",
+          "0.25%",
+          "0.48%",
+          "0.23%",
+          "VG",
+          "14.7",
+          "16.4",
+          "P"
+        ],
+        [
+          "Com. Ex. 3",
+          "0.20%",
+          "0.60%",
+          "0.40%",
+          "VG",
+          "15.4",
+          "18.6",
+          "P"
+        ],
+        [
+          "Com. Ex. 4",
+          "0.38%",
+          "0.64%",
+          "0.26%",
+          "VG",
+          "14.8",
+          "16.6",
+          "P"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Note:",
+          "Note:",
+          "Note:",
+          "Note:",
+          "Note:",
+          "Note:",
+          "Note:",
+          "Note:"
+        ],
+        [
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”",
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”",
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”",
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”",
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”",
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”",
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”",
+          "In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">After 24 h</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Elongation</td>\n<td class=\"description-td\">After</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness of</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Elongation</td>\n<td class=\"description-td\">percentage</td>\n<td class=\"description-td\">0.5 h</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">wrinkled</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">percentage (%)</td>\n<td class=\"description-td\">difference</td>\n<td class=\"description-td\">Wrinkle</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">portion</td>\n<td class=\"description-td\">Wrinkle</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">0.5 h</td>\n<td class=\"description-td\">24 h</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">evaluation</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">evaluation</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 1</td>\n<td class=\"description-td\">0.24%</td>\n<td class=\"description-td\">0.36%</td>\n<td class=\"description-td\">0.12%</td>\n<td class=\"description-td\">VG</td>\n<td class=\"description-td\">14.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">VG</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">0.16%</td>\n<td class=\"description-td\">0.21%</td>\n<td class=\"description-td\">0.05%</td>\n<td class=\"description-td\">VG</td>\n<td class=\"description-td\">14.8</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">VG</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 3</td>\n<td class=\"description-td\">0.36%</td>\n<td class=\"description-td\">0.52%</td>\n<td class=\"description-td\">0.16%</td>\n<td class=\"description-td\">VG</td>\n<td class=\"description-td\">15.9</td>\n<td class=\"description-td\">16.1</td>\n<td class=\"description-td\">G</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 1</td>\n<td class=\"description-td\">0.39%</td>\n<td class=\"description-td\">0.61%</td>\n<td class=\"description-td\">0.22%</td>\n<td class=\"description-td\">VG</td>\n<td class=\"description-td\">15.1</td>\n<td class=\"description-td\">16.9</td>\n<td class=\"description-td\">P</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 2</td>\n<td class=\"description-td\">0.25%</td>\n<td class=\"description-td\">0.48%</td>\n<td class=\"description-td\">0.23%</td>\n<td class=\"description-td\">VG</td>\n<td class=\"description-td\">14.7</td>\n<td class=\"description-td\">16.4</td>\n<td class=\"description-td\">P</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 3</td>\n<td class=\"description-td\">0.20%</td>\n<td class=\"description-td\">0.60%</td>\n<td class=\"description-td\">0.40%</td>\n<td class=\"description-td\">VG</td>\n<td class=\"description-td\">15.4</td>\n<td class=\"description-td\">18.6</td>\n<td class=\"description-td\">P</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Com. Ex. 4</td>\n<td class=\"description-td\">0.38%</td>\n<td class=\"description-td\">0.64%</td>\n<td class=\"description-td\">0.26%</td>\n<td class=\"description-td\">VG</td>\n<td class=\"description-td\">14.8</td>\n<td class=\"description-td\">16.6</td>\n<td class=\"description-td\">P</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"8\" id=\"FOO-00001\" nameend=\"8\" namest=\"1\">Note:</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"8\" id=\"FOO-00002\" nameend=\"8\" namest=\"1\">In the above table, “Ex.” stands for “Example,” “Com. Ex.” stands for “Comparative Example,” “VG” stands for “very good,” “G” stands for “good,” and “P” stands for “poor.”</td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Elongation",
+          "Elongation"
+        ],
+        [
+          "",
+          "percentage (%)",
+          "percentage"
+        ],
+        [
+          "",
+          "0.5 h",
+          "24 h",
+          "difference (%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example 2",
+          "0.16%",
+          "0.21%",
+          "0.05%"
+        ],
+        [
+          "",
+          "Example 4",
+          "0.15%",
+          "0.19%",
+          "0.04%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Elongation</td>\n<td class=\"description-td\">Elongation</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">percentage (%)</td>\n<td class=\"description-td\">percentage</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">0.5 h</td>\n<td class=\"description-td\">24 h</td>\n<td class=\"description-td\">difference (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">0.16%</td>\n<td class=\"description-td\">0.21%</td>\n<td class=\"description-td\">0.05%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">0.15%</td>\n<td class=\"description-td\">0.19%</td>\n<td class=\"description-td\">0.04%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/28/18/5b/e5a90bf554f671/US11031655-20210608-D00000.png"
+    },
+    {
+      "caption": "",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/31/4e/4a/78a753cce37c9c/US11031655-20210608-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/af/70/5d/2fcfc56e435934/US11031655.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US11031655B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/f26a196c475b8aa904908f343ac0d26b974ce186963410bb686b89131ba3d123.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:15:43.107370+00:00",
+    "sha256": "f26a196c475b8aa904908f343ac0d26b974ce186963410bb686b89131ba3d123",
+    "source": "patents",
+    "source_id": "837124e0ab9d6daaa6c87d6076dc104a7ff4f7536015170e30c86a4650a49104",
+    "url": "https://patents.google.com/patent/US11031655B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "1c5f261e2bfab62f169c4ec5bfc60c92185ff6df73f892b90a879c4b04b94185",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "837124e0ab9d6daaa6c87d6076dc104a7ff4f7536015170e30c86a4650a49104",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/f26a196c475b8aa904908f343ac0d26b974ce186963410bb686b89131ba3d123.bin",
+      "source_id": "837124e0ab9d6daaa6c87d6076dc104a7ff4f7536015170e30c86a4650a49104",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "f26a196c475b8aa904908f343ac0d26b974ce186963410bb686b89131ba3d123",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US11031655B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

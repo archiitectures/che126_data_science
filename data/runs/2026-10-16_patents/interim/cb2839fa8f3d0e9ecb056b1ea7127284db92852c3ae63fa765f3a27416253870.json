@@ -1,0 +1,644 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE I",
+          "TABLE I"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Amount"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Blend No. 1:",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Cd-123 Fluon ® PTFE Resin (ICI",
+          "9.072",
+          "kg"
+        ],
+        [
+          "",
+          "of America)"
+        ],
+        [
+          "",
+          "Q7-2218 Silastic ® Silicone",
+          "0.082",
+          "kg"
+        ],
+        [
+          "",
+          "(Dow Corning)"
+        ],
+        [
+          "",
+          "Paraffin Solvent",
+          "1.940",
+          "kg"
+        ],
+        [
+          "",
+          "Blend No. 2:"
+        ],
+        [
+          "",
+          "TE-3641 Teflon ® PTFE Resin",
+          "9.072",
+          "kg"
+        ],
+        [
+          "",
+          "(E. I. Dupont)"
+        ],
+        [
+          "",
+          "Q7-2218 Silastic ® Silicone",
+          "0.082",
+          "kg"
+        ],
+        [
+          "",
+          "(Dow Corning)"
+        ],
+        [
+          "",
+          "Paraffin Solvent",
+          "1.940",
+          "kg"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead valign=\"bottom\">\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\">TABLE I</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Amount</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Blend No. 1:</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Cd-123 Fluon ® PTFE Resin (ICI</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">9.072</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">of America)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Q7-2218 Silastic ® Silicone</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">0.082</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">(Dow Corning)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Paraffin Solvent</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">1.940</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Blend No. 2:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">TE-3641 Teflon ® PTFE Resin</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">9.072</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">(E. I. Dupont)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Q7-2218 Silastic ® Silicone</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">0.082</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">(Dow Corning)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Paraffin Solvent</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">1.940</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" morerows=\"0\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE II",
+          "TABLE II"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Amount"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Blend No. 3:",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Cd-123 Fluon ® PTFE Resin (ICI",
+          "27.22",
+          "kg"
+        ],
+        [
+          "",
+          "of America)"
+        ],
+        [
+          "",
+          "Q7-2218 Silastic ® Silicone",
+          "2.454",
+          "kg"
+        ],
+        [
+          "",
+          "(Dow Corning)"
+        ],
+        [
+          "",
+          "Paraffin Solvent",
+          "5.820",
+          "kg"
+        ],
+        [
+          "",
+          "Blend No. 4"
+        ],
+        [
+          "",
+          "Cd-123 Fluon ® PTFE Resin (ICI",
+          "27.22",
+          "kg"
+        ],
+        [
+          "",
+          "of America"
+        ],
+        [
+          "",
+          "Q7-2218 Silastic ® Silicone",
+          "2.454",
+          "kg"
+        ],
+        [
+          "",
+          "(Dow Corning)"
+        ],
+        [
+          "",
+          "Paraffin Solvent",
+          "5.223",
+          "kg"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead valign=\"bottom\">\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\">TABLE II</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Amount</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Blend No. 3:</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Cd-123 Fluon ® PTFE Resin (ICI</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">27.22</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">of America)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Q7-2218 Silastic ® Silicone</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">2.454</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">(Dow Corning)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Paraffin Solvent</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">5.820</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Blend No. 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Cd-123 Fluon ® PTFE Resin (ICI</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">27.22</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">of America</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Q7-2218 Silastic ® Silicone</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">2.454</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">(Dow Corning)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Paraffin Solvent</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">5.223</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" morerows=\"0\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE III",
+          "TABLE III",
+          "TABLE III",
+          "TABLE III",
+          "TABLE III"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Initial Expansion",
+          "",
+          "Total Expansion",
+          ""
+        ],
+        [
+          "",
+          "Linear",
+          "Transverse",
+          "Linear",
+          "Transverse"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "First",
+          "5%",
+          "1,443%",
+          "84%",
+          "26,473%"
+        ],
+        [
+          "",
+          "Layer"
+        ],
+        [
+          "",
+          "Second",
+          "—",
+          "—",
+          "75%",
+          "1,619%"
+        ],
+        [
+          "",
+          "Layer"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead valign=\"bottom\">\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\">TABLE III</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Initial Expansion</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Total Expansion</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Linear</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Transverse</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Linear</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Transverse</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">First</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">5%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">1,443%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">84%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">26,473%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Layer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Second</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">—</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">—</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">75%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> 1,619%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Layer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" morerows=\"0\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE IV",
+          "TABLE IV",
+          "TABLE IV",
+          "TABLE IV",
+          "TABLE IV"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Initial Expansion",
+          "",
+          "Total Expansion",
+          ""
+        ],
+        [
+          "",
+          "Linear",
+          "Transverse",
+          "Linear",
+          "Transverse"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "First",
+          "400%",
+          "1,822%",
+          "545%",
+          "90,449%"
+        ],
+        [
+          "",
+          "Layer"
+        ],
+        [
+          "",
+          "Second",
+          "—",
+          "—",
+          "9%",
+          "4,606%"
+        ],
+        [
+          "",
+          "Layer"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead valign=\"bottom\">\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\">TABLE IV</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Initial Expansion</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Total Expansion</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Linear</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Transverse</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Linear</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Transverse</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">First</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">400%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">1,822%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">545%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">90,449%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Layer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Second</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">—</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">—</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> 9%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> 4,606%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Layer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" morerows=\"0\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_4"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Initial Expansion",
+          "",
+          "Total Expansion",
+          ""
+        ],
+        [
+          "",
+          "Linear",
+          "Transverse",
+          "Linear",
+          "Transverse"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "First",
+          "800%",
+          "1,825%",
+          "981%",
+          "90,442%"
+        ],
+        [
+          "",
+          "Layer"
+        ],
+        [
+          "",
+          "Second",
+          "—",
+          "—",
+          "9%",
+          "4,606%"
+        ],
+        [
+          "",
+          "Layer"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Initial Expansion</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Total Expansion</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Linear</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Transverse</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Linear</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Transverse</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" morerows=\"0\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">First</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">800%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">1,825%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">981%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">90,442%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Layer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Second</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">—</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">—</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> 9%</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> 4,606%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Layer</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" morerows=\"0\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_5"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE VI",
+          "TABLE VI"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Amount"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Blend No. 5:",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Cd-123 Fluon ® PTFE Resin (ICI of",
+          "27.2",
+          "kg"
+        ],
+        [
+          "",
+          "America)"
+        ],
+        [
+          "",
+          "Paraffin Solvent",
+          "5.45",
+          "kg"
+        ],
+        [
+          "",
+          "Blend No. 6:"
+        ],
+        [
+          "",
+          "Cd-123 Fluon ® PTFE Resin (ICI of",
+          "27.2",
+          "kg"
+        ],
+        [
+          "",
+          "America)"
+        ],
+        [
+          "",
+          "Paraffin Solvent",
+          "6.27",
+          "kg"
+        ],
+        [
+          "",
+          "Blend No. 7:"
+        ],
+        [
+          "",
+          "Cd-123 Fluon ® PTFE Resin (ICI of",
+          "27.2",
+          "kg"
+        ],
+        [
+          "",
+          "America)"
+        ],
+        [
+          "",
+          "Paraffin Solvent",
+          "7.35",
+          "kg"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead valign=\"bottom\">\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\">TABLE VI</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Amount</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" morerows=\"0\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Blend No. 5:</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Cd-123 Fluon ® PTFE Resin (ICI of</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">27.2</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">America)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Paraffin Solvent</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">5.45</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Blend No. 6:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Cd-123 Fluon ® PTFE Resin (ICI of</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">27.2</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">America)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Paraffin Solvent</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">6.27</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Blend No. 7:</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Cd-123 Fluon ® PTFE Resin (ICI of</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">27.2</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">America)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">Paraffin Solvent</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">7.35</td>\n<td class=\"description-td\" morerows=\"0\" valign=\"top\">kg</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\" morerows=\"0\" valign=\"top\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" morerows=\"0\" nameend=\"3\" namest=\"OFFSET\" rowsep=\"1\" valign=\"top\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_6"
+    },
+    {
+      "caption": "FIG. 1 shows the microstructure of the surface of the first ribbon layer which was stretched twice. FIG. 2 shows the surface of a second ribbon layer that subject to only one pass through the tenter frame apparatus. It is clear from these images that each membrane surface has a morphology which is disparate from the other. The mean inter-nodal distance (as measured by mean fibril length) is 6.4 microns for the first membrane layer and 1.6 microns for the second membrane layer.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/ef/52/d9/586ed59254a666/US6235377-drawings-page-2.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/4f/96/d5/5546da1ffbb69f/US6235377.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"e559ef42d85210e642cd95fdac79d40f\"",
+        "last_modified": "Wed, 04 Oct 2017 07:59:11 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/92366890730063143718c30b86ed811bba1fb232e24d9799734a5fa9134dba19.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:22:09.421759+00:00",
+        "sha256": "92366890730063143718c30b86ed811bba1fb232e24d9799734a5fa9134dba19",
+        "source": "patent_pdf",
+        "source_id": "f1f02b5103fc6377f9ea65ff218dc4e7df0b075cc5b4df0ada4ccc39ce2a22af",
+        "url": "https://patentimages.storage.googleapis.com/4f/96/d5/5546da1ffbb69f/US6235377.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US6235377B1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/db40fe76f41d875a832a976c1a9b044ad66f936f6494ce0295db9e420c454a27.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:22:08.477902+00:00",
+    "sha256": "db40fe76f41d875a832a976c1a9b044ad66f936f6494ce0295db9e420c454a27",
+    "source": "patents",
+    "source_id": "be66851e647dadc4e3d4fc43234ad56524175d8e83aaa70c03f4206d9734f630",
+    "url": "https://patents.google.com/patent/US6235377B1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "39d926f6c71d607be47963526ae83d05fadf328c2d6b3a4b16fad513ab051bdf",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "be66851e647dadc4e3d4fc43234ad56524175d8e83aaa70c03f4206d9734f630",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/db40fe76f41d875a832a976c1a9b044ad66f936f6494ce0295db9e420c454a27.bin",
+      "source_id": "be66851e647dadc4e3d4fc43234ad56524175d8e83aaa70c03f4206d9734f630",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "db40fe76f41d875a832a976c1a9b044ad66f936f6494ce0295db9e420c454a27",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6235377B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

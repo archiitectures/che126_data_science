@@ -1,0 +1,331 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Film",
+          "Gas",
+          "Average",
+          "Film",
+          ""
+        ],
+        [
+          "",
+          "Thick-",
+          "transmission",
+          "Pore",
+          "Resistance",
+          "Piercing"
+        ],
+        [
+          "",
+          "ness",
+          "rate",
+          "Diameter",
+          "(sec · μm 2 /",
+          "Strength"
+        ],
+        [
+          "",
+          "(μm)",
+          "(sec/100 cc)",
+          "(μm)",
+          "100 cc)",
+          "(gf)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "30",
+          "778",
+          "0.07",
+          "3.8",
+          "440"
+        ],
+        [
+          "Example 2",
+          "32",
+          "—",
+          "<0.05",
+          "—",
+          "330"
+        ],
+        [
+          "Comparative",
+          "28",
+          "390",
+          "0.30",
+          "35",
+          "197"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "42",
+          "62",
+          "0.19",
+          "2.2",
+          "185"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "61",
+          "688",
+          "0.11",
+          "8.3",
+          "385"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "44",
+          "unmeas-",
+          "unmeas-",
+          "unmeas-",
+          "824"
+        ],
+        [
+          "Example 4",
+          "",
+          "urable",
+          "urable",
+          "urable"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "Subsequently, 70 parts by volume of this kneaded matter was put into the Laboplasto-mill and fused, and then 30 parts by volume of calcium carbonate (“Sta-vigot A15” produced by Shiraishi Calcium Co.: average particle diameter, 0.15 μm) was introduced into the Laboplasto-mill, followed by kneading at 200° C. for 5 minutes. The resulting kneaded matter was formed into a sheet having a thickness of 60 to 70 μm with a hot press set at 200° C. and the sheet was solidified by a chill press. The sheet thus obtained was cut to an appropriate size (about 8 cm (width)×5 cm (length))and then uniaxially stretched to open pores using Autograph (AGS-G, produced by Shimadzu Corporation), thus affording a porous film. The stretching was performed at 100° C. and at a stretching speed of 50 mm/min. The resulting porous film was immersed in a hydrochloric acid/ethanol solution (hydrochloric acid:ethanol=1:1) to dissolve calcium carbonate. After the dissolution, the porous film was washed with ethanol and dried at 60° C. under reduced pressure. The physical properties of the porous film thus obtained are shown in Table 1, the shrinkage rate in Table 2. [0098]",
+      "context_locator": "P-0098",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\">TABLE 1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Film</td> <td class=\"description-td\">Gas</td> <td class=\"description-td\">Average</td> <td class=\"description-td\">Film</td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Thick-</td> <td class=\"description-td\">transmission</td> <td class=\"description-td\">Pore</td> <td class=\"description-td\">Resistance</td> <td class=\"description-td\">Piercing</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">ness</td> <td class=\"description-td\">rate</td> <td class=\"description-td\">Diameter</td> <td class=\"description-td\">(sec · μm<sup>2</sup>/</td> <td class=\"description-td\">Strength</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">(μm)</td> <td class=\"description-td\">(sec/100 cc)</td> <td class=\"description-td\">(μm)</td> <td class=\"description-td\">100 cc)</td> <td class=\"description-td\">(gf)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Example 1</td> <td class=\"description-td\">30</td> <td class=\"description-td\">778</td> <td class=\"description-td\">0.07</td> <td class=\"description-td\">3.8</td> <td class=\"description-td\">440</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 2</td> <td class=\"description-td\">32</td> <td class=\"description-td\">—</td> <td class=\"description-td\">&lt;0.05</td> <td class=\"description-td\">—</td> <td class=\"description-td\">330</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comparative</td> <td class=\"description-td\">28</td> <td class=\"description-td\">390</td> <td class=\"description-td\">0.30</td> <td class=\"description-td\">35</td> <td class=\"description-td\">197</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comparative</td> <td class=\"description-td\">42</td> <td class=\"description-td\"> 62</td> <td class=\"description-td\">0.19</td> <td class=\"description-td\">2.2</td> <td class=\"description-td\">185</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 2</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comparative</td> <td class=\"description-td\">61</td> <td class=\"description-td\">688</td> <td class=\"description-td\">0.11</td> <td class=\"description-td\">8.3</td> <td class=\"description-td\">385</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 3</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comparative</td> <td class=\"description-td\">44</td> <td class=\"description-td\">unmeas-</td> <td class=\"description-td\">unmeas-</td> <td class=\"description-td\">unmeas-</td> <td class=\"description-td\">824</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Example 4</td> <td class=\"description-td\"> </td> <td class=\"description-td\">urable</td> <td class=\"description-td\">urable</td> <td class=\"description-td\">urable</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "Temperature",
+          "Shrinkage rate (%)",
+          ""
+        ],
+        [
+          "(° C.)",
+          "Example 1",
+          "Example 2"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "90",
+          "0",
+          "0"
+        ],
+        [
+          "100",
+          "0",
+          "0"
+        ],
+        [
+          "110",
+          "0",
+          "0"
+        ],
+        [
+          "120",
+          "0",
+          "0"
+        ],
+        [
+          "130",
+          "1.5",
+          "0"
+        ],
+        [
+          "140",
+          "4.5",
+          "0.6"
+        ],
+        [
+          "150",
+          "18.2",
+          "1.5"
+        ],
+        [
+          "160",
+          "21.2",
+          "3.0"
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "Subsequently, 70 parts by volume of this kneaded matter was put into the Laboplasto-mill and fused, and then 30 parts by volume of calcium carbonate (“Sta-vigot A15” produced by Shiraishi Calcium Co.: average particle diameter, 0.15 μm) was introduced into the Laboplasto-mill, followed by kneading at 200° C. for 5 minutes. The resulting kneaded matter was formed into a sheet having a thickness of 60 to 70 μm with a hot press set at 200° C. and the sheet was solidified by a chill press. The sheet thus obtained was cut to an appropriate size (about 8 cm (width)×5 cm (length))and then uniaxially stretched to open pores using Autograph (AGS-G, produced by Shimadzu Corporation), thus affording a porous film. The stretching was performed at 100° C. and at a stretching speed of 50 mm/min. The resulting porous film was immersed in a hydrochloric acid/ethanol solution (hydrochloric acid:ethanol=1:1) to dissolve calcium carbonate. After the dissolution, the porous film was washed with ethanol and dried at 60° C. under reduced pressure. The physical properties of the porous film thus obtained are shown in Table 1, the shrinkage rate in Table 2. [0098]",
+      "context_locator": "P-0098",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\">TABLE 2</td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Temperature</td> <td class=\"description-td\">Shrinkage rate (%)</td> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">(° C.)</td> <td class=\"description-td\">Example 1</td> <td class=\"description-td\">Example 2</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">90</td> <td class=\"description-td\">0</td> <td class=\"description-td\">0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">100</td> <td class=\"description-td\">0</td> <td class=\"description-td\">0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">110</td> <td class=\"description-td\">0</td> <td class=\"description-td\">0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">120</td> <td class=\"description-td\">0</td> <td class=\"description-td\">0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">130</td> <td class=\"description-td\">1.5</td> <td class=\"description-td\">0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">140</td> <td class=\"description-td\">4.5</td> <td class=\"description-td\">0.6</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">150</td> <td class=\"description-td\">18.2</td> <td class=\"description-td\">1.5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">160</td> <td class=\"description-td\">21.2</td> <td class=\"description-td\">3.0</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/9b/b2/8a/b030d9504f1fa5/US20020034689A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"7fa64e47d4f32dd613b80cbabb6140a4\"",
+        "last_modified": "Wed, 11 Oct 2017 17:13:05 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/9737319c1f4e8ea7518119326df734999b8759e5e482cf96d8f6e758d81b7d49.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:23:40.179640+00:00",
+        "sha256": "9737319c1f4e8ea7518119326df734999b8759e5e482cf96d8f6e758d81b7d49",
+        "source": "patent_pdf",
+        "source_id": "e333be5a98da7fbedbcc70d8a98c7af99d4a3ca25ae633b518d73c16f5e3e951",
+        "url": "https://patentimages.storage.googleapis.com/9b/b2/8a/b030d9504f1fa5/US20020034689A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20020034689A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/cc0c5552447cbd4c988d911b794b3158cd199a97776bb2b7f14b3e13c307fce1.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:23:39.315136+00:00",
+    "sha256": "cc0c5552447cbd4c988d911b794b3158cd199a97776bb2b7f14b3e13c307fce1",
+    "source": "patents",
+    "source_id": "ee071dc8b71a438ebac2babdb144e94f510af42118c74c53f55812af8bdaa0b3",
+    "url": "https://patents.google.com/patent/US20020034689A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "dca8989355ecfda6ebe4baf2ecbac29c0020ad45e5c4bb26cf799efe998e79a5",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "ee071dc8b71a438ebac2babdb144e94f510af42118c74c53f55812af8bdaa0b3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/cc0c5552447cbd4c988d911b794b3158cd199a97776bb2b7f14b3e13c307fce1.bin",
+      "source_id": "ee071dc8b71a438ebac2babdb144e94f510af42118c74c53f55812af8bdaa0b3",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "cc0c5552447cbd4c988d911b794b3158cd199a97776bb2b7f14b3e13c307fce1",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20020034689A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

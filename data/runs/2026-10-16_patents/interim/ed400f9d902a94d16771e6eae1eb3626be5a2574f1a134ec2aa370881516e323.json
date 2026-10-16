@@ -1,0 +1,161 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Result of comparative experiment on elongation at break"
+        ],
+        [
+          "",
+          "Elongation at break (%)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "320"
+        ],
+        [
+          "",
+          "Example 2",
+          "375"
+        ],
+        [
+          "",
+          "Comparative example 1",
+          "120"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "30 g of castor oil as a surfactant was added to a resin mixture of 1.8 kg of polypropylene (JPP, FY6H) and 0.2 kg of ethylene-octene copolymer (LG Chem., Lucene LC100, Tm: 96° C.), mixed in a twin screw extruder, and pelletized. A film was manufactured by melting the pellets in a single screw extruder equipped with a T-die and casting on a cooling roll. To stabilize a crystalline structure of the manufactured film, the film was kept in an oven of about 110° C. for 60 minutes, and after a porous film was produced by uniaxially stretching the film in MD at 90° C. using a roll stretching machine at such a stretch ratio five times its original length, heat setting was performed by causing the porous film to thermally shrink by 20% in MD using a 133° C. roll, thereby obtaining a 20 μm thick separator having micro-pores.",
+      "context_locator": "p-0052",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Result of comparative experiment on elongation at break</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Elongation at break (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">320</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">375</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative example 1</td>\n<td class=\"description-td\">120</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a flowchart illustrating a process of preparing a porous separator according to an exemplary embodiment. FIG. 1 is a flowchart illustrating a process of manufacturing a porous separator according to an exemplary embodiment. Referring to FIG. 1 , a method of manufacturing a porous separator according to another aspect of the present disclosure includes (S 1 ) forming an extruded sheet, (S 2 ) forming a film, and (S 3 ) forming a porous separator.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/43/6d/e1/3711b929ee2d35/US10135053-20181120-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a flowchart illustrating a process of preparing a porous separator according to an exemplary embodiment. FIG. 1 is a flowchart illustrating a process of manufacturing a porous separator according to an exemplary embodiment. Referring to FIG. 1 , a method of manufacturing a porous separator according to another aspect of the present disclosure includes (S 1 ) forming an extruded sheet, (S 2 ) forming a film, and (S 3 ) forming a porous separator.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/c1/f9/3b/89f4133c60d47d/US10135053-20181120-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/74/9a/d7/547accdf705c3b/US10135053.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"6304b4dac043976f7c5e8e2de7ccadc9\"",
+        "last_modified": "Mon, 03 Dec 2018 20:00:03 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/abb71823d8288f0db37c49eb56378ecfcce95232a2b8255b64b4649a1c393aab.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:23:13.730581+00:00",
+        "sha256": "abb71823d8288f0db37c49eb56378ecfcce95232a2b8255b64b4649a1c393aab",
+        "source": "patent_pdf",
+        "source_id": "720d1c11b439bda271ba7fd9ea7ba451a2837da08a0a52c7020b1a3e6f8c7138",
+        "url": "https://patentimages.storage.googleapis.com/74/9a/d7/547accdf705c3b/US10135053.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10135053B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/1a4a608d4ab7a51fe9936644ac6fb6a56753d608b64d8460befc92a2fcb8f6b1.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:23:12.770031+00:00",
+    "sha256": "1a4a608d4ab7a51fe9936644ac6fb6a56753d608b64d8460befc92a2fcb8f6b1",
+    "source": "patents",
+    "source_id": "9addfeb688ee444edf31c235744adb39f0cc6c05212ffe2163676998449d8409",
+    "url": "https://patents.google.com/patent/US10135053B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "d18e31cff979f944894fe5fcde13f0ddedb9236d606bd9ec950fc2d08581ba1e",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "9addfeb688ee444edf31c235744adb39f0cc6c05212ffe2163676998449d8409",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/1a4a608d4ab7a51fe9936644ac6fb6a56753d608b64d8460befc92a2fcb8f6b1.bin",
+      "source_id": "9addfeb688ee444edf31c235744adb39f0cc6c05212ffe2163676998449d8409",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "1a4a608d4ab7a51fe9936644ac6fb6a56753d608b64d8460befc92a2fcb8f6b1",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10135053B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

@@ -7,6 +7,10 @@ requires-python = ">=3.12"
 dependencies = []
 
 [project.optional-dependencies]
+pdf = ["pypdf>=6,<7"]
+ingest = ["beautifulsoup4>=4.12,<5", "lxml>=5,<7", "pymupdf>=1.26,<2", "pyarrow>=19,<24", "openpyxl>=3.1,<4"]
+pdf-fallback = ["pdfplumber>=0.11,<1"]
+graph = ["numpy>=2,<3", "pillow>=11,<13"]
 patents = ["google-cloud-bigquery>=3.25,<4"]
 
 [dependency-groups]

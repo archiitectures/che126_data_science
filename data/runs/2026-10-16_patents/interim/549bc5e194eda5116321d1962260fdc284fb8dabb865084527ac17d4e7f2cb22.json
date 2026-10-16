@@ -1,0 +1,239 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Number of",
+          "Amount of",
+          "1-kHz resistance"
+        ],
+        [
+          "",
+          "bends carried",
+          "change per bend",
+          "increase rate after"
+        ],
+        [
+          "",
+          "out until 2.4 cm",
+          "through 5000",
+          "100 charge and"
+        ],
+        [
+          "",
+          "change occurs",
+          "bends in MD [in",
+          "discharge cycles"
+        ],
+        [
+          "",
+          "in TD [in times]",
+          "mm per bend]",
+          "[%]"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "2,898",
+          "0.0005",
+          "292"
+        ],
+        [
+          "Example 2",
+          "1,709",
+          "0.0015",
+          "332"
+        ],
+        [
+          "Example 3",
+          "4,940",
+          "0.0036",
+          "331"
+        ],
+        [
+          "Example 4",
+          "23,539",
+          "0.0044",
+          "340"
+        ],
+        [
+          "Comparative",
+          "1,212",
+          "0.0025",
+          "413"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "1,535",
+          "0.0003",
+          "529"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "19",
+          "0.0015",
+          "421"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Number of</td>\n<td class=\"description-td\">Amount of</td>\n<td class=\"description-td\">1-kHz resistance</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">bends carried</td>\n<td class=\"description-td\">change per bend</td>\n<td class=\"description-td\">increase rate after</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">out until 2.4 cm</td>\n<td class=\"description-td\">through 5000</td>\n<td class=\"description-td\">100 charge and</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">change occurs</td>\n<td class=\"description-td\">bends in MD [in</td>\n<td class=\"description-td\">discharge cycles</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">in TD [in times]</td>\n<td class=\"description-td\">mm per bend]</td>\n<td class=\"description-td\">[%]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">2,898</td>\n<td class=\"description-td\">0.0005</td>\n<td class=\"description-td\">292</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">1,709</td>\n<td class=\"description-td\">0.0015</td>\n<td class=\"description-td\">332</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">4,940</td>\n<td class=\"description-td\">0.0036</td>\n<td class=\"description-td\">331</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">23,539</td>\n<td class=\"description-td\">0.0044</td>\n<td class=\"description-td\">340</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">1,212</td>\n<td class=\"description-td\">0.0025</td>\n<td class=\"description-td\">413</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">1,535</td>\n<td class=\"description-td\">0.0003</td>\n<td class=\"description-td\">529</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">0.0015</td>\n<td class=\"description-td\">421</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a diagram schematically illustrating an MIT tester. FIG. 2 is a diagram schematically illustrating a method of, after cooling a heat-fixed stretched film, additionally stretching the stretched film in an Example. FIG. 1 is a diagram schematically illustrating an MIT tester for use in the MIT tester method. FIG. 1 shows an x axis indicative of the horizontal direction and a y axis indicative of the vertical direction. The following description will outline the MIT tester method. The MIT tester includes a spring-loaded clamp 2 and a bending clamp 3 . A longitudinal end of a test piece 1 is clamped by the spring-loaded clamp 2 , while the other end is clamped by the bending clamp 3 . The test piece 1 is thereby fixed. The spring-loaded clamp 2 is connected with a weight 4 . Tension is thus being applied to the test piece 1 in the longitudinal direction. In this state, the longitudinal direction of the test piece 1 is parallel to the vertical direction. The bending clamp 3 is then rotated so that the test piece 1 is bent. A piece was cut out from the porous polyethylene film (2) produced in Comparative Example 2 which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.02-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (4). The porous polyethylene film (4) thus produced was used as a nonaqueous electrolyte secondary battery separator (1). A piece was cut out from the commercially available porous polyethylene film (1) (with a thickness of 16.2 μm and a weight per unit area of 10.0 g/m 2 ), identical to that used in Comparative Example 1, which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.15-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (6). The porous polyethylene film (6) thus produced was used as a nonaqueous electrolyte secondary battery separator (3). A piece was cut out from the commercially available porous polyethylene film (1) (with a thickness of 16.2 μm and a weight per unit area of 10.0 g/m 2 ), identical to that used in Comparative Example 1, which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.3-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (7). The film thus produced was used as a nonaqueous electrolyte secondary battery separator (4).",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/e8/40/02/9a150673d4bc23/US20200152943A1-20200514-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a diagram schematically illustrating an MIT tester. FIG. 2 is a diagram schematically illustrating a method of, after cooling a heat-fixed stretched film, additionally stretching the stretched film in an Example. FIG. 1 is a diagram schematically illustrating an MIT tester for use in the MIT tester method. FIG. 1 shows an x axis indicative of the horizontal direction and a y axis indicative of the vertical direction. The following description will outline the MIT tester method. The MIT tester includes a spring-loaded clamp 2 and a bending clamp 3 . A longitudinal end of a test piece 1 is clamped by the spring-loaded clamp 2 , while the other end is clamped by the bending clamp 3 . The test piece 1 is thereby fixed. The spring-loaded clamp 2 is connected with a weight 4 . Tension is thus being applied to the test piece 1 in the longitudinal direction. In this state, the longitudinal direction of the test piece 1 is parallel to the vertical direction. The bending clamp 3 is then rotated so that the test piece 1 is bent. A piece was cut out from the porous polyethylene film (2) produced in Comparative Example 2 which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.02-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (4). The porous polyethylene film (4) thus produced was used as a nonaqueous electrolyte secondary battery separator (1). A piece was cut out from the commercially available porous polyethylene film (1) (with a thickness of 16.2 μm and a weight per unit area of 10.0 g/m 2 ), identical to that used in Comparative Example 1, which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.15-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (6). The porous polyethylene film (6) thus produced was used as a nonaqueous electrolyte secondary battery separator (3). A piece was cut out from the commercially available porous polyethylene film (1) (with a thickness of 16.2 μm and a weight per unit area of 10.0 g/m 2 ), identical to that used in Comparative Example 1, which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.3-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (7). The film thus produced was used as a nonaqueous electrolyte secondary battery separator (4).",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/f5/0d/64/4ec7592360ae70/US20200152943A1-20200514-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a diagram schematically illustrating an MIT tester. FIG. 2 is a diagram schematically illustrating a method of, after cooling a heat-fixed stretched film, additionally stretching the stretched film in an Example. FIG. 1 is a diagram schematically illustrating an MIT tester for use in the MIT tester method. FIG. 1 shows an x axis indicative of the horizontal direction and a y axis indicative of the vertical direction. The following description will outline the MIT tester method. The MIT tester includes a spring-loaded clamp 2 and a bending clamp 3 . A longitudinal end of a test piece 1 is clamped by the spring-loaded clamp 2 , while the other end is clamped by the bending clamp 3 . The test piece 1 is thereby fixed. The spring-loaded clamp 2 is connected with a weight 4 . Tension is thus being applied to the test piece 1 in the longitudinal direction. In this state, the longitudinal direction of the test piece 1 is parallel to the vertical direction. The bending clamp 3 is then rotated so that the test piece 1 is bent. A piece was cut out from the porous polyethylene film (2) produced in Comparative Example 2 which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.02-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (4). The porous polyethylene film (4) thus produced was used as a nonaqueous electrolyte secondary battery separator (1). A piece was cut out from the commercially available porous polyethylene film (1) (with a thickness of 16.2 μm and a weight per unit area of 10.0 g/m 2 ), identical to that used in Comparative Example 1, which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.15-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (6). The porous polyethylene film (6) thus produced was used as a nonaqueous electrolyte secondary battery separator (3). A piece was cut out from the commercially available porous polyethylene film (1) (with a thickness of 16.2 μm and a weight per unit area of 10.0 g/m 2 ), identical to that used in Comparative Example 1, which piece was 10.8 cm in the MD and 13 cm in the TD. The cutout was fixed to a stainless-steel jig in the shape of a 15 cm×15 cm frame as illustrated in FIG. 2 in such a manner as to allow the cutout to be additionally stretched in the TD. The cutout was additionally stretched 1.3-fold in length with use of a compact desktop tester (EZ-L, available from Shimadzu Corporation) on which a thermostat bath was placed, with the temperature inside the thermostat bath being 85° C. and the stretching rate being 5 mm per minute. The cutout was then heat-fixed inside the thermostat bath for 1 minute. This produced a porous polyethylene film (7). The film thus produced was used as a nonaqueous electrolyte secondary battery separator (4).",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/b5/ab/b0/32e22647a0799d/US20200152943A1-20200514-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/75/19/ae/65e7ece6cb286b/US20200152943A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"183c733ec6b3cde694832da57cd69af9\"",
+        "last_modified": "Mon, 06 Jul 2020 08:08:45 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/ad2b57b5bdd52179ac2bd1bc29d834bc64da8fd486cbc3d4b43ed9ead34cfd90.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:20:50.195659+00:00",
+        "sha256": "ad2b57b5bdd52179ac2bd1bc29d834bc64da8fd486cbc3d4b43ed9ead34cfd90",
+        "source": "patent_pdf",
+        "source_id": "0b5b4acc6626871ff562b43a1998d7bf7d4615bbb3ad59a3215c438879e96c74",
+        "url": "https://patentimages.storage.googleapis.com/75/19/ae/65e7ece6cb286b/US20200152943A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20200152943A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/dc76863bfd064a7066bf306e54a1ec0783ecc3ff18a78e81933edb9eb93a98a9.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:20:49.348618+00:00",
+    "sha256": "dc76863bfd064a7066bf306e54a1ec0783ecc3ff18a78e81933edb9eb93a98a9",
+    "source": "patents",
+    "source_id": "c93c2db876eb3e540ffbdeaf2bcc1919a2f4fc70f61544334cd2a621ef6a6f18",
+    "url": "https://patents.google.com/patent/US20200152943A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "07341ed060ffa73cf96fb749240cb9669a10548bd033e952231d5060ba54b672",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "c93c2db876eb3e540ffbdeaf2bcc1919a2f4fc70f61544334cd2a621ef6a6f18",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/dc76863bfd064a7066bf306e54a1ec0783ecc3ff18a78e81933edb9eb93a98a9.bin",
+      "source_id": "c93c2db876eb3e540ffbdeaf2bcc1919a2f4fc70f61544334cd2a621ef6a6f18",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "dc76863bfd064a7066bf306e54a1ec0783ecc3ff18a78e81933edb9eb93a98a9",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20200152943A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

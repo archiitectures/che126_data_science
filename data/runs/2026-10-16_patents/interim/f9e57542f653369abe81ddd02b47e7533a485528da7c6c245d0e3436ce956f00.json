@@ -1,0 +1,2546 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Compar-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ative"
+        ],
+        [
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Resin",
+          "Ultra high",
+          "Content proportion (%)",
+          "30",
+          "20",
+          "20",
+          "30",
+          "40"
+        ],
+        [
+          "composition",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%"
+        ],
+        [
+          "",
+          "High density",
+          "Content proportion (%)",
+          "70",
+          "80",
+          "80",
+          "70",
+          "60"
+        ],
+        [
+          "",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%"
+        ],
+        [
+          "",
+          "Solid content",
+          "30",
+          "30",
+          "30",
+          "30",
+          "28"
+        ],
+        [
+          "",
+          "concentration (%)"
+        ],
+        [
+          "Stretching",
+          "Stepwise",
+          "MDO",
+          "Preheating",
+          "115",
+          "118",
+          "113",
+          "111",
+          "—"
+        ],
+        [
+          "conditions",
+          "biaxial",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "stretching",
+          "",
+          "Stretching",
+          "123",
+          "121",
+          "122",
+          "121",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "50",
+          "50",
+          "50",
+          "50",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "8.2",
+          "6.5",
+          "6",
+          "7",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "(1.3 ×",
+          "(1.87 ×",
+          "(1.3 ×",
+          "(1.3 ×",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "1.8 × 3.5)",
+          "1.87 × 1.87)",
+          "1.8 × 2.5)",
+          "1.8 × 2.99)"
+        ],
+        [
+          "",
+          "",
+          "TDO",
+          "Preheating",
+          "114",
+          "114",
+          "120",
+          "114",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Stretching",
+          "113",
+          "114",
+          "120",
+          "113",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "85",
+          "85",
+          "85",
+          "105",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "8.3",
+          "7.7",
+          "6.8",
+          "8.5",
+          "—"
+        ],
+        [
+          "",
+          "Maximal deformation rate",
+          "2",
+          "1",
+          "1",
+          "3",
+          "—"
+        ],
+        [
+          "",
+          "deviation (%/second)"
+        ],
+        [
+          "",
+          "Simultaneous",
+          "Preheating",
+          "—",
+          "—",
+          "—",
+          "—",
+          "117"
+        ],
+        [
+          "",
+          "biaxial",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "stretching",
+          "Stretching",
+          "—",
+          "—",
+          "—",
+          "—",
+          "117"
+        ],
+        [
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Thermal fixation",
+          "—",
+          "—",
+          "—",
+          "—",
+          "100"
+        ],
+        [
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Magnification (times)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "5 × 5"
+        ],
+        [
+          "",
+          "Heat",
+          "Temperature (° C.)",
+          "132",
+          "132",
+          "132",
+          "131",
+          "127"
+        ],
+        [
+          "",
+          "treatment",
+          "Magnification (times)",
+          "1.7→1.6",
+          "1.55→1.5",
+          "1.5→1.4",
+          "1.16→1.10",
+          "1.4→1.2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-"
+        ],
+        [
+          "",
+          "ative",
+          "ative",
+          "ative",
+          "ative"
+        ],
+        [
+          "",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Resin",
+          "Ultra high",
+          "Content proportion (%)",
+          "40",
+          "2",
+          "0",
+          "30"
+        ],
+        [
+          "",
+          "composition",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%"
+        ],
+        [
+          "",
+          "",
+          "High density",
+          "Content proportion (%)",
+          "60",
+          "98",
+          "100",
+          "70"
+        ],
+        [
+          "",
+          "",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%"
+        ],
+        [
+          "",
+          "Solid content",
+          "23",
+          "40",
+          "30",
+          "30"
+        ],
+        [
+          "",
+          "concentration (%)"
+        ],
+        [
+          "",
+          "Stretching",
+          "Stepwise",
+          "MDO",
+          "Preheating",
+          "—",
+          "115",
+          "110",
+          "117"
+        ],
+        [
+          "",
+          "conditions",
+          "biaxial",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "stretching",
+          "",
+          "Stretching",
+          "—",
+          "123",
+          "108",
+          "117"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "—",
+          "50",
+          "80",
+          "50"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "—",
+          "8.2",
+          "7.5",
+          "8"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "—",
+          "(1.3 ×",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.8 × 3.5)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "TDO",
+          "Preheating",
+          "—",
+          "114",
+          "124",
+          "117"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Stretching",
+          "—",
+          "113",
+          "120",
+          "117"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "—",
+          "85",
+          "116",
+          "85"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "—",
+          "8.3",
+          "8.4→7",
+          "8"
+        ],
+        [
+          "",
+          "Maximal deformation rate",
+          "—",
+          "—",
+          "—",
+          "1"
+        ],
+        [
+          "",
+          "deviation (%/second)"
+        ],
+        [
+          "",
+          "Simultaneous",
+          "Preheating",
+          "115",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "biaxial",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "stretching",
+          "Stretching",
+          "115",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Thermal fixation",
+          "100",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Magnification (times)",
+          "5 × 5",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Heat",
+          "Temperature (° C.)",
+          "127",
+          "132",
+          "129",
+          "125"
+        ],
+        [
+          "",
+          "treatment",
+          "Magnification (times)",
+          "1.4",
+          "1.7→1.6",
+          "1.45→1.2",
+          "1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Compar-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Resin</td>\n<td class=\"description-td\">Ultra high</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">High density</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">60</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solid content</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">28</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">concentration (%)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stepwise</td>\n<td class=\"description-td\">MDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">118</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">111</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">conditions</td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">121</td>\n<td class=\"description-td\">122</td>\n<td class=\"description-td\">121</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">6.5</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.87 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.8 × 3.5)</td>\n<td class=\"description-td\">1.87 × 1.87)</td>\n<td class=\"description-td\">1.8 × 2.5)</td>\n<td class=\"description-td\">1.8 × 2.99)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">105</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">7.7</td>\n<td class=\"description-td\">6.8</td>\n<td class=\"description-td\">8.5</td>\n<td class=\"description-td\">—</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximal deformation rate</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">deviation (%/second)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Simultaneous</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">100</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">5 × 5</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat</td>\n<td class=\"description-td\">Temperature (° C.)</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">131</td>\n<td class=\"description-td\">127</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">treatment</td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">1.7→1.6</td>\n<td class=\"description-td\">1.55→1.5</td>\n<td class=\"description-td\">1.5→1.4</td>\n<td class=\"description-td\">1.16→1.10</td>\n<td class=\"description-td\">1.4→1.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin</td>\n<td class=\"description-td\">Ultra high</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\"> 40</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">High density</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\"> 60</td>\n<td class=\"description-td\">98</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solid content</td>\n<td class=\"description-td\"> 23</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">concentration (%)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stepwise</td>\n<td class=\"description-td\">MDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">110</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">conditions</td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">108</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">50</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">7.5</td>\n<td class=\"description-td\">8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.8 × 3.5)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">124</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">85</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">8.4→7</td>\n<td class=\"description-td\">8</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximal deformation rate</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">deviation (%/second)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Simultaneous</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">5 × 5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat</td>\n<td class=\"description-td\">Temperature (° C.)</td>\n<td class=\"description-td\">127</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">129</td>\n<td class=\"description-td\">125</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">treatment</td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">   1.4</td>\n<td class=\"description-td\">1.7→1.6</td>\n<td class=\"description-td\">1.45→1.2</td>\n<td class=\"description-td\">1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "",
+          "Example 6",
+          "Example 7",
+          "Example 8",
+          "Example 9",
+          "Example 10"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Resin",
+          "Ultra high",
+          "Content proportion (%)",
+          "30",
+          "20",
+          "30",
+          "30",
+          "30"
+        ],
+        [
+          "composition",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%"
+        ],
+        [
+          "",
+          "High density",
+          "Content proportion (%)",
+          "70",
+          "80",
+          "70",
+          "70",
+          "70"
+        ],
+        [
+          "",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%"
+        ],
+        [
+          "",
+          "Solid content",
+          "30",
+          "30",
+          "30",
+          "30",
+          "30"
+        ],
+        [
+          "",
+          "concentration (%)"
+        ],
+        [
+          "Stretching",
+          "Stepwise",
+          "MDO",
+          "Preheating",
+          "80",
+          "130",
+          "115",
+          "115",
+          "116"
+        ],
+        [
+          "conditions",
+          "biaxial",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "stretching",
+          "",
+          "Stretching",
+          "85",
+          "135",
+          "123",
+          "123",
+          "116"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "50",
+          "50",
+          "50",
+          "50",
+          "50"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "8.2",
+          "6.5",
+          "8.2",
+          "8.2",
+          "6.51"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "(1.3 ×",
+          "(1.87 ×",
+          "(1.3 ×",
+          "(1.3 ×",
+          "(1.3 ×"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "1.8 × 3.5)",
+          "1.87 × 1.87)",
+          "1.8 × 3.5)",
+          "1.8 × 3.5)",
+          "1.8 × 2.78)"
+        ],
+        [
+          "",
+          "",
+          "TDO",
+          "Preheating",
+          "—",
+          "—",
+          "85",
+          "125",
+          "120"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Stretching",
+          "—",
+          "—",
+          "90",
+          "133",
+          "120"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "—",
+          "—",
+          "85",
+          "85",
+          "85"
+        ],
+        [
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "—",
+          "—",
+          "8.3",
+          "8.3",
+          "7.21"
+        ],
+        [
+          "",
+          "Maximal deformation rate",
+          "—",
+          "—",
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "",
+          "deviation (%/second)"
+        ],
+        [
+          "",
+          "Simultaneous",
+          "Preheating",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "biaxial",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "stretching",
+          "Stretching",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Thermal fixation",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Magnification (times)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Heat",
+          "Temperature (° C.)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "132.5"
+        ],
+        [
+          "",
+          "treatment",
+          "Magnification (times)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "1.61→1.56"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "",
+          "Example 11",
+          "Example 12",
+          "Example 13",
+          "Example 14"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Resin",
+          "Ultra high",
+          "Content proportion (%)",
+          "20",
+          "30",
+          "30",
+          "30"
+        ],
+        [
+          "",
+          "composition",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%",
+          "2700, 46%"
+        ],
+        [
+          "",
+          "",
+          "High density",
+          "Content proportion (%)",
+          "80",
+          "70",
+          "70",
+          "70"
+        ],
+        [
+          "",
+          "",
+          "polyethylene",
+          "(Mw (×10 3 ), f (≥1M))",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%",
+          "260, 5.0%"
+        ],
+        [
+          "",
+          "Solid content",
+          "30",
+          "30",
+          "30",
+          "30"
+        ],
+        [
+          "",
+          "concentration (%)"
+        ],
+        [
+          "",
+          "Stretching",
+          "Stepwise",
+          "MDO",
+          "Preheating",
+          "115",
+          "115",
+          "115",
+          "115"
+        ],
+        [
+          "",
+          "conditions",
+          "biaxial",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "stretching",
+          "",
+          "Stretching",
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "50",
+          "50",
+          "50",
+          "50"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "4.9",
+          "8.2",
+          "8.2",
+          "9"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(1.3 ×",
+          "(1.3 ×",
+          "(1.3 ×",
+          "(1.3 ×"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.5 × 2.5)",
+          "1.8 × 3.5)",
+          "1.8 × 3.5)",
+          "1.8 × 3.85)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "TDO",
+          "Preheating",
+          "114",
+          "114",
+          "114",
+          "111"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Stretching",
+          "113",
+          "113",
+          "113",
+          "110"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Thermal fixation",
+          "85",
+          "85",
+          "85",
+          "85"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Magnification (times)",
+          "8.3",
+          "4.9",
+          "11",
+          "6.6"
+        ],
+        [
+          "",
+          "Maximal deformation rate",
+          "2",
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "",
+          "deviation (%/second)"
+        ],
+        [
+          "",
+          "Simultaneous",
+          "Preheating",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "biaxial",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "stretching",
+          "Stretching",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Thermal fixation",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "temperature (° C.)"
+        ],
+        [
+          "",
+          "Magnification (times)",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Heat",
+          "Temperature (° C.)",
+          "132",
+          "—",
+          "—",
+          "132"
+        ],
+        [
+          "",
+          "treatment",
+          "Magnification (times)",
+          "1.7→1.6",
+          "—",
+          "—",
+          "1.34→1.27"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">Example 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Resin</td>\n<td class=\"description-td\">Ultra high</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">High density</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solid content</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">concentration (%)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stepwise</td>\n<td class=\"description-td\">MDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">130</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">116</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">conditions</td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">135</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">116</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">  8.2</td>\n<td class=\"description-td\">6.5</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">6.51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.87 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.8 × 3.5)</td>\n<td class=\"description-td\">1.87 × 1.87)</td>\n<td class=\"description-td\">1.8 × 3.5)</td>\n<td class=\"description-td\">1.8 × 3.5)</td>\n<td class=\"description-td\">1.8 × 2.78)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">125</td>\n<td class=\"description-td\">120</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">133</td>\n<td class=\"description-td\">120</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">85</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">7.21</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximal deformation rate</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">deviation (%/second)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Simultaneous</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat</td>\n<td class=\"description-td\">Temperature (° C.)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">132.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">treatment</td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1.61→1.56</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 11</td>\n<td class=\"description-td\">Example 12</td>\n<td class=\"description-td\">Example 13</td>\n<td class=\"description-td\">Example 14</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin</td>\n<td class=\"description-td\">Ultra high</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n<td class=\"description-td\">2700, 46%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">High density</td>\n<td class=\"description-td\">Content proportion (%)</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyethylene</td>\n<td class=\"description-td\">(Mw (×10<sup>3</sup>), f (≥1M))</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n<td class=\"description-td\"> 260, 5.0%</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solid content</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">concentration (%)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Stepwise</td>\n<td class=\"description-td\">MDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">conditions</td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">123</td>\n<td class=\"description-td\">123</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n<td class=\"description-td\">(1.3 ×</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1.5 × 2.5)</td>\n<td class=\"description-td\">1.8 × 3.5)</td>\n<td class=\"description-td\">1.8 × 3.5)</td>\n<td class=\"description-td\">1.8 × 3.85)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">TDO</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">111</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">113</td>\n<td class=\"description-td\">110</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">85</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">6.6</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximal deformation rate</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">deviation (%/second)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Simultaneous</td>\n<td class=\"description-td\">Preheating</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">biaxial</td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stretching</td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal fixation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat</td>\n<td class=\"description-td\">Temperature (° C.)</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">treatment</td>\n<td class=\"description-td\">Magnification (times)</td>\n<td class=\"description-td\">1.7→1.6</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1.34→1.27</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ative",
+          "ative",
+          "ative",
+          "ative",
+          "ative"
+        ],
+        [
+          "",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-"
+        ],
+        [
+          "",
+          "ple 1",
+          "ple 2",
+          "ple 3",
+          "ple 4",
+          "ple 1",
+          "ple 2",
+          "ple 3",
+          "ple 4",
+          "ple 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Properties",
+          "Membrane",
+          "12",
+          "9",
+          "10.9",
+          "11.9",
+          "11.1",
+          "11.6",
+          "9",
+          "12",
+          "10"
+        ],
+        [
+          "before",
+          "thickness (μm)"
+        ],
+        [
+          "pressur-",
+          "Air resistance (sec/100 cm 3 )",
+          "165",
+          "155",
+          "130",
+          "240",
+          "130",
+          "120",
+          "140",
+          "130",
+          "150"
+        ],
+        [
+          "ization",
+          "Porosity (%)",
+          "43.6",
+          "39.9",
+          "44.2",
+          "38.2",
+          "43.7",
+          "45.8",
+          "41.2",
+          "51.5",
+          "47.1"
+        ],
+        [
+          "test",
+          "Pin puncture strength (mN)",
+          "5394",
+          "3727",
+          "4070",
+          "4913",
+          "3138",
+          "3432",
+          "3334",
+          "5394",
+          "4462"
+        ],
+        [
+          "",
+          "Pin puncture strength",
+          "5394",
+          "5001",
+          "4511",
+          "4952",
+          "3432",
+          "3530",
+          "4511",
+          "5394",
+          "5394"
+        ],
+        [
+          "",
+          "corresponding to 12 μm"
+        ],
+        [
+          "",
+          "(mN)"
+        ],
+        [
+          "",
+          "Heat shrinkage rate at",
+          "2.8/4.8",
+          "3.9/3.8",
+          "3.4/2.9",
+          "3.0/3.0",
+          "6.4/1.2",
+          "5.3/5.1",
+          "2.2/3.5",
+          "1.4/2.4",
+          "9.5/9.8"
+        ],
+        [
+          "",
+          "105° C. (%) MD/TD"
+        ],
+        [
+          "",
+          "Tensile rupture strength",
+          "256/219",
+          "252/229",
+          "211/178",
+          "224/189",
+          "127/135",
+          "128/164",
+          "159/222",
+          "207/257",
+          "208/251"
+        ],
+        [
+          "",
+          "(MPa) MD/TD"
+        ],
+        [
+          "",
+          "Tensile rupture elongation",
+          "85/85",
+          "110/95",
+          "120/130",
+          "115/135",
+          "160/145",
+          "180/125",
+          "130/80",
+          "90/60",
+          "90/80"
+        ],
+        [
+          "",
+          "(%) MD/TD"
+        ],
+        [
+          "",
+          "Average tensile rupture",
+          "85",
+          "102",
+          "125",
+          "125",
+          "152",
+          "150",
+          "100",
+          "74",
+          "85"
+        ],
+        [
+          "",
+          "elongation (%)"
+        ],
+        [
+          "",
+          "Maximal pore size (nm)",
+          "49",
+          "55",
+          "53.5",
+          "44.5",
+          "50",
+          "50",
+          "80.5",
+          "85",
+          "45"
+        ],
+        [
+          "",
+          "Average pore size (nm)",
+          "34.5",
+          "39",
+          "30",
+          "27.5",
+          "32",
+          "33",
+          "56.5",
+          "57.5",
+          "30"
+        ],
+        [
+          "",
+          "Impedance",
+          "100%",
+          "100%",
+          "100%",
+          "100%",
+          "100%",
+          "100%",
+          "100%",
+          "100%",
+          "100%"
+        ],
+        [
+          "",
+          "SDT (° C.)",
+          "139.8",
+          "138.8",
+          "139.2",
+          "138.2",
+          "137.2",
+          "137",
+          "138",
+          "142",
+          "139.2"
+        ],
+        [
+          "",
+          "MDT (° C.)",
+          "150.6",
+          "149.6",
+          "151.2",
+          "150.6",
+          "150.6",
+          "149.6",
+          "149",
+          "148",
+          "150.1"
+        ],
+        [
+          "",
+          "MDT − SDT (° C.)",
+          "10.8",
+          "10.8",
+          "12",
+          "12.4",
+          "13.4",
+          "12.6",
+          "11",
+          "6",
+          "10.9"
+        ],
+        [
+          "",
+          "Submicron region a)",
+          "L",
+          "L",
+          "L",
+          "L",
+          "3D",
+          "3D",
+          "L",
+          "L",
+          "—"
+        ],
+        [
+          "",
+          "Micron region a)",
+          "3D",
+          "3D",
+          "3D",
+          "3D",
+          "3D",
+          "3D",
+          "L",
+          "L",
+          "—"
+        ],
+        [
+          "After",
+          "Membrane thickness (μm)",
+          "11",
+          "8.8",
+          "9.8",
+          "10.9",
+          "10.2",
+          "10.3",
+          "8.5",
+          "10.3",
+          "—"
+        ],
+        [
+          "pressur-",
+          "Membrane thickness variation",
+          "91%",
+          "98%",
+          "90%",
+          "96%",
+          "92%",
+          "89%",
+          "94%",
+          "86%",
+          "—"
+        ],
+        [
+          "ization",
+          "Air resistance (sec/100 cm 3 )",
+          "225",
+          "225",
+          "190",
+          "300",
+          "195",
+          "185",
+          "220",
+          "215",
+          "—"
+        ],
+        [
+          "at 60° C.",
+          "Air resistance variation",
+          "137%",
+          "145%",
+          "146%",
+          "125%",
+          "150%",
+          "154%",
+          "157%",
+          "165%",
+          "—"
+        ],
+        [
+          "After",
+          "Membrane thickness (μm)",
+          "10.8",
+          "8.3",
+          "9.6",
+          "10.3",
+          "9.6",
+          "10.1",
+          "8.1",
+          "10.1",
+          "—"
+        ],
+        [
+          "pressur-",
+          "Membrane thickness variation",
+          "89%",
+          "92%",
+          "88%",
+          "90%",
+          "86%",
+          "87%",
+          "90%",
+          "84%",
+          "—"
+        ],
+        [
+          "ization",
+          "Air resistance (sec/100 cm 3 )",
+          "270",
+          "275",
+          "245",
+          "360",
+          "280",
+          "265",
+          "295",
+          "310",
+          "—"
+        ],
+        [
+          "at 80° C.",
+          "Air resistance variation",
+          "164%",
+          "177%",
+          "188%",
+          "150%",
+          "215%",
+          "221%",
+          "211%",
+          "238%",
+          "—"
+        ],
+        [
+          "",
+          "Air resistance variation",
+          "120%",
+          "122%",
+          "129%",
+          "120%",
+          "144%",
+          "143%",
+          "134%",
+          "144%",
+          "—"
+        ],
+        [
+          "",
+          "ratio of the ratio after"
+        ],
+        [
+          "",
+          "pressurization at 60° C."
+        ],
+        [
+          "",
+          "Impedance",
+          "103%",
+          "102%",
+          "108%",
+          "109%",
+          "125%",
+          "112%",
+          "122%",
+          "133%",
+          "—"
+        ],
+        [
+          "",
+          "Impedance retention test",
+          "⊚",
+          "◯",
+          "⊚",
+          "◯",
+          "⊚",
+          "⊚",
+          "◯",
+          "X",
+          "—"
+        ],
+        [
+          "",
+          "results b)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),"
+        ],
+        [
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ple 1</td>\n<td class=\"description-td\">ple 2</td>\n<td class=\"description-td\">ple 3</td>\n<td class=\"description-td\">ple 4</td>\n<td class=\"description-td\">ple 1</td>\n<td class=\"description-td\">ple 2</td>\n<td class=\"description-td\">ple 3</td>\n<td class=\"description-td\">ple 4</td>\n<td class=\"description-td\">ple 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Properties</td>\n<td class=\"description-td\">Membrane</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">10.9</td>\n<td class=\"description-td\">11.9</td>\n<td class=\"description-td\">11.1</td>\n<td class=\"description-td\">11.6</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">before</td>\n<td class=\"description-td\">thickness (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">pressur-</td>\n<td class=\"description-td\">Air resistance (sec/100 cm<sup>3</sup>)</td>\n<td class=\"description-td\">165</td>\n<td class=\"description-td\">155</td>\n<td class=\"description-td\">130</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">130</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">140</td>\n<td class=\"description-td\">130</td>\n<td class=\"description-td\">150</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">ization</td>\n<td class=\"description-td\">Porosity (%)</td>\n<td class=\"description-td\">43.6</td>\n<td class=\"description-td\">39.9</td>\n<td class=\"description-td\">44.2</td>\n<td class=\"description-td\">38.2</td>\n<td class=\"description-td\">43.7</td>\n<td class=\"description-td\">45.8</td>\n<td class=\"description-td\">41.2</td>\n<td class=\"description-td\">51.5</td>\n<td class=\"description-td\">47.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">test</td>\n<td class=\"description-td\">Pin puncture strength (mN)</td>\n<td class=\"description-td\">5394</td>\n<td class=\"description-td\">3727</td>\n<td class=\"description-td\">4070</td>\n<td class=\"description-td\">4913</td>\n<td class=\"description-td\">3138</td>\n<td class=\"description-td\">3432</td>\n<td class=\"description-td\">3334</td>\n<td class=\"description-td\">5394</td>\n<td class=\"description-td\">4462</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Pin puncture strength</td>\n<td class=\"description-td\">5394</td>\n<td class=\"description-td\">5001</td>\n<td class=\"description-td\">4511</td>\n<td class=\"description-td\">4952</td>\n<td class=\"description-td\">3432</td>\n<td class=\"description-td\">3530</td>\n<td class=\"description-td\">4511</td>\n<td class=\"description-td\">5394</td>\n<td class=\"description-td\">5394</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">corresponding to 12 μm</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mN)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat shrinkage rate at</td>\n<td class=\"description-td\">2.8/4.8</td>\n<td class=\"description-td\">3.9/3.8</td>\n<td class=\"description-td\">3.4/2.9</td>\n<td class=\"description-td\">3.0/3.0</td>\n<td class=\"description-td\">6.4/1.2</td>\n<td class=\"description-td\">5.3/5.1</td>\n<td class=\"description-td\">2.2/3.5</td>\n<td class=\"description-td\">1.4/2.4</td>\n<td class=\"description-td\">9.5/9.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">105° C. (%) MD/TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Tensile rupture strength</td>\n<td class=\"description-td\">256/219</td>\n<td class=\"description-td\">252/229</td>\n<td class=\"description-td\">211/178</td>\n<td class=\"description-td\">224/189</td>\n<td class=\"description-td\">127/135</td>\n<td class=\"description-td\">128/164</td>\n<td class=\"description-td\">159/222</td>\n<td class=\"description-td\">207/257</td>\n<td class=\"description-td\">208/251</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(MPa) MD/TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Tensile rupture elongation</td>\n<td class=\"description-td\">85/85</td>\n<td class=\"description-td\">110/95 </td>\n<td class=\"description-td\">120/130</td>\n<td class=\"description-td\">115/135</td>\n<td class=\"description-td\">160/145</td>\n<td class=\"description-td\">180/125</td>\n<td class=\"description-td\">130/80</td>\n<td class=\"description-td\">90/60</td>\n<td class=\"description-td\">90/80</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(%) MD/TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average tensile rupture</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">102</td>\n<td class=\"description-td\">125</td>\n<td class=\"description-td\">125</td>\n<td class=\"description-td\">152</td>\n<td class=\"description-td\">150</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">74</td>\n<td class=\"description-td\">85</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">elongation (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximal pore size (nm)</td>\n<td class=\"description-td\">49</td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\">53.5</td>\n<td class=\"description-td\">44.5</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">80.5</td>\n<td class=\"description-td\">85</td>\n<td class=\"description-td\">45</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average pore size (nm)</td>\n<td class=\"description-td\">34.5</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">27.5</td>\n<td class=\"description-td\">32</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">56.5</td>\n<td class=\"description-td\">57.5</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">100%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">SDT (° C.)</td>\n<td class=\"description-td\">139.8</td>\n<td class=\"description-td\">138.8</td>\n<td class=\"description-td\">139.2</td>\n<td class=\"description-td\">138.2</td>\n<td class=\"description-td\">137.2</td>\n<td class=\"description-td\">137</td>\n<td class=\"description-td\">138</td>\n<td class=\"description-td\">142</td>\n<td class=\"description-td\">139.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">MDT (° C.)</td>\n<td class=\"description-td\">150.6</td>\n<td class=\"description-td\">149.6</td>\n<td class=\"description-td\">151.2</td>\n<td class=\"description-td\">150.6</td>\n<td class=\"description-td\">150.6</td>\n<td class=\"description-td\">149.6</td>\n<td class=\"description-td\">149</td>\n<td class=\"description-td\">148</td>\n<td class=\"description-td\">150.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">MDT − SDT (° C.)</td>\n<td class=\"description-td\">10.8</td>\n<td class=\"description-td\">10.8</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">12.4</td>\n<td class=\"description-td\">13.4</td>\n<td class=\"description-td\">12.6</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">10.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Submicron region <sup>a)</sup> </td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Micron region <sup>a)</sup> </td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">3D</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">After</td>\n<td class=\"description-td\">Membrane thickness (μm)</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">8.8</td>\n<td class=\"description-td\">9.8</td>\n<td class=\"description-td\">10.9</td>\n<td class=\"description-td\">10.2</td>\n<td class=\"description-td\">10.3</td>\n<td class=\"description-td\">8.5</td>\n<td class=\"description-td\">10.3</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">pressur-</td>\n<td class=\"description-td\">Membrane thickness variation</td>\n<td class=\"description-td\"> 91%</td>\n<td class=\"description-td\"> 98%</td>\n<td class=\"description-td\"> 90%</td>\n<td class=\"description-td\"> 96%</td>\n<td class=\"description-td\"> 92%</td>\n<td class=\"description-td\"> 89%</td>\n<td class=\"description-td\"> 94%</td>\n<td class=\"description-td\"> 86%</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">ization</td>\n<td class=\"description-td\">Air resistance (sec/100 cm<sup>3</sup>)</td>\n<td class=\"description-td\">225</td>\n<td class=\"description-td\">225</td>\n<td class=\"description-td\">190</td>\n<td class=\"description-td\">300</td>\n<td class=\"description-td\">195</td>\n<td class=\"description-td\">185</td>\n<td class=\"description-td\">220</td>\n<td class=\"description-td\">215</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">at 60° C.</td>\n<td class=\"description-td\">Air resistance variation</td>\n<td class=\"description-td\">137%</td>\n<td class=\"description-td\">145%</td>\n<td class=\"description-td\">146%</td>\n<td class=\"description-td\">125%</td>\n<td class=\"description-td\">150%</td>\n<td class=\"description-td\">154%</td>\n<td class=\"description-td\">157%</td>\n<td class=\"description-td\">165%</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">After</td>\n<td class=\"description-td\">Membrane thickness (μm)</td>\n<td class=\"description-td\">10.8</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">9.6</td>\n<td class=\"description-td\">10.3</td>\n<td class=\"description-td\">9.6</td>\n<td class=\"description-td\">10.1</td>\n<td class=\"description-td\">8.1</td>\n<td class=\"description-td\">10.1</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">pressur-</td>\n<td class=\"description-td\">Membrane thickness variation</td>\n<td class=\"description-td\"> 89%</td>\n<td class=\"description-td\"> 92%</td>\n<td class=\"description-td\"> 88%</td>\n<td class=\"description-td\"> 90%</td>\n<td class=\"description-td\"> 86%</td>\n<td class=\"description-td\"> 87%</td>\n<td class=\"description-td\"> 90%</td>\n<td class=\"description-td\"> 84%</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">ization</td>\n<td class=\"description-td\">Air resistance (sec/100 cm<sup>3</sup>)</td>\n<td class=\"description-td\">270</td>\n<td class=\"description-td\">275</td>\n<td class=\"description-td\">245</td>\n<td class=\"description-td\">360</td>\n<td class=\"description-td\">280</td>\n<td class=\"description-td\">265</td>\n<td class=\"description-td\">295</td>\n<td class=\"description-td\">310</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">at 80° C.</td>\n<td class=\"description-td\">Air resistance variation</td>\n<td class=\"description-td\">164%</td>\n<td class=\"description-td\">177%</td>\n<td class=\"description-td\">188%</td>\n<td class=\"description-td\">150%</td>\n<td class=\"description-td\">215%</td>\n<td class=\"description-td\">221%</td>\n<td class=\"description-td\">211%</td>\n<td class=\"description-td\">238%</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air resistance variation</td>\n<td class=\"description-td\">120%</td>\n<td class=\"description-td\">122%</td>\n<td class=\"description-td\">129%</td>\n<td class=\"description-td\">120%</td>\n<td class=\"description-td\">144%</td>\n<td class=\"description-td\">143%</td>\n<td class=\"description-td\">134%</td>\n<td class=\"description-td\">144%</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio of the ratio after</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pressurization at 60° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance</td>\n<td class=\"description-td\">103%</td>\n<td class=\"description-td\">102%</td>\n<td class=\"description-td\">108%</td>\n<td class=\"description-td\">109%</td>\n<td class=\"description-td\">125%</td>\n<td class=\"description-td\">112%</td>\n<td class=\"description-td\">122%</td>\n<td class=\"description-td\">133%</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance retention test</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">◯</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">◯</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">◯</td>\n<td class=\"description-td\">X</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results <sup>b)</sup> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"11\" id=\"FOO-00001\" nameend=\"11\" namest=\"1\"> <sup>a) </sup>(L: Ladder-like structure, 3D: three-dimensional network structure),</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"11\" id=\"FOO-00002\" nameend=\"11\" namest=\"1\"> <sup>b) </sup>(⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)</td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-",
+          "Compar-"
+        ],
+        [
+          "",
+          "ative",
+          "ative",
+          "ative",
+          "ative",
+          "ative",
+          "ative",
+          "ative",
+          "ative",
+          "ative"
+        ],
+        [
+          "",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-",
+          "Exam-"
+        ],
+        [
+          "",
+          "ple 6",
+          "ple 7",
+          "ple 8",
+          "ple 9",
+          "ple 10",
+          "ple 11",
+          "ple 12",
+          "ple 13",
+          "ple 14"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Properties",
+          "Membrane",
+          "—",
+          "—",
+          "—",
+          "—",
+          "12.1",
+          "—",
+          "—",
+          "—",
+          "13"
+        ],
+        [
+          "before",
+          "thickness (μm)"
+        ],
+        [
+          "pressur-",
+          "Air resistance (sec/100 cm 3 )",
+          "—",
+          "—",
+          "—",
+          "—",
+          "120",
+          "—",
+          "—",
+          "—",
+          "240"
+        ],
+        [
+          "ization",
+          "Porosity (%)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "46.6",
+          "—",
+          "—",
+          "—",
+          "38"
+        ],
+        [
+          "test",
+          "Pin puncture strength (mN)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "4903",
+          "—",
+          "—",
+          "—",
+          "4119"
+        ],
+        [
+          "",
+          "Pin puncture strength",
+          "—",
+          "—",
+          "—",
+          "—",
+          "4805",
+          "—",
+          "—",
+          "—",
+          "3825"
+        ],
+        [
+          "",
+          "corresponding to 12 μm"
+        ],
+        [
+          "",
+          "(mN)"
+        ],
+        [
+          "",
+          "Heat shrinkage rate at",
+          "—",
+          "—",
+          "—",
+          "—",
+          "2.5/5.8",
+          "—",
+          "—",
+          "—",
+          "2.6/3.0"
+        ],
+        [
+          "",
+          "105° C. (%) MD/TD"
+        ],
+        [
+          "",
+          "Tensile rupture strength",
+          "—",
+          "—",
+          "—",
+          "—",
+          "260/178",
+          "—",
+          "—",
+          "—",
+          "213/150"
+        ],
+        [
+          "",
+          "(kPa) MD/TD"
+        ],
+        [
+          "",
+          "Tensile rupture elongation",
+          "—",
+          "—",
+          "—",
+          "—",
+          "100/110",
+          "—",
+          "—",
+          "—",
+          "75/140"
+        ],
+        [
+          "",
+          "(%) MD/TD"
+        ],
+        [
+          "",
+          "Averaqe tensile rupture",
+          "—",
+          "—",
+          "—",
+          "—",
+          "105",
+          "—",
+          "—",
+          "—",
+          "100"
+        ],
+        [
+          "",
+          "elongation (%)"
+        ],
+        [
+          "",
+          "Maximal pore size (nm)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "53",
+          "—",
+          "—",
+          "—",
+          "55"
+        ],
+        [
+          "",
+          "Average pore size (nm)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "38",
+          "—",
+          "—",
+          "—",
+          "36"
+        ],
+        [
+          "",
+          "Impedance",
+          "—",
+          "—",
+          "—",
+          "—",
+          "100%",
+          "—",
+          "—",
+          "—",
+          "100%"
+        ],
+        [
+          "",
+          "SDT (° C.)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "142.5",
+          "—",
+          "—",
+          "—",
+          "138.1"
+        ],
+        [
+          "",
+          "MDT (° C.)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "150.4",
+          "—",
+          "—",
+          "—",
+          "150"
+        ],
+        [
+          "",
+          "MDT − SDT (° C.)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "7.9",
+          "—",
+          "—",
+          "—",
+          "11.9"
+        ],
+        [
+          "",
+          "Submicron region a)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "L",
+          "—",
+          "—",
+          "—",
+          "L"
+        ],
+        [
+          "",
+          "Micron region a)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "L",
+          "—",
+          "—",
+          "—",
+          "L"
+        ],
+        [
+          "After",
+          "Membrane thickness (μm)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "12.4"
+        ],
+        [
+          "pressur-",
+          "Membrane thickness variation",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "0.95"
+        ],
+        [
+          "ization",
+          "Air resistance (sec/100 cm 3 )",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "370"
+        ],
+        [
+          "at 60° C.",
+          "Air resistance variation",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "154%"
+        ],
+        [
+          "After",
+          "Membrane thickness (μm)",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "11.8"
+        ],
+        [
+          "pressur-",
+          "Membrane thickness variation",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "0.91"
+        ],
+        [
+          "ization",
+          "Air resistance (sec/100 cm 3 )",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "500"
+        ],
+        [
+          "at 80° C.",
+          "Air resistance variation",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "208%"
+        ],
+        [
+          "",
+          "Air resistance variation ratio",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "135%"
+        ],
+        [
+          "",
+          "of the ratio after"
+        ],
+        [
+          "",
+          "pressurization at 60° C."
+        ],
+        [
+          "",
+          "Impedance",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "120%"
+        ],
+        [
+          "",
+          "Impedance retention test",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "⊚"
+        ],
+        [
+          "",
+          "results b)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),",
+          "a) (L: Ladder-like structure, 3D: three-dimensional network structure),"
+        ],
+        [
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)",
+          "b) (⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\">TABLE 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n<td class=\"description-td\">Exam-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ple 6</td>\n<td class=\"description-td\">ple 7</td>\n<td class=\"description-td\">ple 8</td>\n<td class=\"description-td\">ple 9</td>\n<td class=\"description-td\">ple 10</td>\n<td class=\"description-td\">ple 11</td>\n<td class=\"description-td\">ple 12</td>\n<td class=\"description-td\">ple 13</td>\n<td class=\"description-td\">ple 14</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Properties</td>\n<td class=\"description-td\">Membrane</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">12.1</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">13</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">before</td>\n<td class=\"description-td\">thickness (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">pressur-</td>\n<td class=\"description-td\">Air resistance (sec/100 cm<sup>3</sup>)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">120</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">240</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">ization</td>\n<td class=\"description-td\">Porosity (%)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">46.6</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">test</td>\n<td class=\"description-td\">Pin puncture strength (mN)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">4903</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">4119</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Pin puncture strength</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">4805</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">3825</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">corresponding to 12 μm</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mN)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat shrinkage rate at</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">2.5/5.8</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">2.6/3.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">105° C. (%) MD/TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Tensile rupture strength</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">260/178</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">213/150</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(kPa) MD/TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Tensile rupture elongation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">100/110</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\"> 75/140</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(%) MD/TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Averaqe tensile rupture</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">105</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">100</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">elongation (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximal pore size (nm)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">53</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">55</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average pore size (nm)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">36</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">100%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">SDT (° C.)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">142.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">138.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">MDT (° C.)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">150.4</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">150</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">MDT − SDT (° C.)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">7.9</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">11.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Submicron region <sup>a)</sup> </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">L</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Micron region <sup>a)</sup> </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">L</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">After</td>\n<td class=\"description-td\">Membrane thickness (μm)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">12.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">pressur-</td>\n<td class=\"description-td\">Membrane thickness variation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.95</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">ization</td>\n<td class=\"description-td\">Air resistance (sec/100 cm<sup>3</sup>)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">370</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">at 60° C.</td>\n<td class=\"description-td\">Air resistance variation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">154%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">After</td>\n<td class=\"description-td\">Membrane thickness (μm)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">11.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">pressur-</td>\n<td class=\"description-td\">Membrane thickness variation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.91</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">ization</td>\n<td class=\"description-td\">Air resistance (sec/100 cm<sup>3</sup>)</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">500</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">at 80° C.</td>\n<td class=\"description-td\">Air resistance variation</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">208%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air resistance variation ratio</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">135%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of the ratio after</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pressurization at 60° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">120%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance retention test</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">results <sup>b)</sup> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"11\" id=\"FOO-00003\" nameend=\"11\" namest=\"1\"> <sup>a) </sup>(L: Ladder-like structure, 3D: three-dimensional network structure),</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"11\" id=\"FOO-00004\" nameend=\"11\" namest=\"1\"> <sup>b) </sup>(⊚: 60 seconds or more, ◯: 45 seconds or more, Δ30 seconds or more, X: less than 30 seconds, —: not reached)</td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "caption": "FIG. 1 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 2 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 3 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 4 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 5 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIG. 6 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIGS. 1 and 2 show AFM photos obtained from the microporous membrane of the present invention showing such a structure. FIG. 1 shows a photo taken in the micron region as described above, and FIG. 2 shows a photo taken in the submicron region. Hereinafter, the longitudinal direction in the Figures is the MD direction and the transverse direction is the TD direction. As described in detail above, fine fibrils branch out from a middle portion of a specific fibril and extend to form a three-dimensional structure in the micron region while, in the submicron region, each fibril is arranged in a way that other fibrils intersect with the specific fibril to form a ladder-like structure. As a preferred microporous membrane, any one of the surfaces has the hybrid structure described above, and more preferably, the both sides have the above hybrid structure. The ratio of regions having characteristic structures may be different between both the surface layers.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/39/bd/1a/68e16184b3e8bd/US11239530-20220201-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 2 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 3 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 4 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 5 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIG. 6 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIGS. 1 and 2 show AFM photos obtained from the microporous membrane of the present invention showing such a structure. FIG. 1 shows a photo taken in the micron region as described above, and FIG. 2 shows a photo taken in the submicron region. Hereinafter, the longitudinal direction in the Figures is the MD direction and the transverse direction is the TD direction. As described in detail above, fine fibrils branch out from a middle portion of a specific fibril and extend to form a three-dimensional structure in the micron region while, in the submicron region, each fibril is arranged in a way that other fibrils intersect with the specific fibril to form a ladder-like structure. As a preferred microporous membrane, any one of the surfaces has the hybrid structure described above, and more preferably, the both sides have the above hybrid structure. The ratio of regions having characteristic structures may be different between both the surface layers.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/b1/38/3c/76760eb44ef67a/US11239530-20220201-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 2 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 3 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 4 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 5 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIG. 6 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIGS. 1 and 2 show AFM photos obtained from the microporous membrane of the present invention showing such a structure. FIG. 1 shows a photo taken in the micron region as described above, and FIG. 2 shows a photo taken in the submicron region. Hereinafter, the longitudinal direction in the Figures is the MD direction and the transverse direction is the TD direction. As described in detail above, fine fibrils branch out from a middle portion of a specific fibril and extend to form a three-dimensional structure in the micron region while, in the submicron region, each fibril is arranged in a way that other fibrils intersect with the specific fibril to form a ladder-like structure. As a preferred microporous membrane, any one of the surfaces has the hybrid structure described above, and more preferably, the both sides have the above hybrid structure. The ratio of regions having characteristic structures may be different between both the surface layers.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/34/8a/a3/2833eeda51fb79/US11239530-20220201-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 2 is an AFM photo showing a surface image obtained from a microporous membrane. FIG. 3 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 4 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional simultaneous biaxial stretching method. FIG. 5 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIG. 6 is an AFM photo showing a surface image obtained from a microporous membrane produced by the conventional stepwise biaxial stretching method. FIGS. 1 and 2 show AFM photos obtained from the microporous membrane of the present invention showing such a structure. FIG. 1 shows a photo taken in the micron region as described above, and FIG. 2 shows a photo taken in the submicron region. Hereinafter, the longitudinal direction in the Figures is the MD direction and the transverse direction is the TD direction. As described in detail above, fine fibrils branch out from a middle portion of a specific fibril and extend to form a three-dimensional structure in the micron region while, in the submicron region, each fibril is arranged in a way that other fibrils intersect with the specific fibril to form a ladder-like structure. As a preferred microporous membrane, any one of the surfaces has the hybrid structure described above, and more preferably, the both sides have the above hybrid structure. The ratio of regions having characteristic structures may be different between both the surface layers.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/5d/eb/82/3a4f40be9a3c52/US11239530-20220201-D00003.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/73/33/f7/3c0909159e5b0a/US11239530.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"cdc61cfc7a9ed0c1e0beb39dc278709e\"",
+        "last_modified": "Mon, 07 Feb 2022 06:07:46 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/6d50f404a081d4f6f6e81d2e477fa4753fe1c8ee73076e5cc05813f87285b7c0.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:21:31.276246+00:00",
+        "sha256": "6d50f404a081d4f6f6e81d2e477fa4753fe1c8ee73076e5cc05813f87285b7c0",
+        "source": "patent_pdf",
+        "source_id": "660447d7bf4ac9500c2f5722fa4dcf69137668c94e0141008aa357404003aa61",
+        "url": "https://patentimages.storage.googleapis.com/73/33/f7/3c0909159e5b0a/US11239530.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US11239530B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/5cff8784bd33566084259f05dc74d08c00926756e290b770c71517c55046d7d5.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:21:29.360205+00:00",
+    "sha256": "5cff8784bd33566084259f05dc74d08c00926756e290b770c71517c55046d7d5",
+    "source": "patents",
+    "source_id": "a1779cd9d1074b3b3ed04129937517d9e81cede93e0c7c1b82df23c0255a8433",
+    "url": "https://patents.google.com/patent/US11239530B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "9f7e852107921b96448772c69abc44a560dc77c61011becfc260eacbb1e7a09f",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "a1779cd9d1074b3b3ed04129937517d9e81cede93e0c7c1b82df23c0255a8433",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/5cff8784bd33566084259f05dc74d08c00926756e290b770c71517c55046d7d5.bin",
+      "source_id": "a1779cd9d1074b3b3ed04129937517d9e81cede93e0c7c1b82df23c0255a8433",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "5cff8784bd33566084259f05dc74d08c00926756e290b770c71517c55046d7d5",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US11239530B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

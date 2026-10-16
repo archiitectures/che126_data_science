@@ -1,0 +1,112 @@
+{
+  "artifacts": [
+    {
+      "caption": "FIG. 1 is a view schematically illustrating the process of a method for manufacturing a separator according to an embodiment of the present invention. Referring to FIG. 1 , a die 1 having a first slot 3 a and a second slot 3 b is used to carry out the sequential coating (S 2 ). The slurry 7 , which contains the inorganic particles dispersed therein and a polymer solution including the first and second binder polymers in the solvent, is discharged through the first slot 3 a and is coated on the porous substrate 9 . The non-solvent 5 is discharged through the second slot 3 b and is coated on the slurry 7 . That is, the slurry 7 is coated on the porous substrate 9 supplied onto a rotating roller and the non-solvent 5 is sequentially coated on the slurry 7 .",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/0b/28/94/404e8e4c03842b/US08268056-20120918-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a view schematically illustrating the process of a method for manufacturing a separator according to an embodiment of the present invention. Referring to FIG. 1 , a die 1 having a first slot 3 a and a second slot 3 b is used to carry out the sequential coating (S 2 ). The slurry 7 , which contains the inorganic particles dispersed therein and a polymer solution including the first and second binder polymers in the solvent, is discharged through the first slot 3 a and is coated on the porous substrate 9 . The non-solvent 5 is discharged through the second slot 3 b and is coated on the slurry 7 . That is, the slurry 7 is coated on the porous substrate 9 supplied onto a rotating roller and the non-solvent 5 is sequentially coated on the slurry 7 .",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/54/e0/f8/7717cbd4f82c30/US08268056-20120918-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/7a/c0/f8/fb520dbfc1eedd/US8268056.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"34077cdc0ed48f8264125918d1ce6096\"",
+        "last_modified": "Sun, 08 Oct 2017 05:05:41 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/7e9ea6c902af33785cfeb77379106ed32b94331859aaa2d1acc7fec50519c916.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:14:13.672405+00:00",
+        "sha256": "7e9ea6c902af33785cfeb77379106ed32b94331859aaa2d1acc7fec50519c916",
+        "source": "patent_pdf",
+        "source_id": "c588a006b3b8cf9d4dbe5e90e2b1bb669f904b4ec4f170036eb834b3d2476e69",
+        "url": "https://patentimages.storage.googleapis.com/7a/c0/f8/fb520dbfc1eedd/US8268056.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US8268056B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/294c58655021e711ec85689affb1e4a037c9ae508c33fee6101bd15ca5cd2558.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:14:12.761546+00:00",
+    "sha256": "294c58655021e711ec85689affb1e4a037c9ae508c33fee6101bd15ca5cd2558",
+    "source": "patents",
+    "source_id": "a1188a7e64ecee1bc609a06bf48ff332407712e0e55b9f570035ac4d50df6e5e",
+    "url": "https://patents.google.com/patent/US8268056B2/en"
+  },
+  "extraction_version": "separator-v4",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v4",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "449ce384831e1860c64703de6c0f0629f590bb62e683902831362623194e07d6",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "a1188a7e64ecee1bc609a06bf48ff332407712e0e55b9f570035ac4d50df6e5e",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/294c58655021e711ec85689affb1e4a037c9ae508c33fee6101bd15ca5cd2558.bin",
+      "source_id": "a1188a7e64ecee1bc609a06bf48ff332407712e0e55b9f570035ac4d50df6e5e",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "294c58655021e711ec85689affb1e4a037c9ae508c33fee6101bd15ca5cd2558",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US8268056B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

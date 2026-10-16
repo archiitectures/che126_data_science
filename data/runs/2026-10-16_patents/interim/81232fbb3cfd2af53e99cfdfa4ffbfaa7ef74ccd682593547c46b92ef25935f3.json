@@ -1,0 +1,5888 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Specification Item Specification Content"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Outer diameter of screw (D)"
+        ],
+        [
+          "30",
+          "mmφ"
+        ],
+        [
+          "Effective length of screw (L/D)"
+        ],
+        [
+          "34"
+        ],
+        [
+          "Flight pitch",
+          "20",
+          "mm"
+        ],
+        [
+          "Screw compression ratio"
+        ],
+        [
+          "1.8"
+        ],
+        [
+          "Length of adapter",
+          "200",
+          "mm"
+        ],
+        [
+          "Length of tube die",
+          "550",
+          "mm"
+        ],
+        [
+          "Inner diameter of outer die"
+        ],
+        [
+          "22",
+          "mmφ"
+        ],
+        [
+          "at die outlet"
+        ],
+        [
+          "Outer diameter of mandrel"
+        ],
+        [
+          "18",
+          "mmφ"
+        ],
+        [
+          "at die outlet"
+        ],
+        [
+          "S1/S2",
+          "1.40"
+        ],
+        [
+          "S2/S3",
+          "1.57"
+        ],
+        [
+          "Gas passage inside screw"
+        ],
+        [
+          "6",
+          "mmφ"
+        ],
+        [
+          "Inner diameter of cooling ring"
+        ],
+        [
+          "140",
+          "mm"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 1\n______________________________________\nSpecification Item Specification Content\n______________________________________\nOuter diameter of screw (D)\n                       30     mmφ\nEffective length of screw (L/D)\n                       34\nFlight pitch           20     mm\nScrew compression ratio\n                       1.8\nLength of adapter      200    mm\nLength of tube die     550    mm\nInner diameter of outer die\n                       22     mmφ\nat die outlet\nOuter diameter of mandrel\n                       18     mmφ\nat die outlet\nS1/S2                  1.40\nS2/S3                  1.57\nGas passage inside <figure-callout filenames=\"US5882518-drawings-page-2.png\" id=\"6\" label=\"screw\" state=\"{{state}}\">screw</figure-callout>\n                       6      mmφ\nInner diameter of cooling ring\n                       140    mm\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Sample",
+          "Characteristic Properties of Film"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment",
+          "Film thickness (μm)"
+        ],
+        [
+          "37.4"
+        ],
+        [
+          "No. 1",
+          "Tensile strength (GPa)"
+        ],
+        [
+          "MD",
+          "0.21"
+        ],
+        [
+          "TD",
+          "0.31"
+        ],
+        [
+          "Intrinsic viscosity",
+          "η!"
+        ],
+        [
+          "7.4"
+        ],
+        [
+          "of precursor film"
+        ],
+        [
+          "Crystallinity (%)"
+        ],
+        [
+          "62.9"
+        ],
+        [
+          "Orientation coefficient"
+        ],
+        [
+          "fa",
+          "0.44"
+        ],
+        [
+          "fc",
+          "-0.02"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "MD: machine direction"
+        ],
+        [
+          "TD: transverse direction (cross machine direction)"
+        ],
+        [
+          "fa: measured by irradiating Xrays from the \"end\" direction"
+        ],
+        [
+          "fc: measured by irradiating Xrays from the \"through\" direction"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 2\n______________________________________\nSample        Characteristic Properties of Film\n______________________________________\nExperiment    Film thickness (μm)\n                            37.4\nNo. 1         Tensile strength (GPa)\n              MD            0.21\n              TD            0.31\n              Intrinsic viscosity  η!\n                            7.4\n              of precursor film\n              Crystallinity (%)\n                            62.9\n              Orientation coefficient\n              fa            0.44\n              fc            -0.02\n______________________________________\n MD: machine direction\n TD: transverse direction (cross machine direction)\n fa: measured by irradiating Xrays from the \"end\" direction\n fc: measured by irradiating Xrays from the \"through\" direction\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Gas"
+        ],
+        [
+          "Permea-"
+        ],
+        [
+          "Gas Imperme-"
+        ],
+        [
+          "Stretch",
+          "bility"
+        ],
+        [
+          "ability-"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Treating",
+          "Ratio",
+          "sec/100"
+        ],
+        [
+          "acquiring"
+        ],
+        [
+          "No.",
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "cc",
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "2",
+          "120",
+          "1.5",
+          "1.0",
+          "--",
+          "--"
+        ],
+        [
+          "3",
+          "120",
+          "1.0",
+          "1.5",
+          "--",
+          "--"
+        ],
+        [
+          "4",
+          "130",
+          "3.2",
+          "1.0",
+          "1060",
+          "135"
+        ],
+        [
+          "5",
+          "130",
+          "1.5",
+          "1.5",
+          "970",
+          "136"
+        ],
+        [
+          "6",
+          "130",
+          "2.0",
+          "2.0",
+          "830",
+          "137"
+        ],
+        [
+          "7",
+          "140",
+          "3.2",
+          "1.0",
+          "1170",
+          "135"
+        ],
+        [
+          "8",
+          "145",
+          "3.6",
+          "1.0",
+          ">10000"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Gas permeability: Gurley second (hereinafter the same)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 3\n______________________________________\n                               Gas\n                               Permea-\n                                     Gas Imperme-\n                   Stretch     bility\n                                     ability-\nExperiment\n        Treating   Ratio       sec/100\n                                     acquiring\nNo.     Temp. (°C.)\n                   MD     TD   cc    Temp. (°C.)\n______________________________________\n2       120        1.5    1.0  --    --\n3       120        1.0    1.5  --    --\n4       130        3.2    1.0  1060  135\n5       130        1.5    1.5  970   136\n6       130        2.0    2.0  830   137\n7       140        3.2    1.0  1170  135\n8       145        3.6    1.0  &gt;10000\n______________________________________\n Gas permeability: Gurley second (hereinafter the same)\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Film",
+          "Void",
+          "Strength",
+          "Elongation"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Thickness"
+        ],
+        [
+          "Content",
+          "(GPa)",
+          "(%)"
+        ],
+        [
+          "No.",
+          "(μm)",
+          "(%)",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "2",
+          "--",
+          "0",
+          "--",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "3",
+          "--",
+          "0",
+          "--",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "4",
+          "21.1",
+          "36.5",
+          "0.32 0.11",
+          "21",
+          "128"
+        ],
+        [
+          "5",
+          "32.1",
+          "38.3",
+          "0.17 0.19",
+          "32",
+          "54"
+        ],
+        [
+          "6",
+          "19.7",
+          "42.6",
+          "0.25 0.28",
+          "16",
+          "23"
+        ],
+        [
+          "7",
+          "15.3",
+          "26.8",
+          "0.39 0.13",
+          "15",
+          "136"
+        ],
+        [
+          "8",
+          "11.3",
+          "18.3",
+          "--",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 4\n______________________________________\n                            Tensile\n          Film     Void     Strength   Elongation\nExperiment\n          Thickness\n                   Content  (GPa)      (%)\nNo.       (μm)  (%)      MD   TD    MD   TD\n______________________________________\n2         --       0        --   --    --   --\n3         --       0        --   --    --   --\n4         21.1     36.5     0.32 0.11  21   128\n5         32.1     38.3     0.17 0.19  32    54\n6         19.7     42.6     0.25 0.28  16    23\n7         15.3     26.8     0.39 0.13  15   136\n8         11.3     18.3     --   --    --   --\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Void",
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Treating Treating"
+        ],
+        [
+          "Thick-"
+        ],
+        [
+          "Con-",
+          "strength"
+        ],
+        [
+          "ment",
+          "Temp.",
+          "Time",
+          "ness",
+          "tent",
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(°C.)"
+        ],
+        [
+          "(min)",
+          "(μm)"
+        ],
+        [
+          "(%)",
+          "*1",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "9",
+          "113",
+          "5",
+          "38.2",
+          "0",
+          ">10000"
+        ],
+        [
+          "0.25 0.32"
+        ],
+        [
+          "10",
+          "123",
+          "5",
+          "63.2",
+          "34.3",
+          "7200 0.24 0.28"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "*1: gas permeability (sec/100 cc)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 5-1\n______________________________________\n                       Film  Void        Tensile\nExperi-\n      Treating Treating\n                       Thick-\n                             Con-        strength\nment  Temp.    Time    ness  tent        (GPa)\nNo.   (°C.)\n               (min)   (μm)\n                             (%)   *1    MD   TD\n______________________________________\n 9    113      5       38.2  0     &gt;10000\n                                         0.25 0.32\n10    123      5       63.2  34.3   7200 0.24 0.28\n______________________________________\n *1: gas permeability (sec/100 cc)\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Gas"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Elong-",
+          "Impermeability-",
+          "Orientation"
+        ],
+        [
+          "ment",
+          "ation (%) acquiring",
+          "Crystallinity"
+        ],
+        [
+          "Coefficient"
+        ],
+        [
+          "No.",
+          "MD",
+          "TD",
+          "Temp. (°C)"
+        ],
+        [
+          "(%)",
+          "fa",
+          "fc"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "9",
+          "131",
+          "96",
+          "--",
+          "66.1",
+          "0.53 0.02"
+        ],
+        [
+          "10",
+          "126",
+          "85",
+          "unmeasurable"
+        ],
+        [
+          "78.1",
+          "0.61 0.09"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 5-2\n______________________________________\n                 Gas\nExperi-\n       Elong-    Impermeability-     Orientation\nment   ation (%) acquiring   Crystallinity\n                                     Coefficient\nNo.    MD     TD     Temp. (°C)\n                               (%)     fa   fc\n______________________________________\n 9     131    96     --        66.1    0.53 0.02\n10     126    85     unmeasurable\n                               78.1    0.61 0.09\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 6"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "No. of",
+          "Treating"
+        ],
+        [
+          "mental Stretched Temp.",
+          "Stretch Ratio"
+        ],
+        [
+          "No.",
+          "Sample",
+          "(°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "*1",
+          "*2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "11",
+          "9",
+          "113",
+          "1.8",
+          "1.0",
+          "6700 unmeasurable"
+        ],
+        [
+          "12",
+          "9",
+          "113",
+          "2.0",
+          "2.0",
+          "830 137"
+        ],
+        [
+          "13",
+          "10",
+          "123",
+          "2.1",
+          "1.0",
+          "1170 136"
+        ],
+        [
+          "14",
+          "10",
+          "123",
+          "3.1",
+          "1.0",
+          "1360 136"
+        ],
+        [
+          "15",
+          "10",
+          "123",
+          "2.0",
+          "2.0",
+          "440 137"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "*1: gas permeability (sec/100 cc)"
+        ],
+        [
+          "*2* gas impermeabilityacquiring temperature (°C.)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 6\n______________________________________\n       Experiment\nExperi-\n       No. of    Treating\nmental Stretched Temp.   Stretch Ratio\nNo.    Sample    (°C.)\n                         MD   TD   *1   *2\n______________________________________\n11      9        113     1.8  1.0  6700 unmeasurable\n12      9        113     2.0  2.0   830 137\n13     10        123     2.1  1.0  1170 136\n14     10        123     3.1  1.0  1360 136\n15     10        123     2.0  2.0   440 137\n______________________________________\n *1: gas permeability (sec/100 cc)\n *2* gas impermeabilityacquiring temperature (°C.)\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 7"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Tensile Strength"
+        ],
+        [
+          "Elongation"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content",
+          "(GPa)",
+          "(%)"
+        ],
+        [
+          "No.",
+          "(μm) (%)",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "11",
+          "47.6",
+          "38.0",
+          "0.17",
+          "0.15",
+          "37",
+          "154"
+        ],
+        [
+          "12",
+          "23.9",
+          "52.7",
+          "0.30",
+          "0.18",
+          "18",
+          "155"
+        ],
+        [
+          "13",
+          "35.0",
+          "46.6",
+          "0.30",
+          "0.14",
+          "16",
+          "125"
+        ],
+        [
+          "14",
+          "24.3",
+          "48.1",
+          "0.18",
+          "0.10",
+          "13",
+          "87"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 7\n______________________________________\n       Film\nExperi-\n       Thick-  Void      Tensile Strength\n                                    Elongation\nment   ness    Content   (GPa)      (%)\nNo.    (μm) (%)       MD    TD     MD   TD\n______________________________________\n11      47.6   38.0      0.17  0.15   37   154\n12      23.9   52.7      0.30  0.18   18   155\n13      35.0   46.6      0.30  0.14   16   125\n14      24.3   48.1      0.18  0.10   13    87\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 7"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 8"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Treat-"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "No. of",
+          "ing",
+          "Stretch"
+        ],
+        [
+          "mental Stretched Temp.",
+          "Ratio"
+        ],
+        [
+          "No.",
+          "Sample",
+          "(°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "*1",
+          "*2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "16",
+          "10",
+          "135",
+          "1.5",
+          "1.0",
+          "1820",
+          "135"
+        ],
+        [
+          "17",
+          "10",
+          "135",
+          "2.0",
+          "1.0",
+          "960",
+          "136"
+        ],
+        [
+          "18",
+          "10",
+          "135",
+          "3.1",
+          "1.0",
+          "720",
+          "137"
+        ],
+        [
+          "19",
+          "10",
+          "135",
+          "2.0",
+          "2.0",
+          "650",
+          "137"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "*1: gas permeability (sec/100 cc)"
+        ],
+        [
+          "*2* gas impermeabilityacquiring temperature (°C.)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 8\n______________________________________\n       Experiment\n                 Treat-\nExperi-\n       No. of    ing      Stretch\nmental Stretched Temp.    Ratio\nNo.    Sample    (°C.)\n                          MD   TD    *1    *2\n______________________________________\n16     10        135      1.5  1.0   1820  135\n17     10        135      2.0  1.0   960   136\n18     10        135      3.1  1.0   720   137\n19     10        135      2.0  2.0   650   137\n______________________________________\n *1: gas permeability (sec/100 cc)\n *2* gas impermeabilityacquiring temperature (°C.)\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 8"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 9"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Film",
+          "Void",
+          "Strength",
+          "Elongation"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Thickness"
+        ],
+        [
+          "Content",
+          "(GPa)",
+          "(%)"
+        ],
+        [
+          "No.",
+          "(μm)",
+          "(%)",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "16",
+          "47.4",
+          "37.7",
+          "0.16 0.17",
+          "42",
+          "136"
+        ],
+        [
+          "17",
+          "37.4",
+          "40.4",
+          "0.32 0.16",
+          "42",
+          "186"
+        ],
+        [
+          "18",
+          "23.7",
+          "46.1",
+          "0.28 0.15",
+          "15",
+          "134"
+        ],
+        [
+          "19",
+          "20.1",
+          "48.7",
+          "0.35 0.24",
+          "18",
+          "126"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 9\n______________________________________\n                            Tensile\n          Film     Void     Strength   Elongation\nExperiment\n          Thickness\n                   Content  (GPa)      (%)\nNo.       (μm)  (%)      MD   TD    MD   TD\n______________________________________\n16        47.4     37.7     0.16 0.17  42   136\n17        37.4     40.4     0.32 0.16  42   186\n18        23.7     46.1     0.28 0.15  15   134\n19        20.1     48.7     0.35 0.24  18   126\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 9"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 10-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Void",
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Treating Treating"
+        ],
+        [
+          "Thick-"
+        ],
+        [
+          "Con-",
+          "strength"
+        ],
+        [
+          "ment",
+          "Temp.",
+          "Time",
+          "ness",
+          "tent",
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(°C.)"
+        ],
+        [
+          "(min)",
+          "(μm)"
+        ],
+        [
+          "(%)",
+          "*1",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "20",
+          "140",
+          "720",
+          "39.0",
+          "0",
+          "none",
+          "0.22 0.34"
+        ],
+        [
+          "21",
+          "140",
+          "1200",
+          "38.4",
+          "0",
+          "none",
+          "0.20 0.31"
+        ],
+        [
+          "22",
+          "145",
+          "30",
+          "39.3",
+          "0",
+          "none",
+          "0.19 0.28"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "*1: gas permeability (sec/100 cc)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 10-1\n______________________________________\n                       Film  Void        Tensile\nExperi-\n      Treating Treating\n                       Thick-\n                             Con-        strength\nment  Temp.    Time    ness  tent        (GPa)\nNo.   (°C.)\n               (min)   (μm)\n                             (%)   *1    MD   TD\n______________________________________\n20    140       720    39.0  0     none  0.22 0.34\n21    140      1200    38.4  0     none  0.20 0.31\n22    145       30     39.3  0     none  0.19 0.28\n______________________________________\n *1: gas permeability (sec/100 cc)\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 10"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 10-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experi-",
+          "Elong-",
+          "Orientation"
+        ],
+        [
+          "ment",
+          "ation (%) Crystallinity"
+        ],
+        [
+          "Coefficient"
+        ],
+        [
+          "No.",
+          "MD",
+          "TD",
+          "(%)",
+          "fa",
+          "fc"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "20",
+          "131",
+          "88",
+          "75.2",
+          "0.56",
+          "-0.03"
+        ],
+        [
+          "21",
+          "135",
+          "92",
+          "83.4",
+          "0.62",
+          "0.01"
+        ],
+        [
+          "22",
+          "120",
+          "75",
+          "74.6",
+          "0.53",
+          "-0.01"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 10-2\n______________________________________\nExperi-  Elong-                Orientation\nment     ation (%) Crystallinity\n                               Coefficient\nNo.     MD       TD    (%)       fa    fc\n______________________________________\n20      131      88    75.2      0.56  -0.03\n21      135      92    83.4      0.62   0.01\n22      120      75    74.6      0.53  -0.01\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 10"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 11"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "No. of",
+          "Treating"
+        ],
+        [
+          "mental Stretched Temp.",
+          "Stretch Ratio"
+        ],
+        [
+          "No.",
+          "Sample",
+          "(°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "*1",
+          "*2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "23",
+          "20",
+          "130",
+          "2.8",
+          "1.0",
+          "940",
+          "137"
+        ],
+        [
+          "24",
+          "21",
+          "130",
+          "3.4",
+          "1.0",
+          "1030",
+          "136"
+        ],
+        [
+          "25",
+          "22",
+          "130",
+          "2.3",
+          "1.0",
+          "830",
+          "137"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "*1: gas permeability (sec/100 cc)"
+        ],
+        [
+          "*2* gas impermeabilityacquiring temperature (°C.)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 11\n______________________________________\n       Experiment\nExperi-\n       No. of    Treating\nmental Stretched Temp.   Stretch Ratio\nNo.    Sample    (°C.)\n                         MD   TD   *1    *2\n______________________________________\n23     20        130     2.8  1.0  940   137\n24     21        130     3.4  1.0  1030  136\n25     22        130     2.3  1.0  830   137\n______________________________________\n *1: gas permeability (sec/100 cc)\n *2* gas impermeabilityacquiring temperature (°C.)\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 11"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 12"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Tensile Strength"
+        ],
+        [
+          "Elongation"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content",
+          "(GPa)",
+          "(%)"
+        ],
+        [
+          "No.",
+          "(μm) (%)",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "23",
+          "25.4",
+          "48.5",
+          "0.25",
+          "0.15",
+          "20",
+          "64"
+        ],
+        [
+          "24",
+          "21.7",
+          "46.0",
+          "0.27",
+          "0.13",
+          "17",
+          "75"
+        ],
+        [
+          "25",
+          "23.2",
+          "40.9",
+          "0.22",
+          "0.18",
+          "16",
+          "63"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 12\n______________________________________\n       Film\nExperi-\n       Thick-  Void      Tensile Strength\n                                    Elongation\nment   ness    Content   (GPa)      (%)\nNo.    (μm) (%)       MD    TD     MD   TD\n______________________________________\n23     25.4    48.5      0.25  0.15   20   64\n24     21.7    46.0      0.27  0.13   17   75\n25     23.2    40.9      0.22  0.18   16   63\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 12"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 13"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Gas"
+        ],
+        [
+          "Permea-"
+        ],
+        [
+          "Gas Im-"
+        ],
+        [
+          "bility"
+        ],
+        [
+          "permeability-"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Stretching",
+          "Stretch Ratio"
+        ],
+        [
+          "sec/100"
+        ],
+        [
+          "acquiring"
+        ],
+        [
+          "No.",
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "cc",
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "26",
+          "130",
+          "2.2",
+          "1.0",
+          "1500",
+          "135"
+        ],
+        [
+          "27",
+          "130",
+          "2.0",
+          "2.5",
+          "730",
+          "137"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Gas permeability: Gurley second (hereinafter the same)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 13\n______________________________________\n                              Gas\n                              Permea-\n                                    Gas Im-\n                              bility\n                                    permeability-\nExperiment\n        Stretching  Stretch Ratio\n                              sec/100\n                                    acquiring\nNo.     Temp. (°C.)\n                    MD     TD   cc    Temp. (°C.)\n______________________________________\n26      130         2.2    1.0  1500  135\n27      130         2.0    2.5   730  137\n______________________________________\n Gas permeability: Gurley second (hereinafter the same)\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 13"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 14"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Tensile Strength"
+        ],
+        [
+          "Elongation"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content",
+          "(GPa)",
+          "(%)"
+        ],
+        [
+          "No.",
+          "(μm) (%)",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "26",
+          "36.3",
+          "41.0",
+          "0.30",
+          "0.16",
+          "16",
+          "115"
+        ],
+        [
+          "27",
+          "29.8",
+          "62.3",
+          "0.24",
+          "0.28",
+          "24",
+          "30"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 14\n______________________________________\n       Film\nExperi-\n       Thick-  Void      Tensile Strength\n                                    Elongation\nment   ness    Content   (GPa)      (%)\nNo.    (μm) (%)       MD    TD     MD   TD\n______________________________________\n26     36.3    41.0      0.30  0.16   16   115\n27     29.8    62.3      0.24  0.28   24   30\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 14"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 15"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Sample",
+          "Characetristic Properties of Film"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment",
+          "Film thickness (μm)"
+        ],
+        [
+          "60.1"
+        ],
+        [
+          "No. 28",
+          "Tensile strength (GPa)"
+        ],
+        [
+          "MD",
+          "0.043"
+        ],
+        [
+          "TD",
+          "0.026"
+        ],
+        [
+          "Crystallinity (%)"
+        ],
+        [
+          "73.0"
+        ],
+        [
+          "Orientation coefficient"
+        ],
+        [
+          "fa",
+          "0.05"
+        ],
+        [
+          "fc",
+          "0.12"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 15\n______________________________________\nSample       Characetristic Properties of Film\n______________________________________\nExperiment   Film thickness (μm)\n                           60.1\nNo. 28       Tensile strength (GPa)\n             MD            0.043\n             TD            0.026\n             Crystallinity (%)\n                           73.0\n             Orientation coefficient\n             fa            0.05\n             fc            0.12\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 15"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 16"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Gas"
+        ],
+        [
+          "Permea-"
+        ],
+        [
+          "Gas Im-"
+        ],
+        [
+          "bility"
+        ],
+        [
+          "permeability-"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Stretching",
+          "Stretch Ratio"
+        ],
+        [
+          "sec/100"
+        ],
+        [
+          "acquiring"
+        ],
+        [
+          "No.",
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "cc",
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "29",
+          "130",
+          "2.5",
+          "1.0",
+          "1260",
+          "126"
+        ],
+        [
+          "30",
+          "130",
+          "3.2",
+          "1.0",
+          "135",
+          "128"
+        ],
+        [
+          "31",
+          "130",
+          "2.0",
+          "2.0",
+          "170",
+          "128"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 16\n______________________________________\n                              Gas\n                              Permea-\n                                    Gas Im-\n                              bility\n                                    permeability-\nExperiment\n        Stretching  Stretch Ratio\n                              sec/100\n                                    acquiring\nNo.     Temp. (°C.)\n                    MD     TD   cc    Temp. (°C.)\n______________________________________\n29      130         2.5    1.0  1260  126\n30      130         3.2    1.0   135  128\n31      130         2.0    2.0   170  128\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 16"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 17"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Tensile Strength"
+        ],
+        [
+          "Elongation"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content",
+          "(GPa)",
+          "(%)"
+        ],
+        [
+          "No.",
+          "(μm) (%)",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "29",
+          "53.0",
+          "52.0",
+          "0.063 0.016",
+          "85",
+          "1370"
+        ],
+        [
+          "30",
+          "51.1",
+          "60.3",
+          "0.055 0.014",
+          "54",
+          "1450"
+        ],
+        [
+          "31",
+          "51.4",
+          "65.1",
+          "0.036 0.032",
+          "75",
+          "175"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 17\n______________________________________\n       Film\nExperi-\n       Thick-  Void      Tensile Strength\n                                    Elongation\nment   ness    Content   (GPa)      (%)\nNo.    (μm) (%)       MD    TD     MD   TD\n______________________________________\n29     53.0    52.0      0.063 0.016  85   1370\n30     51.1    60.3      0.055 0.014  54   1450\n31     51.4    65.1      0.036 0.032  75    175\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 17"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 18"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Sample",
+          "Characetristic Properties of Film"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment",
+          "Film thickness (μm)"
+        ],
+        [
+          "100"
+        ],
+        [
+          "No. 32",
+          "Tensile strength (GPa)"
+        ],
+        [
+          "MD",
+          "0.052"
+        ],
+        [
+          "TD",
+          "0. 0048"
+        ],
+        [
+          "Crystalinity (%)"
+        ],
+        [
+          "55.0"
+        ],
+        [
+          "Orientation coefficient"
+        ],
+        [
+          "fa",
+          "-0.06"
+        ],
+        [
+          "fc",
+          "0.03"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 18\n______________________________________\nSample       Characetristic Properties of Film\n______________________________________\nExperiment   Film thickness (μm)\n                           100\nNo. 32       Tensile strength (GPa)\n             MD            0.052\n             TD            0. 0048\n             Crystalinity (%)\n                           55.0\n             Orientation coefficient\n             fa            -0.06\n             fc            0.03\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 18"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 19"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Treating",
+          "Stretch",
+          "Gas"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Temp.",
+          "Ratio",
+          "Perme-"
+        ],
+        [
+          "No.",
+          "(° C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "ability"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "33",
+          "130",
+          "3.2",
+          "1.0",
+          "none"
+        ],
+        [
+          "34",
+          "130",
+          "1.0",
+          "3.2",
+          "none"
+        ],
+        [
+          "35",
+          "130",
+          "2.0",
+          "2.0",
+          "none"
+        ],
+        [
+          "36",
+          "140",
+          "3.2",
+          "1.0",
+          "none"
+        ],
+        [
+          "37",
+          "140",
+          "1.0",
+          "3.2",
+          "none"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 19\n______________________________________\n          Treating   Stretch      Gas\nExperiment\n          Temp.      Ratio        Perme-\nNo.       (° C.)\n                     MD     TD    ability\n______________________________________\n33        130        3.2    1.0   none\n34        130        1.0    3.2   none\n35        130        2.0    2.0   none\n36        140        3.2    1.0   none\n37        140        1.0    3.2   none\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 19"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 20"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Sample",
+          "Characetristic Properties of Film"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment",
+          "Film thickness (μm)"
+        ],
+        [
+          "97.0"
+        ],
+        [
+          "No.32-1",
+          "Tensile strength (GPa)"
+        ],
+        [
+          "MD",
+          "0.055"
+        ],
+        [
+          "TD",
+          "0.048"
+        ],
+        [
+          "Crystallinity (%)"
+        ],
+        [
+          "57.5"
+        ],
+        [
+          "Orientation coefficient"
+        ],
+        [
+          "fa",
+          "-0.04"
+        ],
+        [
+          "fc",
+          "-0.00"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 20\n______________________________________\nSample       Characetristic Properties of Film\n______________________________________\nExperiment   Film thickness (μm)\n                           97.0\nNo.32-1      Tensile strength (GPa)\n             MD            0.055\n             TD            0.048\n             Crystallinity (%)\n                           57.5\n             Orientation coefficient\n             fa            -0.04\n             fc            -0.00\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 20"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 21"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Treating",
+          "Stretch",
+          "Gas"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Temp.",
+          "Ratio",
+          "Perme-"
+        ],
+        [
+          "No.",
+          "(° C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "ability"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "38",
+          "130",
+          "3.2",
+          "1.0",
+          "none"
+        ],
+        [
+          "39",
+          "130",
+          "1.0",
+          "3.2",
+          "none"
+        ],
+        [
+          "40",
+          "130",
+          "2.0",
+          "2.0",
+          "none"
+        ],
+        [
+          "41",
+          "140",
+          "3.2",
+          "1.0",
+          "none"
+        ],
+        [
+          "42",
+          "140",
+          "1.0",
+          "3.2",
+          "none"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 21\n______________________________________\n          Treating   Stretch      Gas\nExperiment\n          Temp.      Ratio        Perme-\nNo.       (° C.)\n                     MD     TD    ability\n______________________________________\n38        130        3.2    1.0   none\n39        130        1.0    3.2   none\n40        130        2.0    2.0   none\n41        140        3.2    1.0   none\n42        140        1.0    3.2   none\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 21"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 22"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Sample",
+          "Characetristic Properties of Film"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Experiment",
+          "Film thickness (μm)"
+        ],
+        [
+          "98"
+        ],
+        [
+          "No. 43",
+          "Tensile strength (GPa)"
+        ],
+        [
+          "MD",
+          "0.041"
+        ],
+        [
+          "TD",
+          "0.037"
+        ],
+        [
+          "Crystallinity (%)"
+        ],
+        [
+          "64.8"
+        ],
+        [
+          "Orientation coefficient"
+        ],
+        [
+          "fa",
+          "0.02"
+        ],
+        [
+          "fc",
+          "0.01"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 22\n______________________________________\nSample       Characetristic Properties of Film\n______________________________________\nExperiment   Film thickness (μm)\n                           98\nNo. 43       Tensile strength (GPa)\n             MD            0.041\n             TD            0.037\n             Crystallinity (%)\n                           64.8\n             Orientation coefficient\n             fa            0.02\n             fc            0.01\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 22"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 23"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Treating",
+          "Stretch",
+          "Gas"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Temp.",
+          "Ratio",
+          "Perme-"
+        ],
+        [
+          "No.",
+          "(°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "ability"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "44",
+          "130",
+          "3.2",
+          "1.0",
+          "none"
+        ],
+        [
+          "45",
+          "130",
+          "1.0",
+          "3.2",
+          "none"
+        ],
+        [
+          "46",
+          "130",
+          "2.0",
+          "2.0",
+          "none"
+        ],
+        [
+          "47",
+          "140",
+          "3.2",
+          "1.0",
+          "none"
+        ],
+        [
+          "48",
+          "140",
+          "1.0",
+          "3.2",
+          "none"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 23\n______________________________________\n          Treating   Stretch      Gas\nExperiment\n          Temp.      Ratio        Perme-\nNo.       (°C.)\n                     MD     TD    ability\n______________________________________\n44        130        3.2    1.0   none\n45        130        1.0    3.2   none\n46        130        2.0    2.0   none\n47        140        3.2    1.0   none\n48        140        1.0    3.2   none\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 23"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 24"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Treating",
+          "Stretch",
+          "Gas"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Temp.",
+          "Ratio",
+          "Perme-"
+        ],
+        [
+          "No.",
+          "(°C.)"
+        ],
+        [
+          "MD",
+          "TD",
+          "ability"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "49",
+          "105",
+          "1.5",
+          "1.0",
+          "--"
+        ],
+        [
+          "50",
+          "114",
+          "1.5",
+          "1.0",
+          "--"
+        ],
+        [
+          "51",
+          "123",
+          "dissolution"
+        ],
+        [
+          "--"
+        ],
+        [
+          "of sample"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 24\n______________________________________\n          Treating   Stretch      Gas\nExperiment\n          Temp.      Ratio        Perme-\nNo.       (°C.)\n                     MD     TD    ability\n______________________________________\n49        105        1.5    1.0   --\n50        114        1.5    1.0   --\n51        123        dissolution\n                                --\n                     of sample\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 24"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 25"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Specification Item Specification Content"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Outer diameter of screw (D)"
+        ],
+        [
+          "60",
+          "mmφ"
+        ],
+        [
+          "Effective length of screw (L/D)"
+        ],
+        [
+          "34"
+        ],
+        [
+          "Flight pitch",
+          "36",
+          "mm"
+        ],
+        [
+          "Screw compression ratio"
+        ],
+        [
+          "1.8"
+        ],
+        [
+          "Length of tube die",
+          "830",
+          "mm"
+        ],
+        [
+          "Inner diameter of outer die"
+        ],
+        [
+          "36",
+          "mmφ"
+        ],
+        [
+          "at die outlet"
+        ],
+        [
+          "Outer diameter of mandrel"
+        ],
+        [
+          "30",
+          "mmφ"
+        ],
+        [
+          "at die outlet"
+        ],
+        [
+          "S1/S2",
+          "1.40"
+        ],
+        [
+          "S2/S3",
+          "1.57"
+        ],
+        [
+          "Gas passage inside screw"
+        ],
+        [
+          "6",
+          "mmφ"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 25\n______________________________________\nSpecification Item Specification Content\n______________________________________\nOuter diameter of screw (D)\n                       60     mmφ\nEffective length of screw (L/D)\n                       34\nFlight pitch           36     mm\nScrew compression ratio\n                       1.8\nLength of tube die     830    mm\nInner diameter of outer die\n                       36     mmφ\nat die outlet\nOuter diameter of mandrel\n                       30     mmφ\nat die outlet\nS1/S2                  1.40\nS2/S3                  1.57\nGas passage inside <figure-callout filenames=\"US5882518-drawings-page-2.png\" id=\"6\" label=\"screw\" state=\"{{state}}\">screw</figure-callout>\n                       6      mmφ\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 25"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 26"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Precursor Film Sample No."
+        ],
+        [
+          "1",
+          "2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film-forming"
+        ],
+        [
+          "Draft ratio",
+          "20.7",
+          "19.3"
+        ],
+        [
+          "Condition"
+        ],
+        [
+          "Blow-up rato",
+          "5.8",
+          "10"
+        ],
+        [
+          "Characteristic"
+        ],
+        [
+          "Film thickness (μm)"
+        ],
+        [
+          "23.5",
+          "15.0"
+        ],
+        [
+          "Properties"
+        ],
+        [
+          "Tensile strength (GPa)"
+        ],
+        [
+          "of Film",
+          "MD",
+          "0.32",
+          "0.27"
+        ],
+        [
+          "TD",
+          "0.18",
+          "0.30"
+        ],
+        [
+          "Intrinsic viscosity",
+          "η!"
+        ],
+        [
+          "8.0",
+          "8.1"
+        ],
+        [
+          "Crystaliinity (%)"
+        ],
+        [
+          "64.1",
+          "67.5"
+        ],
+        [
+          "Orientation coefficient"
+        ],
+        [
+          "fa",
+          "0.42",
+          "0.48"
+        ],
+        [
+          "fc",
+          "0.12",
+          "-0.02"
+        ],
+        [
+          "Gas permeability (sec/100 cc )"
+        ],
+        [
+          ">10000",
+          ">10000"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 26\n______________________________________\nPrecursor Film Sample No.\n                      1        2\n______________________________________\nFilm-forming\n         Draft ratio      20.7     19.3\nCondition\n         Blow-up rato     5.8      10\nCharacteristic\n         Film thickness (μm)\n                          23.5     15.0\nProperties\n         Tensile strength (GPa)\nof Film  MD               0.32     0.27\n         TD               0.18     0.30\n         Intrinsic viscosity  η!\n                          8.0      8.1\n         Crystaliinity (%)\n                          64.1     67.5\n         Orientation coefficient\n         fa               0.42     0.48\n         fc               0.12     -0.02\n         Gas permeability (sec/100 cc )\n                          &gt;10000   &gt;10000\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 26"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 27-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Heat-treating Conditions"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Precursor"
+        ],
+        [
+          "First",
+          "Treating"
+        ],
+        [
+          "Treating"
+        ],
+        [
+          "No.",
+          "Film No. Liquid",
+          "Temp. (°C.)"
+        ],
+        [
+          "Time (min)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "52",
+          "2",
+          "n-decane",
+          "119",
+          "10"
+        ],
+        [
+          "53",
+          "2",
+          "n-decane",
+          "120",
+          "10"
+        ],
+        [
+          "54",
+          "2",
+          "n-decane",
+          "124",
+          "10"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 27-1\n______________________________________\n            Heat-treating Conditions\nExperiment\n         Precursor\n                  First     Treating\n                                    Treating\nNo.      Film No. Liquid    Temp. (°C.)\n                                    Time (min)\n______________________________________\n52       2        n-decane  119     10\n53       2        n-decane  120     10\n54       2        n-decane  124     10\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 27"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 27-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Conditions for Immersion and Drying"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Second",
+          "Immersing Immersing"
+        ],
+        [
+          "Drying"
+        ],
+        [
+          "No.",
+          "Liquid",
+          "Time (min)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "52",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "53",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "54",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 27-2\n______________________________________\n       Conditions for Immersion and Drying\nExperiment\n         Second   Immersing Immersing\n                                    Drying\nNo.      Liquid   Time (min)\n                            Temp. (°C.)\n                                    Temp. (°C.)\n______________________________________\n52       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n53       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n54       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 27"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 28-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Gas",
+          "Gas Imper-"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Permea- meability-"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content bility",
+          "acquiring"
+        ],
+        [
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(μ)",
+          "(%)",
+          "(sec/100 cc)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "52",
+          "32.6",
+          "45.4",
+          "1400",
+          "130",
+          "0.17 0.11"
+        ],
+        [
+          "53",
+          "41.5",
+          "51.6",
+          "1300",
+          "130",
+          "0.16 0.088"
+        ],
+        [
+          "54",
+          "37.4",
+          "53.4",
+          "920",
+          "132",
+          "0.10 0.05"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 28-1\n______________________________________\n      Film            Gas     Gas Imper-\n                                       Tensile\nExperi-\n      Thick-  Void    Permea- meability-\n                                       Strength\nment  ness    Content bility  acquiring\n                                       (GPa)\nNo.   (μ)  (%)     (sec/100 cc)\n                              Temp. (°C.)\n                                       MD   TD\n______________________________________\n52    32.6    45.4    1400    130      0.17 0.11\n53    41.5    51.6    1300    130      0.16 0.088\n54    37.4    53.4     920    132      0.10 0.05\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 28"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 28-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile strength (%)"
+        ],
+        [
+          "Experiment No. MD",
+          "TD",
+          "Crystallinity (%)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "52",
+          "88",
+          "87",
+          "79.3"
+        ],
+        [
+          "53",
+          "57",
+          "95",
+          "81.2"
+        ],
+        [
+          "54",
+          "60",
+          "92",
+          "83.8"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 28-2\n______________________________________\n           Tensile strength (%)\nExperiment No. MD     TD      Crystallinity (%)\n______________________________________\n52             88     87      79.3\n53             57     95      81.2\n54             60     92      83.8\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 28"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 29-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Heat-treating Conditions"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Precursor"
+        ],
+        [
+          "First",
+          "Treating"
+        ],
+        [
+          "Treating"
+        ],
+        [
+          "No.",
+          "Film No. Liquid",
+          "Temp. (°C.)"
+        ],
+        [
+          "Time (min)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "55",
+          "3",
+          "n-decane",
+          "125",
+          "10"
+        ],
+        [
+          "56",
+          "3",
+          "n-decane",
+          "125",
+          "1"
+        ],
+        [
+          "57",
+          "3",
+          "n-decane",
+          "125",
+          "0.5"
+        ],
+        [
+          "58",
+          "3",
+          "n-decane",
+          "128",
+          "10"
+        ],
+        [
+          "59",
+          "3",
+          "n-decane",
+          "130",
+          "0.5"
+        ],
+        [
+          "60",
+          "3",
+          "n-decane",
+          "120",
+          "1"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 29-1\n______________________________________\n            Heat-treating Conditions\nExperiment\n         Precursor\n                  First     Treating\n                                    Treating\nNo.      Film No. Liquid    Temp. (°C.)\n                                    Time (min)\n______________________________________\n55       3        n-decane  125     10\n56       3        n-decane  125     1\n57       3        n-decane  125     0.5\n58       3        n-decane  128     10\n59       3        n-decane  130     0.5\n60       3        n-decane  120     1\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 29"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 29-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Conditions for Immersion and Drying"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Second",
+          "Immersing Immersing"
+        ],
+        [
+          "Drying"
+        ],
+        [
+          "No.",
+          "Liquid",
+          "Time (min)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "55",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "56",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "57",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "58",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "59",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "chloride",
+          "at room temp."
+        ],
+        [
+          "60",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "*HFC225bc: 1,3dichloro-1,1,2,2,3-pentafluoropropane"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 29-2\n______________________________________\n       Conditions for Immersion and Drying\nExperiment\n         Second   Immersing Immersing\n                                    Drying\nNo.      Liquid   Time (min)\n                            Temp. (°C.)\n                                    Temp. (°C.)\n______________________________________\n55       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n56       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n57       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n58       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n59       methylene\n                  10        room temp.\n                                    air-dried\n         chloride                   at room temp.\n60       HFC225bc 10        room temp.\n                                    air-dried\n______________________________________\n *HFC225bc: 1,3dichloro-1,1,2,2,3-pentafluoropropane\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 29"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 30-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Gas",
+          "Gas Imper-"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Permea- meability-"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content bility",
+          "acquiring"
+        ],
+        [
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(μ)",
+          "(%)",
+          "(sec/100 cc)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "55",
+          "19.7",
+          "32.5",
+          "1490",
+          "130",
+          "0.197"
+        ],
+        [
+          "0.188"
+        ],
+        [
+          "56",
+          "21.5",
+          "32.1",
+          "1500",
+          "130",
+          "0.189"
+        ],
+        [
+          "0.174"
+        ],
+        [
+          "57",
+          "19.8",
+          "31.3",
+          "1550",
+          "130",
+          "0.195"
+        ],
+        [
+          "0.206"
+        ],
+        [
+          "58",
+          "27.0",
+          "45.2",
+          "990",
+          "132",
+          "0.119"
+        ],
+        [
+          "0.103"
+        ],
+        [
+          "59",
+          "23.1",
+          "38.5",
+          "830",
+          "132",
+          "0.159"
+        ],
+        [
+          "0.133"
+        ],
+        [
+          "60",
+          "29.2",
+          "47.3",
+          "1080",
+          "131",
+          "0.112"
+        ],
+        [
+          "0.091"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 30-1\n______________________________________\n      Film            Gas     Gas Imper-\n                                       Tensile\nExperi-\n      Thick-  Void    Permea- meability-\n                                       Strength\nment  ness    Content bility  acquiring\n                                       (GPa)\nNo.   (μ)  (%)     (sec/100 cc)\n                              Temp. (°C.)\n                                       MD   TD\n______________________________________\n55    19.7    32.5    1490    130      0.197\n                                            0.188\n56    21.5    32.1    1500    130      0.189\n                                            0.174\n57    19.8    31.3    1550    130      0.195\n                                            0.206\n58    27.0    45.2     990    132      0.119\n                                            0.103\n59    23.1    38.5     830    132      0.159\n                                            0.133\n60    29.2    47.3    1080    131      0.112\n                                            0.091\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 30"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 30-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile strength (%)"
+        ],
+        [
+          "Experiment No. MD",
+          "TD",
+          "Crystallinity (%)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "55",
+          "56",
+          "60",
+          "82.6"
+        ],
+        [
+          "56",
+          "56",
+          "65",
+          "81.7"
+        ],
+        [
+          "57",
+          "59",
+          "65",
+          "83.3"
+        ],
+        [
+          "58",
+          "54",
+          "64",
+          "83.2"
+        ],
+        [
+          "59",
+          "54",
+          "58",
+          "82.4"
+        ],
+        [
+          "60",
+          "58",
+          "69",
+          "81.6"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 30-2\n______________________________________\n           Tensile strength (%)\nExperiment No. MD     TD      Crystallinity (%)\n______________________________________\n55             56     60      82.6\n56             56     65      81.7\n57             59     65      83.3\n58             54     64      83.2\n59             54     58      82.4\n60             58     69      81.6\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 30"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 31-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Heat-treating Conditions"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Precursor"
+        ],
+        [
+          "First",
+          "Treating"
+        ],
+        [
+          "Treating"
+        ],
+        [
+          "No.",
+          "Film No. Liquid",
+          "Temp. (°C.)"
+        ],
+        [
+          "Time (min)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "61",
+          "3",
+          "n-decane",
+          "135",
+          "10"
+        ],
+        [
+          "62",
+          "3",
+          "n-decane",
+          "140",
+          "1"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 31-1\n______________________________________\n            Heat-treating Conditions\nExperiment\n         Precursor\n                  First     Treating\n                                    Treating\nNo.      Film No. Liquid    Temp. (°C.)\n                                    Time (min)\n______________________________________\n61       3        n-decane  135     10\n62       3        n-decane  140      1\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 31"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 31-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Conditions for Immersion and Drying"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Second",
+          "Immersing",
+          "Immersing"
+        ],
+        [
+          "Drying"
+        ],
+        [
+          "No.",
+          "Liquid",
+          "Time (min) Temp. (°C.)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "61",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "62",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 31-2\n______________________________________\nConditions for Immersion and Drying\nExperiment\n        Second   Immersing  Immersing\n                                    Drying\nNo.     Liquid   Time (min) Temp. (°C.)\n                                    Temp. (°C.)\n______________________________________\n61      HFC225bc 10         room temp.\n                                    air-dried\n62      HFC225bc 10         room temp.\n                                    air-dried\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 31"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 32-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Gas",
+          "Gas Imper-"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Permea- meability-"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content bility",
+          "acquiring"
+        ],
+        [
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(μ)",
+          "(%)",
+          "(sec/100 cc)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "61",
+          "39.0",
+          "63.0",
+          "560",
+          "134",
+          "0.03 0.02"
+        ],
+        [
+          "62",
+          "17.8",
+          "12.9",
+          ">10000",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 32-1\n______________________________________\n      Film            Gas     Gas Imper-\n                                       Tensile\nExperi-\n      Thick-  Void    Permea- meability-\n                                       Strength\nment  ness    Content bility  acquiring\n                                       (GPa)\nNo.   (μ)  (%)     (sec/100 cc)\n                              Temp. (°C.)\n                                       MD   TD\n______________________________________\n61    39.0    63.0    560     134      0.03 0.02\n62    17.8    12.9    &gt;10000  --       --   --\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 32"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 32-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile Strength"
+        ],
+        [
+          "(%)"
+        ],
+        [
+          "Experiment No."
+        ],
+        [
+          "MD",
+          "TD",
+          "Crystallinity (%)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "61",
+          "55",
+          "47",
+          "63.2"
+        ],
+        [
+          "62",
+          "--",
+          "--",
+          "58.4"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 32-2\n______________________________________\n           Tensile Strength\n           (%)\nExperiment No.\n            MD        TD      Crystallinity (%)\n______________________________________\n61          55        47      63.2\n62          --        --      58.4\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 32"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 33-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Heat-treating Conditions"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Precursor"
+        ],
+        [
+          "First",
+          "Treating"
+        ],
+        [
+          "Treating"
+        ],
+        [
+          "No.",
+          "Film No. Liquid",
+          "Temp. (°C.)"
+        ],
+        [
+          "Time (min)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "63",
+          "3",
+          "n-decane",
+          "128",
+          "1"
+        ],
+        [
+          "64",
+          "3",
+          "n-decane",
+          "130",
+          "1"
+        ],
+        [
+          "65",
+          "3",
+          "n-decane",
+          "132",
+          "1"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 33-1\n______________________________________\n            Heat-treating Conditions\nExperiment\n         Precursor\n                  First     Treating\n                                    Treating\nNo.      Film No. Liquid    Temp. (°C.)\n                                    Time (min)\n______________________________________\n63       3        n-decane  128     1\n64       3        n-decane  130     1\n65       3        n-decane  132     1\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 33"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 33-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Conditions for Immersion and Drying"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Second",
+          "Immersing",
+          "Immersing"
+        ],
+        [
+          "Drying"
+        ],
+        [
+          "No.",
+          "Liquid",
+          "Time (min) Temp. (°C.)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "63",
+          "none",
+          "--",
+          "--",
+          "60"
+        ],
+        [
+          "64",
+          "none",
+          "--",
+          "--",
+          "60"
+        ],
+        [
+          "65",
+          "none",
+          "--",
+          "--",
+          "60"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 33-2\n______________________________________\n       Conditions for Immersion and Drying\nExperiment\n         Second  Immersing  Immersing\n                                    Drying\nNo.      Liquid  Time (min) Temp. (°C.)\n                                    Temp. (°C.)\n______________________________________\n63       none    --         --      60\n64       none    --         --      60\n65       none    --         --      60\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 33"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 34-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Gas",
+          "Gas Imper-"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Permea- meability-"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content bility",
+          "acquiring"
+        ],
+        [
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(μ)",
+          "(%)",
+          "(sec/100 cc)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "63",
+          "19.5",
+          "29.2",
+          "2400",
+          "unmeasurable"
+        ],
+        [
+          "0.028"
+        ],
+        [
+          "0.029"
+        ],
+        [
+          "64",
+          "20.0",
+          "27.7",
+          "2400",
+          "unmeasurable"
+        ],
+        [
+          "0.025"
+        ],
+        [
+          "0.027"
+        ],
+        [
+          "65",
+          "18.5",
+          "25.4",
+          "2780",
+          "unmeasurable"
+        ],
+        [
+          "0.024"
+        ],
+        [
+          "0.027"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 34-1\n______________________________________\n      Film            Gas     Gas Imper-\n                                       Tensile\nExperi-\n      Thick-  Void    Permea- meability-\n                                       Strength\nment  ness    Content bility  acquiring\n                                       (GPa)\nNo.   (μ)  (%)     (sec/100 cc)\n                              Temp. (°C.)\n                                       MD   TD\n______________________________________\n63    19.5    29.2    2400    unmeasurable\n                                       0.028\n                                            0.029\n64    20.0    27.7    2400    unmeasurable\n                                       0.025\n                                            0.027\n65    18.5    25.4    2780    unmeasurable\n                                       0.024\n                                            0.027\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 34"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 34-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile Strength"
+        ],
+        [
+          "(%)"
+        ],
+        [
+          "Experiment No."
+        ],
+        [
+          "MD",
+          "TD",
+          "Crystallinity (%)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "63",
+          "54",
+          "62",
+          "62.3"
+        ],
+        [
+          "64",
+          "50",
+          "60",
+          "60.1"
+        ],
+        [
+          "65",
+          "48",
+          "52",
+          "58.5"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 34-2\n______________________________________\n           Tensile Strength\n           (%)\nExperiment No.\n            MD        TD      Crystallinity (%)\n______________________________________\n63          54        62      62.3\n64          50        60      60.1\n65          48        52      58.5\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 34"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 35-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Heat-treating Conditions"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Precursor"
+        ],
+        [
+          "First",
+          "Treating"
+        ],
+        [
+          "Treating"
+        ],
+        [
+          "No.",
+          "Film No. Liquid",
+          "Temp. (°C.)"
+        ],
+        [
+          "Time (min)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "66",
+          "3",
+          "PO1",
+          "135",
+          "10"
+        ],
+        [
+          "67",
+          "3",
+          "PO1",
+          "135",
+          "1"
+        ],
+        [
+          "68",
+          "3",
+          "PO2",
+          "132",
+          "1"
+        ],
+        [
+          "69",
+          "3",
+          "PO2",
+          "135",
+          "1"
+        ],
+        [
+          "70",
+          "3",
+          "PO2",
+          "138",
+          "1"
+        ],
+        [
+          "71",
+          "3",
+          "PO2",
+          "135",
+          "10"
+        ],
+        [
+          "72",
+          "3",
+          "PO2",
+          "135",
+          "5"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 35-1\n______________________________________\n            Heat-treating Conditions\nExperiment\n         Precursor\n                  First     Treating\n                                    Treating\nNo.      Film No. Liquid    Temp. (°C.)\n                                    Time (min)\n______________________________________\n66       3        PO1       135     10\n67       3        PO1       135     1\n68       3        PO2       132     1\n69       3        PO2       135     1\n70       3        PO2       138     1\n71       3        PO2       135     10\n72       3        PO2       135     5\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 35"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 35-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Conditions for Immersion and Drying"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Second",
+          "Immersing Immersing"
+        ],
+        [
+          "Drying"
+        ],
+        [
+          "No.",
+          "Liquid",
+          "Time (min)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "66",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "chloride",
+          "room temp."
+        ],
+        [
+          "67",
+          "methylene"
+        ],
+        [
+          "10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "chloride",
+          "room temp."
+        ],
+        [
+          "68",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "room temp."
+        ],
+        [
+          "69",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "room temp."
+        ],
+        [
+          "70",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "room temp."
+        ],
+        [
+          "71",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "room temp."
+        ],
+        [
+          "72",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "room temp."
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "PO1: paraffin oil (viscosity coefficient: cSt/40° C. = 61-64: trad"
+        ],
+        [
+          "name: Orzol) made by Witco Co."
+        ],
+        [
+          "PO2: paraffin oil (viscosity coefficient: cSt/40° C. = 11-14; trad"
+        ],
+        [
+          "name: Carnation) made by Witco Co."
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 35-2\n______________________________________\n       Conditions for Immersion and Drying\nExperiment\n         Second   Immersing Immersing\n                                    Drying\nNo.      Liquid   Time (min)\n                            Temp. (°C.)\n                                    Temp. (°C.)\n______________________________________\n66       methylene\n                  10        room temp.\n                                    air-dried at\n         chloride                   room temp.\n67       methylene\n                  10        room temp.\n                                    air-dried at\n         chloride                   room temp.\n68       HFC225bc 10        room temp.\n                                    air-dried at\n                                    room temp.\n69       HFC225bc 10        room temp.\n                                    air-dried at\n                                    room temp.\n70       HFC225bc 10        room temp.\n                                    air-dried at\n                                    room temp.\n71       HFC225bc 10        room temp.\n                                    air-dried at\n                                    room temp.\n72       HFC225bc 10        room temp.\n                                    air-dried at\n                                    room temp.\n______________________________________\n PO1: paraffin oil (viscosity coefficient: cSt/40° C. = 61-64: trad\n name: Orzol) made by Witco Co.\n PO2: paraffin oil (viscosity coefficient: cSt/40° C. = 11-14; trad\n name: Carnation) made by Witco Co.\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 35"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 36-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Gas",
+          "Gas Imper-"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Permea- meability-"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content bility",
+          "acquiring"
+        ],
+        [
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(μ)",
+          "(%)",
+          "(sec/100 cc)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "66",
+          "20.9",
+          "35.4",
+          "1120",
+          "131",
+          "0.166"
+        ],
+        [
+          "0.168"
+        ],
+        [
+          "67",
+          "22.2",
+          "34.2",
+          "1440",
+          "130",
+          "0.170"
+        ],
+        [
+          "0.175"
+        ],
+        [
+          "68",
+          "21.5",
+          "36.7",
+          "1170",
+          "131",
+          "0.163"
+        ],
+        [
+          "0.160"
+        ],
+        [
+          "69",
+          "27.4",
+          "44.5",
+          "920",
+          "132",
+          "0.130"
+        ],
+        [
+          "0.118"
+        ],
+        [
+          "70",
+          "29.6",
+          "51.3",
+          "620",
+          "133",
+          "0.075"
+        ],
+        [
+          "0.071"
+        ],
+        [
+          "71",
+          "23.7",
+          "41.3",
+          "1150",
+          "130",
+          "0.131"
+        ],
+        [
+          "0.135"
+        ],
+        [
+          "72",
+          "26.6",
+          "43.2",
+          "1400",
+          "130",
+          "0.117"
+        ],
+        [
+          "0.102"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 36-1\n______________________________________\n      Film            Gas     Gas Imper-\n                                       Tensile\nExperi-\n      Thick-  Void    Permea- meability-\n                                       Strength\nment  ness    Content bility  acquiring\n                                       (GPa)\nNo.   (μ)  (%)     (sec/100 cc)\n                              Temp. (°C.)\n                                       MD   TD\n______________________________________\n66    20.9    35.4    1120    131      0.166\n                                            0.168\n67    22.2    34.2    1440    130      0.170\n                                            0.175\n68    21.5    36.7    1170    131      0.163\n                                            0.160\n69    27.4    44.5     920    132      0.130\n                                            0.118\n70    29.6    51.3     620    133      0.075\n                                            0.071\n71    23.7    41.3    1150    130      0.131\n                                            0.135\n72    26.6    43.2    1400    130      0.117\n                                            0.102\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 36"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 36-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile strength (%)"
+        ],
+        [
+          "Experiment No. MD",
+          "TD",
+          "Crystallinity (%)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "66",
+          "51",
+          "58",
+          "82.5"
+        ],
+        [
+          "67",
+          "55",
+          "58",
+          "83.6"
+        ],
+        [
+          "68",
+          "50",
+          "64",
+          "84.2"
+        ],
+        [
+          "69",
+          "60",
+          "57",
+          "81.4"
+        ],
+        [
+          "70",
+          "63",
+          "68",
+          "79.2"
+        ],
+        [
+          "71",
+          "61",
+          "62",
+          "82.7"
+        ],
+        [
+          "72",
+          "55",
+          "56",
+          "84.2"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 36-2\n______________________________________\n           Tensile strength (%)\nExperiment No. MD     TD      Crystallinity (%)\n______________________________________\n66             51     58      82.5\n67             55     58      83.6\n68             50     64      84.2\n69             60     57      81.4\n70             63     68      79.2\n71             61     62      82.7\n72             55     56      84.2\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 36"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 37"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Precursor Film Sample No."
+        ],
+        [
+          "3"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Intrinsic viscosity,",
+          "η!, of"
+        ],
+        [
+          "8.8"
+        ],
+        [
+          "starting polyethylene (dl/g)"
+        ],
+        [
+          "Film-forming"
+        ],
+        [
+          "Draft ratio",
+          "13.0"
+        ],
+        [
+          "condition",
+          "Blow-up ratio",
+          "9.7"
+        ],
+        [
+          "Characteristic"
+        ],
+        [
+          "Film thickness (μm)"
+        ],
+        [
+          "19.8"
+        ],
+        [
+          "Properties"
+        ],
+        [
+          "of Film",
+          "Tensile strength (GPa)"
+        ],
+        [
+          "MD",
+          "0.117"
+        ],
+        [
+          "TD",
+          "0.182"
+        ],
+        [
+          "Intrinsic viscosity",
+          "η!"
+        ],
+        [
+          "6.0"
+        ],
+        [
+          "Crystallinity (%)"
+        ],
+        [
+          "62.6"
+        ],
+        [
+          "Orientation coefficient"
+        ],
+        [
+          "fa",
+          "0.38"
+        ],
+        [
+          "fc",
+          "-0.18"
+        ],
+        [
+          "Gas permeability (sec/100 cc)"
+        ],
+        [
+          ">10000"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 37\n______________________________________\nPrecursor Film Sample No.\n                         3\n______________________________________\nIntrinsic viscosity,  η!, of\n                         8.8\nstarting polyethylene (dl/g)\nFilm-forming\n            Draft ratio      13.0\ncondition   Blow-up ratio    9.7\nCharacteristic\n            Film thickness (μm)\n                             19.8\nProperties\nof Film     Tensile strength (GPa)\n            MD               0.117\n            TD               0.182\n            Intrinsic viscosity  η!\n                             6.0\n            Crystallinity (%)\n                             62.6\n            Orientation coefficient\n            fa               0.38\n            fc               -0.18\n            Gas permeability (sec/100 cc)\n                             &gt;10000\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 37"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 38-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Heat-treating Conditions"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Precursor"
+        ],
+        [
+          "First",
+          "Treating"
+        ],
+        [
+          "Treating"
+        ],
+        [
+          "No.",
+          "Film No. Liquid",
+          "Temp. (°C.)"
+        ],
+        [
+          "Time (min)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "73",
+          "3",
+          "P02",
+          "128",
+          "1"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 38-1\n______________________________________\n            Heat-treating Conditions\nExperiment\n         Precursor\n                  First    Treating\n                                   Treating\nNo.      Film No. Liquid   Temp. (°C.)\n                                   Time (min)\n______________________________________\n73       3        P02      128     1\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 38"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 38-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Conditions for Immersion and Drying"
+        ],
+        [
+          "Experiment"
+        ],
+        [
+          "Second",
+          "Immersing Immersing"
+        ],
+        [
+          "Drying"
+        ],
+        [
+          "No.",
+          "Liquid",
+          "Time (min)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "73",
+          "HFC225bc 10",
+          "room temp."
+        ],
+        [
+          "air-dried at"
+        ],
+        [
+          "room temp."
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 38-2\n______________________________________\n       Conditions for Immersion and Drying\nExperiment\n         Second   Immersing Immersing\n                                    Drying\nNo.      Liquid   Time (min)\n                            Temp. (°C.)\n                                    Temp. (°C.)\n______________________________________\n73       HFC225bc 10        room temp.\n                                    air-dried at\n                                    room temp.\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 38"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 39-1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Film",
+          "Gas",
+          "Gas Imper-"
+        ],
+        [
+          "Tensile"
+        ],
+        [
+          "Experi-"
+        ],
+        [
+          "Thick-",
+          "Void",
+          "Permea- meability-"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "ment",
+          "ness",
+          "Content bility",
+          "acquiring"
+        ],
+        [
+          "(GPa)"
+        ],
+        [
+          "No.",
+          "(μ)",
+          "(%)",
+          "(sec/100 cc)"
+        ],
+        [
+          "Temp. (°C.)"
+        ],
+        [
+          "MD",
+          "TD"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "73",
+          "45.1",
+          "54.5",
+          "504",
+          "130",
+          "0.084"
+        ],
+        [
+          "0.124"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 39-1\n______________________________________\n      Film            Gas     Gas Imper-\n                                       Tensile\nExperi-\n      Thick-  Void    Permea- meability-\n                                       Strength\nment  ness    Content bility  acquiring\n                                       (GPa)\nNo.   (μ)  (%)     (sec/100 cc)\n                              Temp. (°C.)\n                                       MD   TD\n______________________________________\n73    45.1    54.5    504     130      0.084\n                                            0.124\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 39"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 39-2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Tensile strength (%)"
+        ],
+        [
+          "Experiment No. MD",
+          "TD",
+          "Crystallinity (%)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "73",
+          "131",
+          "156",
+          "78.3"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 39-2\n______________________________________\n           Tensile strength (%)\nExperiment No. MD     TD      Crystallinity (%)\n______________________________________\n73             131    156     78.3\n______________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 39"
+    },
+    {
+      "caption": "FIG. 1 is a front sectional view showing one example of an apparatus for producing the precursor of a porous film in accordance with the present invention. FIG. 2a is an electron micrograph of a microporous film of high molecular weight polyolefin, obtained in Experimental No. 59 in Experiment Example 11 of this invention, in which crystallites flocculate on leaf vein-like fibrils (at a magnification of 10,000). FIG. 2b is a tracing of the electron micrograph of FIG. 2a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate. FIG. 3a is an electron micrograph of the backside of microporous film of high molecular weight polyolefin shown in FIG. 2a (at a magnification of 10,000). FIG. 3b is a tracing of the electron micrograph of FIG. 3a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate, as in FIG. 2b. FIG. 4 shows an example of a metal frame for fixing a film upon heat treatment of the unstretched film according to this invention. The high tensile strength of the film is obtained by the leaf vein-like fibril structure, and the low gas impermeability-acquiring temperature results from the fact that, when heated, crystallites having flocculated on each fibril melt at a temperature lower than the melting point of the leaf vein-like fibrils and close the micropores. The state wherein indeterminate-form crystallites of 1 μm or less in size flocculate on each fibril is that shown by appended FIG. 2a which shows an electron photograph of the surface of the film, FIG. 3a which shows an electron photograph of the backside of the film, FIG. 2b which shows a tracing of FIG. 2a, and FIG. 3b which shows a tracing of FIG. 3a. A precursor film 12 was sandwitched between a pair of stainless steel-made metal frames 13 as shown in FIG. 4, and the upper and lower metal frames were fixed by screws 11 to thereby fix the film sample in 4 directions. The sample was placed, in this state, in a bath filled with a heated liquid for heat treatment (first liquid) for a predetermined period of time.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/2a/a9/b1/a7cf71057baf0a/US5882518-drawings-page-2.png"
+    },
+    {
+      "caption": "FIG. 1 is a front sectional view showing one example of an apparatus for producing the precursor of a porous film in accordance with the present invention. FIG. 2a is an electron micrograph of a microporous film of high molecular weight polyolefin, obtained in Experimental No. 59 in Experiment Example 11 of this invention, in which crystallites flocculate on leaf vein-like fibrils (at a magnification of 10,000). FIG. 2b is a tracing of the electron micrograph of FIG. 2a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate. FIG. 3a is an electron micrograph of the backside of microporous film of high molecular weight polyolefin shown in FIG. 2a (at a magnification of 10,000). FIG. 3b is a tracing of the electron micrograph of FIG. 3a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate, as in FIG. 2b. FIG. 4 shows an example of a metal frame for fixing a film upon heat treatment of the unstretched film according to this invention. The high tensile strength of the film is obtained by the leaf vein-like fibril structure, and the low gas impermeability-acquiring temperature results from the fact that, when heated, crystallites having flocculated on each fibril melt at a temperature lower than the melting point of the leaf vein-like fibrils and close the micropores. The state wherein indeterminate-form crystallites of 1 μm or less in size flocculate on each fibril is that shown by appended FIG. 2a which shows an electron photograph of the surface of the film, FIG. 3a which shows an electron photograph of the backside of the film, FIG. 2b which shows a tracing of FIG. 2a, and FIG. 3b which shows a tracing of FIG. 3a. A precursor film 12 was sandwitched between a pair of stainless steel-made metal frames 13 as shown in FIG. 4, and the upper and lower metal frames were fixed by screws 11 to thereby fix the film sample in 4 directions. The sample was placed, in this state, in a bath filled with a heated liquid for heat treatment (first liquid) for a predetermined period of time.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/45/c3/ad/7f9fdb3b65a3c0/US5882518-drawings-page-3.png"
+    },
+    {
+      "caption": "FIG. 1 is a front sectional view showing one example of an apparatus for producing the precursor of a porous film in accordance with the present invention. FIG. 2a is an electron micrograph of a microporous film of high molecular weight polyolefin, obtained in Experimental No. 59 in Experiment Example 11 of this invention, in which crystallites flocculate on leaf vein-like fibrils (at a magnification of 10,000). FIG. 2b is a tracing of the electron micrograph of FIG. 2a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate. FIG. 3a is an electron micrograph of the backside of microporous film of high molecular weight polyolefin shown in FIG. 2a (at a magnification of 10,000). FIG. 3b is a tracing of the electron micrograph of FIG. 3a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate, as in FIG. 2b. FIG. 4 shows an example of a metal frame for fixing a film upon heat treatment of the unstretched film according to this invention. The high tensile strength of the film is obtained by the leaf vein-like fibril structure, and the low gas impermeability-acquiring temperature results from the fact that, when heated, crystallites having flocculated on each fibril melt at a temperature lower than the melting point of the leaf vein-like fibrils and close the micropores. The state wherein indeterminate-form crystallites of 1 μm or less in size flocculate on each fibril is that shown by appended FIG. 2a which shows an electron photograph of the surface of the film, FIG. 3a which shows an electron photograph of the backside of the film, FIG. 2b which shows a tracing of FIG. 2a, and FIG. 3b which shows a tracing of FIG. 3a. A precursor film 12 was sandwitched between a pair of stainless steel-made metal frames 13 as shown in FIG. 4, and the upper and lower metal frames were fixed by screws 11 to thereby fix the film sample in 4 directions. The sample was placed, in this state, in a bath filled with a heated liquid for heat treatment (first liquid) for a predetermined period of time.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/23/08/1c/2d956d271d8cc7/US5882518-drawings-page-4.png"
+    },
+    {
+      "caption": "FIG. 1 is a front sectional view showing one example of an apparatus for producing the precursor of a porous film in accordance with the present invention. FIG. 2a is an electron micrograph of a microporous film of high molecular weight polyolefin, obtained in Experimental No. 59 in Experiment Example 11 of this invention, in which crystallites flocculate on leaf vein-like fibrils (at a magnification of 10,000). FIG. 2b is a tracing of the electron micrograph of FIG. 2a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate. FIG. 3a is an electron micrograph of the backside of microporous film of high molecular weight polyolefin shown in FIG. 2a (at a magnification of 10,000). FIG. 3b is a tracing of the electron micrograph of FIG. 3a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate, as in FIG. 2b. FIG. 4 shows an example of a metal frame for fixing a film upon heat treatment of the unstretched film according to this invention. The high tensile strength of the film is obtained by the leaf vein-like fibril structure, and the low gas impermeability-acquiring temperature results from the fact that, when heated, crystallites having flocculated on each fibril melt at a temperature lower than the melting point of the leaf vein-like fibrils and close the micropores. The state wherein indeterminate-form crystallites of 1 μm or less in size flocculate on each fibril is that shown by appended FIG. 2a which shows an electron photograph of the surface of the film, FIG. 3a which shows an electron photograph of the backside of the film, FIG. 2b which shows a tracing of FIG. 2a, and FIG. 3b which shows a tracing of FIG. 3a. A precursor film 12 was sandwitched between a pair of stainless steel-made metal frames 13 as shown in FIG. 4, and the upper and lower metal frames were fixed by screws 11 to thereby fix the film sample in 4 directions. The sample was placed, in this state, in a bath filled with a heated liquid for heat treatment (first liquid) for a predetermined period of time.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/62/b4/27/d0134537ec3a6f/US5882518-drawings-page-5.png"
+    },
+    {
+      "caption": "FIG. 1 is a front sectional view showing one example of an apparatus for producing the precursor of a porous film in accordance with the present invention. FIG. 2a is an electron micrograph of a microporous film of high molecular weight polyolefin, obtained in Experimental No. 59 in Experiment Example 11 of this invention, in which crystallites flocculate on leaf vein-like fibrils (at a magnification of 10,000). FIG. 2b is a tracing of the electron micrograph of FIG. 2a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate. FIG. 3a is an electron micrograph of the backside of microporous film of high molecular weight polyolefin shown in FIG. 2a (at a magnification of 10,000). FIG. 3b is a tracing of the electron micrograph of FIG. 3a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate, as in FIG. 2b. FIG. 4 shows an example of a metal frame for fixing a film upon heat treatment of the unstretched film according to this invention. The high tensile strength of the film is obtained by the leaf vein-like fibril structure, and the low gas impermeability-acquiring temperature results from the fact that, when heated, crystallites having flocculated on each fibril melt at a temperature lower than the melting point of the leaf vein-like fibrils and close the micropores. The state wherein indeterminate-form crystallites of 1 μm or less in size flocculate on each fibril is that shown by appended FIG. 2a which shows an electron photograph of the surface of the film, FIG. 3a which shows an electron photograph of the backside of the film, FIG. 2b which shows a tracing of FIG. 2a, and FIG. 3b which shows a tracing of FIG. 3a. A precursor film 12 was sandwitched between a pair of stainless steel-made metal frames 13 as shown in FIG. 4, and the upper and lower metal frames were fixed by screws 11 to thereby fix the film sample in 4 directions. The sample was placed, in this state, in a bath filled with a heated liquid for heat treatment (first liquid) for a predetermined period of time.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/8a/0b/e9/77344081bdd9c1/US5882518-drawings-page-6.png"
+    },
+    {
+      "caption": "FIG. 1 is a front sectional view showing one example of an apparatus for producing the precursor of a porous film in accordance with the present invention. FIG. 2a is an electron micrograph of a microporous film of high molecular weight polyolefin, obtained in Experimental No. 59 in Experiment Example 11 of this invention, in which crystallites flocculate on leaf vein-like fibrils (at a magnification of 10,000). FIG. 2b is a tracing of the electron micrograph of FIG. 2a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate. FIG. 3a is an electron micrograph of the backside of microporous film of high molecular weight polyolefin shown in FIG. 2a (at a magnification of 10,000). FIG. 3b is a tracing of the electron micrograph of FIG. 3a, in which A represents leaf vein-like fibrils, and B represents a state how crystallites flocculate, as in FIG. 2b. FIG. 4 shows an example of a metal frame for fixing a film upon heat treatment of the unstretched film according to this invention. The high tensile strength of the film is obtained by the leaf vein-like fibril structure, and the low gas impermeability-acquiring temperature results from the fact that, when heated, crystallites having flocculated on each fibril melt at a temperature lower than the melting point of the leaf vein-like fibrils and close the micropores. The state wherein indeterminate-form crystallites of 1 μm or less in size flocculate on each fibril is that shown by appended FIG. 2a which shows an electron photograph of the surface of the film, FIG. 3a which shows an electron photograph of the backside of the film, FIG. 2b which shows a tracing of FIG. 2a, and FIG. 3b which shows a tracing of FIG. 3a. A precursor film 12 was sandwitched between a pair of stainless steel-made metal frames 13 as shown in FIG. 4, and the upper and lower metal frames were fixed by screws 11 to thereby fix the film sample in 4 directions. The sample was placed, in this state, in a bath filled with a heated liquid for heat treatment (first liquid) for a predetermined period of time.",
+      "kind": "figure",
+      "sheet": "6",
+      "url": "https://patentimages.storage.googleapis.com/82/70/03/247e9dd857208c/US5882518-drawings-page-7.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/11/b1/e1/e5e78653ab74f3/US5882518.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US5882518A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:22:06.485720+00:00",
+    "sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+    "source": "patents",
+    "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+    "url": "https://patents.google.com/patent/US5882518A/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "593af44cd0f0ea104f4f655cd99cf55947cf50687d47b1703b8b54f6d146875a",
+      "original_property_label": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "145",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "20",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 3",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "e08177ca02f40da56aad9d095f482a52a01c663e61034b4280a40bc2b76b5957",
+      "original_property_label": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "3.6",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "20",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 3",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "80237b04ba055d7161580b1a985932fa5fb5330985b2b5085f4e43ac7d8b59a0",
+      "original_property_label": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "1.0",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "20",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 3",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "4acc97fffe8124c6b891e36e7fec1ebef15d2aaeac0c398de2d40fe4dfe1b545",
+      "original_property_label": "8 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": ">10000",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "20",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 3",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Film Experiment Thickness",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "d602e7687763b8bf98e01b5e14f32734eb181fb98b87cf6c8ffef8b769330e21",
+      "original_property_label": "Film Experiment Thickness",
+      "original_unit": "",
+      "original_value": "Void",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Film Experiment Thickness",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "27a4f2f268c66e26d5fbc3fa90d043bb3dae9a74be9b9e2c6ceba4499a65dcd2",
+      "original_property_label": "Film Experiment Thickness",
+      "original_unit": "",
+      "original_value": "Strength",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Film Experiment Thickness",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "9aec373b0e46e46ae4064be360b29d4563e0f4cd072dc95b1f10f3b8ad243701",
+      "original_property_label": "Film Experiment Thickness",
+      "original_unit": "",
+      "original_value": "Elongation",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 4",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "2c7210461cd2f5c0c14b83a176d8f6c64e286a26123db8419fc548d6d358e53f",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Void",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 7",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "7d6ad4d9a510c4702e76263a02ad1429ac2ecdfd91906b5b87cfc75765a9dcfb",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Tensile Strength",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 7",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Film Experiment Thickness",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "6df6f5a31c6c663e9c86f2ebd489d4763f5a05adc6385db53d4c16f9f1384939",
+      "original_property_label": "Film Experiment Thickness",
+      "original_unit": "",
+      "original_value": "Void",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 9",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Film Experiment Thickness",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "ac3ad747c5affbaccca476acc30124c6a612f526fa793d05e22581b93a6dccb1",
+      "original_property_label": "Film Experiment Thickness",
+      "original_unit": "",
+      "original_value": "Strength",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 9",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Film Experiment Thickness",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "576d8691b6a03430d73c1c9188f6b3ab90d8cfbc5d431c78a2d75a39a72599be",
+      "original_property_label": "Film Experiment Thickness",
+      "original_unit": "",
+      "original_value": "Elongation",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 9",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "a48b48b62015c843864929c7f03ebdba054520fcefdd1025d1d6a5b4d04fd484",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Void",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 12",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "6f90b06a64832b3e0bbb1d8b5ccac06fae81050f645f8bdd1e86bcdbe27b47bc",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Tensile Strength",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 12",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "756d78788317eac3a7a6b715cd23aa6de303eab55aebc67d4efad8a441204e96",
+      "original_property_label": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "130",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "eeac152080fbe144c6c20b270978820be729eb977f6374e1e6c9934c9cc5d24a",
+      "original_property_label": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "2.0",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "dc27ac6cabbaea67d7eba417f129d14adbb3c67e0f99754332e29442e63e351e",
+      "original_property_label": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "2.5",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "e4e695701320b91778efef9240c1f51c2ffa94517fd7b3c7cccac33e5a8df4e0",
+      "original_property_label": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "730",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: hereinafter the same. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "ea6f7ea64fd75d7519000715f9ec3dea67171b9e244fe897589b172a0c4eccba",
+      "original_property_label": "27 ______________________________________ Gas permeability: Gurley second (hereinafter the same)",
+      "original_unit": "hereinafter the same",
+      "original_value": "137",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_5",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "6",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 13",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "c0affb727646d8c3239f31753e83891e515cb6cc32bbdf2d005f1b690e5106fe",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Void",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 14",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "3178c3a157d116b0b192f90573a44234437b5836e5451d94ec601cb8c872dc42",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Tensile Strength",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 14",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "9d01d8da52202b208814a978d8d104c748afdb77dcbae0b978b88d28579fd7fa",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Void",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 17",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thick- Elongation",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "27dd95a78f5efd961d6c909cb21b2050cdd5b8ee054d1902d88fd316a4eb8963",
+      "original_property_label": "Thick- Elongation",
+      "original_unit": "",
+      "original_value": "Tensile Strength",
+      "polymer": null,
+      "product": null,
+      "property": "elongation",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 17",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"um\", \"unit_alias\": \"\\u03bcm\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Blow-up rato Characteristic Film thickness (μm)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "c57bd5646cb3c94b47d3fecc7460041b09ac1a72b12867f048fe67f85c9e5c75",
+      "original_property_label": "Blow-up rato Characteristic Film thickness (μm)",
+      "original_unit": "μm",
+      "original_value": "5.8",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "9",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 26",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "um",
+      "value": 5.8
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"um\", \"unit_alias\": \"\\u03bcm\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Blow-up rato Characteristic Film thickness (μm)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "e4160f7d0f4a7799bbd220c5bbb03c128de4e37283d5726ec1f4e3eebb32c055",
+      "original_property_label": "Blow-up rato Characteristic Film thickness (μm)",
+      "original_unit": "μm",
+      "original_value": "10",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "9",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 26",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "um",
+      "value": 10.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "23.5 Properties Tensile strength (GPa)",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: GPa. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "cfaa3e2555936fe7cf2b1e707ee132e4232016597fc8ee31ceb2a235340b90b2",
+      "original_property_label": "23.5 Properties Tensile strength (GPa)",
+      "original_unit": "GPa",
+      "original_value": "15.0",
+      "polymer": null,
+      "product": null,
+      "property": "tensile_strength",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "12",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 26",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "condition Characteristic Film thickness (μm) 19.8 Properties",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "2c57f0d1bfb7fafa01bed9eb582da56eb0e903c75f8081448579e780c431db0a",
+      "original_property_label": "condition Characteristic Film thickness (μm) 19.8 Properties",
+      "original_unit": "μm",
+      "original_value": "Blow-up ratio",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "11",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 37",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"um\", \"unit_alias\": \"\\u03bcm\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "condition Characteristic Film thickness (μm) 19.8 Properties",
+      "method": null,
+      "notes": "Publication US5882518A; ; printed unit: μm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "fc7b1be1109456f2e30b9619afd2237d57999faeefff5d72dfcfbce5998b8266",
+      "original_property_label": "condition Characteristic Film thickness (μm) 19.8 Properties",
+      "original_unit": "μm",
+      "original_value": "9.7",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5882518A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183.bin",
+      "source_id": "1c2285260190dc8934c16c83e1ff35455d990208b285a88ff4d57abe7c499778",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "11",
+      "source_sha256": "fc4fb9be1df89abffd61863f970900ca02d948eed88b93dda7d45a3f6dda5183",
+      "source_table": "TABLE 37",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5882518A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "um",
+      "value": 9.7
+    }
+  ],
+  "status": "complete"
+}

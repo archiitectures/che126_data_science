@@ -1,0 +1,590 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Binder",
+          ""
+        ],
+        [
+          "",
+          "(acrylic",
+          ""
+        ],
+        [
+          "",
+          "copolymer):inorganic",
+          ""
+        ],
+        [
+          "",
+          "material"
+        ],
+        [
+          "",
+          "(weight ratio)"
+        ],
+        [
+          "",
+          "1:25",
+          "",
+          "",
+          "Dry heat",
+          "Wet heat",
+          ""
+        ],
+        [
+          "",
+          "First",
+          "",
+          "",
+          "shrinkage",
+          "shrinkage"
+        ],
+        [
+          "",
+          "inorganic",
+          "",
+          "",
+          "rate",
+          "rate"
+        ],
+        [
+          "",
+          "particle:second",
+          "",
+          "",
+          "150° C.,",
+          "150° C.,"
+        ],
+        [
+          "",
+          "inorganic",
+          "Coating",
+          "Adhesive",
+          "",
+          "1 hr",
+          "1 hr",
+          "Moisture"
+        ],
+        [
+          "Coating",
+          "",
+          "particle",
+          "thickness",
+          "strength",
+          "MD",
+          "TD",
+          "MD",
+          "TD",
+          "content"
+        ],
+        [
+          "surface",
+          "",
+          "(weight ratio)",
+          "(μm)",
+          "(gf)",
+          "(%)",
+          "(%)",
+          "(%)",
+          "(%)",
+          "(ppm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Ex. 1",
+          "90:10",
+          "3",
+          "11.1",
+          "1.4",
+          "1.6",
+          "19",
+          "19",
+          "381"
+        ],
+        [
+          "Single",
+          "Ex. 2",
+          "75:25",
+          "3",
+          "12.0",
+          "1.3",
+          "1.4",
+          "17",
+          "18",
+          "415"
+        ],
+        [
+          "surface",
+          "Ex. 3",
+          "60:40",
+          "3",
+          "12.5",
+          "1.2",
+          "1.5",
+          "14",
+          "13",
+          "459"
+        ],
+        [
+          "",
+          "Ex. 4",
+          "50:50",
+          "3",
+          "13.6",
+          "1.0",
+          "1.5",
+          "10",
+          "9",
+          "488"
+        ],
+        [
+          "",
+          "Ex. 5",
+          "40:60",
+          "3",
+          "12.8",
+          "1.1",
+          "1.7",
+          "18",
+          "19",
+          "711"
+        ],
+        [
+          "",
+          "Comp. Ex. 1",
+          "100:0",
+          "3",
+          "10.1",
+          "1.1",
+          "1.0",
+          "21",
+          "21",
+          "317"
+        ],
+        [
+          "",
+          "Reference Ex. 1",
+          "25:75",
+          "3",
+          "12.3",
+          "1.3",
+          "2.2",
+          "25",
+          "23",
+          "892"
+        ],
+        [
+          "",
+          "Reference Ex. 2",
+          "10:90",
+          "3",
+          "11.4",
+          "1.5",
+          "1.8",
+          "27",
+          "24",
+          "1101"
+        ],
+        [
+          "",
+          "Comp. Ex. 2",
+          "0:100",
+          "3",
+          "10.2",
+          "1.8",
+          "1.6",
+          "35",
+          "25",
+          "1591"
+        ],
+        [
+          "Both",
+          "Ex. 6",
+          "50:50",
+          "3",
+          "15.6",
+          "0.5",
+          "0.6",
+          "5",
+          "6",
+          "1.40"
+        ],
+        [
+          "surfaces",
+          "Comp. Ex. 3",
+          "100:0",
+          "3",
+          "14.7",
+          "0.8",
+          "0.9",
+          "17",
+          "19",
+          "1.15"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Binder</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(acrylic</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer):inorganic</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">material</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(weight ratio)</td>\n</tr>\n</tbody></table>\n<figure-callout filenames=\"US12230837-20250218-D00003.png\" id=\"1\" label=\"inorganic Coating Adhesive\" state=\"{{state}}\">\n</figure-callout><table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">1:25</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Dry heat</td>\n<td class=\"description-td\">Wet heat</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">First</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shrinkage</td>\n<td class=\"description-td\">shrinkage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">rate</td>\n<td class=\"description-td\">rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particle:second</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">150° C.,</td>\n<td class=\"description-td\">150° C.,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> <figure-callout filenames=\"US12230837-20250218-D00003.png\" id=\"1\" label=\"inorganic Coating Adhesive\" state=\"{{state}}\">inorganic</figure-callout> </td> <td class=\"description-td\">Coating</td>\n<td class=\"description-td\">Adhesive</td> <td class=\"description-td\"> </td>\n<td class=\"description-td\">1 <figure-callout filenames=\"US12230837-20250218-D00003.png\" id=\"1\" label=\"hr\" state=\"{{state}}\">hr</figure-callout> </td>\n<td class=\"description-td\">1 hr</td>\n<td class=\"description-td\">Moisture</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particle</td>\n<td class=\"description-td\">thickness</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">content</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">surface</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(weight ratio)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(gf)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(ppm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 1</td>\n<td class=\"description-td\">90:10</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">11.1</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">381</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Single</td>\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.0</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">415</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">surface</td>\n<td class=\"description-td\">Ex. 3</td>\n<td class=\"description-td\">60:40</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.5</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">459</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 4</td>\n<td class=\"description-td\">50:50</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">13.6</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">488</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 5</td>\n<td class=\"description-td\">40:60</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.8</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">1.7</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">711</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 1</td>\n<td class=\"description-td\">100:0 </td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">10.1</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">317</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Reference Ex. 1</td>\n<td class=\"description-td\">25:75</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.3</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">2.2</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">892</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Reference Ex. 2</td>\n<td class=\"description-td\">10:90</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">11.4</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.8</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">1101</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 2</td>\n<td class=\"description-td\"> 0:100</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">10.2</td>\n<td class=\"description-td\">1.8</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1591</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Both</td>\n<td class=\"description-td\">Ex. 6</td>\n<td class=\"description-td\">50:50</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">15.6</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">1.40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">surfaces</td>\n<td class=\"description-td\">Comp. Ex. 3</td>\n<td class=\"description-td\">100:0 </td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">14.7</td>\n<td class=\"description-td\">0.8</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">1.15</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Dry heat",
+          "Wet heat"
+        ],
+        [
+          "",
+          "",
+          "First",
+          "",
+          "shrinkage",
+          "shrinkage"
+        ],
+        [
+          "",
+          "Acrylic",
+          "inorganic",
+          "",
+          "rate",
+          "rate"
+        ],
+        [
+          "",
+          "copolymer",
+          "particles:second",
+          "Coating",
+          "150° C., 1 hr",
+          "150° C., 1 hr"
+        ],
+        [
+          "",
+          "(acrylate",
+          "inorganic",
+          "thickness",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "",
+          "content %)",
+          "particles",
+          "(μm)",
+          "(%)",
+          "(%)",
+          "(%)",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 2",
+          "Synthesis Example 1",
+          "75:25",
+          "3",
+          "1.3",
+          "1.4",
+          "17",
+          "18"
+        ],
+        [
+          "Comp.",
+          "AA(20)/CMC",
+          "75:25",
+          "3",
+          "5.1",
+          "5.2",
+          "65",
+          "68"
+        ],
+        [
+          "Ex. 4"
+        ],
+        [
+          "Comp.",
+          "AA(30)/VP(70)",
+          "75:25",
+          "3",
+          "1.5",
+          "1.6",
+          "60",
+          "51"
+        ],
+        [
+          "Ex. 5"
+        ],
+        [
+          "Comp.",
+          "AA(40)/CMC(20)/VP(40)",
+          "75:25",
+          "3",
+          "1.5",
+          "2.1",
+          "61",
+          "61"
+        ],
+        [
+          "Ex. 6"
+        ],
+        [
+          "Comp.",
+          "AA(50)/VA(50)",
+          "75:25",
+          "3",
+          "1.2",
+          "1.6",
+          "61",
+          "65"
+        ],
+        [
+          "Ex. 7"
+        ],
+        [
+          "Comp.",
+          "AA(100)",
+          "75:25",
+          "3",
+          "1.5",
+          "1.6",
+          "65",
+          "70"
+        ],
+        [
+          "Ex. 8"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)",
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)",
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)",
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)",
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)",
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)",
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)",
+          "(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Dry heat</td>\n<td class=\"description-td\">Wet heat</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">First</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shrinkage</td>\n<td class=\"description-td\">shrinkage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Acrylic</td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">rate</td>\n<td class=\"description-td\">rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">copolymer</td>\n<td class=\"description-td\">particles:second</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">150° C., 1 hr</td>\n<td class=\"description-td\">150° C., 1 hr</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(acrylate</td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\">thickness</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">content %)</td>\n<td class=\"description-td\">particles</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">Synthesis Example 1</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">AA(20)/CMC</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">5.1</td>\n<td class=\"description-td\">5.2</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">68</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">AA(30)/VP(70)</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">AA(40)/CMC(20)/VP(40)</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">2.1</td>\n<td class=\"description-td\">61</td>\n<td class=\"description-td\">61</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">AA(50)/VA(50)</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">61</td>\n<td class=\"description-td\">65</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">AA(100)</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"left\" class=\"description-td\" colspan=\"8\" id=\"FOO-00001\" nameend=\"8\" namest=\"1\">(AA: structural unit derived from acrylic acid, CMC: structural unit derived from carboxymethyl cellulose, VP: structural unit derived from N-vinyl-pyrrolidone, and VA: structural unit derived from vinyl alcohol)</td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a graph showing a volume distribution weighted distribution particle size distribution curve of a composition for forming a coating layer of a separator according to an embodiment. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8. FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a particle size distribution curve of an inorganic material according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. In other words, referring to Table 1 and FIG. 5 , the separators including a bimodal system inorganic material according to Examples 1 to 6 and Reference Examples 1 and 2 had excellent adhesive strength to the substrate, and, particularly, the separators including 60 wt % or more of the second inorganic particles according to Examples 1 to 6 exhibited a greatly improved wet heat shrinkage rate, which is a heat shrinkage rate in an electrolyte solution, and also a greatly improved moisture content, and accordingly, heat resistance thereof in actual cells may also be expected to be greatly improved. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/4f/df/5e/7b0e701df8cc6d/US12230837-20250218-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a graph showing a volume distribution weighted distribution particle size distribution curve of a composition for forming a coating layer of a separator according to an embodiment. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8. FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a particle size distribution curve of an inorganic material according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. In other words, referring to Table 1 and FIG. 5 , the separators including a bimodal system inorganic material according to Examples 1 to 6 and Reference Examples 1 and 2 had excellent adhesive strength to the substrate, and, particularly, the separators including 60 wt % or more of the second inorganic particles according to Examples 1 to 6 exhibited a greatly improved wet heat shrinkage rate, which is a heat shrinkage rate in an electrolyte solution, and also a greatly improved moisture content, and accordingly, heat resistance thereof in actual cells may also be expected to be greatly improved. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/5c/c6/70/49650430cd4bfd/US12230837-20250218-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a graph showing a volume distribution weighted distribution particle size distribution curve of a composition for forming a coating layer of a separator according to an embodiment. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8. FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a particle size distribution curve of an inorganic material according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. In other words, referring to Table 1 and FIG. 5 , the separators including a bimodal system inorganic material according to Examples 1 to 6 and Reference Examples 1 and 2 had excellent adhesive strength to the substrate, and, particularly, the separators including 60 wt % or more of the second inorganic particles according to Examples 1 to 6 exhibited a greatly improved wet heat shrinkage rate, which is a heat shrinkage rate in an electrolyte solution, and also a greatly improved moisture content, and accordingly, heat resistance thereof in actual cells may also be expected to be greatly improved. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/44/54/16/6bf84918fcfd7b/US12230837-20250218-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a graph showing a volume distribution weighted distribution particle size distribution curve of a composition for forming a coating layer of a separator according to an embodiment. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8. FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a particle size distribution curve of an inorganic material according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. In other words, referring to Table 1 and FIG. 5 , the separators including a bimodal system inorganic material according to Examples 1 to 6 and Reference Examples 1 and 2 had excellent adhesive strength to the substrate, and, particularly, the separators including 60 wt % or more of the second inorganic particles according to Examples 1 to 6 exhibited a greatly improved wet heat shrinkage rate, which is a heat shrinkage rate in an electrolyte solution, and also a greatly improved moisture content, and accordingly, heat resistance thereof in actual cells may also be expected to be greatly improved. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/f2/9c/35/e43fc77d58feda/US12230837-20250218-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a graph showing a volume distribution weighted distribution particle size distribution curve of a composition for forming a coating layer of a separator according to an embodiment. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8. FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a particle size distribution curve of an inorganic material according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. In other words, referring to Table 1 and FIG. 5 , the separators including a bimodal system inorganic material according to Examples 1 to 6 and Reference Examples 1 and 2 had excellent adhesive strength to the substrate, and, particularly, the separators including 60 wt % or more of the second inorganic particles according to Examples 1 to 6 exhibited a greatly improved wet heat shrinkage rate, which is a heat shrinkage rate in an electrolyte solution, and also a greatly improved moisture content, and accordingly, heat resistance thereof in actual cells may also be expected to be greatly improved. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/ad/13/ea/2995240af770fe/US12230837-20250218-D00004.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a graph showing a volume distribution weighted distribution particle size distribution curve of a composition for forming a coating layer of a separator according to an embodiment. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8. FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. FIG. 2 is a SEM measurement result of inorganic materials in a separator according to an embodiment. FIG. 3 is a particle size distribution curve of an inorganic material according to an embodiment. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 5 is a graph showing wet heat shrinkage in a transverse direction (TD) according to the content of the second inorganic particles. In other words, referring to Table 1 and FIG. 5 , the separators including a bimodal system inorganic material according to Examples 1 to 6 and Reference Examples 1 and 2 had excellent adhesive strength to the substrate, and, particularly, the separators including 60 wt % or more of the second inorganic particles according to Examples 1 to 6 exhibited a greatly improved wet heat shrinkage rate, which is a heat shrinkage rate in an electrolyte solution, and also a greatly improved moisture content, and accordingly, heat resistance thereof in actual cells may also be expected to be greatly improved. FIG. 4 is a photograph showing a change result after wet shrinkage of the coated separator according to Comparative Examples 4 to 8.",
+      "kind": "figure",
+      "sheet": "6",
+      "url": "https://patentimages.storage.googleapis.com/fb/7d/d0/0c70fbfcc6b897/US12230837-20250218-D00005.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/67/37/c5/ce68e3ec58e715/US12230837.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"2aa0d9aa3226f7e17098d60b0a79b7a1\"",
+        "last_modified": "Wed, 19 Feb 2025 09:20:24 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/b59a132bbf022f8b8c4ac333635e5efd7e207d3ba8c323fb2e7485a679005793.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:27:02.617112+00:00",
+        "sha256": "b59a132bbf022f8b8c4ac333635e5efd7e207d3ba8c323fb2e7485a679005793",
+        "source": "patent_pdf",
+        "source_id": "24d30987555fd58f11371d166f5834a244bc35e8b8eee16fd5a6d2ee417b5c1b",
+        "url": "https://patentimages.storage.googleapis.com/67/37/c5/ce68e3ec58e715/US12230837.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US12230837B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/68d186dfe5f39f89a10295ae652384c0da988ea78c9de420f3a3817a4005f59a.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:27:01.787437+00:00",
+    "sha256": "68d186dfe5f39f89a10295ae652384c0da988ea78c9de420f3a3817a4005f59a",
+    "source": "patents",
+    "source_id": "301a42f0169e6d19f9ee5756b8f0a5f0315bf5a93ac50482cbbfeb6c52b50270",
+    "url": "https://patents.google.com/patent/US12230837B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "44da2515c98f754624fb69e82e89a3827a57cb52a6799d1ecb9b0ff5b92a626c",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "301a42f0169e6d19f9ee5756b8f0a5f0315bf5a93ac50482cbbfeb6c52b50270",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/68d186dfe5f39f89a10295ae652384c0da988ea78c9de420f3a3817a4005f59a.bin",
+      "source_id": "301a42f0169e6d19f9ee5756b8f0a5f0315bf5a93ac50482cbbfeb6c52b50270",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "68d186dfe5f39f89a10295ae652384c0da988ea78c9de420f3a3817a4005f59a",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US12230837B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

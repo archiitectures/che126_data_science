@@ -1,0 +1,740 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Rate of change in area %"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "99.2"
+        ],
+        [
+          "",
+          "Example 2",
+          "98.3"
+        ],
+        [
+          "",
+          "Example 3",
+          "99.1"
+        ],
+        [
+          "",
+          "Example 4",
+          "99.4"
+        ],
+        [
+          "",
+          "Example 5",
+          "98.5"
+        ],
+        [
+          "",
+          "Example 6",
+          "99.8"
+        ],
+        [
+          "",
+          "Example 7",
+          "98.1"
+        ],
+        [
+          "",
+          "Example 8",
+          "98.8"
+        ],
+        [
+          "",
+          "Example 9",
+          "98.7"
+        ],
+        [
+          "",
+          "Example 10",
+          "99.0"
+        ],
+        [
+          "",
+          "Comparative Example 1",
+          "87.1"
+        ],
+        [
+          "",
+          "Comparative Example 2",
+          "48.1"
+        ],
+        [
+          "",
+          "Comparative Example 3",
+          "59.2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\">TABLE 1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Rate of change in area %</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 1</td> <td class=\"description-td\">99.2</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 2</td> <td class=\"description-td\">98.3</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 3</td> <td class=\"description-td\">99.1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 4</td> <td class=\"description-td\">99.4</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 5</td> <td class=\"description-td\">98.5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 6</td> <td class=\"description-td\">99.8</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 7</td> <td class=\"description-td\">98.1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 8</td> <td class=\"description-td\">98.8</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 9</td> <td class=\"description-td\">98.7</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 10</td> <td class=\"description-td\">99.0</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 1</td> <td class=\"description-td\">87.1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 2</td> <td class=\"description-td\">48.1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 3</td> <td class=\"description-td\">59.2</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Ion conductance σ (S/cm)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "4.48E−04"
+        ],
+        [
+          "",
+          "Example 2",
+          "4.56E−04"
+        ],
+        [
+          "",
+          "Example 3",
+          "4.78E−04"
+        ],
+        [
+          "",
+          "Example 4",
+          "4.32E−04"
+        ],
+        [
+          "",
+          "Example 5",
+          "4.52E−04"
+        ],
+        [
+          "",
+          "Example 6",
+          "4.59E−04"
+        ],
+        [
+          "",
+          "Example 7",
+          "4.46E−04"
+        ],
+        [
+          "",
+          "Example 8",
+          "5.72E−04"
+        ],
+        [
+          "",
+          "Example 9",
+          "4.40E−04"
+        ],
+        [
+          "",
+          "Example 10",
+          "4.99E−04"
+        ],
+        [
+          "",
+          "Comparative Example 1",
+          "4.10E−04"
+        ],
+        [
+          "",
+          "Comparative Example 2",
+          "2.10E−04"
+        ],
+        [
+          "",
+          "Comparative Example 3",
+          "3.41E−04"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\">TABLE 2</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Ion conductance σ (S/cm)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 1</td> <td class=\"description-td\">4.48E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 2</td> <td class=\"description-td\">4.56E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 3</td> <td class=\"description-td\">4.78E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 4</td> <td class=\"description-td\">4.32E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 5</td> <td class=\"description-td\">4.52E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 6</td> <td class=\"description-td\">4.59E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 7</td> <td class=\"description-td\">4.46E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 8</td> <td class=\"description-td\">5.72E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 9</td> <td class=\"description-td\">4.40E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 10</td> <td class=\"description-td\">4.99E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 1</td> <td class=\"description-td\">4.10E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 2</td> <td class=\"description-td\">2.10E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 3</td> <td class=\"description-td\">3.41E−04</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Pressure at which short-"
+        ],
+        [
+          "",
+          "circuiting occurred (kg/cm 2 )"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "248"
+        ],
+        [
+          "",
+          "Example 2",
+          "269"
+        ],
+        [
+          "",
+          "Example 3",
+          "300 or more"
+        ],
+        [
+          "",
+          "Example 4",
+          "230"
+        ],
+        [
+          "",
+          "Example 5",
+          "226"
+        ],
+        [
+          "",
+          "Example 6",
+          "256"
+        ],
+        [
+          "",
+          "Example 7",
+          "247"
+        ],
+        [
+          "",
+          "Example 8",
+          "255"
+        ],
+        [
+          "",
+          "Example 9",
+          "296"
+        ],
+        [
+          "",
+          "Example 10",
+          "300 or more"
+        ],
+        [
+          "",
+          "Comparative Example 1",
+          "51"
+        ],
+        [
+          "",
+          "Comparative Example 2",
+          "187"
+        ],
+        [
+          "",
+          "Comparative Example 3",
+          "197"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\">TABLE 3</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Pressure at which short-</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">circuiting occurred (kg/cm<sup>2</sup>)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 1</td> <td class=\"description-td\">248</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 2</td> <td class=\"description-td\">269</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 3</td> <td class=\"description-td\">300 or more</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 4</td> <td class=\"description-td\">230</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 5</td> <td class=\"description-td\">226</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 6</td> <td class=\"description-td\">256</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 7</td> <td class=\"description-td\">247</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 8</td> <td class=\"description-td\">255</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 9</td> <td class=\"description-td\">296</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 10</td> <td class=\"description-td\">300 or more</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 1</td> <td class=\"description-td\"> 51</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 2</td> <td class=\"description-td\">187</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 3</td> <td class=\"description-td\">197</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Ion conductance σ (S/cm)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 11",
+          "7.10 × 10 −3"
+        ],
+        [
+          "",
+          "Example 12",
+          "3.12 × 10 −3"
+        ],
+        [
+          "",
+          "Example 13",
+          "4.18 × 10 −3"
+        ],
+        [
+          "",
+          "Example 14",
+          "8.12 × 10 −3"
+        ],
+        [
+          "",
+          "Example 15",
+          "7.24 × 10 −3"
+        ],
+        [
+          "",
+          "Example 16",
+          "5.02 × 10 −3"
+        ],
+        [
+          "",
+          "Example 17",
+          "5.55 × 10 −3"
+        ],
+        [
+          "",
+          "Example 18",
+          "6.56 × 10 −3"
+        ],
+        [
+          "",
+          "Example 19",
+          "5.45 × 10 −3"
+        ],
+        [
+          "",
+          "Example 20",
+          "4.61 × 10 −3"
+        ],
+        [
+          "",
+          "Comparative Example 4",
+          "6.12 × 10 −4"
+        ],
+        [
+          "",
+          "Comparative Example 5",
+          "4.89 × 10 −4"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\">TABLE 4</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Ion conductance σ (S/cm)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 11</td> <td class=\"description-td\">7.10 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 12</td> <td class=\"description-td\">3.12 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 13</td> <td class=\"description-td\">4.18 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 14</td> <td class=\"description-td\">8.12 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 15</td> <td class=\"description-td\">7.24 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 16</td> <td class=\"description-td\">5.02 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 17</td> <td class=\"description-td\">5.55 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 18</td> <td class=\"description-td\">6.56 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 19</td> <td class=\"description-td\">5.45 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 20</td> <td class=\"description-td\">4.61 × 10<sup>−3</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 4</td> <td class=\"description-td\">6.12 × 10<sup>−4</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 5</td> <td class=\"description-td\">4.89 × 10<sup>−4</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 5",
+          "TABLE 5"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Shutdown temperature (° C.)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 11",
+          "111"
+        ],
+        [
+          "",
+          "Example 12",
+          "115"
+        ],
+        [
+          "",
+          "Example 13",
+          "121"
+        ],
+        [
+          "",
+          "Example 14",
+          "116"
+        ],
+        [
+          "",
+          "Example 15",
+          "134"
+        ],
+        [
+          "",
+          "Example 16",
+          "137"
+        ],
+        [
+          "",
+          "Example 17",
+          "136"
+        ],
+        [
+          "",
+          "Example 18",
+          "112"
+        ],
+        [
+          "",
+          "Example 19",
+          "110"
+        ],
+        [
+          "",
+          "Example 20",
+          "111"
+        ],
+        [
+          "",
+          "Comparative Example 4",
+          "134"
+        ],
+        [
+          "",
+          "Comparative Example 5",
+          "144"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\">TABLE 5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Shutdown temperature (° C.)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 11</td> <td class=\"description-td\">111</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 12</td> <td class=\"description-td\">115</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 13</td> <td class=\"description-td\">121</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 14</td> <td class=\"description-td\">116</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 15</td> <td class=\"description-td\">134</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 16</td> <td class=\"description-td\">137</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 17</td> <td class=\"description-td\">136</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 18</td> <td class=\"description-td\">112</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 19</td> <td class=\"description-td\">110</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 20</td> <td class=\"description-td\">111</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 4</td> <td class=\"description-td\">134</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 5</td> <td class=\"description-td\">144</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 6",
+          "TABLE 6"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Rate of area reduction %"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 11",
+          "98"
+        ],
+        [
+          "",
+          "Example 12",
+          "98"
+        ],
+        [
+          "",
+          "Example 13",
+          "99"
+        ],
+        [
+          "",
+          "Example 14",
+          "98"
+        ],
+        [
+          "",
+          "Example 15",
+          "97"
+        ],
+        [
+          "",
+          "Example 16",
+          "97"
+        ],
+        [
+          "",
+          "Example 17",
+          "98"
+        ],
+        [
+          "",
+          "Example 18",
+          "98"
+        ],
+        [
+          "",
+          "Example 19",
+          "98"
+        ],
+        [
+          "",
+          "Example 20",
+          "98"
+        ],
+        [
+          "",
+          "Comparative Example 4",
+          "56"
+        ],
+        [
+          "",
+          "Comparative Example 5",
+          "45"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\">TABLE 6</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Rate of area reduction %</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 11</td> <td class=\"description-td\">98</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 12</td> <td class=\"description-td\">98</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 13</td> <td class=\"description-td\">99</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 14</td> <td class=\"description-td\">98</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 15</td> <td class=\"description-td\">97</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 16</td> <td class=\"description-td\">97</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 17</td> <td class=\"description-td\">98</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 18</td> <td class=\"description-td\">98</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 19</td> <td class=\"description-td\">98</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Example 20</td> <td class=\"description-td\">98</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 4</td> <td class=\"description-td\">56</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Comparative Example 5</td> <td class=\"description-td\">45</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section drawing illustrating an example of the electronic component separator proposed by the present invention. FIG. 2 is a drawing explaining the condition of through pores in the microporous resin film. FIG. 3 is a schematic section drawing illustrating an example of the microporous resin film used in the present invention. FIG. 4 is a schematic section drawing illustrating filler grains contained in the through pores in the microporous resin film. FIG. 5 is a schematic section drawing illustrating the electronic component separator obtained in Example 14 in conformance with the present invention. FIG. 6 is a schematic section drawing illustrating the electronic component separator obtained in Example 18 in conformance with the present invention. FIG. 7 is a schematic section drawing illustrating the electronic component separator obtained in Example 19 in conformance with the present invention. FIG. 8 is a schematic section drawing illustrating the electronic component separator obtained in Example 20 in conformance with the present invention. FIG. 2 explains through pores in a microporous resin film. FIG. 2A shows a top view of a microporous film, while FIG. 2B and FIG. 2C show a section view and an enlarged top view of the same film, respectively. In the present invention, the average diameter of through pores in the microporous resin film (a in FIG. 2C ) should preferably be 50 μm or less, or more preferably be in a range of 0.1 to 30 μm. If pore diameter a is less than 0.01 μm, ion conductance will be inhibited easily. If pore diameter a exceeds 50 μm, on the other hand, short-circuiting will occur easily even in a normal use environment of electronic components, even after the film has been joined with a porous structure as explained later. In the present invention, the average minimum distance between adjacent through pores in the microporous resin film (b in FIG. 2C ) should preferably be 100 μm or less, or more preferably be in a range of 0.1 to 50 μm. If filler grains are used as explained later, the relationship of minimum distance b between adjacent through pores and the primary average grain size of filler grains must be considered. In general, if average minimum distance b is less than 0.01 μm, the microporous resin film may break easily during the rolling process due to insufficient mechanical strength. If average minimum distance b exceeds 100 μm, the aforementioned problem of mechanical strength should not occur. However, if the diameters of through pores are small, ion conductance may drop. Next, examples of a separator that uses a microporous resin film as its porous base are explained using drawings. FIG. 1 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed on both top and bottom. FIG. 6 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed only on one side (refer to Example 14 presented later). In these figures, 1 , 1 a , 2 and 3 represent microporous resin film, through pore, filler grain and porous structure, respectively. In the electronic component separator proposed by the present invention, the aforementioned microporous resin film may be laminated in multiple layers. FIG. 3 is a schematic section drawing showing an example of a porous base that comprises two microporous resin films on which filler grains are attached. In the present invention, two or more microporous resin films can be arranged in such a way that their through pores do not connect directly in the vertical direction, as shown in FIG. 3 . This configuration prevents dendrite growth during overcharging or charge/discharge cycles without fail, at least in the solid resin part of the aforementioned microporous resin films. This also prevents short-circuiting in an early stage of charge/discharge cycles that may otherwise occur due to dendrite generation in lithium ion secondary batteries, lithium polymer secondary batteries and other electronic components using lithium metal. Also in the present invention, two or more microporous resin films to be stacked may have the same structure and through-pore phase, with the through pores in each film arranged in such a way that they connect in the direction vertical to the separator surface. Furthermore in the present invention, multiple porous bases of different structures can be stacked. Also, a separator contacting the positive electrode can be designed separately from a separator contacting the negative electrode and the two separators can be stacked together. If multiple microporous resin films are used, providing certain measures, such as forming an ion channel by placing filler grains between the multiple microporous resin films, as shown in FIG. 3 , will have a desirable effect on battery performance. By providing these filler grains as those made of polyolefin resins such as polyethylene, a shutdown effect can also be achieved.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/04/01/41/f26679c45c3a77/US20050208383A1-20050922-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section drawing illustrating an example of the electronic component separator proposed by the present invention. FIG. 2 is a drawing explaining the condition of through pores in the microporous resin film. FIG. 3 is a schematic section drawing illustrating an example of the microporous resin film used in the present invention. FIG. 4 is a schematic section drawing illustrating filler grains contained in the through pores in the microporous resin film. FIG. 5 is a schematic section drawing illustrating the electronic component separator obtained in Example 14 in conformance with the present invention. FIG. 6 is a schematic section drawing illustrating the electronic component separator obtained in Example 18 in conformance with the present invention. FIG. 7 is a schematic section drawing illustrating the electronic component separator obtained in Example 19 in conformance with the present invention. FIG. 8 is a schematic section drawing illustrating the electronic component separator obtained in Example 20 in conformance with the present invention. FIG. 2 explains through pores in a microporous resin film. FIG. 2A shows a top view of a microporous film, while FIG. 2B and FIG. 2C show a section view and an enlarged top view of the same film, respectively. In the present invention, the average diameter of through pores in the microporous resin film (a in FIG. 2C ) should preferably be 50 μm or less, or more preferably be in a range of 0.1 to 30 μm. If pore diameter a is less than 0.01 μm, ion conductance will be inhibited easily. If pore diameter a exceeds 50 μm, on the other hand, short-circuiting will occur easily even in a normal use environment of electronic components, even after the film has been joined with a porous structure as explained later. In the present invention, the average minimum distance between adjacent through pores in the microporous resin film (b in FIG. 2C ) should preferably be 100 μm or less, or more preferably be in a range of 0.1 to 50 μm. If filler grains are used as explained later, the relationship of minimum distance b between adjacent through pores and the primary average grain size of filler grains must be considered. In general, if average minimum distance b is less than 0.01 μm, the microporous resin film may break easily during the rolling process due to insufficient mechanical strength. If average minimum distance b exceeds 100 μm, the aforementioned problem of mechanical strength should not occur. However, if the diameters of through pores are small, ion conductance may drop. Next, examples of a separator that uses a microporous resin film as its porous base are explained using drawings. FIG. 1 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed on both top and bottom. FIG. 6 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed only on one side (refer to Example 14 presented later). In these figures, 1 , 1 a , 2 and 3 represent microporous resin film, through pore, filler grain and porous structure, respectively. In the electronic component separator proposed by the present invention, the aforementioned microporous resin film may be laminated in multiple layers. FIG. 3 is a schematic section drawing showing an example of a porous base that comprises two microporous resin films on which filler grains are attached. In the present invention, two or more microporous resin films can be arranged in such a way that their through pores do not connect directly in the vertical direction, as shown in FIG. 3 . This configuration prevents dendrite growth during overcharging or charge/discharge cycles without fail, at least in the solid resin part of the aforementioned microporous resin films. This also prevents short-circuiting in an early stage of charge/discharge cycles that may otherwise occur due to dendrite generation in lithium ion secondary batteries, lithium polymer secondary batteries and other electronic components using lithium metal. Also in the present invention, two or more microporous resin films to be stacked may have the same structure and through-pore phase, with the through pores in each film arranged in such a way that they connect in the direction vertical to the separator surface. Furthermore in the present invention, multiple porous bases of different structures can be stacked. Also, a separator contacting the positive electrode can be designed separately from a separator contacting the negative electrode and the two separators can be stacked together. If multiple microporous resin films are used, providing certain measures, such as forming an ion channel by placing filler grains between the multiple microporous resin films, as shown in FIG. 3 , will have a desirable effect on battery performance. By providing these filler grains as those made of polyolefin resins such as polyethylene, a shutdown effect can also be achieved.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/50/47/61/b3f2507f74a0af/US20050208383A1-20050922-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section drawing illustrating an example of the electronic component separator proposed by the present invention. FIG. 2 is a drawing explaining the condition of through pores in the microporous resin film. FIG. 3 is a schematic section drawing illustrating an example of the microporous resin film used in the present invention. FIG. 4 is a schematic section drawing illustrating filler grains contained in the through pores in the microporous resin film. FIG. 5 is a schematic section drawing illustrating the electronic component separator obtained in Example 14 in conformance with the present invention. FIG. 6 is a schematic section drawing illustrating the electronic component separator obtained in Example 18 in conformance with the present invention. FIG. 7 is a schematic section drawing illustrating the electronic component separator obtained in Example 19 in conformance with the present invention. FIG. 8 is a schematic section drawing illustrating the electronic component separator obtained in Example 20 in conformance with the present invention. FIG. 2 explains through pores in a microporous resin film. FIG. 2A shows a top view of a microporous film, while FIG. 2B and FIG. 2C show a section view and an enlarged top view of the same film, respectively. In the present invention, the average diameter of through pores in the microporous resin film (a in FIG. 2C ) should preferably be 50 μm or less, or more preferably be in a range of 0.1 to 30 μm. If pore diameter a is less than 0.01 μm, ion conductance will be inhibited easily. If pore diameter a exceeds 50 μm, on the other hand, short-circuiting will occur easily even in a normal use environment of electronic components, even after the film has been joined with a porous structure as explained later. In the present invention, the average minimum distance between adjacent through pores in the microporous resin film (b in FIG. 2C ) should preferably be 100 μm or less, or more preferably be in a range of 0.1 to 50 μm. If filler grains are used as explained later, the relationship of minimum distance b between adjacent through pores and the primary average grain size of filler grains must be considered. In general, if average minimum distance b is less than 0.01 μm, the microporous resin film may break easily during the rolling process due to insufficient mechanical strength. If average minimum distance b exceeds 100 μm, the aforementioned problem of mechanical strength should not occur. However, if the diameters of through pores are small, ion conductance may drop. Next, examples of a separator that uses a microporous resin film as its porous base are explained using drawings. FIG. 1 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed on both top and bottom. FIG. 6 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed only on one side (refer to Example 14 presented later). In these figures, 1 , 1 a , 2 and 3 represent microporous resin film, through pore, filler grain and porous structure, respectively. In the electronic component separator proposed by the present invention, the aforementioned microporous resin film may be laminated in multiple layers. FIG. 3 is a schematic section drawing showing an example of a porous base that comprises two microporous resin films on which filler grains are attached. In the present invention, two or more microporous resin films can be arranged in such a way that their through pores do not connect directly in the vertical direction, as shown in FIG. 3 . This configuration prevents dendrite growth during overcharging or charge/discharge cycles without fail, at least in the solid resin part of the aforementioned microporous resin films. This also prevents short-circuiting in an early stage of charge/discharge cycles that may otherwise occur due to dendrite generation in lithium ion secondary batteries, lithium polymer secondary batteries and other electronic components using lithium metal. Also in the present invention, two or more microporous resin films to be stacked may have the same structure and through-pore phase, with the through pores in each film arranged in such a way that they connect in the direction vertical to the separator surface. Furthermore in the present invention, multiple porous bases of different structures can be stacked. Also, a separator contacting the positive electrode can be designed separately from a separator contacting the negative electrode and the two separators can be stacked together. If multiple microporous resin films are used, providing certain measures, such as forming an ion channel by placing filler grains between the multiple microporous resin films, as shown in FIG. 3 , will have a desirable effect on battery performance. By providing these filler grains as those made of polyolefin resins such as polyethylene, a shutdown effect can also be achieved.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/44/96/36/5a88dcd9f2eeb5/US20050208383A1-20050922-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic section drawing illustrating an example of the electronic component separator proposed by the present invention. FIG. 2 is a drawing explaining the condition of through pores in the microporous resin film. FIG. 3 is a schematic section drawing illustrating an example of the microporous resin film used in the present invention. FIG. 4 is a schematic section drawing illustrating filler grains contained in the through pores in the microporous resin film. FIG. 5 is a schematic section drawing illustrating the electronic component separator obtained in Example 14 in conformance with the present invention. FIG. 6 is a schematic section drawing illustrating the electronic component separator obtained in Example 18 in conformance with the present invention. FIG. 7 is a schematic section drawing illustrating the electronic component separator obtained in Example 19 in conformance with the present invention. FIG. 8 is a schematic section drawing illustrating the electronic component separator obtained in Example 20 in conformance with the present invention. FIG. 2 explains through pores in a microporous resin film. FIG. 2A shows a top view of a microporous film, while FIG. 2B and FIG. 2C show a section view and an enlarged top view of the same film, respectively. In the present invention, the average diameter of through pores in the microporous resin film (a in FIG. 2C ) should preferably be 50 μm or less, or more preferably be in a range of 0.1 to 30 μm. If pore diameter a is less than 0.01 μm, ion conductance will be inhibited easily. If pore diameter a exceeds 50 μm, on the other hand, short-circuiting will occur easily even in a normal use environment of electronic components, even after the film has been joined with a porous structure as explained later. In the present invention, the average minimum distance between adjacent through pores in the microporous resin film (b in FIG. 2C ) should preferably be 100 μm or less, or more preferably be in a range of 0.1 to 50 μm. If filler grains are used as explained later, the relationship of minimum distance b between adjacent through pores and the primary average grain size of filler grains must be considered. In general, if average minimum distance b is less than 0.01 μm, the microporous resin film may break easily during the rolling process due to insufficient mechanical strength. If average minimum distance b exceeds 100 μm, the aforementioned problem of mechanical strength should not occur. However, if the diameters of through pores are small, ion conductance may drop. Next, examples of a separator that uses a microporous resin film as its porous base are explained using drawings. FIG. 1 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed on both top and bottom. FIG. 6 is a schematic section drawing of a microporous resin film with a porous film comprising a porous structure formed only on one side (refer to Example 14 presented later). In these figures, 1 , 1 a , 2 and 3 represent microporous resin film, through pore, filler grain and porous structure, respectively. In the electronic component separator proposed by the present invention, the aforementioned microporous resin film may be laminated in multiple layers. FIG. 3 is a schematic section drawing showing an example of a porous base that comprises two microporous resin films on which filler grains are attached. In the present invention, two or more microporous resin films can be arranged in such a way that their through pores do not connect directly in the vertical direction, as shown in FIG. 3 . This configuration prevents dendrite growth during overcharging or charge/discharge cycles without fail, at least in the solid resin part of the aforementioned microporous resin films. This also prevents short-circuiting in an early stage of charge/discharge cycles that may otherwise occur due to dendrite generation in lithium ion secondary batteries, lithium polymer secondary batteries and other electronic components using lithium metal. Also in the present invention, two or more microporous resin films to be stacked may have the same structure and through-pore phase, with the through pores in each film arranged in such a way that they connect in the direction vertical to the separator surface. Furthermore in the present invention, multiple porous bases of different structures can be stacked. Also, a separator contacting the positive electrode can be designed separately from a separator contacting the negative electrode and the two separators can be stacked together. If multiple microporous resin films are used, providing certain measures, such as forming an ion channel by placing filler grains between the multiple microporous resin films, as shown in FIG. 3 , will have a desirable effect on battery performance. By providing these filler grains as those made of polyolefin resins such as polyethylene, a shutdown effect can also be achieved.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/ca/e9/26/b78c3e522ff5d1/US20050208383A1-20050922-D00003.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/0e/b4/1a/0d60908152ef0a/US20050208383A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20050208383A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/821635e2c6fc9bacc59ad36c0ad3041af658cf200fc9bab6c6d876b9a75e9ec8.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:14:50.537317+00:00",
+    "sha256": "821635e2c6fc9bacc59ad36c0ad3041af658cf200fc9bab6c6d876b9a75e9ec8",
+    "source": "patents",
+    "source_id": "fcd8079deeef97f694a6b89cae9a38ccc9ff6e891bdc8884a02856718cbb8047",
+    "url": "https://patents.google.com/patent/US20050208383A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "70564615f9b91667fa891f93caf9be92be684534d36cd48ea429877e144378c3",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "fcd8079deeef97f694a6b89cae9a38ccc9ff6e891bdc8884a02856718cbb8047",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/821635e2c6fc9bacc59ad36c0ad3041af658cf200fc9bab6c6d876b9a75e9ec8.bin",
+      "source_id": "fcd8079deeef97f694a6b89cae9a38ccc9ff6e891bdc8884a02856718cbb8047",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "821635e2c6fc9bacc59ad36c0ad3041af658cf200fc9bab6c6d876b9a75e9ec8",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20050208383A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

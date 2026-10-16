@@ -1,0 +1,97 @@
+{
+  "artifacts": [
+    {
+      "caption": "Separator oxidation can be seen. FIG. 1 is a photograph of the magnified image of an oxidized separator. The separator is a microporous polyethylene membrane made by a ‘wet’ or ‘phase inversion’ process. This separator was recovered from a fully charged cell that had been stored in an oven (85° C.) for three days. The dark areas are the oxidized areas. FIG. 2 is a schematic illustration of the cross section of the membrane shown in FIG. 1 . It is believed that these dark areas have less physical and chemical strength. Poor mechanical strength can lead to shorts and thus battery failure. FIG. 1 is a photograph of an oxidized separator. FIG. 2 is a schematic illustration of the cross section of the separator shown in FIG. 1 .",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/e9/b5/7a/6d613970c76e7f/US20070072068A1-20070329-D00000.png"
+    },
+    {
+      "caption": "Separator oxidation can be seen. FIG. 1 is a photograph of the magnified image of an oxidized separator. The separator is a microporous polyethylene membrane made by a ‘wet’ or ‘phase inversion’ process. This separator was recovered from a fully charged cell that had been stored in an oven (85° C.) for three days. The dark areas are the oxidized areas. FIG. 2 is a schematic illustration of the cross section of the membrane shown in FIG. 1 . It is believed that these dark areas have less physical and chemical strength. Poor mechanical strength can lead to shorts and thus battery failure. FIG. 1 is a photograph of an oxidized separator. FIG. 2 is a schematic illustration of the cross section of the separator shown in FIG. 1 .",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/5a/af/1c/9b4d0faf1eaad2/US20070072068A1-20070329-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/d9/23/ba/5ffe9d5e4cd6ab/US20070072068A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20070072068A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/a3a11769dfd858f7fe119d46098d414a84f857232d757247d0cbc52d8c70a662.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:31.476104+00:00",
+    "sha256": "a3a11769dfd858f7fe119d46098d414a84f857232d757247d0cbc52d8c70a662",
+    "source": "patents",
+    "source_id": "790e22efc1b3328bd1365ca469560d699084a3532b6653d1a8a2ea32d630461b",
+    "url": "https://patents.google.com/patent/US20070072068A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "3204515e71dcb9b064d0dfc161849ca388e8d2c51927b8a89120d5d9264dc1e0",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "790e22efc1b3328bd1365ca469560d699084a3532b6653d1a8a2ea32d630461b",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/a3a11769dfd858f7fe119d46098d414a84f857232d757247d0cbc52d8c70a662.bin",
+      "source_id": "790e22efc1b3328bd1365ca469560d699084a3532b6653d1a8a2ea32d630461b",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "a3a11769dfd858f7fe119d46098d414a84f857232d757247d0cbc52d8c70a662",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20070072068A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

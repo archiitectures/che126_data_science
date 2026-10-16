@@ -1,0 +1,460 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Air",
+          "",
+          "",
+          "",
+          "Electrical"
+        ],
+        [
+          "Sample",
+          "permeability",
+          "Porosity",
+          "Thickness",
+          "Weight",
+          "resistance"
+        ],
+        [
+          "(separator)",
+          "(s/100 cc)",
+          "(%)",
+          "(μm)",
+          "(g/m 2 )",
+          "(ER, Ω)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "A",
+          "121",
+          "48",
+          "11",
+          "5.0",
+          "0.38"
+        ],
+        [
+          "B",
+          "81",
+          "48",
+          "11",
+          "4.9",
+          "0.32"
+        ],
+        [
+          "C",
+          "150",
+          "41",
+          "11",
+          "5.7",
+          "0.42"
+        ],
+        [
+          "D",
+          "244",
+          "45",
+          "11",
+          "7.0",
+          "0.84"
+        ],
+        [
+          "E",
+          "153",
+          "41",
+          "11",
+          "7.0",
+          "0.61"
+        ],
+        [
+          "F",
+          "115",
+          "45",
+          "19",
+          "10.0",
+          "0.40"
+        ],
+        [
+          "G",
+          "109",
+          "46",
+          "11",
+          "5.0",
+          "0.36"
+        ],
+        [
+          "H",
+          "137",
+          "40",
+          "19",
+          "8.0",
+          "0.43"
+        ],
+        [
+          "I",
+          "202",
+          "44",
+          "11",
+          "6.9",
+          "0.78"
+        ],
+        [
+          "J",
+          "161",
+          "46",
+          "11",
+          "5.2",
+          "0.40"
+        ],
+        [
+          "K",
+          "220",
+          "45",
+          "11",
+          "4.9",
+          "0.49"
+        ],
+        [
+          "L",
+          "180",
+          "43",
+          "11",
+          "5.1",
+          "0.44"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Electrical</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Sample</td>\n<td class=\"description-td\">permeability</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">resistance</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(separator)</td>\n<td class=\"description-td\">(s/100 cc)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(g/m<sup>2</sup>)</td>\n<td class=\"description-td\">(ER, Ω)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">121</td>\n<td class=\"description-td\">48</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">5.0</td>\n<td class=\"description-td\">0.38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">81</td>\n<td class=\"description-td\">48</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">0.32</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US12055524-20240806-D00002.png,US12055524-20240806-D00003.png\" id=\"150\" label=\"C\" state=\"{{state}}\">C</figure-callout> </td>\n<td class=\"description-td\">150</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">5.7</td>\n<td class=\"description-td\">0.42</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">D</td>\n<td class=\"description-td\">244</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">7.0</td>\n<td class=\"description-td\">0.84</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">E</td>\n<td class=\"description-td\">153</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">7.0</td>\n<td class=\"description-td\">0.61</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">F</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">10.0</td>\n<td class=\"description-td\">0.40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">G</td>\n<td class=\"description-td\">109</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">5.0</td>\n<td class=\"description-td\">0.36</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">H</td>\n<td class=\"description-td\">137</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">8.0</td>\n<td class=\"description-td\">0.43</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">I</td>\n<td class=\"description-td\">202</td>\n<td class=\"description-td\">44</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">6.9</td>\n<td class=\"description-td\">0.78</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">J</td>\n<td class=\"description-td\">161</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">5.2</td>\n<td class=\"description-td\">0.40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">K</td>\n<td class=\"description-td\">220</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">0.49</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US12055524-20240806-D00002.png\" id=\"180\" label=\"L\" state=\"{{state}}\">L</figure-callout> </td>\n<td class=\"description-td\">180</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">5.1</td>\n<td class=\"description-td\">0.44</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Breaking",
+          "Shrink-",
+          "Breaking",
+          "Elongation",
+          "Nail"
+        ],
+        [
+          "Sam-",
+          "temperature",
+          "age",
+          "load",
+          "at break",
+          "penetration"
+        ],
+        [
+          "ple",
+          "(° C.)",
+          "(%)",
+          "(N)",
+          "(%)",
+          "test"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "A",
+          "185.1",
+          "60.5",
+          "0.011",
+          "0.88",
+          "Ignition (fail)"
+        ],
+        [
+          "B",
+          "203.9",
+          "57",
+          "0.027",
+          "2.17",
+          "No ignition (pass)"
+        ],
+        [
+          "C",
+          "146.2",
+          "59.5",
+          "0.0067",
+          "0.62",
+          "Ignition (fail)"
+        ],
+        [
+          "D",
+          "Not",
+          "50.7",
+          "0.082",
+          "7.03",
+          "No ignition (pass)"
+        ],
+        [
+          "",
+          "broken"
+        ],
+        [
+          "E",
+          "161.3",
+          "68.4",
+          "0.0079",
+          "0.56",
+          "Ignition (fail)"
+        ],
+        [
+          "F",
+          "Not",
+          "2.5",
+          "0.25",
+          "Not",
+          "No ignition (pass)"
+        ],
+        [
+          "",
+          "broken",
+          "",
+          "",
+          "broken"
+        ],
+        [
+          "G",
+          "169.7",
+          "59.4",
+          "0.0086",
+          "0.73",
+          "Ignition (fail)"
+        ],
+        [
+          "H",
+          "Not",
+          "8.4",
+          "0.10",
+          "8.10",
+          "No ignition (pass)"
+        ],
+        [
+          "",
+          "broken"
+        ],
+        [
+          "I",
+          "187.8",
+          "46.0",
+          "0.013",
+          "0.84",
+          "Ignition (fail)"
+        ],
+        [
+          "J",
+          "227.2",
+          "48.6",
+          "0.039",
+          "3.42",
+          "No ignition (pass)"
+        ],
+        [
+          "K",
+          "204.5",
+          "65.1",
+          "0.030",
+          "0.52",
+          "Ignition (fail)"
+        ],
+        [
+          "L",
+          "181.1",
+          "52.2",
+          "0.009",
+          "2.41",
+          "Ignition (fail)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Breaking</td>\n<td class=\"description-td\">Shrink-</td>\n<td class=\"description-td\">Breaking</td>\n<td class=\"description-td\">Elongation</td>\n<td class=\"description-td\">Nail</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Sam-</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">age</td>\n<td class=\"description-td\">load</td>\n<td class=\"description-td\">at break</td>\n<td class=\"description-td\">penetration</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">ple</td>\n<td class=\"description-td\">(° C.)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(N)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">test</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">185.1</td>\n<td class=\"description-td\">60.5</td>\n<td class=\"description-td\">0.011</td>\n<td class=\"description-td\">0.88</td>\n<td class=\"description-td\">Ignition (fail)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">203.9</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">0.027</td>\n<td class=\"description-td\">2.17</td>\n<td class=\"description-td\">No ignition (pass)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">C</td>\n<td class=\"description-td\">146.2</td>\n<td class=\"description-td\">59.5</td>\n<td class=\"description-td\">0.0067</td>\n<td class=\"description-td\">0.62</td>\n<td class=\"description-td\">Ignition (fail)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">D</td>\n<td class=\"description-td\">Not</td>\n<td class=\"description-td\">50.7</td>\n<td class=\"description-td\">0.082</td>\n<td class=\"description-td\">7.03</td>\n<td class=\"description-td\">No ignition (pass)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">broken</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">E</td>\n<td class=\"description-td\">161.3</td>\n<td class=\"description-td\">68.4</td>\n<td class=\"description-td\">0.0079</td>\n<td class=\"description-td\">0.56</td>\n<td class=\"description-td\">Ignition (fail)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">F</td>\n<td class=\"description-td\">Not</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">0.25</td>\n<td class=\"description-td\">Not</td>\n<td class=\"description-td\">No ignition (pass)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">broken</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">broken</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">G</td>\n<td class=\"description-td\">169.7</td>\n<td class=\"description-td\">59.4</td>\n<td class=\"description-td\">0.0086</td>\n<td class=\"description-td\">0.73</td>\n<td class=\"description-td\">Ignition (fail)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">H</td>\n<td class=\"description-td\">Not</td>\n<td class=\"description-td\">8.4</td>\n<td class=\"description-td\">0.10</td>\n<td class=\"description-td\">8.10</td>\n<td class=\"description-td\">No ignition (pass)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">broken</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">I</td>\n<td class=\"description-td\">187.8</td>\n<td class=\"description-td\">46.0</td>\n<td class=\"description-td\">0.013</td>\n<td class=\"description-td\">0.84</td>\n<td class=\"description-td\">Ignition (fail)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">J</td>\n<td class=\"description-td\">227.2</td>\n<td class=\"description-td\">48.6</td>\n<td class=\"description-td\">0.039</td>\n<td class=\"description-td\">3.42</td>\n<td class=\"description-td\">No ignition (pass)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">K</td>\n<td class=\"description-td\">204.5</td>\n<td class=\"description-td\">65.1</td>\n<td class=\"description-td\">0.030</td>\n<td class=\"description-td\">0.52</td>\n<td class=\"description-td\">Ignition (fail)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">L</td>\n<td class=\"description-td\">181.1</td>\n<td class=\"description-td\">52.2</td>\n<td class=\"description-td\">0.009</td>\n<td class=\"description-td\">2.41</td>\n<td class=\"description-td\">Ignition (fail)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. In addition, the temperature at which point the separator sample is elongated may be determined by the temperature at which point the deformation of the separator sample is increased by 10% or more in the positive (+) direction within a temperature change of 5° C. in a graph (see, FIG. 2 ) illustrating deformation as a function of temperature in dynamic mechanical analysis (DMA). FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. Referring to FIG. 1 , the load and elongation at break mean those at the point where a separator having a predetermined dimension is not deformed any longer but is broken while the load applied thereto is increased to cause deformation of the length of the separator. Each of the separators according to Samples A-L was evaluated for breaking temperature. The results are shown in the following Table 2. In addition, FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. Each of the separators according to Samples A-L was evaluated for shrinkage. The results are shown in the following Table 2. In addition, FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. Each of the separators according to Samples A-L was evaluated for breaking load and elongation at break. The results are shown in the following Table 2. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. Although Samples F, H and D were not broken when determining the breaking temperature, the breaking temperature is shown at 350° C. in FIG. 3 . This is not an actual breaking temperature. However, since the breaking temperature was evaluated within a temperature ranging from 25° C. to 350° C. and Samples F, H and D were not broken at the highest temperature of 350° C., the breaking temperature is shown simply at 350° C. In addition, FIG. 4 shows the results of evaluation of breaking load and elongation at break. Referring to FIG. 4 , although Samples B, J, D, H and F passed the nail penetration test, only Sample F was not broken in the evaluation of breaking load and elongation at break and the remaining Samples B, J, D and H were broken. Referring to FIG. 4 with reference to Samples B, J, D and H broken in the same manner, Samples H, D, J and B show a higher breaking load and elongation at break in the order named. This particularly suggests that Samples H, D, J and B have relatively higher stability in the order named.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/72/a6/a1/d366feedf67c69/US12055524-20240806-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. In addition, the temperature at which point the separator sample is elongated may be determined by the temperature at which point the deformation of the separator sample is increased by 10% or more in the positive (+) direction within a temperature change of 5° C. in a graph (see, FIG. 2 ) illustrating deformation as a function of temperature in dynamic mechanical analysis (DMA). FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. Referring to FIG. 1 , the load and elongation at break mean those at the point where a separator having a predetermined dimension is not deformed any longer but is broken while the load applied thereto is increased to cause deformation of the length of the separator. Each of the separators according to Samples A-L was evaluated for breaking temperature. The results are shown in the following Table 2. In addition, FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. Each of the separators according to Samples A-L was evaluated for shrinkage. The results are shown in the following Table 2. In addition, FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. Each of the separators according to Samples A-L was evaluated for breaking load and elongation at break. The results are shown in the following Table 2. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. Although Samples F, H and D were not broken when determining the breaking temperature, the breaking temperature is shown at 350° C. in FIG. 3 . This is not an actual breaking temperature. However, since the breaking temperature was evaluated within a temperature ranging from 25° C. to 350° C. and Samples F, H and D were not broken at the highest temperature of 350° C., the breaking temperature is shown simply at 350° C. In addition, FIG. 4 shows the results of evaluation of breaking load and elongation at break. Referring to FIG. 4 , although Samples B, J, D, H and F passed the nail penetration test, only Sample F was not broken in the evaluation of breaking load and elongation at break and the remaining Samples B, J, D and H were broken. Referring to FIG. 4 with reference to Samples B, J, D and H broken in the same manner, Samples H, D, J and B show a higher breaking load and elongation at break in the order named. This particularly suggests that Samples H, D, J and B have relatively higher stability in the order named.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/4a/67/58/bc29df84c259a8/US12055524-20240806-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. In addition, the temperature at which point the separator sample is elongated may be determined by the temperature at which point the deformation of the separator sample is increased by 10% or more in the positive (+) direction within a temperature change of 5° C. in a graph (see, FIG. 2 ) illustrating deformation as a function of temperature in dynamic mechanical analysis (DMA). FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. Referring to FIG. 1 , the load and elongation at break mean those at the point where a separator having a predetermined dimension is not deformed any longer but is broken while the load applied thereto is increased to cause deformation of the length of the separator. Each of the separators according to Samples A-L was evaluated for breaking temperature. The results are shown in the following Table 2. In addition, FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. Each of the separators according to Samples A-L was evaluated for shrinkage. The results are shown in the following Table 2. In addition, FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. Each of the separators according to Samples A-L was evaluated for breaking load and elongation at break. The results are shown in the following Table 2. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. Although Samples F, H and D were not broken when determining the breaking temperature, the breaking temperature is shown at 350° C. in FIG. 3 . This is not an actual breaking temperature. However, since the breaking temperature was evaluated within a temperature ranging from 25° C. to 350° C. and Samples F, H and D were not broken at the highest temperature of 350° C., the breaking temperature is shown simply at 350° C. In addition, FIG. 4 shows the results of evaluation of breaking load and elongation at break. Referring to FIG. 4 , although Samples B, J, D, H and F passed the nail penetration test, only Sample F was not broken in the evaluation of breaking load and elongation at break and the remaining Samples B, J, D and H were broken. Referring to FIG. 4 with reference to Samples B, J, D and H broken in the same manner, Samples H, D, J and B show a higher breaking load and elongation at break in the order named. This particularly suggests that Samples H, D, J and B have relatively higher stability in the order named.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/01/13/b1/4f6a98ad7ed596/US12055524-20240806-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. In addition, the temperature at which point the separator sample is elongated may be determined by the temperature at which point the deformation of the separator sample is increased by 10% or more in the positive (+) direction within a temperature change of 5° C. in a graph (see, FIG. 2 ) illustrating deformation as a function of temperature in dynamic mechanical analysis (DMA). FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. Referring to FIG. 1 , the load and elongation at break mean those at the point where a separator having a predetermined dimension is not deformed any longer but is broken while the load applied thereto is increased to cause deformation of the length of the separator. Each of the separators according to Samples A-L was evaluated for breaking temperature. The results are shown in the following Table 2. In addition, FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. Each of the separators according to Samples A-L was evaluated for shrinkage. The results are shown in the following Table 2. In addition, FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. Each of the separators according to Samples A-L was evaluated for breaking load and elongation at break. The results are shown in the following Table 2. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. Although Samples F, H and D were not broken when determining the breaking temperature, the breaking temperature is shown at 350° C. in FIG. 3 . This is not an actual breaking temperature. However, since the breaking temperature was evaluated within a temperature ranging from 25° C. to 350° C. and Samples F, H and D were not broken at the highest temperature of 350° C., the breaking temperature is shown simply at 350° C. In addition, FIG. 4 shows the results of evaluation of breaking load and elongation at break. Referring to FIG. 4 , although Samples B, J, D, H and F passed the nail penetration test, only Sample F was not broken in the evaluation of breaking load and elongation at break and the remaining Samples B, J, D and H were broken. Referring to FIG. 4 with reference to Samples B, J, D and H broken in the same manner, Samples H, D, J and B show a higher breaking load and elongation at break in the order named. This particularly suggests that Samples H, D, J and B have relatively higher stability in the order named.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/42/bb/f1/bb5276ebba9e35/US12055524-20240806-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. In addition, the temperature at which point the separator sample is elongated may be determined by the temperature at which point the deformation of the separator sample is increased by 10% or more in the positive (+) direction within a temperature change of 5° C. in a graph (see, FIG. 2 ) illustrating deformation as a function of temperature in dynamic mechanical analysis (DMA). FIG. 1 is a graph illustrating deformation and static load during a break-off test of a separator. Referring to FIG. 1 , the load and elongation at break mean those at the point where a separator having a predetermined dimension is not deformed any longer but is broken while the load applied thereto is increased to cause deformation of the length of the separator. Each of the separators according to Samples A-L was evaluated for breaking temperature. The results are shown in the following Table 2. In addition, FIG. 2 is a graph illustrating a change in deformation of the separators of Samples A-F as a function of temperature. Each of the separators according to Samples A-L was evaluated for shrinkage. The results are shown in the following Table 2. In addition, FIG. 3 is a graph illustrating the shrinkage and breaking temperature of the separators of Samples A-L. Each of the separators according to Samples A-L was evaluated for breaking load and elongation at break. The results are shown in the following Table 2. FIG. 4 is a graph illustrating the breaking load and elongation at break of the separators of Samples A-L. Although Samples F, H and D were not broken when determining the breaking temperature, the breaking temperature is shown at 350° C. in FIG. 3 . This is not an actual breaking temperature. However, since the breaking temperature was evaluated within a temperature ranging from 25° C. to 350° C. and Samples F, H and D were not broken at the highest temperature of 350° C., the breaking temperature is shown simply at 350° C. In addition, FIG. 4 shows the results of evaluation of breaking load and elongation at break. Referring to FIG. 4 , although Samples B, J, D, H and F passed the nail penetration test, only Sample F was not broken in the evaluation of breaking load and elongation at break and the remaining Samples B, J, D and H were broken. Referring to FIG. 4 with reference to Samples B, J, D and H broken in the same manner, Samples H, D, J and B show a higher breaking load and elongation at break in the order named. This particularly suggests that Samples H, D, J and B have relatively higher stability in the order named.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/d0/eb/86/2aa1a4d4f78f28/US12055524-20240806-D00004.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/04/f2/71/e6bcd46b18ce32/US12055524.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US12055524B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/bf9a3e38f6d5cab3cf03c40339aaad926ad3a9959c833f824fdff3ac0a5adf38.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:14:34.780962+00:00",
+    "sha256": "bf9a3e38f6d5cab3cf03c40339aaad926ad3a9959c833f824fdff3ac0a5adf38",
+    "source": "patents",
+    "source_id": "a7e7cc4cdebc6d972bc0dea03e53f66df8ce04a33e7cfbefd62fd2826d480d08",
+    "url": "https://patents.google.com/patent/US12055524B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "18aac077f719d4a518deb4b6979254d0a9c9b0076b99062fdb6e11934ffd2050",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "a7e7cc4cdebc6d972bc0dea03e53f66df8ce04a33e7cfbefd62fd2826d480d08",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/bf9a3e38f6d5cab3cf03c40339aaad926ad3a9959c833f824fdff3ac0a5adf38.bin",
+      "source_id": "a7e7cc4cdebc6d972bc0dea03e53f66df8ce04a33e7cfbefd62fd2826d480d08",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "bf9a3e38f6d5cab3cf03c40339aaad926ad3a9959c833f824fdff3ac0a5adf38",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US12055524B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

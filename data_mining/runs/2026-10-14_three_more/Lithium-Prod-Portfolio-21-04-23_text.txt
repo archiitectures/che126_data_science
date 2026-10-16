@@ -1,0 +1,131 @@
+SEPARATOR PRODUCT PORTFOLIO
+ENTEK Membranes LLC offers a 
+broad portfolio of separators for 
+Li-primary, Li-metal, and 
+Li-ion battery manufacturers, as 
+well as a customised separator 
+solutions service. 2
+EP
+EPH
+ENTEK manufactures biaxially oriented, polyethylene separators using a unique wet process.   
+These separators are largely composed of ultrahigh molecular weight polyethylene (UHMWPE), 
+which provides outstanding melt integrity.  They are manufactured commercially in thicknesses 
+ranging from 5-20 µm with porosities from 40-65%.   Where battery manufacturers demand ultra-
+low impedance, ENTEK offers a ceramic-filled separator.  
+Our EP , EPH, and EPX series of separators are manufactured using unique processing technology 
+to achieve a broad range of desired performance.
+  EP -  traditional separator used in Li primary and Li-ion cells
+  EPH - separator choice for higher power applications 
+  EPX -  base material used for coated separators
+    CF  -  ceramic filled separator for rechargeable Li metal batteries   
+Property Units 5EP 7EP 9EP 12EP 16EP 20EP
+Nominal Thickness µm 5 7 9 12 16 20
+Basis Weight g/m2 2.9 4.0 5.0 6.5 9.0 11.0
+Nominal Porosity % 44 44 44 44 44 44
+Air Permeability sec/100 ml 110 105 140 145 245 275
+Puncture Resistance g 170 215 260 300 455 540
+Tensile Strength kg/cm2
+MD ≥ 1500 ≥ 1200 ≥ 1300 ≥ 1000 ≥ 1000 ≥ 1100
+TD ≥ 1100 ≥ 700 ≥ 900  ≥ 900 ≥ 900 ≥ 900
+Tensile Elongation %
+MD 30 40 55 115 70 90
+TD 140 165 280 280 250 245
+Thermal Shrinkage 
+@120C, 1 hr %
+MD 10.0 10.0 10.0 11.0 11.0 11.0
+TD 1.0 3.5 4.5 2.0 2.0 3.0
+Property Units 9EPH 12EPH 16EPH
+Nominal Thickness µm 9 12 16
+Basis Weight g/m2 4.6 6.2 8.1
+Nominal Porosity % 48 48 48
+Air Permeability sec/100 ml 75 95 125
+Puncture Resistance g 255 315 375
+Tensile Strength kg/cm2
+MD ≥ 1100 ≥ 1000 ≥ 900
+TD ≥ 800 ≥ 800 ≥ 700
+Tensile Elongation %
+MD 68 68 81
+TD 249 289 284
+Thermal Shrinkage 
+@120C, 1 hr %
+MD 9.5 7.5 9.0
+TD 4.0 2.0 3.5
+EPX
+Property Units 9EPX 12EPX
+Nominal Thickness µm 9 12
+Basis Weight g/m2 4 5.5
+Nominal Porosity % 54 54
+Air Permeability sec/100 ml 45 70
+Puncture Resistance g 260 305
+Tensile Strength kg/cm2
+MD ≥ 1100 ≥ 1000
+TD ≥ 700 ≥ 700
+Tensile Elongation %
+MD 44 60
+TD 150 260
+Thermal Shrinkage 
+@120C, 1 hr %
+MD 12.0 10.0
+TD 9.0 5.53
+CF
+Property Units 9CF 12CF
+Nominal Thickness µm 9 12
+Basis Weight g/m2 4.2 5.3
+Nominal Porosity % 65 65
+Air Permeability sec/100 ml 35 45
+Puncture Resistance g 265 325
+Tensile Strength kg/cm2
+MD ≥ 1000 ≥ 1000
+TD ≥ 800 ≥ 800
+Tensile Elongation %
+MD 50 45
+TD 150 175
+Thermal Shrinkage 
+@120C, 1 hr %
+MD 13.0 14.0
+TD 8.0 9.0
+ENTEK manufactures a variety of coated separators that include single-side, double-side, and multilayer 
+coatings on any of the above base separators.   
+• PVDF-coated separators for laminated cells
+• Alumina-coated separators with excellent high temperature dimensional stability based upon 
+ENTEK’s patented nanoparticle technology (US Patent # 9,847,519)
+• 5-layer separator with outer adhesive functional layers and alumina-coated polyolefin base 
+separator for laminated cells often used in xEV batteries
+This brochure is only intended to show typical properties of ENTEK lithium separators. We encourage purchasers to conduct tests to 
+determine final suitability for their specific end uses. 
+Coatings for Safety and Lamination
+CERAMICCERAMIC
+ADHESIVEADHESIVE
+CERAMICCERAMIC
+ADHESIVEADHESIVE
+5-layer Separator
+POLYETHYLENEPOLYETHYLENE
+Ceramic filler distributed throughout 
+the polymer matrix provides excellent 
+wettability and ultra-low impedance.www.entek.com
+ISO 9001:2015 certified
+ACCELERATING THE FUTURE
+ENTEK Membranes LLC    •    250 Hansard Ave    •    Lebanon, Oregon,  USA  97355
+Graeme Fraser-Bell
+VP , Li-Sales & Market
+Development
+gfbell@entek.com
++44 7713 877032
+Andrew Wimer
+North American Sales
+awimer@entek.com
++1 541 259 3901
+Hwa Tay Beng
+Asia-Pacific Sales
+hbtay@entek.com
++65 9757 9621
+Jason Kim - Dong Yang
+Country Representative
+South Korea
+kjhrotc@dy-corp.com
++82 10 8288 7335
+James Huang - Pareto
+Country Representative
+China & Taiwan
+james.pareto@msa.hinet.net
++886 963 388 306

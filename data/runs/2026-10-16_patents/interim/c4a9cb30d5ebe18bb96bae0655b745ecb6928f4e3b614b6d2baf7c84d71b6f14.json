@@ -1,0 +1,1122 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "polyolefin",
+          "composition",
+          "PP",
+          "PE",
+          "PP",
+          "PP"
+        ],
+        [
+          "based",
+          "melting point (° C.)",
+          "171",
+          "147",
+          "172",
+          "171"
+        ],
+        [
+          "porous",
+          "β-form crystal",
+          "42",
+          "0",
+          "39",
+          "58"
+        ],
+        [
+          "film",
+          "forming ability(%)"
+        ],
+        [
+          "",
+          "pore size (nm)",
+          "45",
+          "70",
+          "50",
+          "50"
+        ],
+        [
+          "",
+          "thickness (μm)",
+          "23",
+          "18",
+          "20",
+          "20"
+        ],
+        [
+          "particle layer",
+          "cellulose based resin",
+          "CMC",
+          "HEC",
+          "CMC",
+          "CMC"
+        ],
+        [
+          "",
+          "inorganic particles",
+          "zirconia",
+          "zirconia",
+          "silica",
+          "silica"
+        ],
+        [
+          "",
+          "average particle",
+          "1",
+          "1",
+          "0.5",
+          "1.5"
+        ],
+        [
+          "",
+          "diameter of"
+        ],
+        [
+          "",
+          "inorganic particles (μm)"
+        ],
+        [
+          "",
+          "thermoplastic",
+          "PE",
+          "PE",
+          "PE",
+          "PE"
+        ],
+        [
+          "",
+          "resin particles"
+        ],
+        [
+          "",
+          "thermoplastic",
+          "128",
+          "110",
+          "128",
+          "132"
+        ],
+        [
+          "",
+          "resin particles"
+        ],
+        [
+          "",
+          "melting point (° C.)"
+        ],
+        [
+          "",
+          "mass composition",
+          "1:15:25",
+          "1:10:15",
+          "1:15:4",
+          "1:15:16"
+        ],
+        [
+          "",
+          "ratio (solids only)"
+        ],
+        [
+          "",
+          "(cellulose:inorganic:resin"
+        ],
+        [
+          "",
+          "particles)"
+        ],
+        [
+          "",
+          "both sides/one side",
+          "one side",
+          "one side",
+          "one side",
+          "both sides"
+        ],
+        [
+          "",
+          "thickness after",
+          "2",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "",
+          "drying (μm)"
+        ],
+        [
+          "",
+          "(thickness of one"
+        ],
+        [
+          "",
+          "layer in two side"
+        ],
+        [
+          "",
+          "coated film)"
+        ],
+        [
+          "properties",
+          "separator's total",
+          "25",
+          "20",
+          "24",
+          "24"
+        ],
+        [
+          "",
+          "thickness (μm)"
+        ],
+        [
+          "",
+          "air permeation",
+          "260",
+          "350",
+          "280",
+          "180"
+        ],
+        [
+          "",
+          "resistance (sec)"
+        ],
+        [
+          "",
+          "contact",
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "shutdown function",
+          "A",
+          "B",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "meltdown resistance",
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "loop stiffness (μN/cm)",
+          "850",
+          "900",
+          "500",
+          "1200"
+        ],
+        [
+          "",
+          "separator resistance",
+          "B",
+          "C",
+          "B",
+          "A"
+        ],
+        [
+          "",
+          "battery evaluation",
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A square portion of 140 mm×140 mm was cut out from a gas permeable film, and gage marks were made with an oil-based pen at positions 20 mm from the edges to show a square of 100 mm×100 mm to provide a specimen. The gas permeable film was sandwiched between two glass plate of 250 mm×250 mm with a thickness of 5 mm, and left for 1 hour in a hot air oven heated at 150° C. for heat treatment. After the heat treatment, it was left to stand to cool, and then the specimen was taken out from between glass plates. The distance between the gage marks along a line passing through the specimen's center was measured, and the degree of heat shrinkage was determined from the change caused by the heating in the distance between the gage marks, and used as index of the dimensional stability. For each film, measurement was carried out for 5 specimens, and the average was used for evaluation.",
+      "context_locator": "p-0093",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">polyolefin</td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">PP</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">based</td>\n<td class=\"description-td\">melting point (° C.)</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">147</td>\n<td class=\"description-td\">172</td>\n<td class=\"description-td\">171</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">porous</td>\n<td class=\"description-td\">β-form crystal</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">58</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">film</td>\n<td class=\"description-td\">forming ability(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pore size (nm)</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">50</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness (μm)</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">particle layer</td>\n<td class=\"description-td\">cellulose based resin</td>\n<td class=\"description-td\">CMC</td>\n<td class=\"description-td\">HEC</td>\n<td class=\"description-td\">CMC</td>\n<td class=\"description-td\">CMC</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic particles</td>\n<td class=\"description-td\">zirconia</td>\n<td class=\"description-td\">zirconia</td>\n<td class=\"description-td\">silica</td>\n<td class=\"description-td\">silica</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">average particle</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic particles (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thermoplastic</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">PE</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resin particles</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thermoplastic</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">110</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resin particles</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">melting point (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass composition</td>\n<td class=\"description-td\">1:15:25</td>\n<td class=\"description-td\">1:10:15</td>\n<td class=\"description-td\">1:15:4</td>\n<td class=\"description-td\">1:15:16</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio (solids only)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(cellulose:inorganic:resin</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">both sides/one side</td>\n<td class=\"description-td\">one side</td>\n<td class=\"description-td\">one side</td>\n<td class=\"description-td\">one side</td>\n<td class=\"description-td\">both sides</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness after</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">drying (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(thickness of one</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">layer in two side</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coated film)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">separator's total</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">24</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">air permeation</td>\n<td class=\"description-td\">260</td>\n<td class=\"description-td\">350</td>\n<td class=\"description-td\">280</td>\n<td class=\"description-td\">180</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resistance (sec)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">contact</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shutdown function</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">meltdown resistance</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">loop stiffness (μN/cm)</td>\n<td class=\"description-td\">850</td>\n<td class=\"description-td\">900</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">1200</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">separator resistance</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">C</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">battery evaluation</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Comparative",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "",
+          "Example 5",
+          "Example 1",
+          "Example 2",
+          "Example 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "polyolefin",
+          "composition",
+          "PP",
+          "PP",
+          "PP",
+          "PP"
+        ],
+        [
+          "based",
+          "melting point (° C.)",
+          "171",
+          "171",
+          "171",
+          "171"
+        ],
+        [
+          "porous",
+          "β-form crystal",
+          "42",
+          "42",
+          "58",
+          "42"
+        ],
+        [
+          "film",
+          "forming ability(%)"
+        ],
+        [
+          "",
+          "pore size (nm)",
+          "45",
+          "45",
+          "50",
+          "45"
+        ],
+        [
+          "",
+          "thickness (μm)",
+          "18",
+          "23",
+          "20",
+          "23"
+        ],
+        [
+          "particle",
+          "cellulose based resin",
+          "CMC",
+          "—",
+          "CMC",
+          "CMC"
+        ],
+        [
+          "layer",
+          "inorganic particles",
+          "titania",
+          "—",
+          "—",
+          "zirconia"
+        ],
+        [
+          "",
+          "average particle",
+          "0.4",
+          "—",
+          "—",
+          "1"
+        ],
+        [
+          "",
+          "diameter of"
+        ],
+        [
+          "",
+          "inorganic particles (μm)"
+        ],
+        [
+          "",
+          "thermoplastic resin",
+          "PE",
+          "—",
+          "PE",
+          "PP"
+        ],
+        [
+          "",
+          "particles"
+        ],
+        [
+          "",
+          "thermoplastic resin",
+          "128",
+          "—",
+          "132",
+          "148"
+        ],
+        [
+          "",
+          "particles melting"
+        ],
+        [
+          "",
+          "point (° C.)"
+        ],
+        [
+          "",
+          "mass composition ratio",
+          "1:4:4",
+          "—",
+          "1:0:16",
+          "1:15:25"
+        ],
+        [
+          "",
+          "(solids only)"
+        ],
+        [
+          "",
+          "(cellulose:inorganic:resin"
+        ],
+        [
+          "",
+          "particles)"
+        ],
+        [
+          "",
+          "both sides/one side",
+          "both sides",
+          "—",
+          "both sides",
+          "one side"
+        ],
+        [
+          "",
+          "thickness after",
+          "3",
+          "—",
+          "2",
+          "2"
+        ],
+        [
+          "",
+          "drying (μm)"
+        ],
+        [
+          "properties",
+          "separator's total",
+          "24",
+          "23",
+          "24",
+          "25"
+        ],
+        [
+          "",
+          "thickness (μm)"
+        ],
+        [
+          "",
+          "air permeation",
+          "200",
+          "240",
+          "180",
+          "260"
+        ],
+        [
+          "",
+          "resistance (sec)"
+        ],
+        [
+          "",
+          "contact",
+          "A",
+          "—",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "shutdown function",
+          "A",
+          "D",
+          "A",
+          "D"
+        ],
+        [
+          "",
+          "meltdown resistance",
+          "B",
+          "C",
+          "C",
+          "A"
+        ],
+        [
+          "",
+          "loop stiffness (μN/cm)",
+          "1300",
+          "400",
+          "450",
+          "1050"
+        ],
+        [
+          "",
+          "separator resistance",
+          "A",
+          "B",
+          "A",
+          "B"
+        ],
+        [
+          "",
+          "battery evaluation",
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A square portion of 140 mm×140 mm was cut out from a gas permeable film, and gage marks were made with an oil-based pen at positions 20 mm from the edges to show a square of 100 mm×100 mm to provide a specimen. The gas permeable film was sandwiched between two glass plate of 250 mm×250 mm with a thickness of 5 mm, and left for 1 hour in a hot air oven heated at 150° C. for heat treatment. After the heat treatment, it was left to stand to cool, and then the specimen was taken out from between glass plates. The distance between the gage marks along a line passing through the specimen's center was measured, and the degree of heat shrinkage was determined from the change caused by the heating in the distance between the gage marks, and used as index of the dimensional stability. For each film, measurement was carried out for 5 specimens, and the average was used for evaluation.",
+      "context_locator": "p-0093",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">polyolefin</td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">PP</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">based</td>\n<td class=\"description-td\">melting point (° C.)</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">porous</td>\n<td class=\"description-td\">β-form crystal</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">58</td>\n<td class=\"description-td\">42</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">film</td>\n<td class=\"description-td\">forming ability(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pore size (nm)</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">45</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness (μm)</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">23</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">particle</td>\n<td class=\"description-td\">cellulose based resin</td>\n<td class=\"description-td\">CMC</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">CMC</td>\n<td class=\"description-td\">CMC</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">inorganic particles</td>\n<td class=\"description-td\">titania</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">zirconia</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">average particle</td>\n<td class=\"description-td\">0.4</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic particles (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thermoplastic resin</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">PP</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thermoplastic resin</td>\n<td class=\"description-td\">128</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">148</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles melting</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">point (° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass composition ratio</td>\n<td class=\"description-td\">1:4:4</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1:0:16</td>\n<td class=\"description-td\">1:15:25</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(solids only)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(cellulose:inorganic:resin</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">both sides/one side</td>\n<td class=\"description-td\">both sides</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">both sides</td>\n<td class=\"description-td\">one side</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness after</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">drying (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">separator's total</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">25</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">air permeation</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">180</td>\n<td class=\"description-td\">260</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resistance (sec)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">contact</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shutdown function</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">D</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">D</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">meltdown resistance</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">C</td>\n<td class=\"description-td\">C</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">loop stiffness (μN/cm)</td>\n<td class=\"description-td\">1300</td>\n<td class=\"description-td\">400</td>\n<td class=\"description-td\">450</td>\n<td class=\"description-td\">1050</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">separator resistance</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">B</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">battery evaluation</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Example 6",
+          "Example 7",
+          "Example 8"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "polyolefin",
+          "composition",
+          "PP",
+          "PP",
+          "PP"
+        ],
+        [
+          "based",
+          "melting point (° C.)",
+          "171",
+          "171",
+          "171"
+        ],
+        [
+          "porous",
+          "β-form crystal",
+          "58",
+          "0",
+          "0"
+        ],
+        [
+          "film",
+          "forming ability(%)"
+        ],
+        [
+          "",
+          "pore size (nm)",
+          "50",
+          "300",
+          "300"
+        ],
+        [
+          "",
+          "thickness (μm)",
+          "20",
+          "20",
+          "20"
+        ],
+        [
+          "particle",
+          "cellulose based resin",
+          "CMC",
+          "CMC",
+          "CMC"
+        ],
+        [
+          "layer",
+          "inorganic particles",
+          "silica",
+          "silica",
+          "silica"
+        ],
+        [
+          "",
+          "average particle",
+          "1.5",
+          "1.5",
+          "1.5"
+        ],
+        [
+          "",
+          "diameter of inorganic"
+        ],
+        [
+          "",
+          "particles (μm)"
+        ],
+        [
+          "",
+          "thermoplastic resin",
+          "PE",
+          "PE",
+          "PE"
+        ],
+        [
+          "",
+          "particles"
+        ],
+        [
+          "",
+          "thermoplastic resin",
+          "132",
+          "132",
+          "132"
+        ],
+        [
+          "",
+          "particles melting point"
+        ],
+        [
+          "",
+          "(° C.)"
+        ],
+        [
+          "",
+          "mass composition",
+          "1:15:16",
+          "1:15:16",
+          "1:15:16"
+        ],
+        [
+          "",
+          "ratio (solids only)"
+        ],
+        [
+          "",
+          "(cellulose:inorganic:resin"
+        ],
+        [
+          "",
+          "particles)"
+        ],
+        [
+          "",
+          "both sides/one side",
+          "both sides",
+          "both sides",
+          "both sides"
+        ],
+        [
+          "",
+          "thickness after drying",
+          "8",
+          "2",
+          "8"
+        ],
+        [
+          "",
+          "(μm)"
+        ],
+        [
+          "properties",
+          "separator's total",
+          "36",
+          "24",
+          "36"
+        ],
+        [
+          "",
+          "thickness (μm)"
+        ],
+        [
+          "",
+          "air permeation resistance",
+          "220",
+          "50",
+          "80"
+        ],
+        [
+          "",
+          "(sec)"
+        ],
+        [
+          "",
+          "contact",
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "shutdown function",
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "meltdown resistance",
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "",
+          "loop stiffness (μN/cm)",
+          "700",
+          "900",
+          "600"
+        ],
+        [
+          "",
+          "separator resistance",
+          "C",
+          "A",
+          "B"
+        ],
+        [
+          "",
+          "battery evaluation",
+          "A",
+          "C",
+          "B"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A square portion of 140 mm×140 mm was cut out from a gas permeable film, and gage marks were made with an oil-based pen at positions 20 mm from the edges to show a square of 100 mm×100 mm to provide a specimen. The gas permeable film was sandwiched between two glass plate of 250 mm×250 mm with a thickness of 5 mm, and left for 1 hour in a hot air oven heated at 150° C. for heat treatment. After the heat treatment, it was left to stand to cool, and then the specimen was taken out from between glass plates. The distance between the gage marks along a line passing through the specimen's center was measured, and the degree of heat shrinkage was determined from the change caused by the heating in the distance between the gage marks, and used as index of the dimensional stability. For each film, measurement was carried out for 5 specimens, and the average was used for evaluation.",
+      "context_locator": "p-0093",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">polyolefin</td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\">PP</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">based</td>\n<td class=\"description-td\">melting point (° C.)</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">porous</td>\n<td class=\"description-td\">β-form crystal</td>\n<td class=\"description-td\">58</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">film</td>\n<td class=\"description-td\">forming ability(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pore size (nm)</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">300</td>\n<td class=\"description-td\">300</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness (μm)</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">particle</td>\n<td class=\"description-td\">cellulose based resin</td>\n<td class=\"description-td\">CMC</td>\n<td class=\"description-td\">CMC</td>\n<td class=\"description-td\">CMC</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">inorganic particles</td>\n<td class=\"description-td\">silica</td>\n<td class=\"description-td\">silica</td>\n<td class=\"description-td\">silica</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">average particle</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">diameter of inorganic</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thermoplastic resin</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">PE</td>\n<td class=\"description-td\">PE</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thermoplastic resin</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">132</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles melting point</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass composition</td>\n<td class=\"description-td\">1:15:16</td>\n<td class=\"description-td\">1:15:16</td>\n<td class=\"description-td\">1:15:16</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio (solids only)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(cellulose:inorganic:resin</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">both sides/one side</td>\n<td class=\"description-td\">both sides</td>\n<td class=\"description-td\">both sides</td>\n<td class=\"description-td\">both sides</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness after drying</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">separator's total</td>\n<td class=\"description-td\">36</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">36</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness (μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">air permeation resistance</td>\n<td class=\"description-td\">220</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">80</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(sec)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">contact</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shutdown function</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">meltdown resistance</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">loop stiffness (μN/cm)</td>\n<td class=\"description-td\">700</td>\n<td class=\"description-td\">900</td>\n<td class=\"description-td\">600</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">separator resistance</td>\n<td class=\"description-td\">C</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">B</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">battery evaluation</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">C</td>\n<td class=\"description-td\">B</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Compar-",
+          "Compar-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ative",
+          "ative"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Example",
+          "Example"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Example 9",
+          "Example 10",
+          "Example 11",
+          "4",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "porous",
+          "composition",
+          "polypro-",
+          "polypro-",
+          "polypro-",
+          "polypro-",
+          "polypro-"
+        ],
+        [
+          "film",
+          "",
+          "pylene",
+          "pylene",
+          "pylene",
+          "pylene",
+          "pylene"
+        ],
+        [
+          "",
+          "melting point (° C.)",
+          "171",
+          "171",
+          "171",
+          "171",
+          "171"
+        ],
+        [
+          "",
+          "β-form crystal",
+          "42",
+          "42",
+          "42",
+          "42",
+          "42"
+        ],
+        [
+          "",
+          "forming ability (%)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "properties",
+          "total thickness (μm)",
+          "25",
+          "25",
+          "25",
+          "23",
+          "25"
+        ],
+        [
+          "",
+          "air permeation",
+          "260",
+          "250",
+          "250",
+          "240",
+          "250"
+        ],
+        [
+          "",
+          "resistance (sec)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "dimensional",
+          "longi-",
+          "6",
+          "4",
+          "4",
+          "8",
+          "5"
+        ],
+        [
+          "",
+          "stability",
+          "tudinal",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "(%)",
+          "transverse",
+          "10",
+          "7",
+          "6",
+          "13",
+          "8"
+        ],
+        [
+          "",
+          "resistance to water",
+          "0.2",
+          "0.07",
+          "0.05",
+          "0",
+          "1.2"
+        ],
+        [
+          "",
+          "absorption (%)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "mechanical",
+          "2.1",
+          "2.4",
+          "2.4",
+          "1.3",
+          "1.5"
+        ],
+        [
+          "",
+          "properties (N)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A square portion of 140 mm×140 mm was cut out from a gas permeable film, and gage marks were made with an oil-based pen at positions 20 mm from the edges to show a square of 100 mm×100 mm to provide a specimen. The gas permeable film was sandwiched between two glass plate of 250 mm×250 mm with a thickness of 5 mm, and left for 1 hour in a hot air oven heated at 150° C. for heat treatment. After the heat treatment, it was left to stand to cool, and then the specimen was taken out from between glass plates. The distance between the gage marks along a line passing through the specimen's center was measured, and the degree of heat shrinkage was determined from the change caused by the heating in the distance between the gage marks, and used as index of the dimensional stability. For each film, measurement was carried out for 5 specimens, and the average was used for evaluation.",
+      "context_locator": "p-0093",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\">TABLE 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Compar-</td>\n<td class=\"description-td\">Compar-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ative</td>\n<td class=\"description-td\">ative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example</td>\n<td class=\"description-td\">Example</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 9</td>\n<td class=\"description-td\">Example 10</td>\n<td class=\"description-td\">Example 11</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">porous</td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">polypro-</td>\n<td class=\"description-td\">polypro-</td>\n<td class=\"description-td\">polypro-</td>\n<td class=\"description-td\">polypro-</td>\n<td class=\"description-td\">polypro-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">film</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">pylene</td>\n<td class=\"description-td\">pylene</td>\n<td class=\"description-td\">pylene</td>\n<td class=\"description-td\">pylene</td>\n<td class=\"description-td\">pylene</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">melting point (° C.)</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n<td class=\"description-td\">171</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">β-form crystal</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">42</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">forming ability (%)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">total thickness (μm)</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">23</td>\n<td class=\"description-td\">25</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">air permeation</td>\n<td class=\"description-td\">260</td>\n<td class=\"description-td\">250</td>\n<td class=\"description-td\">250</td>\n<td class=\"description-td\">240</td>\n<td class=\"description-td\">250</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resistance (sec)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">dimensional</td>\n<td class=\"description-td\">longi-</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">stability</td>\n<td class=\"description-td\">tudinal</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">transverse</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">8</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resistance to water</td>\n<td class=\"description-td\">0.2</td>\n<td class=\"description-td\">0.07</td>\n<td class=\"description-td\">0.05</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">1.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">absorption (%)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mechanical</td>\n<td class=\"description-td\">2.1</td>\n<td class=\"description-td\">2.4</td>\n<td class=\"description-td\">2.4</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">properties (N)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/51/d9/65/2d6a9f63a27c45/US20110311856A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"2126cbe7d6e2dec72a6570b9e7eec17a\"",
+        "last_modified": "Tue, 14 Nov 2017 06:56:53 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/384b415f4929f9ada966881b9b364d03cc32f8310a6c7868ad32cbdfd32f1d30.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:26:06.320602+00:00",
+        "sha256": "384b415f4929f9ada966881b9b364d03cc32f8310a6c7868ad32cbdfd32f1d30",
+        "source": "patent_pdf",
+        "source_id": "1f58f2123e5f1d623be614d78014a67f3b219af3687c5d18fe6b80ef7013d2ee",
+        "url": "https://patentimages.storage.googleapis.com/51/d9/65/2d6a9f63a27c45/US20110311856A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20110311856A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/eb179f2d3a24409fb4d2c2b2d95b2cba531fb6b9799e0acba13c40715579eb41.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:05.377070+00:00",
+    "sha256": "eb179f2d3a24409fb4d2c2b2d95b2cba531fb6b9799e0acba13c40715579eb41",
+    "source": "patents",
+    "source_id": "51d8db065ca6600f9ae8daa7179958892f094111a397788fc556eaeac9043d77",
+    "url": "https://patents.google.com/patent/US20110311856A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "b17031890f31ac84d0a080d72d6e9ed771de9fcdc3d531855fabbf7cbd5b42ab",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "51d8db065ca6600f9ae8daa7179958892f094111a397788fc556eaeac9043d77",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/eb179f2d3a24409fb4d2c2b2d95b2cba531fb6b9799e0acba13c40715579eb41.bin",
+      "source_id": "51d8db065ca6600f9ae8daa7179958892f094111a397788fc556eaeac9043d77",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "eb179f2d3a24409fb4d2c2b2d95b2cba531fb6b9799e0acba13c40715579eb41",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20110311856A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

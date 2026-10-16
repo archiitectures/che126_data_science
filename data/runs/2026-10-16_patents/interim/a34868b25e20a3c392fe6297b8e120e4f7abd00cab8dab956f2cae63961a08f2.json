@@ -1,0 +1,1155 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "One Ply",
+          "Two Ply",
+          "Cross-Ply"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Thickness 0.50",
+          "1.02",
+          "1.0"
+        ],
+        [
+          "(mil)"
+        ],
+        [
+          "Gurley (sec-"
+        ],
+        [
+          "8",
+          "14",
+          "17"
+        ],
+        [
+          "in.sup.2)"
+        ],
+        [
+          "Puncture",
+          "212",
+          "334",
+          "533"
+        ],
+        [
+          "strength"
+        ],
+        [
+          "(gm)"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 1                                                     \n______________________________________                                    \n        One Ply   Two Ply  Cross-Ply                                      \n______________________________________                                    \nThickness 0.50        1.02     1.0                                        \n(mil)                                                                     \nGurley (sec-                                                              \n          8           14       17                                         \nin.sup.2)                                                                 \nPuncture  212         334      533                                        \nstrength                                                                  \n(gm)                                                                      \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "One Ply",
+          "Two Ply",
+          "Cross-Ply"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Thickness 0.49",
+          "1.02",
+          "1.12"
+        ],
+        [
+          "(mil)"
+        ],
+        [
+          "Gurley (sec-"
+        ],
+        [
+          "14",
+          "22",
+          "29"
+        ],
+        [
+          "in.sup.2)"
+        ],
+        [
+          "Puncture",
+          "212",
+          "392",
+          "510"
+        ],
+        [
+          "strength"
+        ],
+        [
+          "(gm)"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 2                                                     \n______________________________________                                    \n        One Ply   Two Ply  Cross-Ply                                      \n______________________________________                                    \nThickness 0.49        1.02     1.12                                       \n(mil)                                                                     \nGurley (sec-                                                              \n          14          22       29                                         \nin.sup.2)                                                                 \nPuncture  212         392      510                                        \nstrength                                                                  \n(gm)                                                                      \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Thickness"
+        ],
+        [
+          "Gurley Puncture Strength"
+        ],
+        [
+          "Bonded",
+          "Angle",
+          "(mil)",
+          "(sec-in.sup.2)"
+        ],
+        [
+          "(gm)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "One Ply",
+          "0.45",
+          "9",
+          "175"
+        ],
+        [
+          "Two Ply"
+        ],
+        [
+          "No",
+          "0°"
+        ],
+        [
+          "0.94",
+          "14",
+          "253"
+        ],
+        [
+          "\"",
+          "Yes",
+          "0°"
+        ],
+        [
+          "0.94",
+          "15",
+          "305"
+        ],
+        [
+          "\"",
+          "No",
+          "45°"
+        ],
+        [
+          "0.90",
+          "12",
+          "363"
+        ],
+        [
+          "\"",
+          "Yes",
+          "45°"
+        ],
+        [
+          "0.89",
+          "12",
+          "395"
+        ],
+        [
+          "\"",
+          "No",
+          "90°"
+        ],
+        [
+          "0.96",
+          "11",
+          "426"
+        ],
+        [
+          "\"",
+          "Yes",
+          "90°"
+        ],
+        [
+          "0.87",
+          "11",
+          "476"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 3                                                     \n______________________________________                                    \n                   Thickness                                              \n                            Gurley Puncture Strength                      \nBonded     Angle   (mil)    (sec-in.sup.2)                                \n                                   (gm)                                   \n______________________________________                                    \nOne Ply                0.45    9     175                                  \nTwo Ply                                                                   \n       No       0°                                                 \n                       0.94   14     253                                  \n\"      Yes      0°                                                 \n                       0.94   15     305                                  \n\"      No      45°                                                 \n                       0.90   12     363                                  \n\"      Yes     45°                                                 \n                       0.89   12     395                                  \n\"      No      90°                                                 \n                       0.96   11     426                                  \n\"      Yes     90°                                                 \n                       0.87   11     476                                  \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Orientation"
+        ],
+        [
+          "0°",
+          "45°"
+        ],
+        [
+          "90°"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "PE/PE",
+          "330 gm",
+          "390 gm",
+          "456 gm"
+        ],
+        [
+          "PP/PE",
+          "370 gm",
+          "570 gm",
+          "950 gm"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 4                                                     \n______________________________________                                    \nOrientation                                                               \n           0°    45°                                        \n                                90°                                \n______________________________________                                    \nPE/PE      330 gm       390 gm  456 gm                                    \nPP/PE      370 gm       570 gm  950 gm                                    \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Nozzle",
+          "Add-on (mg/cm.sup.2)"
+        ],
+        [
+          "Gurley Value lncrease"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Air Atomizing"
+        ],
+        [
+          "0.16",
+          "0%"
+        ],
+        [
+          "Air Atomizing"
+        ],
+        [
+          "0.18",
+          "0%"
+        ],
+        [
+          "Ultrasonic",
+          "0.03",
+          "32%"
+        ],
+        [
+          "Ultrasonic",
+          "0.06",
+          "150%"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 5                                                     \n______________________________________                                    \nNozzle      Add-on (mg/cm.sup.2)                                          \n                        Gurley Value lncrease                             \n______________________________________                                    \nAir Atomizing                                                             \n            0.16        0%                                                \nAir Atomizing                                                             \n            0.18        0%                                                \nUltrasonic  0.03        32%                                               \nUltrasonic  0.06        150%                                              \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 6"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Adhesive Add-on Weight"
+        ],
+        [
+          "(gm/ft.sup.2)",
+          "Gurley Value (sec-in.sup.2)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "0.0",
+          "12"
+        ],
+        [
+          "0.03",
+          "18"
+        ],
+        [
+          "0.06",
+          "64"
+        ],
+        [
+          "0.08",
+          "115"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 6                                                     \n______________________________________                                    \nAdhesive Add-on Weight                                                    \n(gm/ft.sup.2)   Gurley Value (sec-in.sup.2)                               \n______________________________________                                    \n0.0             12                                                        \n0.03            18                                                        \n0.06            64                                                        \n0.08            115                                                       \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 7"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Thickness",
+          "Puncture"
+        ],
+        [
+          "Plies",
+          "(mil)",
+          "Orientation"
+        ],
+        [
+          "strength (gm)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "1",
+          "1",
+          "300"
+        ],
+        [
+          "2",
+          "2",
+          "Parallel (0°)"
+        ],
+        [
+          "440"
+        ],
+        [
+          "2",
+          "2",
+          "45°"
+        ],
+        [
+          "588"
+        ],
+        [
+          "2",
+          "2",
+          "90°"
+        ],
+        [
+          "743"
+        ],
+        [
+          "1",
+          "0.6",
+          "187"
+        ],
+        [
+          "2",
+          "1.2",
+          "Parallel (0°)"
+        ],
+        [
+          "357"
+        ],
+        [
+          "2",
+          "1.2",
+          "90°"
+        ],
+        [
+          "501"
+        ],
+        [
+          "1",
+          "0.45",
+          "187"
+        ],
+        [
+          "2",
+          "0.9",
+          "Parallel (0°)"
+        ],
+        [
+          "265"
+        ],
+        [
+          "2",
+          "0.9",
+          "90°"
+        ],
+        [
+          "422"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 7                                                     \n______________________________________                                    \n       Thickness              Puncture                                    \nPlies  (mil)        Orientation                                           \n                              strength (gm)                               \n______________________________________                                    \n1      1                      300                                         \n2      2            Parallel (0°)                                  \n                              440                                         \n2      2            45°                                            \n                              588                                         \n2      2            90°                                            \n                              743                                         \n1      0.6                    187                                         \n2      1.2          Parallel (0°)                                  \n                              357                                         \n2      1.2          90°                                            \n                              501                                         \n1      0.45                   187                                         \n2      0.9          Parallel (0°)                                  \n                              265                                         \n2      0.9          90°                                            \n                              422                                         \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 7"
+    },
+    {
+      "caption": "FIG. 1 is a schematic flow diagram showing the process steps employed to produce the cross-plied microporous membrane battery separators according to this invention; and FIG. 2 is a side perspective view, partly in section, of a representative battery cell in which the cross-plied microporous membrane separator of this invention may be used. As can be seen from accompanying FIG. 1, the microporous membrane is prepared generally utilizing an extrusion stage 10, an annealing stage 12, and a stretching stage 14. The extrusion stage 10 involves extruding a tubular non-porous film parison 10a using a circular extrusion die 10b associated with a conventional polymer extruder 10c. Air is introduced upwardly through the extrusion die so as to form the parison 10a (i.e., so-called \"blown film extrusion\"). The parison 10a is collapsed using rollers 10d, 10e and collected as a roll 10f. The preferred polymer from which the non-porous precursor film is made is most preferably an olefinic resin, e.g., polypropylene or polyethylene. However, other resins may also be employed depending, for example, upon the particular battery components with which the separators of this invention are intended to be used. As shown in FIG. 1, the cross-ply station 22 is supplied with microporous membrane unwound from at least two of the rolls 18a obtained from the slitting/rewinding station 20 in such a manner that the angular bias of one of the membranes is offset relative to the angular bias of the other membrane. However, if desired, only one of the membranes being unwound at the cross-ply station 22 needs to have orientation at an angular bias relative to the elongate direction of the membrane, while the other membrane could have an orientation parallel to the membrane's elongate axis (i.e., a conventional machine direction oriented membrane sheet). The resulting laminated membrane would thereby still have the orientation of each layer angularly oriented relative to one another, albeit at a lesser angle. Suffice it to say, that the principles embodied in the present invention may be used and/or modified to obtain a laminated multiply microporous battery separator whereby the orientation of the individual layers are angularly biased relative to one another at virtually any desired angle. The cross-plied laminated sheet, now designated by reference numeral 24, exits the nip rolls 22a and may be slit in a lengthwise direction via knife blades 22c (only one of which is visible in FIG. 1) to form individual cross-plied microporous separator sheets 24a-24c which are wound into rolls 26a-26c respectively. The widthwise dimension of sheets 24a-24c is selected so as to be suitable for the battery cells in which the separator sheets are used. During manufacture of the battery cell, therefore, a roll of the separator sheets 26a-26c will be unwound and interposed between layers of the anode and cathode materials forming the battery cell. These juxtaposed anode, separator sheet and cathode layers will then be cut to desired length and spirally or serpentinely folded so as to be inserted within the external housing (called a \"can\" in art parlance) of the battery. Accompanying FIG. 2 schematically depicts an exemplary battery cell BC in which a cross-plied separator sheet 24a according to this invention is employed. As is seen the battery cell BC includes anode and cathode layers 30, 32, respectively, between which continuous lengths of separator sheets 24a are interposed. This composite structure is spirally wound about a centrally located mandrel (not shown) so as to form a generally cylindrical cell 34 which is housed within can 36. It will be understood, however, that other geometric forms of the cell 34 are possible, such as a serpentine-shaped cell in which the anode, separator sheet and cathode layers 30, 24a and 32, respectively, are folded in a back-and-forth serpentine manner so as to fit within a generally rectangular-shaped can.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/53/2c/37/f5ba466bb078e7/US5667911-drawings-page-2.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic flow diagram showing the process steps employed to produce the cross-plied microporous membrane battery separators according to this invention; and FIG. 2 is a side perspective view, partly in section, of a representative battery cell in which the cross-plied microporous membrane separator of this invention may be used. As can be seen from accompanying FIG. 1, the microporous membrane is prepared generally utilizing an extrusion stage 10, an annealing stage 12, and a stretching stage 14. The extrusion stage 10 involves extruding a tubular non-porous film parison 10a using a circular extrusion die 10b associated with a conventional polymer extruder 10c. Air is introduced upwardly through the extrusion die so as to form the parison 10a (i.e., so-called \"blown film extrusion\"). The parison 10a is collapsed using rollers 10d, 10e and collected as a roll 10f. The preferred polymer from which the non-porous precursor film is made is most preferably an olefinic resin, e.g., polypropylene or polyethylene. However, other resins may also be employed depending, for example, upon the particular battery components with which the separators of this invention are intended to be used. As shown in FIG. 1, the cross-ply station 22 is supplied with microporous membrane unwound from at least two of the rolls 18a obtained from the slitting/rewinding station 20 in such a manner that the angular bias of one of the membranes is offset relative to the angular bias of the other membrane. However, if desired, only one of the membranes being unwound at the cross-ply station 22 needs to have orientation at an angular bias relative to the elongate direction of the membrane, while the other membrane could have an orientation parallel to the membrane's elongate axis (i.e., a conventional machine direction oriented membrane sheet). The resulting laminated membrane would thereby still have the orientation of each layer angularly oriented relative to one another, albeit at a lesser angle. Suffice it to say, that the principles embodied in the present invention may be used and/or modified to obtain a laminated multiply microporous battery separator whereby the orientation of the individual layers are angularly biased relative to one another at virtually any desired angle. The cross-plied laminated sheet, now designated by reference numeral 24, exits the nip rolls 22a and may be slit in a lengthwise direction via knife blades 22c (only one of which is visible in FIG. 1) to form individual cross-plied microporous separator sheets 24a-24c which are wound into rolls 26a-26c respectively. The widthwise dimension of sheets 24a-24c is selected so as to be suitable for the battery cells in which the separator sheets are used. During manufacture of the battery cell, therefore, a roll of the separator sheets 26a-26c will be unwound and interposed between layers of the anode and cathode materials forming the battery cell. These juxtaposed anode, separator sheet and cathode layers will then be cut to desired length and spirally or serpentinely folded so as to be inserted within the external housing (called a \"can\" in art parlance) of the battery. Accompanying FIG. 2 schematically depicts an exemplary battery cell BC in which a cross-plied separator sheet 24a according to this invention is employed. As is seen the battery cell BC includes anode and cathode layers 30, 32, respectively, between which continuous lengths of separator sheets 24a are interposed. This composite structure is spirally wound about a centrally located mandrel (not shown) so as to form a generally cylindrical cell 34 which is housed within can 36. It will be understood, however, that other geometric forms of the cell 34 are possible, such as a serpentine-shaped cell in which the anode, separator sheet and cathode layers 30, 24a and 32, respectively, are folded in a back-and-forth serpentine manner so as to fit within a generally rectangular-shaped can.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/79/72/97/f1b499d51d865a/US5667911-drawings-page-3.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/c5/19/6a/53c2d29994eb2b/US5667911.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US5667911A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:21:03.621082+00:00",
+    "sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+    "source": "patents",
+    "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+    "url": "https://patents.google.com/patent/US5667911A/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thickness 0.50 (mil) Gurley (sec-",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "9920331f9b145e69c02e9a99eac3f0af3f0c01399ced7ab27ee3790f5f8f4a13",
+      "original_property_label": "Thickness 0.50 (mil) Gurley (sec-",
+      "original_unit": "mil",
+      "original_value": "1.02",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thickness 0.50 (mil) Gurley (sec-",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "2b78bc0868f18dea5511a02134e9427f20c43dcd919dc1ee2fbae8874a2e1cd9",
+      "original_property_label": "Thickness 0.50 (mil) Gurley (sec-",
+      "original_unit": "mil",
+      "original_value": "1.0",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "The cross-plied separator sheets according to this invention preferably has a thickness of no greater than about 3 mils, most preferably 0.5 to 1.5 mil (thickness, however, maybe be greater if the specific application requires such), and permeability characteristics of less than about 45 sec-in 2 as measured with a high pressure Gurley Densometer available from Teledyne Gurley, Troy, N.Y. (hereinafter referred to as \"Gurley Values\"). Thus, the cross-plied laminated separator sheets according to this invention will have a thickness dimension which is less than about 0.2 mil greater than the thickness of a non-bonded laminate, and Gurley Values of less than about 10 sec-in 2 greater than the Gurley Values of a nonbonded laminate. The cross-plied separator according to this invention may, for example, exhibit a puncture strength of greater than about 350 gm for a thickness of about 1 mil.",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: gm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "b89bcd511ae583bad73aa24689a62ebdfcc324b0778cddd104b5e6191f31335e",
+      "original_property_label": "Puncture strength (gm) ______________________________________",
+      "original_unit": "gm",
+      "original_value": "212",
+      "polymer": null,
+      "product": null,
+      "property": "puncture_force",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "10",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "The cross-plied separator sheets according to this invention preferably has a thickness of no greater than about 3 mils, most preferably 0.5 to 1.5 mil (thickness, however, maybe be greater if the specific application requires such), and permeability characteristics of less than about 45 sec-in 2 as measured with a high pressure Gurley Densometer available from Teledyne Gurley, Troy, N.Y. (hereinafter referred to as \"Gurley Values\"). Thus, the cross-plied laminated separator sheets according to this invention will have a thickness dimension which is less than about 0.2 mil greater than the thickness of a non-bonded laminate, and Gurley Values of less than about 10 sec-in 2 greater than the Gurley Values of a nonbonded laminate. The cross-plied separator according to this invention may, for example, exhibit a puncture strength of greater than about 350 gm for a thickness of about 1 mil.",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: gm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "95874f0e3545cc4b5b7b8adb80e1b08f02f5300f93822ab8e499a2e92f449008",
+      "original_property_label": "Puncture strength (gm) ______________________________________",
+      "original_unit": "gm",
+      "original_value": "334",
+      "polymer": null,
+      "product": null,
+      "property": "puncture_force",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "10",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "The cross-plied separator sheets according to this invention preferably has a thickness of no greater than about 3 mils, most preferably 0.5 to 1.5 mil (thickness, however, maybe be greater if the specific application requires such), and permeability characteristics of less than about 45 sec-in 2 as measured with a high pressure Gurley Densometer available from Teledyne Gurley, Troy, N.Y. (hereinafter referred to as \"Gurley Values\"). Thus, the cross-plied laminated separator sheets according to this invention will have a thickness dimension which is less than about 0.2 mil greater than the thickness of a non-bonded laminate, and Gurley Values of less than about 10 sec-in 2 greater than the Gurley Values of a nonbonded laminate. The cross-plied separator according to this invention may, for example, exhibit a puncture strength of greater than about 350 gm for a thickness of about 1 mil.",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: gm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "cf11deea835a3eb37f13a32e81bc0f1d05099d5a78bd0b2232f7c64442f84922",
+      "original_property_label": "Puncture strength (gm) ______________________________________",
+      "original_unit": "gm",
+      "original_value": "533",
+      "polymer": null,
+      "product": null,
+      "property": "puncture_force",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "10",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thickness 0.49 (mil) Gurley (sec-",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "689ccc4da6672f710eb2a67b4da570cfe8efb00582ce8931aabcebbcf947e499",
+      "original_property_label": "Thickness 0.49 (mil) Gurley (sec-",
+      "original_unit": "mil",
+      "original_value": "1.02",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thickness 0.49 (mil) Gurley (sec-",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "8b15748df7e23359c1ae81b8ac13dd7f6b3045406ae5e3998c705e240ebee18b",
+      "original_property_label": "Thickness 0.49 (mil) Gurley (sec-",
+      "original_unit": "mil",
+      "original_value": "1.12",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "5",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "The cross-plied separator sheets according to this invention preferably has a thickness of no greater than about 3 mils, most preferably 0.5 to 1.5 mil (thickness, however, maybe be greater if the specific application requires such), and permeability characteristics of less than about 45 sec-in 2 as measured with a high pressure Gurley Densometer available from Teledyne Gurley, Troy, N.Y. (hereinafter referred to as \"Gurley Values\"). Thus, the cross-plied laminated separator sheets according to this invention will have a thickness dimension which is less than about 0.2 mil greater than the thickness of a non-bonded laminate, and Gurley Values of less than about 10 sec-in 2 greater than the Gurley Values of a nonbonded laminate. The cross-plied separator according to this invention may, for example, exhibit a puncture strength of greater than about 350 gm for a thickness of about 1 mil.",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: gm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "0460cb12f1dcb27e5a6e59c4b7a1c7be0e1c180074686dedca4f94c074f5dff7",
+      "original_property_label": "Puncture strength (gm) ______________________________________",
+      "original_unit": "gm",
+      "original_value": "212",
+      "polymer": null,
+      "product": null,
+      "property": "puncture_force",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "10",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "The cross-plied separator sheets according to this invention preferably has a thickness of no greater than about 3 mils, most preferably 0.5 to 1.5 mil (thickness, however, maybe be greater if the specific application requires such), and permeability characteristics of less than about 45 sec-in 2 as measured with a high pressure Gurley Densometer available from Teledyne Gurley, Troy, N.Y. (hereinafter referred to as \"Gurley Values\"). Thus, the cross-plied laminated separator sheets according to this invention will have a thickness dimension which is less than about 0.2 mil greater than the thickness of a non-bonded laminate, and Gurley Values of less than about 10 sec-in 2 greater than the Gurley Values of a nonbonded laminate. The cross-plied separator according to this invention may, for example, exhibit a puncture strength of greater than about 350 gm for a thickness of about 1 mil.",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: gm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "47d8d7182bfeb554eb08593ab5da8f892c7cd9c80ca9b56681f61a3576afed35",
+      "original_property_label": "Puncture strength (gm) ______________________________________",
+      "original_unit": "gm",
+      "original_value": "392",
+      "polymer": null,
+      "product": null,
+      "property": "puncture_force",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "10",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "The cross-plied separator sheets according to this invention preferably has a thickness of no greater than about 3 mils, most preferably 0.5 to 1.5 mil (thickness, however, maybe be greater if the specific application requires such), and permeability characteristics of less than about 45 sec-in 2 as measured with a high pressure Gurley Densometer available from Teledyne Gurley, Troy, N.Y. (hereinafter referred to as \"Gurley Values\"). Thus, the cross-plied laminated separator sheets according to this invention will have a thickness dimension which is less than about 0.2 mil greater than the thickness of a non-bonded laminate, and Gurley Values of less than about 10 sec-in 2 greater than the Gurley Values of a nonbonded laminate. The cross-plied separator according to this invention may, for example, exhibit a puncture strength of greater than about 350 gm for a thickness of about 1 mil.",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: gm. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "5ba8a409693aaef4fb70256608996dba875594c62438926f2411487d98071917",
+      "original_property_label": "Puncture strength (gm) ______________________________________",
+      "original_unit": "gm",
+      "original_value": "510",
+      "polymer": null,
+      "product": null,
+      "property": "puncture_force",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "10",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "This value is measured using a Model 4120 or 4150 Gurley Densometer from Teledyne Gurley, and is the time in seconds required to pass 10 cc of air through 1 in 2 of membrane at a constant pressure of 12.2 in of water. [Ref. ASTM D726 (B)]",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "3fdf35991dff252745f9b0d0eccd71ab4eb852d29da3fa931d429b340f8965d2",
+      "original_property_label": "Nozzle Gurley Value lncrease ______________________________________ Air Atomizing",
+      "original_unit": "",
+      "original_value": "Add-on (mg/cm.sup.2)",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "3",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 5",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Thickness",
+      "method": null,
+      "notes": "Publication US5667911A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "a0a17069d6f84101aa4113ef3773aacd411e52d66f678e5211a32e4650085e93",
+      "original_property_label": "Thickness",
+      "original_unit": "",
+      "original_value": "Puncture",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5667911A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9.bin",
+      "source_id": "1981f051fc22cf4efd836cde5b2dc90dbea30812aa00031a92c37c6411c29f59",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "3",
+      "source_sha256": "c06b36b023afad30977fc5a88684ed54716c5cdbcfaa01a2213e28fa5bb125a9",
+      "source_table": "TABLE 7",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5667911A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}

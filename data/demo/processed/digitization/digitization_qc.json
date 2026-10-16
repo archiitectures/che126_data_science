@@ -1,0 +1,49 @@
+{
+  "curve_count": 1,
+  "curve_id": "d884313ce16ca267e81c189f2d398d41483686903f08fa3556c6ae9e22594971",
+  "metrics": {
+    "max_error_x": 0.0,
+    "max_error_y": 0.07392473118272846,
+    "mean_error_x": 0.0,
+    "mean_error_y": 0.05913978494619414,
+    "reference_count": 5
+  },
+  "note": "Selected trace/segment only. Pixel samples share one curve identity; not independent experiments.",
+  "points": 38,
+  "record_type": "digitized_estimate",
+  "review": [
+    {
+      "pixel_x": 762,
+      "reason": "ambiguous_curve_column"
+    },
+    {
+      "pixel_x": 764,
+      "reason": "ambiguous_curve_column"
+    },
+    {
+      "pixel_x": 774,
+      "reason": "ambiguous_curve_column"
+    },
+    {
+      "pixel_x": 784,
+      "reason": "ambiguous_curve_column"
+    },
+    {
+      "pixel_x": 786,
+      "reason": "ambiguous_curve_column"
+    },
+    {
+      "pixel_x": 788,
+      "reason": "ambiguous_curve_column"
+    },
+    {
+      "pixel_x": 820,
+      "reason": "ambiguous_curve_column"
+    },
+    {
+      "pixel_x": 828,
+      "reason": "ambiguous_curve_column"
+    }
+  ],
+  "status": "review"
+}

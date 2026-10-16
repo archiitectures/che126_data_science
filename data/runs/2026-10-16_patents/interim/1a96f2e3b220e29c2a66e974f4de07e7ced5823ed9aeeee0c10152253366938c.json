@@ -1,0 +1,242 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE A",
+          "TABLE A",
+          "TABLE A",
+          "TABLE A",
+          "TABLE A",
+          "TABLE A"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Description",
+          "A",
+          "C300",
+          "B",
+          "C500"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Thickness, Microns",
+          "20",
+          "21",
+          "25",
+          "24.5"
+        ],
+        [
+          "",
+          "Gurley",
+          "15",
+          "19",
+          "21",
+          "18"
+        ],
+        [
+          "",
+          "IR, ohm-cm 2",
+          "1.7",
+          "2.1",
+          "2.0",
+          "2.3"
+        ],
+        [
+          "",
+          "P.S. Grams",
+          "337",
+          "367",
+          "412",
+          "424"
+        ],
+        [
+          "",
+          "MP % deviation",
+          "−10",
+          "−2",
+          "0",
+          "5"
+        ],
+        [
+          "",
+          "from 2300"
+        ],
+        [
+          "",
+          "TD Tensile strength",
+          "165",
+          "180",
+          "168",
+          "174"
+        ],
+        [
+          "",
+          "kgf/cm 2"
+        ],
+        [
+          "",
+          "Porosity %",
+          "43",
+          "35",
+          "42",
+          "37"
+        ],
+        [
+          "",
+          "Net Shrinkage @ 105°, 6 hr %",
+          "6.4",
+          "3.0",
+          "6.4",
+          "2.7"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\">TABLE A</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Description</td> <td class=\"description-td\">A</td> <td class=\"description-td\">C300</td> <td class=\"description-td\">B</td> <td class=\"description-td\">C500</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Thickness, <figure-callout filenames=\"US20070238017A1-20071011-D00000.png,US20070238017A1-20071011-D00001.png\" id=\"20\" label=\"Microns\" state=\"{{state}}\">Microns</figure-callout> </td> <td class=\"description-td\">20</td> <td class=\"description-td\">21</td> <td class=\"description-td\">25</td> <td class=\"description-td\">24.5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Gurley</td> <td class=\"description-td\">15</td> <td class=\"description-td\">19</td> <td class=\"description-td\">21</td> <td class=\"description-td\">18</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">IR, ohm-cm<sup>2</sup> </td> <td class=\"description-td\">1.7</td> <td class=\"description-td\">2.1</td> <td class=\"description-td\">2.0</td> <td class=\"description-td\">2.3</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">P.S. Grams</td> <td class=\"description-td\">337</td> <td class=\"description-td\">367</td> <td class=\"description-td\">412</td> <td class=\"description-td\">424</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">MP % deviation</td> <td class=\"description-td\">−10</td> <td class=\"description-td\">−2</td> <td class=\"description-td\">0</td> <td class=\"description-td\">5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">from 2300</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">TD Tensile strength</td> <td class=\"description-td\">165</td> <td class=\"description-td\">180</td> <td class=\"description-td\">168</td> <td class=\"description-td\">174</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">kgf/cm<sup>2</sup> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Porosity %</td> <td class=\"description-td\">43</td> <td class=\"description-td\">35</td> <td class=\"description-td\">42</td> <td class=\"description-td\">37</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Net Shrinkage @ 105°, 6 hr %</td> <td class=\"description-td\">6.4</td> <td class=\"description-td\">3.0</td> <td class=\"description-td\">6.4</td> <td class=\"description-td\">2.7</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_1"
+    },
+    {
+      "caption": "FIG. 1 is a side view of a multilayer separator in a mixed penetration test. FIG. 2 is side view showing the electrodes and the separator after pressure is applied. FIG. 3 is a graph showing a slope of the ionic resistance of a separator. FIG. 4 is a schematic view of a four probe AC impedence technique for measuring the ionic resistance of separator membranes. FIG. 5 is a graph of the percentage increase in mixed penetration strength of the multilayer membranes made by the current process of multilayer dry stretch membranes of the same thickness. Mixed penetration is the force required to create a short through a separator due to mixed penetration. In this test one starts with a base of a metal plate 10 , FIG. 1 , on top of this plate is placed a sheet of cathode material 15 , on top of cathode is placed a multilayer separator 20 and on top of the multilayer separator 20 is placed a sheet of anode material 25 . A ball tip of 3 mm, 30 is then provided attached to a force gauge 35 . The ball tip 30 is connected to the metal plate 10 by a resistance meter 40 . Pressure 45 , FIG. 2 , is applied to the ball tip 30 , which is recorded on the force gauge 35 , FIG. 1 . Once force is applied, there builds up an anode mix 50 , FIG. 2 and a cathode mix 55 on either side of the separator 20 . When the resistance falls dramatically it indicates a short through the separator due to mixed penetration. Based on the multiple layer measurements, the ionic resistance, Rs (Ω) of the separator saturated with electrolyte is then calculated by the formula, R s = ρ s ⁢ l A ( 1 ) where ρ s is the ionic resistivity of the separator in Ω-cm, A is the electrode area in cm 2 and l is the thickness of the separator membrane in cm. The ratio ρ s /A is the slope calculated for the variation of separator resistance with multiple separator layers which is given by, slope = ρ s A = Δ ⁢ ⁢ R Δ ⁢ ⁢ δ ( 2 ) where ΔR and Δδ are defined in the FIG. 3 . Calculation of slope in FIG. 3 is used to estimate the ionic resistance of separator membrane using multiple layer measurement approach. Ionic resistance of separator membranes is measured by using a four probe AC impedance technique. FIG. 4 shows the schematic 60 of the cell used to measure the resistance. The lead coming out of the top 65 and bottom 70 probes of the cell has two wires each 75 , 80 one for sensing current and other for voltage. Electrolyte used for all resistance measurement is 1.0 M LiPF6 salt in EC:EMC solvent of a 3:7 ratio by volume. Place a sample of separator on the bottom electrode 85 . The separator should completely cover the bottom electrode and the separator should be completely wet with electrolyte. Then slide the second electrode 90 on top of the bottom electrode 85 and measure the impedance value. The impedance value is measured with an impedance meter 95 from Potentiostat. Start adding more separator layers and measure cumulative resistance in order to reduce the measurement error. It is possible to test the resistance of just the electrolyte by adding a Teflon spacer 100 which has a hollow center 105 which can be placed over the bottom probe 70 . Then electrolyte is added to fill the hollow center 105 then the top probe 65 is placed over the spacer 100 . In the mixed penetration test, the invented material is compared against a trilayer separator made by the Celgard® process which does not use a high molecular weight polypropylene and is not made in accordance with the process of the invention. In FIG. 5 the improvement in mixed penetration strength can be seen. Also see table A, where the a standard 20 micron separator shows a 10% reduction in mixed penetration strength compared to a standard 25 micron trilayer separator. The 20 micron invented separator made by the invented process shows only a 2% reduction in mixed penetration strength. The standard 25 micron separator shows no change in mixed penetration strength, where the 25 micron separator made by the invent process shows an increase in mixed penetration strength of 5%.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/70/79/89/c9938ea18b32bc/US20070238017A1-20071011-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a side view of a multilayer separator in a mixed penetration test. FIG. 2 is side view showing the electrodes and the separator after pressure is applied. FIG. 3 is a graph showing a slope of the ionic resistance of a separator. FIG. 4 is a schematic view of a four probe AC impedence technique for measuring the ionic resistance of separator membranes. FIG. 5 is a graph of the percentage increase in mixed penetration strength of the multilayer membranes made by the current process of multilayer dry stretch membranes of the same thickness. Mixed penetration is the force required to create a short through a separator due to mixed penetration. In this test one starts with a base of a metal plate 10 , FIG. 1 , on top of this plate is placed a sheet of cathode material 15 , on top of cathode is placed a multilayer separator 20 and on top of the multilayer separator 20 is placed a sheet of anode material 25 . A ball tip of 3 mm, 30 is then provided attached to a force gauge 35 . The ball tip 30 is connected to the metal plate 10 by a resistance meter 40 . Pressure 45 , FIG. 2 , is applied to the ball tip 30 , which is recorded on the force gauge 35 , FIG. 1 . Once force is applied, there builds up an anode mix 50 , FIG. 2 and a cathode mix 55 on either side of the separator 20 . When the resistance falls dramatically it indicates a short through the separator due to mixed penetration. Based on the multiple layer measurements, the ionic resistance, Rs (Ω) of the separator saturated with electrolyte is then calculated by the formula, R s = ρ s ⁢ l A ( 1 ) where ρ s is the ionic resistivity of the separator in Ω-cm, A is the electrode area in cm 2 and l is the thickness of the separator membrane in cm. The ratio ρ s /A is the slope calculated for the variation of separator resistance with multiple separator layers which is given by, slope = ρ s A = Δ ⁢ ⁢ R Δ ⁢ ⁢ δ ( 2 ) where ΔR and Δδ are defined in the FIG. 3 . Calculation of slope in FIG. 3 is used to estimate the ionic resistance of separator membrane using multiple layer measurement approach. Ionic resistance of separator membranes is measured by using a four probe AC impedance technique. FIG. 4 shows the schematic 60 of the cell used to measure the resistance. The lead coming out of the top 65 and bottom 70 probes of the cell has two wires each 75 , 80 one for sensing current and other for voltage. Electrolyte used for all resistance measurement is 1.0 M LiPF6 salt in EC:EMC solvent of a 3:7 ratio by volume. Place a sample of separator on the bottom electrode 85 . The separator should completely cover the bottom electrode and the separator should be completely wet with electrolyte. Then slide the second electrode 90 on top of the bottom electrode 85 and measure the impedance value. The impedance value is measured with an impedance meter 95 from Potentiostat. Start adding more separator layers and measure cumulative resistance in order to reduce the measurement error. It is possible to test the resistance of just the electrolyte by adding a Teflon spacer 100 which has a hollow center 105 which can be placed over the bottom probe 70 . Then electrolyte is added to fill the hollow center 105 then the top probe 65 is placed over the spacer 100 . In the mixed penetration test, the invented material is compared against a trilayer separator made by the Celgard® process which does not use a high molecular weight polypropylene and is not made in accordance with the process of the invention. In FIG. 5 the improvement in mixed penetration strength can be seen. Also see table A, where the a standard 20 micron separator shows a 10% reduction in mixed penetration strength compared to a standard 25 micron trilayer separator. The 20 micron invented separator made by the invented process shows only a 2% reduction in mixed penetration strength. The standard 25 micron separator shows no change in mixed penetration strength, where the 25 micron separator made by the invent process shows an increase in mixed penetration strength of 5%.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/90/37/0f/65ade4ff64a81b/US20070238017A1-20071011-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a side view of a multilayer separator in a mixed penetration test. FIG. 2 is side view showing the electrodes and the separator after pressure is applied. FIG. 3 is a graph showing a slope of the ionic resistance of a separator. FIG. 4 is a schematic view of a four probe AC impedence technique for measuring the ionic resistance of separator membranes. FIG. 5 is a graph of the percentage increase in mixed penetration strength of the multilayer membranes made by the current process of multilayer dry stretch membranes of the same thickness. Mixed penetration is the force required to create a short through a separator due to mixed penetration. In this test one starts with a base of a metal plate 10 , FIG. 1 , on top of this plate is placed a sheet of cathode material 15 , on top of cathode is placed a multilayer separator 20 and on top of the multilayer separator 20 is placed a sheet of anode material 25 . A ball tip of 3 mm, 30 is then provided attached to a force gauge 35 . The ball tip 30 is connected to the metal plate 10 by a resistance meter 40 . Pressure 45 , FIG. 2 , is applied to the ball tip 30 , which is recorded on the force gauge 35 , FIG. 1 . Once force is applied, there builds up an anode mix 50 , FIG. 2 and a cathode mix 55 on either side of the separator 20 . When the resistance falls dramatically it indicates a short through the separator due to mixed penetration. Based on the multiple layer measurements, the ionic resistance, Rs (Ω) of the separator saturated with electrolyte is then calculated by the formula, R s = ρ s ⁢ l A ( 1 ) where ρ s is the ionic resistivity of the separator in Ω-cm, A is the electrode area in cm 2 and l is the thickness of the separator membrane in cm. The ratio ρ s /A is the slope calculated for the variation of separator resistance with multiple separator layers which is given by, slope = ρ s A = Δ ⁢ ⁢ R Δ ⁢ ⁢ δ ( 2 ) where ΔR and Δδ are defined in the FIG. 3 . Calculation of slope in FIG. 3 is used to estimate the ionic resistance of separator membrane using multiple layer measurement approach. Ionic resistance of separator membranes is measured by using a four probe AC impedance technique. FIG. 4 shows the schematic 60 of the cell used to measure the resistance. The lead coming out of the top 65 and bottom 70 probes of the cell has two wires each 75 , 80 one for sensing current and other for voltage. Electrolyte used for all resistance measurement is 1.0 M LiPF6 salt in EC:EMC solvent of a 3:7 ratio by volume. Place a sample of separator on the bottom electrode 85 . The separator should completely cover the bottom electrode and the separator should be completely wet with electrolyte. Then slide the second electrode 90 on top of the bottom electrode 85 and measure the impedance value. The impedance value is measured with an impedance meter 95 from Potentiostat. Start adding more separator layers and measure cumulative resistance in order to reduce the measurement error. It is possible to test the resistance of just the electrolyte by adding a Teflon spacer 100 which has a hollow center 105 which can be placed over the bottom probe 70 . Then electrolyte is added to fill the hollow center 105 then the top probe 65 is placed over the spacer 100 . In the mixed penetration test, the invented material is compared against a trilayer separator made by the Celgard® process which does not use a high molecular weight polypropylene and is not made in accordance with the process of the invention. In FIG. 5 the improvement in mixed penetration strength can be seen. Also see table A, where the a standard 20 micron separator shows a 10% reduction in mixed penetration strength compared to a standard 25 micron trilayer separator. The 20 micron invented separator made by the invented process shows only a 2% reduction in mixed penetration strength. The standard 25 micron separator shows no change in mixed penetration strength, where the 25 micron separator made by the invent process shows an increase in mixed penetration strength of 5%.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/c0/a4/c5/16288925a68e45/US20070238017A1-20071011-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a side view of a multilayer separator in a mixed penetration test. FIG. 2 is side view showing the electrodes and the separator after pressure is applied. FIG. 3 is a graph showing a slope of the ionic resistance of a separator. FIG. 4 is a schematic view of a four probe AC impedence technique for measuring the ionic resistance of separator membranes. FIG. 5 is a graph of the percentage increase in mixed penetration strength of the multilayer membranes made by the current process of multilayer dry stretch membranes of the same thickness. Mixed penetration is the force required to create a short through a separator due to mixed penetration. In this test one starts with a base of a metal plate 10 , FIG. 1 , on top of this plate is placed a sheet of cathode material 15 , on top of cathode is placed a multilayer separator 20 and on top of the multilayer separator 20 is placed a sheet of anode material 25 . A ball tip of 3 mm, 30 is then provided attached to a force gauge 35 . The ball tip 30 is connected to the metal plate 10 by a resistance meter 40 . Pressure 45 , FIG. 2 , is applied to the ball tip 30 , which is recorded on the force gauge 35 , FIG. 1 . Once force is applied, there builds up an anode mix 50 , FIG. 2 and a cathode mix 55 on either side of the separator 20 . When the resistance falls dramatically it indicates a short through the separator due to mixed penetration. Based on the multiple layer measurements, the ionic resistance, Rs (Ω) of the separator saturated with electrolyte is then calculated by the formula, R s = ρ s ⁢ l A ( 1 ) where ρ s is the ionic resistivity of the separator in Ω-cm, A is the electrode area in cm 2 and l is the thickness of the separator membrane in cm. The ratio ρ s /A is the slope calculated for the variation of separator resistance with multiple separator layers which is given by, slope = ρ s A = Δ ⁢ ⁢ R Δ ⁢ ⁢ δ ( 2 ) where ΔR and Δδ are defined in the FIG. 3 . Calculation of slope in FIG. 3 is used to estimate the ionic resistance of separator membrane using multiple layer measurement approach. Ionic resistance of separator membranes is measured by using a four probe AC impedance technique. FIG. 4 shows the schematic 60 of the cell used to measure the resistance. The lead coming out of the top 65 and bottom 70 probes of the cell has two wires each 75 , 80 one for sensing current and other for voltage. Electrolyte used for all resistance measurement is 1.0 M LiPF6 salt in EC:EMC solvent of a 3:7 ratio by volume. Place a sample of separator on the bottom electrode 85 . The separator should completely cover the bottom electrode and the separator should be completely wet with electrolyte. Then slide the second electrode 90 on top of the bottom electrode 85 and measure the impedance value. The impedance value is measured with an impedance meter 95 from Potentiostat. Start adding more separator layers and measure cumulative resistance in order to reduce the measurement error. It is possible to test the resistance of just the electrolyte by adding a Teflon spacer 100 which has a hollow center 105 which can be placed over the bottom probe 70 . Then electrolyte is added to fill the hollow center 105 then the top probe 65 is placed over the spacer 100 . In the mixed penetration test, the invented material is compared against a trilayer separator made by the Celgard® process which does not use a high molecular weight polypropylene and is not made in accordance with the process of the invention. In FIG. 5 the improvement in mixed penetration strength can be seen. Also see table A, where the a standard 20 micron separator shows a 10% reduction in mixed penetration strength compared to a standard 25 micron trilayer separator. The 20 micron invented separator made by the invented process shows only a 2% reduction in mixed penetration strength. The standard 25 micron separator shows no change in mixed penetration strength, where the 25 micron separator made by the invent process shows an increase in mixed penetration strength of 5%.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/5a/8e/da/138c04bca71b65/US20070238017A1-20071011-D00003.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/cd/9f/52/d898c902541102/US20070238017A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20070238017A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/ca637bc1ddc2d0893816acf21991d2d17329a11f8e8bd0d198ec29ce07866357.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:33.892720+00:00",
+    "sha256": "ca637bc1ddc2d0893816acf21991d2d17329a11f8e8bd0d198ec29ce07866357",
+    "source": "patents",
+    "source_id": "3d9937c5e9a3597091a9bb3526b6e9fcfeee3da8b814f78a19e739c266a34f55",
+    "url": "https://patents.google.com/patent/US20070238017A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "4ee8b2b187dfe953c7aeb4cda59d0d020fa6057afa63e41323a77390afe9064c",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "3d9937c5e9a3597091a9bb3526b6e9fcfeee3da8b814f78a19e739c266a34f55",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/ca637bc1ddc2d0893816acf21991d2d17329a11f8e8bd0d198ec29ce07866357.bin",
+      "source_id": "3d9937c5e9a3597091a9bb3526b6e9fcfeee3da8b814f78a19e739c266a34f55",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "ca637bc1ddc2d0893816acf21991d2d17329a11f8e8bd0d198ec29ce07866357",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20070238017A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

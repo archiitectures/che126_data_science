@@ -1,0 +1,993 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Working",
+          "Working",
+          "Working",
+          "Working"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "First",
+          "UHMwPE",
+          "Mass %",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "layer",
+          "HDPE",
+          "",
+          "80",
+          "80",
+          "50",
+          "90"
+        ],
+        [
+          "",
+          "PP(D)",
+          "",
+          "20",
+          "20",
+          "50",
+          "10"
+        ],
+        [
+          "",
+          "Resin/solvent",
+          "Parts by",
+          "25/75",
+          "25/75",
+          "30/70",
+          "25/75"
+        ],
+        [
+          "",
+          "",
+          "mass",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Second",
+          "UHMwPE",
+          "Mass %",
+          "40",
+          "40",
+          "40",
+          "40"
+        ],
+        [
+          "layer",
+          "HDPE",
+          "",
+          "60",
+          "60",
+          "60",
+          "60"
+        ],
+        [
+          "",
+          "PP",
+          "",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Resin/solvent",
+          "Parts by",
+          "25/75",
+          "25/75",
+          "27.5/72.5",
+          "23/77"
+        ],
+        [
+          "",
+          "",
+          "mass",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Layer structure (Skin/Core/Skin)",
+          "1/2/1",
+          "1/2/1",
+          "2/1/2",
+          "2/1/2"
+        ],
+        [
+          "Layer ratio (Skin/Core/Skin)",
+          "10/80/10",
+          "7.5/85/7.5",
+          "40/20/40",
+          "40/20/40"
+        ],
+        [
+          "PP ratio (A) in multilayer structure (%)",
+          "4",
+          "3",
+          "10",
+          "2"
+        ],
+        [
+          "First stretching magnification (MD × TD) (B)",
+          "25",
+          "25",
+          "25",
+          "25"
+        ],
+        [
+          "Gel sheet stretching temperature (° C.)",
+          "116",
+          "115",
+          "114",
+          "117"
+        ],
+        [
+          "Second stretching magnification (C)",
+          "1.4",
+          "1.4",
+          "1.5",
+          "1.4"
+        ],
+        [
+          "A/B × C",
+          "0.11",
+          "0.09",
+          "0.27",
+          "0.06"
+        ],
+        [
+          "D/B × C",
+          "0.57",
+          "0.57",
+          "1.33",
+          "0.29"
+        ],
+        [
+          "Physical",
+          "Thickness",
+          "μm",
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "properties",
+          "Porosity",
+          "%",
+          "46",
+          "46",
+          "53",
+          "43"
+        ],
+        [
+          "",
+          "Porosity/thickness",
+          "—",
+          "3.83",
+          "3.83",
+          "4.45",
+          "3.58"
+        ],
+        [
+          "",
+          "Maximum pore size",
+          "nm",
+          "47",
+          "46",
+          "30",
+          "48"
+        ],
+        [
+          "",
+          "Mean flow pore size",
+          "nm",
+          "31",
+          "30",
+          "22",
+          "34"
+        ],
+        [
+          "",
+          "Maximum/average",
+          "—",
+          "1.52",
+          "1.53",
+          "1.36",
+          "1.41"
+        ],
+        [
+          "",
+          "size",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Air permeability",
+          "sec",
+          "130",
+          "136",
+          "152",
+          "115"
+        ],
+        [
+          "",
+          "Converted air",
+          "sec/16 μm",
+          "173",
+          "181",
+          "203",
+          "153"
+        ],
+        [
+          "",
+          "permeability",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Pin puncture",
+          "gf",
+          "320",
+          "348",
+          "347",
+          "305"
+        ],
+        [
+          "",
+          "strength",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Converted pin",
+          "gf/16 μm",
+          "427",
+          "464",
+          "463",
+          "407"
+        ],
+        [
+          "",
+          "puncture strength",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Impedance",
+          "Ω · cm 2",
+          "6.2",
+          "6.3",
+          "7.1",
+          "7.2"
+        ],
+        [
+          "",
+          "Meltdown",
+          "° C.",
+          "175",
+          "172",
+          "188",
+          "152"
+        ],
+        [
+          "",
+          "temperature",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Solution resistance",
+          "%",
+          "60",
+          "53",
+          "65",
+          "48"
+        ],
+        [
+          "",
+          "increase rate"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">Working</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">First</td>\n<td class=\"description-td\">UHMwPE</td>\n<td class=\"description-td\">Mass %</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">HDPE</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">90</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP(D)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin/solvent</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">30/70</td>\n<td class=\"description-td\">25/75</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Second</td>\n<td class=\"description-td\">UHMwPE</td>\n<td class=\"description-td\">Mass %</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">HDPE</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">60</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin/solvent</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">27.5/72.5</td>\n<td class=\"description-td\">23/77</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Layer structure (Skin/Core/Skin)</td>\n<td class=\"description-td\">1/2/1</td>\n<td class=\"description-td\">1/2/1</td>\n<td class=\"description-td\">2/1/2</td>\n<td class=\"description-td\">2/1/2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Layer ratio (Skin/Core/Skin)</td>\n<td class=\"description-td\">10/80/10</td>\n<td class=\"description-td\">7.5/85/7.5 </td>\n<td class=\"description-td\">40/20/40</td>\n<td class=\"description-td\">40/20/40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PP ratio (A) in multilayer structure (%)</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">First stretching magnification (MD × TD) (B)</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Gel sheet stretching temperature (° C.)</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Second stretching magnification (C)</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">A/B × C</td>\n<td class=\"description-td\">0.11</td>\n<td class=\"description-td\">0.09</td>\n<td class=\"description-td\">0.27</td>\n<td class=\"description-td\">0.06</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">D/B × C</td>\n<td class=\"description-td\">0.57</td>\n<td class=\"description-td\">0.57</td>\n<td class=\"description-td\">1.33</td>\n<td class=\"description-td\">0.29</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Physical</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">53</td>\n<td class=\"description-td\">43</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Porosity/thickness</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">3.83</td>\n<td class=\"description-td\">3.83</td>\n<td class=\"description-td\">4.45</td>\n<td class=\"description-td\">3.58</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximum pore size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">48</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Mean flow pore size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">34</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximum/average </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1.52</td>\n<td class=\"description-td\">1.53</td>\n<td class=\"description-td\">1.36</td>\n<td class=\"description-td\">1.41</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">size</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\">130</td>\n<td class=\"description-td\">136</td>\n<td class=\"description-td\">152</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Converted air </td>\n<td class=\"description-td\">sec/16 μm</td>\n<td class=\"description-td\">173</td>\n<td class=\"description-td\">181</td>\n<td class=\"description-td\">203</td>\n<td class=\"description-td\">153</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">permeability</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Pin puncture </td>\n<td class=\"description-td\">gf</td>\n<td class=\"description-td\">320</td>\n<td class=\"description-td\">348</td>\n<td class=\"description-td\">347</td>\n<td class=\"description-td\">305</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Converted pin </td>\n<td class=\"description-td\">gf/16 μm</td>\n<td class=\"description-td\">427</td>\n<td class=\"description-td\">464</td>\n<td class=\"description-td\">463</td>\n<td class=\"description-td\">407</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">puncture strength</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance</td>\n<td class=\"description-td\">Ω · cm<sup>2</sup> </td>\n<td class=\"description-td\">6.2</td>\n<td class=\"description-td\">6.3</td>\n<td class=\"description-td\">7.1</td>\n<td class=\"description-td\">7.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Meltdown </td>\n<td class=\"description-td\">° C.</td>\n<td class=\"description-td\">175</td>\n<td class=\"description-td\">172</td>\n<td class=\"description-td\">188</td>\n<td class=\"description-td\">152</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solution resistance</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">53</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">48</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">increase rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5",
+          "Example 6",
+          "Example 7"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "First",
+          "UHMwPE",
+          "Mass %",
+          "30",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "15"
+        ],
+        [
+          "layer",
+          "HDPE",
+          "",
+          "60",
+          "40",
+          "50",
+          "30",
+          "—",
+          "—",
+          "75"
+        ],
+        [
+          "",
+          "PP(D)",
+          "",
+          "10",
+          "60",
+          "50",
+          "70",
+          "—",
+          "—",
+          "10"
+        ],
+        [
+          "",
+          "Resin/solvent",
+          "Parts by",
+          "30/70",
+          "25/75",
+          "25/75",
+          "25/75",
+          "—",
+          "—",
+          "25/75"
+        ],
+        [
+          "",
+          "",
+          "mass",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Second",
+          "UHMwPE",
+          "Mass %",
+          "40",
+          "30",
+          "30",
+          "30",
+          "40",
+          "20",
+          "—"
+        ],
+        [
+          "layer",
+          "HDPE",
+          "",
+          "60",
+          "70",
+          "70",
+          "70",
+          "60",
+          "80",
+          "—"
+        ],
+        [
+          "",
+          "PP",
+          "",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "",
+          "Resin/solvent",
+          "Parts by",
+          "25/75",
+          "28.5/71.5",
+          "28.5/71.5",
+          "25/75",
+          "25/75",
+          "25/75",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "mass",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Layer structure (Skin/Core/Skin)",
+          "2/1/2",
+          "2/1/2",
+          "1/2/1",
+          "1/2/1",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Layer ratio (Skin/Core/Skin)",
+          "40/20/40",
+          "40/20/40",
+          "10/80/10",
+          "7.5/85/7.5",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "PP ratio (A) in multilayer structure (%)",
+          "2",
+          "12",
+          "10",
+          "11",
+          "0",
+          "0",
+          "10"
+        ],
+        [
+          "First stretching magnification (MD × TD) (B)",
+          "25",
+          "25",
+          "25",
+          "25",
+          "25",
+          "25",
+          "25"
+        ],
+        [
+          "Gel sheet stretching temperature (° C.)",
+          "114",
+          "118",
+          "116",
+          "116",
+          "118",
+          "115",
+          "118"
+        ],
+        [
+          "Second stretching magnification (C)",
+          "1.5",
+          "1.5",
+          "1.0",
+          "1.4",
+          "1.4",
+          "1.4",
+          "1.4"
+        ],
+        [
+          "A/B × C",
+          "0.05",
+          "0.32",
+          "0.40",
+          "0.30",
+          "—",
+          "—",
+          "0.29"
+        ],
+        [
+          "D/B × C",
+          "0.27",
+          "1.60",
+          "2.00",
+          "2.00",
+          "—",
+          "—",
+          "0.29"
+        ],
+        [
+          "Physical",
+          "Thickness",
+          "μm",
+          "14",
+          "20",
+          "18",
+          "14",
+          "12",
+          "14",
+          "12"
+        ],
+        [
+          "properties",
+          "Porosity",
+          "%",
+          "41",
+          "52",
+          "45",
+          "42",
+          "39",
+          "45",
+          "39"
+        ],
+        [
+          "",
+          "Porosity/thickness",
+          "—",
+          "2.96",
+          "2.60",
+          "2.50",
+          "3.00",
+          "3.25",
+          "3.21",
+          "3.25"
+        ],
+        [
+          "",
+          "Maximum pore size",
+          "nm",
+          "40",
+          "22",
+          "25",
+          "—",
+          "55",
+          "80",
+          "70"
+        ],
+        [
+          "",
+          "Mean flow pore size",
+          "nm",
+          "27",
+          "17",
+          "17",
+          "—",
+          "37",
+          "54",
+          "46"
+        ],
+        [
+          "",
+          "Maximum/average",
+          "—",
+          "1.48",
+          "1.29",
+          "1.47",
+          "—",
+          "1.49",
+          "1.48",
+          "1.52"
+        ],
+        [
+          "",
+          "size",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Air permeability",
+          "sec",
+          "250",
+          "468",
+          "380",
+          "837",
+          "160",
+          "100",
+          "100"
+        ],
+        [
+          "",
+          "Converted air",
+          "sec/16 μm",
+          "286",
+          "374",
+          "338",
+          "957",
+          "213",
+          "114",
+          "133"
+        ],
+        [
+          "",
+          "permeability",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Pin puncture",
+          "gf",
+          "509",
+          "431",
+          "438",
+          "397",
+          "340",
+          "265",
+          "289"
+        ],
+        [
+          "",
+          "strength",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Converted pin",
+          "gf/16 μm",
+          "582",
+          "345",
+          "389",
+          "454",
+          "453",
+          "303",
+          "385"
+        ],
+        [
+          "",
+          "puncture strength",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Impedance",
+          "Ω · cm 2",
+          "7.5",
+          "8.0",
+          "7.9",
+          "—",
+          "7.4",
+          "6.4",
+          "7.7"
+        ],
+        [
+          "",
+          "Meltdown",
+          "° C.",
+          "152",
+          "182",
+          "181",
+          "—",
+          "151",
+          "151",
+          "150"
+        ],
+        [
+          "",
+          "temperature",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Solution resistance",
+          "%",
+          "288",
+          "—",
+          "—",
+          "—",
+          "241",
+          "214",
+          "—"
+        ],
+        [
+          "",
+          "increase rate"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">First</td>\n<td class=\"description-td\">UHMwPE</td>\n<td class=\"description-td\">Mass %</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">HDPE</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">75</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP(D)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin/solvent</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">30/70</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">25/75</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Second</td>\n<td class=\"description-td\">UHMwPE</td>\n<td class=\"description-td\">Mass %</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">HDPE</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PP</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin/solvent</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">28.5/71.5</td>\n<td class=\"description-td\">28.5/71.5</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">25/75</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Layer structure (Skin/Core/Skin)</td>\n<td class=\"description-td\">2/1/2</td>\n<td class=\"description-td\">2/1/2</td>\n<td class=\"description-td\">1/2/1</td>\n<td class=\"description-td\">1/2/1</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Layer ratio (Skin/Core/Skin)</td>\n<td class=\"description-td\">40/20/40</td>\n<td class=\"description-td\">40/20/40</td>\n<td class=\"description-td\">10/80/10</td>\n<td class=\"description-td\">7.5/85/7.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PP ratio (A) in multilayer structure (%)</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">11</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">First stretching magnification (MD × TD) (B)</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Gel sheet stretching temperature (° C.)</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">118</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">116</td>\n<td class=\"description-td\">118</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">118</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Second stretching magnification (C)</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">A/B × C</td>\n<td class=\"description-td\">0.05</td>\n<td class=\"description-td\">0.32</td>\n<td class=\"description-td\">0.40</td>\n<td class=\"description-td\">0.30</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.29</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">D/B × C</td>\n<td class=\"description-td\">0.27</td>\n<td class=\"description-td\">1.60</td>\n<td class=\"description-td\">2.00</td>\n<td class=\"description-td\">2.00</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.29</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Physical</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">12</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">52</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">39</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Porosity/thickness</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">2.96</td>\n<td class=\"description-td\">2.60</td>\n<td class=\"description-td\">2.50</td>\n<td class=\"description-td\">3.00</td>\n<td class=\"description-td\">3.25</td>\n<td class=\"description-td\">3.21</td>\n<td class=\"description-td\">3.25</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximum pore size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">55</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Mean flow pore size</td>\n<td class=\"description-td\">nm</td>\n<td class=\"description-td\">27</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">37</td>\n<td class=\"description-td\">54</td>\n<td class=\"description-td\">46</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximum/average </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1.48</td>\n<td class=\"description-td\">1.29</td>\n<td class=\"description-td\">1.47</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1.49</td>\n<td class=\"description-td\">1.48</td>\n<td class=\"description-td\">1.52</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">size</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\">250</td>\n<td class=\"description-td\">468</td>\n<td class=\"description-td\">380</td>\n<td class=\"description-td\">837</td>\n<td class=\"description-td\">160</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">100</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Converted air </td>\n<td class=\"description-td\">sec/16 μm</td>\n<td class=\"description-td\">286</td>\n<td class=\"description-td\">374</td>\n<td class=\"description-td\">338</td>\n<td class=\"description-td\">957</td>\n<td class=\"description-td\">213</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">133</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">permeability</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Pin puncture </td>\n<td class=\"description-td\">gf</td>\n<td class=\"description-td\">509</td>\n<td class=\"description-td\">431</td>\n<td class=\"description-td\">438</td>\n<td class=\"description-td\">397</td>\n<td class=\"description-td\">340</td>\n<td class=\"description-td\">265</td>\n<td class=\"description-td\">289</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Converted pin </td>\n<td class=\"description-td\">gf/16 μm</td>\n<td class=\"description-td\">582</td>\n<td class=\"description-td\">345</td>\n<td class=\"description-td\">389</td>\n<td class=\"description-td\">454</td>\n<td class=\"description-td\">453</td>\n<td class=\"description-td\">303</td>\n<td class=\"description-td\">385</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">puncture strength</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Impedance</td>\n<td class=\"description-td\">Ω · cm<sup>2</sup> </td>\n<td class=\"description-td\">7.5</td>\n<td class=\"description-td\">8.0</td>\n<td class=\"description-td\">7.9</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">7.4</td>\n<td class=\"description-td\">6.4</td>\n<td class=\"description-td\">7.7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Meltdown </td>\n<td class=\"description-td\">° C.</td>\n<td class=\"description-td\">152</td>\n<td class=\"description-td\">182</td>\n<td class=\"description-td\">181</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">151</td>\n<td class=\"description-td\">151</td>\n<td class=\"description-td\">150</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solution resistance</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\">288</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">241</td>\n<td class=\"description-td\">214</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">increase rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of a Cole-Cole plot of a lithium ion rechargeable battery. As illustrated in FIG. 1 , the frequency characteristics of the measured internal impedance can be expressed in a complex plane diagram (Cole-Cole plot) using a real number as a resistance component and an imaginary number as a reactance component. When the measurement frequency is varied from a high frequency to a low frequency, an impedance trajectory depicting a semicircle in the clockwise direction is obtained. In this trajectory, the first semicircular trajectory is assumed to represent the negative electrode resistance, and the second semicircular trajectory is assumed to represent the positive electrode resistance. In addition, the real number when the imaginary number is 0 is the series resistance component between the polar plates and represents the solution resistance (Ω). The rate of change in the solution resistance (R 1 ) after the oven test with respect to the solution resistance (R 0 ) prior to being placed in the oven was found from the following formula and used as the solution resistance increase rate Rc (%). Rc (%)=( R 1 −R 0 )/ R 0 ×100",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/ee/6f/a2/aedb94a2e3afe7/US10680224-20200609-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of a Cole-Cole plot of a lithium ion rechargeable battery. As illustrated in FIG. 1 , the frequency characteristics of the measured internal impedance can be expressed in a complex plane diagram (Cole-Cole plot) using a real number as a resistance component and an imaginary number as a reactance component. When the measurement frequency is varied from a high frequency to a low frequency, an impedance trajectory depicting a semicircle in the clockwise direction is obtained. In this trajectory, the first semicircular trajectory is assumed to represent the negative electrode resistance, and the second semicircular trajectory is assumed to represent the positive electrode resistance. In addition, the real number when the imaginary number is 0 is the series resistance component between the polar plates and represents the solution resistance (Ω). The rate of change in the solution resistance (R 1 ) after the oven test with respect to the solution resistance (R 0 ) prior to being placed in the oven was found from the following formula and used as the solution resistance increase rate Rc (%). Rc (%)=( R 1 −R 0 )/ R 0 ×100",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/ce/57/26/cc80bf75de92c2/US10680224-20200609-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/92/95/4f/41c46a198f6fb3/US10680224.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"7e2f6c5388765e4d57dc1984b62c1937\"",
+        "last_modified": "Mon, 06 Jul 2020 11:10:04 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/680316aefae3e0a959f1db11c718f7f60c7a5219656ab4bc0f5765a12b79da9b.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:22:40.735815+00:00",
+        "sha256": "680316aefae3e0a959f1db11c718f7f60c7a5219656ab4bc0f5765a12b79da9b",
+        "source": "patent_pdf",
+        "source_id": "b855fe1b9200ac6c80228d26dacb1897cc40f5dcc0a2b844b24d7a6c0f87d229",
+        "url": "https://patentimages.storage.googleapis.com/92/95/4f/41c46a198f6fb3/US10680224.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10680224B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/37b2324c9c93789bbb48e154f20b2f2777c2e6c80f7dd58cb121f909aa7fc5e8.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:22:39.832865+00:00",
+    "sha256": "37b2324c9c93789bbb48e154f20b2f2777c2e6c80f7dd58cb121f909aa7fc5e8",
+    "source": "patents",
+    "source_id": "1b603e8af626d51bb377c773c8ddec9d1d48df8753ea6f3fdd3464234c4af086",
+    "url": "https://patents.google.com/patent/US10680224B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "0c1f04e618d0f2e200640b2b06b11c0e41707153676b520acf6302cbb20257bf",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "1b603e8af626d51bb377c773c8ddec9d1d48df8753ea6f3fdd3464234c4af086",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/37b2324c9c93789bbb48e154f20b2f2777c2e6c80f7dd58cb121f909aa7fc5e8.bin",
+      "source_id": "1b603e8af626d51bb377c773c8ddec9d1d48df8753ea6f3fdd3464234c4af086",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "37b2324c9c93789bbb48e154f20b2f2777c2e6c80f7dd58cb121f909aa7fc5e8",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10680224B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

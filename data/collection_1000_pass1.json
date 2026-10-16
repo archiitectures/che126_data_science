@@ -1,0 +1,224 @@
+{
+  "documents": [
+    {
+      "source_id": "c468f1151ae97ad3b8383d8ac36bc02ba3ae5dda3ba2f6765730e861a61da1e6",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/1e1706e98be01ec0c5658884ffab950627580004dff6b53e79c43c616b525601.json"
+    },
+    {
+      "source_id": "a34a07a761a6b153fadb1b83d2168b7b777bad5078f8bda715c822c2797f2803",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/8105f4db36ab2c6318f87f93183001a59b5ccdc4feff3f7568db2e76b98208fd.json"
+    },
+    {
+      "source_id": "ea00ff5562e314d3e87e36faca969de58339a8d9da7fdc4a08bc4c6e9cb70379",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/80c6d7278effa6ff9f6f81b8bba250c59b256b05abb3a3b7360a9e782bb95c8b.json"
+    },
+    {
+      "source_id": "d73c07c39d7c907681dc4c054eb582d08912a47901c632035f11960ab90c7ae4",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/943ffb606d2fab849d1d5c54ac3ce2b93d76c0e7a3073ed3e58b3bbe12b553db.json"
+    },
+    {
+      "source_id": "6b7ba7a1c0ac0da5597d40ae1bd4ef328259702f6077d3d5e70431cf07a92dcf",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/2748481654425c5e30afcbafbbf9faa30cd2731b1e9084b95695ab509911ab45.json"
+    },
+    {
+      "source_id": "dfdbcb7304a5954ec4373b4bdde0b7a4c07deb8ab9ad800864ad270b7c18d539",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/92779dae3e9bf70851482ee51313a629741db4ea1224f86fd14d57784d122ae9.json"
+    },
+    {
+      "source_id": "bbc95cb502dd5b7bdf0a4961c8c60a0819fa6416e0045af72f54d827336d002e",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/672c746009edeb09bc5e4e715ee064b4ad6d55a9e9d4ae463c3fd05fed0f8488.json"
+    },
+    {
+      "source_id": "9a4e3e3cb6d2f88038984492ac9ef5246df3470a7049c6f17e506861cb420a2e",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/60d56fadd9aa856f1233d6eed0317c23b2870c47c5c5acf6bdae22e8d7e009f4.json"
+    },
+    {
+      "source_id": "dfb7f82ea4ed26f85cd53103f949d1558c3a758164c6f1752fc9b1443d98ee90",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/4601beab9f9741f15c615dbd4646095e9af678c2c228bbe774316aed50bd2e6e.json"
+    },
+    {
+      "source_id": "ecbfd1516ab3d1efd873d9218843f630b703a73cce86c0009384429078ba8b42",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/ac58f6c52e7f0864302398d25aa55bdd96b76298b9d6a27229b7abfa4f6e3dea.json"
+    },
+    {
+      "source_id": "ea5b766a349dd6d04e8198d3701065ebbc34c2c9a7ff09b53ab90fd51e60256a",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/cf80cb03c41a1569623f876f5fc1cb9768046062f3a0e2ff6560c8661cef1a5e.json"
+    },
+    {
+      "source_id": "dda9d7987907c2bbdd6441ce360a48fc476ce937347eecfa5b390c05d14f9f6f",
+      "status": "complete",
+      "accepted": 7,
+      "review": 0,
+      "artifact_file": "data/interim/5eac2ea32fad33345f2c40305f2cd048e7b978372b2365f53aa3790b0a11852f.json"
+    },
+    {
+      "source_id": "b58ab94a988f33dd75e411f6a5f245934e6b6df2b8ed0e746bf6ab565aa75ef0",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/f574384bc5fef4e2268735845f6ec258595dcd9aa5eeb9155a2b065d7ec33651.json"
+    },
+    {
+      "source_id": "2ffe387fcfda2b6fef3b9896a9ed6ebdfd3c03292b6b7ae06854d1472a8fce45",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/f7cc7301a1ba6cb5f740c4fb65c67cb8638d802434394470549546524699169e.json"
+    },
+    {
+      "source_id": "1523b35ffecd6077cfaf889f872e608d0a8b4873eb3756e949236542e131aff9",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/4c355ced5861edc6f56816dd5b9e697bbf3a28e7a3229ca019d1f15e2ca80294.json"
+    },
+    {
+      "source_id": "dd235d4fe0d95c184bb949b2bd8d0017fe88726c5e27a809d21b565aafff6e17",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/49b0c5781ccd9207b688c43a74d930b0933e812c34a375c804813fa615bbb080.json"
+    },
+    {
+      "source_id": "e414dee48fa81b37200e86566330fd6e4944dfdb4c05314a2ab1681a18d96172",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/9d07efb6762751ecd5ce7203f37b7ecbe11eede138c693f77476e935932e8c66.json"
+    },
+    {
+      "source_id": "5b061bf0a1a4e66534c7e1cb41500ad76f22e26d56132d462459eb7a23c8e283",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/945e8bae050af7de7af3638040572f66aee827848dd6b8b5a572d6c5702e8c36.json"
+    },
+    {
+      "source_id": "1f258c7f3394119f0ebb0ff048be4f1932b24eaf30106b0a7beaf2d9543aad20",
+      "status": "complete",
+      "accepted": 5,
+      "review": 2,
+      "artifact_file": "data/interim/54fa5cbbfca2fe3954e96bbac4a8059f1f349f8785590190ff51206c381d72ce.json"
+    },
+    {
+      "source_id": "59b7110915379c3d7d48ab5114191bdc3c7ce1dbb308ff980c80464e8406ca49",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/86645bb9488083c8763f31dec62468ebc951fa48bd21275f13eb425dbda88773.json"
+    },
+    {
+      "source_id": "13735e8480816b0bd0f7be5988b2c9532d6240dd59501913ef40119d5729c5c1",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/9df20f0cbd2a01961852c776040578fd3ed87641b06f483eb4670faef08f2b76.json"
+    },
+    {
+      "source_id": "a037b07344819f9ae97142351935c27565a41d662d961043132596b3c6a6ae97",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/a8a0602a8ef6cc4f2612ba5f3b25ab9e38c69e640614ff50b1df6663c4e66e13.json"
+    },
+    {
+      "source_id": "504d37c037b192f7827c9c5313063127b558709e799cb982d6a40ecac92a0a59",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/a40680cc0623f5e6053b9bcb63523f8fcbf6063cc2a01779f14d00fa01caf5f1.json"
+    },
+    {
+      "source_id": "f2b5be5d8c3eedd711149c606efd31f643131432f96dcee7d11bb0fdb4139543",
+      "status": "complete",
+      "accepted": 8,
+      "review": 4,
+      "artifact_file": "data/interim/23dda507ac8b32c62fceb05d4b3fed830992424ab8f848f759e265dd51432544.json"
+    },
+    {
+      "source_id": "58df64c27a6333fcd88b0fd39d61b2d6c9311623a2d74aa93ecd696285859278",
+      "status": "complete",
+      "accepted": 10,
+      "review": 4,
+      "artifact_file": "data/interim/c8012145c29e84e0c09f0533d20ef79e6db6d229ef43e3e256a8f1dc7d3e8abe.json"
+    },
+    {
+      "source_id": "db23a334cad16576413551c0718752ba2859819341ab8c7d4f67407edd06feb5",
+      "status": "complete",
+      "accepted": 0,
+      "review": 4,
+      "artifact_file": "data/interim/4ab51cc3d27e44de86d30ae29b216aee75db30f81c117d075e13819819bfbd9e.json"
+    },
+    {
+      "source_id": "9a3a8f9227a4eedd815b7f20f45cf5c16f52eb1cb244a177ea0975ddd6691d66",
+      "status": "complete",
+      "accepted": 10,
+      "review": 4,
+      "artifact_file": "data/interim/e7c85b871a84c579d027cfddedb1b0d6b62b6414660bd83638645a39e4f77dbf.json"
+    }
+  ],
+  "discovery": [
+    {
+      "source": "fsri",
+      "status": "discovery_failed",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "source": "patents",
+      "status": "discovery_failed",
+      "error": "EPO_OPS_KEY and EPO_OPS_SECRET are required for live discovery; use supplied patent IDs/offline fixtures otherwise"
+    }
+  ],
+  "remaining_candidates": 0,
+  "outputs": {
+    "schema_version": "1",
+    "accepted": 306,
+    "review": 166,
+    "measured_only": false,
+    "by_source": {
+      "celgard": 224,
+      "fsri": 66,
+      "patents": 16
+    },
+    "by_record_type": {
+      "calculated": 28,
+      "measured": 82,
+      "spec_limit": 56,
+      "unknown": 140
+    },
+    "unknown_temperature": 150
+  }
+}

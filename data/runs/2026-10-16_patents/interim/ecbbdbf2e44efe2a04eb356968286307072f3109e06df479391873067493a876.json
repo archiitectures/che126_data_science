@@ -1,0 +1,887 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Coating layer"
+        ],
+        [
+          "",
+          "Weight ratio"
+        ],
+        [
+          "",
+          "Heat-resistant"
+        ],
+        [
+          "",
+          "Heat-resistant layer",
+          "Adhesive layer",
+          "binder/inorganic"
+        ],
+        [
+          "",
+          "",
+          "Composition for",
+          "",
+          "Composition for",
+          "particles/organic"
+        ],
+        [
+          "",
+          "Thickness of",
+          "heat-resistant layer",
+          "",
+          "adhesive layer",
+          "filler/adhesive binder"
+        ],
+        [
+          "",
+          "heat-resistant",
+          "",
+          "Inorganic",
+          "Organic",
+          "Adhesive",
+          "Thickness of",
+          "Organic",
+          "Adhesive",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "layer",
+          "Heat resistant",
+          "particles",
+          "filler",
+          "binder",
+          "adhesive layer",
+          "filler",
+          "binder",
+          "binder in the coating"
+        ],
+        [
+          "",
+          "(μm/μm)",
+          "binder",
+          "(μm)",
+          "(μm)",
+          "(μm)",
+          "(μm/μm)",
+          "(μm)",
+          "(μm)",
+          "layer (wt %))"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 1",
+          "1.5/1.5",
+          "Synthesis",
+          "0.65",
+          "0.3",
+          "—",
+          "0.5/0.5",
+          "—",
+          "0.6",
+          "1/30/2/3"
+        ],
+        [
+          "",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 8.3 wt %)"
+        ],
+        [
+          "Ex. 2",
+          "1.5/1.5",
+          "Synthesis",
+          "0.3",
+          "—",
+          "—",
+          "0.5/0.5",
+          "—",
+          "0.6",
+          "1/35/0/4"
+        ],
+        [
+          "",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 10 wt %)"
+        ],
+        [
+          "Ex. 3",
+          "1.5/1.5",
+          "Synthesis",
+          "0.3",
+          "0.15",
+          "—",
+          "0.5/0.5",
+          "—",
+          "0.6",
+          "1/31/4/4"
+        ],
+        [
+          "",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 10 wt %)"
+        ],
+        [
+          "Ex. 4",
+          "2.0/0",
+          "Synthesis",
+          "0.3",
+          "0.15",
+          "—",
+          "0.5/0.5",
+          "—",
+          "0.6",
+          "1/31/4/5"
+        ],
+        [
+          "",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 12.2 wt %)"
+        ],
+        [
+          "Ex. 5",
+          "1.5/1.5",
+          "Synthesis",
+          "0.3",
+          "0.15",
+          "0.6",
+          "—",
+          "—",
+          "—",
+          "1/30/7/5"
+        ],
+        [
+          "",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 11.6 wt %)"
+        ],
+        [
+          "Ex. 6",
+          "1.5/1.5",
+          "Synthesis",
+          "0.3",
+          "—",
+          "—",
+          "0.5/0.5",
+          "0.15",
+          "0.6",
+          "1/35/7/4"
+        ],
+        [
+          "",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 8.5 wt %)"
+        ],
+        [
+          "Comp.",
+          "1.5/1.5",
+          "PVdF-",
+          "0.5",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "1/5/0/0"
+        ],
+        [
+          "Ex. 1",
+          "",
+          "HFP"
+        ],
+        [
+          "Comp.",
+          "1.5/1.5",
+          "Synthesis",
+          "1.3",
+          "0.3",
+          "—",
+          "0.5/0.5",
+          "—",
+          "0.6",
+          "1/30/2/3"
+        ],
+        [
+          "Ex. 2",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 8.3 wt %)"
+        ],
+        [
+          "Comp.",
+          "1.5/1.5",
+          "Synthesis",
+          "0.65",
+          "0.3",
+          "—",
+          "—",
+          "—",
+          "—",
+          "1/30/2/3"
+        ],
+        [
+          "Ex. 3",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 8.3 wt %)"
+        ],
+        [
+          "Comp.",
+          "1.5/1.5",
+          "PVP",
+          "0.3",
+          "0.15",
+          "—",
+          "0.5/0.5",
+          "—",
+          "0.6",
+          "1/31/4/4"
+        ],
+        [
+          "Ex. 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 10 wt %)"
+        ],
+        [
+          "Comp.",
+          "1.5/1.5",
+          "Synthesis",
+          "0.65",
+          "0.3",
+          "—",
+          "0.5/0.5",
+          "—",
+          "0.15",
+          "1/30/2/3"
+        ],
+        [
+          "Ex. 5",
+          "",
+          "Example1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(content of adhesive"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "binder: 8.3 wt %)"
+        ],
+        [
+          "Comp.",
+          "1.5/1.5",
+          "Synthesis",
+          "0.65",
+          "0.4",
+          "—",
+          "—",
+          "—",
+          "—",
+          "1/0/10/0"
+        ],
+        [
+          "Ex. 6",
+          "",
+          "Example1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Coating layer</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Weight ratio</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat-resistant</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heat-resistant layer</td>\n<td class=\"description-td\">Adhesive layer</td>\n<td class=\"description-td\">binder/inorganic</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Composition for</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Composition for</td>\n<td class=\"description-td\">particles/organic</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness of</td>\n<td class=\"description-td\">heat-resistant layer</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">adhesive layer</td>\n<td class=\"description-td\">filler/adhesive binder</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">heat-resistant</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Inorganic</td>\n<td class=\"description-td\">Organic</td>\n<td class=\"description-td\">Adhesive</td>\n<td class=\"description-td\">Thickness of</td>\n<td class=\"description-td\">Organic</td>\n<td class=\"description-td\">Adhesive</td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">Heat resistant</td>\n<td class=\"description-td\">particles</td>\n<td class=\"description-td\">filler</td>\n<td class=\"description-td\">binder</td>\n<td class=\"description-td\">adhesive layer</td>\n<td class=\"description-td\">filler</td>\n<td class=\"description-td\">binder</td>\n<td class=\"description-td\">binder in the coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm/μm)</td>\n<td class=\"description-td\">binder</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm/μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">layer (wt %))</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 1</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.65</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">1/30/2/3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 8.3 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">1/35/0/4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 10 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 3</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">0.15</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">1/31/4/4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 10 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 4</td>\n<td class=\"description-td\">2.0/0<sup> </sup> </td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">0.15</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">1/31/4/5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 12.2 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 5</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">0.15</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1/30/7/5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 11.6 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 6</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">0.15</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">1/35/7/4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 8.5 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">PVdF-</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1/5/0/0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HFP</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">1/30/2/3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 8.3 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.65</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1/30/2/3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 3</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 8.3 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">PVP</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">0.15</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">1/31/4/4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 4</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 10 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.65</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.5/0.5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\"> 0.15</td>\n<td class=\"description-td\">1/30/2/3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 5</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(content of adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">binder: 8.3 wt %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp.</td>\n<td class=\"description-td\">1.5/1.5</td>\n<td class=\"description-td\">Synthesis</td>\n<td class=\"description-td\">0.65</td>\n<td class=\"description-td\">0.4</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1/0/10/0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 6</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Capacity retention (%)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "90.9"
+        ],
+        [
+          "",
+          "Comparative Example 1",
+          "90.4"
+        ],
+        [
+          "",
+          "Comparative Example 5",
+          "0"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Capacity retention (%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">90.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 1</td>\n<td class=\"description-td\">90.4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 5</td>\n<td class=\"description-td\">0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Bending Force (N)"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "281"
+        ],
+        [
+          "",
+          "Example 2",
+          "326"
+        ],
+        [
+          "",
+          "Example 3",
+          "297"
+        ],
+        [
+          "",
+          "Example 4",
+          "376"
+        ],
+        [
+          "",
+          "Example 5",
+          "206"
+        ],
+        [
+          "",
+          "Example 6",
+          "268"
+        ],
+        [
+          "",
+          "Comparative Example 3",
+          "NG"
+        ],
+        [
+          "",
+          "Comparative Example 6",
+          "NG"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Bending Force (N)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">281</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">326</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">297</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">376</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">206</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">268</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 3</td>\n<td class=\"description-td\">NG</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 6</td>\n<td class=\"description-td\">NG</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "150° C."
+        ],
+        [
+          "",
+          "MD/TD"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Example 1",
+          "5/5"
+        ],
+        [
+          "",
+          "Example 2",
+          "2/2"
+        ],
+        [
+          "",
+          "Example 3",
+          "2/2"
+        ],
+        [
+          "",
+          "Example 4",
+          "5/5"
+        ],
+        [
+          "",
+          "Example 5",
+          "4/4"
+        ],
+        [
+          "",
+          "Example 6",
+          "3/2"
+        ],
+        [
+          "",
+          "Comparative Example 1",
+          "50/50"
+        ],
+        [
+          "",
+          "Comparative Example 2",
+          "50/50"
+        ],
+        [
+          "",
+          "Comparative Example 4",
+          "15/17"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">150° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">MD/TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">5/5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">2/2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">2/2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">5/5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">4/4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">3/2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 1</td>\n<td class=\"description-td\">50/50</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 2</td>\n<td class=\"description-td\">50/50</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 4</td>\n<td class=\"description-td\">15/17</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/17/52/13/45bb4894ccedd2/US12237536-20250225-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/95/f8/a4/0e4dda721d3c99/US12237536-20250225-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/51/2e/47/cf17fa66e0f940/US12237536-20250225-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/c5/14/89/e7001484bd9fbc/US12237536-20250225-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/24/98/d9/60b406e9c8227c/US12237536-20250225-D00004.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "6",
+      "url": "https://patentimages.storage.googleapis.com/05/f4/d7/e9f8f1b5a16d4d/US12237536-20250225-D00005.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "7",
+      "url": "https://patentimages.storage.googleapis.com/32/75/a7/3a04a2ad4f8e51/US12237536-20250225-D00006.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "8",
+      "url": "https://patentimages.storage.googleapis.com/0b/60/64/683851761f2c39/US12237536-20250225-D00007.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "9",
+      "url": "https://patentimages.storage.googleapis.com/b3/35/ad/0f34c25f8bdd7d/US12237536-20250225-D00008.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a schematic view of a separator according to an embodiment. FIG. 3 is an SEM photograph of a coating layer of the separator according to an embodiment. FIG. 4 is a schematic view of a separator according to another embodiment. FIG. 5 is an SEM photograph of a coating layer of a separator according to another embodiment. FIG. 6 is a graph showing room temperature cycle-life characteristics of a lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1. FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C. FIGS. 3 and 5 are SEM photographs of coating layers of separators. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. FIGS. 3 and 5 are SEM photographs of the separator coating layer. FIG. 3 is an SEM photograph of a composition without an organic filler, and FIG. 5 is an SEM photograph of a composition additionally including an organic filler. Herein, as an example of a lithium secondary battery, a cylindrical lithium secondary battery is exemplarily described. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. Referring to FIG. 1 , a lithium secondary battery 100 according to an embodiment includes a battery cell including a negative electrode 112 , a positive electrode 114 facing the negative electrode 112 , a separator 113 between the negative electrode 112 and the positive electrode 114 , and an electrolyte (not shown) impregnating the negative electrode 112 , the positive electrode 114 and the separator 113 , and a battery container 120 , a battery case containing the battery cell, and a sealing member 140 that seals the container 120 . FIG. 6 is a graph showing room temperature cycle-life characteristics measured twice for each lithium secondary battery cell. FIG. 7 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Comparative Example 1 and FIG. 8 is a graph showing the results of analyzing the OCV drop phenomenon of the lithium secondary battery cell according to Example 3. FIG. 9 is a sample photograph for comparing the results of evaluating the shrinkage rate at 150° C.",
+      "kind": "figure",
+      "sheet": "10",
+      "url": "https://patentimages.storage.googleapis.com/05/37/6e/2dff3b7240dee9/US12237536-20250225-D00009.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/7f/38/a1/87ef3461e10ed6/US12237536.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"5c9ba72d0d7a956deb7c6359c09f9253\"",
+        "last_modified": "Fri, 28 Feb 2025 01:19:16 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/281e91a977379ffe87ceaf32c6e53d008fdaaf00db187c962eb180897f41e7bf.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:27:04.733037+00:00",
+        "sha256": "281e91a977379ffe87ceaf32c6e53d008fdaaf00db187c962eb180897f41e7bf",
+        "source": "patent_pdf",
+        "source_id": "32ba70fded2bd932fd530e3c320ae47db3e0084dc39550f8888ee8785b559050",
+        "url": "https://patentimages.storage.googleapis.com/7f/38/a1/87ef3461e10ed6/US12237536.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US12237536B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/383cad98cea908512991e3f75248a69e20b1ab5f0eb107f3e92bd641c14be2a7.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:27:03.795861+00:00",
+    "sha256": "383cad98cea908512991e3f75248a69e20b1ab5f0eb107f3e92bd641c14be2a7",
+    "source": "patents",
+    "source_id": "03d6b582043ff69edd1108c3d92e5ea5cec061ba54cbe678c7840bb3a975e8b1",
+    "url": "https://patents.google.com/patent/US12237536B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "ea5970cdc75d90d3345f5997189bbeb84289dc8735226bfd3a031de20b5bc9aa",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "03d6b582043ff69edd1108c3d92e5ea5cec061ba54cbe678c7840bb3a975e8b1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/383cad98cea908512991e3f75248a69e20b1ab5f0eb107f3e92bd641c14be2a7.bin",
+      "source_id": "03d6b582043ff69edd1108c3d92e5ea5cec061ba54cbe678c7840bb3a975e8b1",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "383cad98cea908512991e3f75248a69e20b1ab5f0eb107f3e92bd641c14be2a7",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US12237536B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

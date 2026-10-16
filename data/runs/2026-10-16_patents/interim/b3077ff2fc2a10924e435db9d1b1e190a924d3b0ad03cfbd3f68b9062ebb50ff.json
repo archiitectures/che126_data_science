@@ -1,0 +1,826 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Solvent"
+        ],
+        [
+          "",
+          "Solid charge amount",
+          "",
+          "",
+          "",
+          "CMC"
+        ],
+        [
+          "",
+          "Binder",
+          "Filler",
+          "Solvent composition",
+          "concentration"
+        ],
+        [
+          "",
+          "CMC",
+          "(a1)",
+          "(a2)",
+          "(b1)",
+          "(b2)",
+          "Water",
+          "IPA",
+          "ETA",
+          "(vs. solvent +"
+        ],
+        [
+          "",
+          "Parts by",
+          "Parts by",
+          "Parts by",
+          "Parts by",
+          "Parts by",
+          "Weight",
+          "Weight",
+          "Weight",
+          "CMC)"
+        ],
+        [
+          "",
+          "weight",
+          "weight",
+          "weight",
+          "weight",
+          "weight",
+          "ratio",
+          "ratio",
+          "ratio",
+          "% by weight"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Coating",
+          "3",
+          "95",
+          "—",
+          "5",
+          "—",
+          "90",
+          "10",
+          "—",
+          "0.70"
+        ],
+        [
+          "fluid 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Coating",
+          "5",
+          "95",
+          "—",
+          "5",
+          "—",
+          "90",
+          "10",
+          "—",
+          "0.70"
+        ],
+        [
+          "fluid 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Coating",
+          "2.85",
+          "100",
+          "—",
+          "—",
+          "—",
+          "90",
+          "10",
+          "—",
+          "0.70"
+        ],
+        [
+          "fluid 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Coating",
+          "5",
+          "100",
+          "—",
+          "—",
+          "—",
+          "90",
+          "10",
+          "—",
+          "0.70"
+        ],
+        [
+          "fluid 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Coating",
+          "2.85",
+          "—",
+          "86",
+          "—",
+          "14",
+          "70",
+          "—",
+          "30",
+          "0.70"
+        ],
+        [
+          "fluid 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solvent</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Solid charge amount</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">CMC</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Binder</td>\n<td class=\"description-td\">Filler</td>\n<td class=\"description-td\">Solvent composition</td>\n<td class=\"description-td\">concentration</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">CMC</td>\n<td class=\"description-td\">(a1)</td>\n<td class=\"description-td\">(a2)</td>\n<td class=\"description-td\">(b1)</td>\n<td class=\"description-td\">(b2)</td>\n<td class=\"description-td\">Water</td>\n<td class=\"description-td\">IPA</td>\n<td class=\"description-td\">ETA</td>\n<td class=\"description-td\">(vs. solvent +</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">Parts by</td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">Weight</td>\n<td class=\"description-td\">CMC)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\">ratio</td>\n<td class=\"description-td\">ratio</td>\n<td class=\"description-td\">ratio</td>\n<td class=\"description-td\">% by weight</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">fluid 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">fluid 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">2.85</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">fluid 3</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">fluid 4</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">2.85</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">86</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">0.70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">fluid 5</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Thickness",
+          "Basis weight",
+          "Porosity",
+          "Gas permeability"
+        ],
+        [
+          "",
+          "Base porous",
+          "",
+          "μm",
+          "g/m 2",
+          "g/m 2",
+          "sec/100 cc"
+        ],
+        [
+          "",
+          "film",
+          "Coating",
+          "Layers",
+          "",
+          "Layers",
+          "",
+          "Layers",
+          "",
+          "Layers",
+          ""
+        ],
+        [
+          "",
+          "(layer A)",
+          "fluid",
+          "A + B",
+          "Layer B",
+          "A + B",
+          "Layer B",
+          "A + B",
+          "Layer B",
+          "A + B",
+          "Layer B"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "A1",
+          "Coating",
+          "25.0",
+          "6.5",
+          "16.3",
+          "9.3",
+          "59",
+          "64",
+          "98",
+          "22"
+        ],
+        [
+          "",
+          "",
+          "fluid 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 2",
+          "A1",
+          "Coating",
+          "25.8",
+          "7.3",
+          "16.6",
+          "9.6",
+          "59",
+          "66",
+          "126",
+          "50"
+        ],
+        [
+          "",
+          "",
+          "fluid 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "A2",
+          "Coating",
+          "24.4",
+          "6.4",
+          "15.6",
+          "8.6",
+          "57",
+          "66",
+          "114",
+          "27"
+        ],
+        [
+          "Example 1",
+          "",
+          "fluid 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "A2",
+          "Coating",
+          "24.7",
+          "6.7",
+          "15.6",
+          "8.6",
+          "57",
+          "66",
+          "221",
+          "134"
+        ],
+        [
+          "Example 2",
+          "",
+          "fluid 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "A3",
+          "Coating",
+          "26.7",
+          "9.3",
+          "20.9",
+          "13.4",
+          "54",
+          "62",
+          "178",
+          "76"
+        ],
+        [
+          "Example 3",
+          "",
+          "fluid 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Basis weight</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">Gas permeability</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Base porous</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">g/m<sup>2</sup> </td>\n<td class=\"description-td\">g/m<sup>2</sup> </td>\n<td class=\"description-td\">sec/100 cc</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">film</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">Layers </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layers </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layers</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layers</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(layer A)</td>\n<td class=\"description-td\">fluid</td>\n<td class=\"description-td\">A + B</td>\n<td class=\"description-td\">Layer B</td>\n<td class=\"description-td\">A + B</td>\n<td class=\"description-td\">Layer B</td>\n<td class=\"description-td\">A + B</td>\n<td class=\"description-td\">Layer B</td>\n<td class=\"description-td\">A + B</td>\n<td class=\"description-td\">Layer B</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">A1</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">25.0</td>\n<td class=\"description-td\">6.5</td>\n<td class=\"description-td\">16.3</td>\n<td class=\"description-td\">9.3</td>\n<td class=\"description-td\">59</td>\n<td class=\"description-td\">64</td>\n<td class=\"description-td\"> 98</td>\n<td class=\"description-td\">22</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluid 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">A1</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">25.8</td>\n<td class=\"description-td\">7.3</td>\n<td class=\"description-td\">16.6</td>\n<td class=\"description-td\">9.6</td>\n<td class=\"description-td\">59</td>\n<td class=\"description-td\">66</td>\n<td class=\"description-td\">126</td>\n<td class=\"description-td\">50</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluid 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">A2</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">24.4</td>\n<td class=\"description-td\">6.4</td>\n<td class=\"description-td\">15.6</td>\n<td class=\"description-td\">8.6</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">66</td>\n<td class=\"description-td\">114</td>\n<td class=\"description-td\">27</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluid 3</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">A2</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">24.7</td>\n<td class=\"description-td\">6.7</td>\n<td class=\"description-td\">15.6</td>\n<td class=\"description-td\">8.6</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">66</td>\n<td class=\"description-td\">221</td>\n<td class=\"description-td\">134 </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluid 4</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">A3</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">26.7</td>\n<td class=\"description-td\">9.3</td>\n<td class=\"description-td\">20.9</td>\n<td class=\"description-td\">13.4 </td>\n<td class=\"description-td\">54</td>\n<td class=\"description-td\">62</td>\n<td class=\"description-td\">178</td>\n<td class=\"description-td\">76</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluid 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"11\" nameend=\"11\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Heating",
+          "Particle",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "shape",
+          "diameter",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "retention",
+          "of",
+          "",
+          "",
+          "Layer B"
+        ],
+        [
+          "",
+          "ratio",
+          "secondary",
+          "Surface",
+          "Peel",
+          "fall-off"
+        ],
+        [
+          "",
+          "(%)",
+          "aggregates",
+          "roughness",
+          "strength",
+          "amount"
+        ],
+        [
+          "",
+          "MD",
+          "TD",
+          "(μm)",
+          "(μm)",
+          "(N/25 mm)",
+          "(g/m 2 )"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "99",
+          "99",
+          "0.54",
+          "0.34",
+          "3.5",
+          "0.2"
+        ],
+        [
+          "Example 2",
+          "99",
+          "99",
+          "0.50",
+          "0.35",
+          "7.8",
+          "0"
+        ],
+        [
+          "Comparative",
+          "99",
+          "99",
+          "—",
+          "0.27",
+          "2.5",
+          "2.1"
+        ],
+        [
+          "Example 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "99",
+          "99",
+          "—",
+          "0.31",
+          "3.4",
+          "0.7"
+        ],
+        [
+          "Example 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "99",
+          "99",
+          "3.18",
+          "0.67",
+          "0.8",
+          "0.5"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\">TABLE 3</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Heating </td>\n<td class=\"description-td\">Particle </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shape</td>\n<td class=\"description-td\">diameter </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">retention</td>\n<td class=\"description-td\">of</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layer B</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio </td>\n<td class=\"description-td\">secondary</td>\n<td class=\"description-td\">Surface</td>\n<td class=\"description-td\">Peel </td>\n<td class=\"description-td\">fall-off</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">aggregates </td>\n<td class=\"description-td\">roughness</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">amount </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(N/25 mm)</td>\n<td class=\"description-td\">(g/m<sup>2</sup>)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">0.54</td>\n<td class=\"description-td\">0.34</td>\n<td class=\"description-td\">3.5</td>\n<td class=\"description-td\">0.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">0.50</td>\n<td class=\"description-td\">0.35</td>\n<td class=\"description-td\">7.8</td>\n<td class=\"description-td\">0  </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.27</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">2.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.31</td>\n<td class=\"description-td\">3.4</td>\n<td class=\"description-td\">0.7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">99</td>\n<td class=\"description-td\">3.18</td>\n<td class=\"description-td\">0.67</td>\n<td class=\"description-td\">0.8</td>\n<td class=\"description-td\">0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Thickness",
+          "Basis weight",
+          "",
+          "",
+          "Layer B"
+        ],
+        [
+          "",
+          "",
+          "μm",
+          "g/m 2",
+          "Particle diameter",
+          "Surface",
+          "fall-off"
+        ],
+        [
+          "",
+          "Coating",
+          "Electrode +",
+          "",
+          "Electrode +",
+          "",
+          "of secondary",
+          "roughness",
+          "amount"
+        ],
+        [
+          "",
+          "fluid",
+          "layer B",
+          "Layer B",
+          "layer B",
+          "Layer B",
+          "aggregates (μm)",
+          "(μm)",
+          "(g/m 2 )"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 3",
+          "Coating",
+          "72.3",
+          "10.0",
+          "84.6",
+          "14.6",
+          "0.65",
+          "0.46",
+          "0.2"
+        ],
+        [
+          "",
+          "fluid 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Comparative",
+          "Coating",
+          "71.8",
+          "9.5",
+          "85.7",
+          "15.7",
+          "—",
+          "0.45",
+          "0.9"
+        ],
+        [
+          "Example 4",
+          "fluid 6"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\">TABLE 4</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Basis weight</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layer B</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\">g/m<sup>2</sup> </td>\n<td class=\"description-td\">Particle diameter</td>\n<td class=\"description-td\">Surface</td>\n<td class=\"description-td\">fall-off</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">Electrode +</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Electrode +</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of secondary</td>\n<td class=\"description-td\">roughness</td>\n<td class=\"description-td\">amount</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluid</td>\n<td class=\"description-td\">layer B</td>\n<td class=\"description-td\">Layer B</td>\n<td class=\"description-td\">layer B</td>\n<td class=\"description-td\">Layer B</td>\n<td class=\"description-td\">aggregates (μm)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(g/m<sup>2</sup>)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">72.3</td>\n<td class=\"description-td\">10.0</td>\n<td class=\"description-td\">84.6</td>\n<td class=\"description-td\">14.6</td>\n<td class=\"description-td\">0.65</td>\n<td class=\"description-td\">0.46</td>\n<td class=\"description-td\">0.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">fluid 1</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">71.8</td>\n<td class=\"description-td\"> 9.5</td>\n<td class=\"description-td\">85.7</td>\n<td class=\"description-td\">15.7</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0.45</td>\n<td class=\"description-td\">0.9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">fluid 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/95/bd/f4/576794c782fe81/US20190020007A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"62261cda0afadb6608cc37da698e6701\"",
+        "last_modified": "Sat, 02 Feb 2019 08:45:22 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/64f0e00c79962adf075425ed25e8abf0dc2e9eda076e3d818b14d29edaacd28b.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:41.496714+00:00",
+        "sha256": "64f0e00c79962adf075425ed25e8abf0dc2e9eda076e3d818b14d29edaacd28b",
+        "source": "patent_pdf",
+        "source_id": "572d633d2169f79a3397e1fb590f6c15ffd674137ad5d8502a4139a3083178f5",
+        "url": "https://patentimages.storage.googleapis.com/95/bd/f4/576794c782fe81/US20190020007A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20190020007A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/777289d1431ca953020ac9bafdb5a9130c38b154b4fd460b59e2248990a7a224.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:40.443988+00:00",
+    "sha256": "777289d1431ca953020ac9bafdb5a9130c38b154b4fd460b59e2248990a7a224",
+    "source": "patents",
+    "source_id": "dba1c3f91b3f8297ba451e0de42626fbfe663aa68b1c568bf1bf58b2f718b23a",
+    "url": "https://patents.google.com/patent/US20190020007A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "207bb753af9ce9eafea67f98e975cecf442ae8647638bffd33d3070700ee7ac4",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "dba1c3f91b3f8297ba451e0de42626fbfe663aa68b1c568bf1bf58b2f718b23a",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/777289d1431ca953020ac9bafdb5a9130c38b154b4fd460b59e2248990a7a224.bin",
+      "source_id": "dba1c3f91b3f8297ba451e0de42626fbfe663aa68b1c568bf1bf58b2f718b23a",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "777289d1431ca953020ac9bafdb5a9130c38b154b4fd460b59e2248990a7a224",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20190020007A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

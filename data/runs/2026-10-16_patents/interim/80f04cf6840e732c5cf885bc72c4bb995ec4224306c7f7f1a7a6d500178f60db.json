@@ -1,0 +1,2285 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "______________________________________"
+        ],
+        [
+          "Test Methods"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Gurley",
+          "ASTM-D726 (B)"
+        ],
+        [
+          "Gurley is a resistance to air flow measured by the"
+        ],
+        [
+          "Gurley densometer (e.g. Model 4120). Gurley is the"
+        ],
+        [
+          "time in seconds required to pass 10 cc of air through"
+        ],
+        [
+          "one square inch of product under a pressure of 12.2"
+        ],
+        [
+          "inches of water."
+        ],
+        [
+          "Thickness Method: T411om-83 developed under the auspices of"
+        ],
+        [
+          "the Technical Association of the Pulp and Paper"
+        ],
+        [
+          "Industry. Thickness is determined using a"
+        ],
+        [
+          "precision micrometer with a 1/2 inch diameter,"
+        ],
+        [
+          "circular shoe contacting the sample at seven (7)"
+        ],
+        [
+          "PSI. Ten (10) individual micrometer readings"
+        ],
+        [
+          "taken across the width of the sample are averaged."
+        ],
+        [
+          "Porosity",
+          "ASTM D-2873"
+        ],
+        [
+          "Density",
+          "ASTM D-792"
+        ],
+        [
+          "Puncture",
+          "Ten measurements are made across the width of"
+        ],
+        [
+          "Strength",
+          "the stretched product and averaged. A Mitech"
+        ],
+        [
+          "Stevens LFRA Texture Analyzer is used. The"
+        ],
+        [
+          "needle is 1.65 mm in diameter with 0.5 mm"
+        ],
+        [
+          "radius. The rate of descent is 2 mm/sec and"
+        ],
+        [
+          "the amount of deflection is 6 mm. The film"
+        ],
+        [
+          "is hied tight in the camping device with a"
+        ],
+        [
+          "central hole of 11.3 mm. The displacement"
+        ],
+        [
+          "(in mm) of the film that was pierced by the"
+        ],
+        [
+          "needle was recorded against the resistance"
+        ],
+        [
+          "force (in gram force) developed by the tested"
+        ],
+        [
+          "film. The maximum resistance force is the"
+        ],
+        [
+          "puncture strength."
+        ],
+        [
+          "Peel",
+          "Peel strength is measured using a tension and"
+        ],
+        [
+          "strength",
+          "compression tester to determine the force in"
+        ],
+        [
+          "grams required to separate two one-inch wide"
+        ],
+        [
+          "sections of bonded membrane. The peel rate"
+        ],
+        [
+          "is 6 inches/minute. Three measurements are"
+        ],
+        [
+          "taken across the web and averaged."
+        ],
+        [
+          "Melt Index"
+        ],
+        [
+          "ASTM D 1238; PE: 190° C./2.16 Kg; PP:"
+        ],
+        [
+          "230° C./2.16 Kg."
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">______________________________________                                    \nTest Methods                                                              \n______________________________________                                    \nGurley    ASTM-D726 (B)                                                   \n          Gurley is a resistance to air flow measured by the              \n          Gurley densometer (e.g. Model 4120). Gurley is the              \n          time in seconds required to pass 10 cc of air through           \n          one square inch of product under a pressure of 12.2             \n          inches of water.                                                \nThickness Method: T411om-83 developed under the auspices of               \n          the Technical Association of the Pulp and Paper                 \n          Industry. Thickness is determined using a                       \n          precision micrometer with a 1/2 inch diameter,                  \n          circular shoe contacting the sample at seven (7)                \n          PSI. Ten (10) individual micrometer readings                    \n          taken across the width of the sample are averaged.              \nPorosity  ASTM D-2873                                                     \nDensity   ASTM D-792                                                      \nPuncture  Ten measurements are made across the width of                   \nStrength  the stretched product and averaged. A Mitech                    \n          Stevens LFRA Texture Analyzer is used. The                      \n          needle is 1.65 mm in diameter with 0.5 mm                       \n          radius. The rate of descent is 2 mm/sec and                     \n          the amount of deflection is 6 mm. The film                      \n          is hied tight in the camping device with a                      \n          central hole of 11.3 mm. The displacement                       \n          (in mm) of the film that was pierced by the                     \n          needle was recorded against the resistance                      \n          force (in gram force) developed by the tested                   \n          film. The maximum resistance force is the                       \n          puncture strength.                                              \nPeel      Peel strength is measured using a tension and                   \nstrength  compression tester to determine the force in                    \n          grams required to separate two one-inch wide                    \n          sections of bonded membrane. The peel rate                      \n          is 6 inches/minute. Three measurements are                      \n          taken across the web and averaged.                              \nMelt Index                                                                \n          ASTM D 1238; PE: 190° C./2.16 Kg; PP:                    \n          230° C./2.16 Kg.                                         \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Polypropylene (PP Monopolymer)"
+        ],
+        [
+          "Density",
+          "Melt Index"
+        ],
+        [
+          "Resin",
+          "(g/cm.sup.3)"
+        ],
+        [
+          "(g/10 min)"
+        ],
+        [
+          "Supplier"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "A",
+          "Escorene",
+          "0.90",
+          "1.4",
+          "Exxon"
+        ],
+        [
+          "PP4292",
+          "Chemical"
+        ],
+        [
+          "B",
+          "Fina PP 3271"
+        ],
+        [
+          "0.905",
+          "1.5",
+          "Fina Oil"
+        ],
+        [
+          "&"
+        ],
+        [
+          "Chemical"
+        ],
+        [
+          "C",
+          "Fina PP 3281"
+        ],
+        [
+          "0.905",
+          "1.1",
+          "Fina Oil"
+        ],
+        [
+          "&"
+        ],
+        [
+          "Chemical"
+        ],
+        [
+          "D",
+          "Escorene",
+          "0.90",
+          "1.4",
+          "Exxon"
+        ],
+        [
+          "PP4292",
+          "Chemical"
+        ],
+        [
+          "(nucleated)"
+        ],
+        [
+          "E",
+          "Escorene",
+          "0.90",
+          "1.4",
+          "Exxon"
+        ],
+        [
+          "PP4372*",
+          "Chemical"
+        ],
+        [
+          "F",
+          "Escorene",
+          "0.90",
+          "3.0",
+          "Exxon"
+        ],
+        [
+          "PP3182",
+          "Chemical"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "*contains an antiblocking agent"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 1                                                     \n______________________________________                                    \nPolypropylene (PP Monopolymer)                                            \n              Density   Melt Index                                        \nResin         (g/cm.sup.3)                                                \n                        (g/10 min)                                        \n                                  Supplier                                \n______________________________________                                    \nA      Escorene   0.90      1.4     Exxon                                 \n       PP4292                       Chemical                              \nB      Fina PP 3271                                                       \n                  0.905     1.5     Fina Oil                              \n                                    &amp;                                     \n                                    Chemical                              \nC      Fina PP 3281                                                       \n                  0.905     1.1     Fina Oil                              \n                                    &amp;                                     \n                                    Chemical                              \nD      Escorene   0.90      1.4     Exxon                                 \n       PP4292                       Chemical                              \n       (nucleated)                                                        \nE      Escorene   0.90      1.4     Exxon                                 \n       PP4372*                      Chemical                              \nF      Escorene   0.90      3.0     Exxon                                 \n       PP3182                       Chemical                              \n______________________________________                                    \n *contains an antiblocking agent                                          \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Polyethylene (HDPE)"
+        ],
+        [
+          "Density",
+          "Melt Index"
+        ],
+        [
+          "Resin",
+          "(g/cm.sup.3)"
+        ],
+        [
+          "(g/10 min)"
+        ],
+        [
+          "Supplier"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "G",
+          "Fina",
+          "0.958",
+          "0.70",
+          "Fina Oil &"
+        ],
+        [
+          "HDPEGF7750",
+          "Chemical"
+        ],
+        [
+          "H",
+          "Escorene",
+          "0.964",
+          "0.30",
+          "Exxon"
+        ],
+        [
+          "HDZ107",
+          "Chemical"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 2                                                     \n______________________________________                                    \nPolyethylene (HDPE)                                                       \n              Density   Melt Index                                        \nResin         (g/cm.sup.3)                                                \n                        (g/10 min)                                        \n                                  Supplier                                \n______________________________________                                    \nG      Fina       0.958     0.70    Fina Oil &amp;                            \n       HDPEGF7750                   Chemical                              \nH      Escorene   0.964     0.30    Exxon                                 \n       HDZ107                       Chemical                              \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Extruder"
+        ],
+        [
+          "L/D",
+          "Barrel",
+          "Die",
+          "Die",
+          "Land",
+          "Blow-up"
+        ],
+        [
+          "Ratio",
+          "Size",
+          "Size",
+          "Opening"
+        ],
+        [
+          "Length Ratio"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "E1",
+          "24",
+          "2.5\"",
+          "12\" or 70 mil 3\"",
+          "1"
+        ],
+        [
+          "27\""
+        ],
+        [
+          "E2",
+          "24",
+          "3.5\"",
+          "12\" or 70 mil 3\"",
+          "1"
+        ],
+        [
+          "27\""
+        ],
+        [
+          "E3",
+          "30",
+          "1.25\"",
+          "6\"",
+          "70 mil 3\"",
+          "1"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 3                                                     \n______________________________________                                    \nExtruder                                                                  \nL/D     Barrel  Die      Die    Land   Blow-up                            \nRatio   Size    Size     Opening                                          \n                                Length Ratio                              \n______________________________________                                    \n<figure-callout filenames=\"US5691077-drawings-page-3.png\" id=\"24\" label=\"E1\" state=\"{{state}}\">E1</figure-callout>  24      2.5\"    12\" or 70 mil 3\"     1                                \n                    27\"                                                   \n<figure-callout filenames=\"US5691077-drawings-page-3.png\" id=\"24\" label=\"E2\" state=\"{{state}}\">E2</figure-callout>  24      3.5\"    12\" or 70 mil 3\"     1                                \n                    27\"                                                   \n<figure-callout filenames=\"US5691077-drawings-page-2.png\" id=\"30\" label=\"E3\" state=\"{{state}}\">E3</figure-callout>  30       1.25\"   6\"    70 mil 3\"     1                                \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Extrusion Condition"
+        ],
+        [
+          "Resin"
+        ],
+        [
+          "Extruder/",
+          "Air Quenching"
+        ],
+        [
+          "(See"
+        ],
+        [
+          "Die Size"
+        ],
+        [
+          "Extruder"
+        ],
+        [
+          "Melt"
+        ],
+        [
+          "Die"
+        ],
+        [
+          "Ring"
+        ],
+        [
+          "Air Press"
+        ],
+        [
+          "Air Ring"
+        ],
+        [
+          "Thick-"
+        ],
+        [
+          "Line"
+        ],
+        [
+          "Tables"
+        ],
+        [
+          "(see Temp Temp"
+        ],
+        [
+          "Temp"
+        ],
+        [
+          "Height"
+        ],
+        [
+          "(inches"
+        ],
+        [
+          "Opening"
+        ],
+        [
+          "ness"
+        ],
+        [
+          "Speed"
+        ],
+        [
+          "Product"
+        ],
+        [
+          "1 & 2)"
+        ],
+        [
+          "Table 3)"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "(inch)"
+        ],
+        [
+          "H.sub.2 O)"
+        ],
+        [
+          "(inches)"
+        ],
+        [
+          "(mil)"
+        ],
+        [
+          "(ft/min)"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "P1",
+          "A",
+          "E3/6\""
+        ],
+        [
+          "200",
+          "205"
+        ],
+        [
+          "205"
+        ],
+        [
+          "1\"",
+          "1.5\" 0.078\""
+        ],
+        [
+          "0.38"
+        ],
+        [
+          "42"
+        ],
+        [
+          "P2",
+          "C",
+          "E3/6\""
+        ],
+        [
+          "205",
+          "215"
+        ],
+        [
+          "215"
+        ],
+        [
+          "1\"",
+          "1.5\" 0.078\""
+        ],
+        [
+          "0.38"
+        ],
+        [
+          "42"
+        ],
+        [
+          "P3",
+          "C",
+          "E2/27\""
+        ],
+        [
+          "230",
+          "243"
+        ],
+        [
+          "243"
+        ],
+        [
+          "1\"",
+          "1.2\" 0.078\""
+        ],
+        [
+          "0.38"
+        ],
+        [
+          "47"
+        ],
+        [
+          "P4",
+          "A",
+          "E2/27\""
+        ],
+        [
+          "210",
+          "224"
+        ],
+        [
+          "224"
+        ],
+        [
+          "1\"",
+          "1.2\" 0.078\""
+        ],
+        [
+          "0.38"
+        ],
+        [
+          "50"
+        ],
+        [
+          "P5",
+          "A",
+          "E2/12\""
+        ],
+        [
+          "220",
+          "224"
+        ],
+        [
+          "224"
+        ],
+        [
+          "1\"",
+          "1.2\" 0.078\""
+        ],
+        [
+          "0.38"
+        ],
+        [
+          "50"
+        ],
+        [
+          "P6",
+          "B",
+          "E2/27\""
+        ],
+        [
+          "210",
+          "224"
+        ],
+        [
+          "224"
+        ],
+        [
+          "1\"",
+          "1.2\" 0.078\""
+        ],
+        [
+          "0.38"
+        ],
+        [
+          "50"
+        ],
+        [
+          "E1",
+          "G",
+          "E1/27\""
+        ],
+        [
+          "200",
+          "220"
+        ],
+        [
+          "200"
+        ],
+        [
+          "1\"",
+          "1.0\" 0.078\""
+        ],
+        [
+          "0.38"
+        ],
+        [
+          "60"
+        ],
+        [
+          "E2",
+          "H",
+          "E1/12\""
+        ],
+        [
+          "180",
+          "199"
+        ],
+        [
+          "185"
+        ],
+        [
+          "1.25\""
+        ],
+        [
+          "1.0\" 0.094\""
+        ],
+        [
+          "0.59"
+        ],
+        [
+          "60"
+        ],
+        [
+          "__________________________________________________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">                                  TABLE 4                                 \n__________________________________________________________________________\nExtrusion Condition                                                       \n    Resin                                                                 \n        Extruder/       Air Quenching                                     \n    (See                                                                  \n        Die Size                                                          \n             Extruder                                                     \n                  Melt                                                    \n                     Die                                                  \n                        Ring                                              \n                            Air Press                                     \n                                 Air Ring                                 \n                                      Thick-                              \n                                          Line                            \n    Tables                                                                \n        (see Temp Temp                                                    \n                     Temp                                                 \n                        Height                                            \n                            (inches                                       \n                                 Opening                                  \n                                      <figure-callout filenames=\"US5691077-drawings-page-2.png\" id=\"1\" label=\"ness Speed Product\" state=\"{{state}}\">ness                                \n                                          Speed                           \nProduct</figure-callout>                                                                   \n    1 &amp; 2)                                                                \n        Table 3)                                                          \n             (°C.)                                                 \n                  (°C.)                                            \n                     (°C.)                                         \n                        (inch)                                            \n                            H.sub.2 O)                                    \n                                 (inches)                                 \n                                      (mil)                               \n                                          (ft/min)                        \n__________________________________________________________________________\nP1  A   E3/6\"                                                             \n             200  205                                                     \n                     205                                                  \n                        1\"  1.5\" 0.078\"                                   \n                                      0.38                                \n                                          42                              \nP2  C   E3/6\"                                                             \n             205  215                                                     \n                     215                                                  \n                        1\"  1.5\" 0.078\"                                   \n                                      0.38                                \n                                          42                              \nP3  C   E2/27\"                                                            \n             230  243                                                     \n                     243                                                  \n                        1\"  1.2\" 0.078\"                                   \n                                      0.38                                \n                                          47                              \nP4  A   E2/27\"                                                            \n             210  224                                                     \n                     224                                                  \n                        1\"  1.2\" 0.078\"                                   \n                                      0.38                                \n                                          50                              \nP5  A   E2/12\"                                                            \n             220  224                                                     \n                     224                                                  \n                        1\"  1.2\" 0.078\"                                   \n                                      0.38                                \n                                          50                              \nP6  B   E2/27\"                                                            \n             210  224                                                     \n                     224                                                  \n                        1\"  1.2\" 0.078\"                                   \n                                      0.38                                \n                                          50                              \nE1  G   E1/27\"                                                            \n             200  220                                                     \n                     200                                                  \n                        1\"  1.0\" 0.078\"                                   \n                                      0.38                                \n                                          60                              \nE2  H   E1/12\"                                                            \n             180  199                                                     \n                     185                                                  \n                        1.25\"                                             \n                            1.0\" 0.094\"                                   \n                                      0.59                                \n                                          60                              \n__________________________________________________________________________\n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Annealing Conditions"
+        ],
+        [
+          "Peel"
+        ],
+        [
+          "Product",
+          "Annealing strength"
+        ],
+        [
+          "(see Table 4)"
+        ],
+        [
+          "Annealing Temp., °C."
+        ],
+        [
+          "Time, Min (gram/inch)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "P1",
+          "136",
+          "16",
+          "--"
+        ],
+        [
+          "P2",
+          "140",
+          "16",
+          "--"
+        ],
+        [
+          "P3",
+          "120",
+          "16",
+          "--"
+        ],
+        [
+          "P4, P5",
+          "120",
+          "16",
+          "2"
+        ],
+        [
+          "P6",
+          "135",
+          "16",
+          "0"
+        ],
+        [
+          "E1",
+          "110",
+          "19",
+          "1"
+        ],
+        [
+          "E2",
+          "115",
+          "19",
+          "1"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 5                                                     \n______________________________________                                    \nAnnealing Conditions                                                      \n                                  Peel                                    \nProduct                 Annealing strength                                \n(see Table 4)                                                             \n         Annealing Temp., °C.                                      \n                        Time, Min (gram/inch)                             \n______________________________________                                    \nP1       136            16        --                                      \nP2       140            16        --                                      \nP3       120            16        --                                      \nP4, P5   120            16        2                                       \nP6       135            16        0                                       \n<figure-callout filenames=\"US5691077-drawings-page-2.png\" id=\"110\" label=\"E1\" state=\"{{state}}\">E1</figure-callout>       110            19        1                                       \nE2       115            19        1                                       \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 6"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "Stretching Conditions"
+        ],
+        [
+          "Product",
+          "Hot",
+          "Hot"
+        ],
+        [
+          "(see"
+        ],
+        [
+          "Cold",
+          "Stretch Relax",
+          "Thick-"
+        ],
+        [
+          "TABLE"
+        ],
+        [
+          "Stretch,"
+        ],
+        [
+          "Cold"
+        ],
+        [
+          "Temp"
+        ],
+        [
+          "Hot Temp"
+        ],
+        [
+          "Hot",
+          "ness"
+        ],
+        [
+          "Gurley"
+        ],
+        [
+          "5)",
+          "Temp (°C.)"
+        ],
+        [
+          "Stretch*"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "Stretch*"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "Relax*, .sup.1"
+        ],
+        [
+          "(mil)"
+        ],
+        [
+          "(sec)"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "P4, P5"
+        ],
+        [
+          "ambient"
+        ],
+        [
+          "25% 120° C."
+        ],
+        [
+          "115%"
+        ],
+        [
+          "120° C."
+        ],
+        [
+          "40%",
+          "0.33"
+        ],
+        [
+          "12"
+        ],
+        [
+          "P6",
+          "ambient"
+        ],
+        [
+          "25% 135° C."
+        ],
+        [
+          "115%"
+        ],
+        [
+          "135° C."
+        ],
+        [
+          "40%",
+          "0.33"
+        ],
+        [
+          "10"
+        ],
+        [
+          "E1",
+          "ambient"
+        ],
+        [
+          "40% 119° C."
+        ],
+        [
+          "110%"
+        ],
+        [
+          "110° C."
+        ],
+        [
+          "50%",
+          "0.33"
+        ],
+        [
+          "8"
+        ],
+        [
+          "E2",
+          "ambient"
+        ],
+        [
+          "45% 115° C."
+        ],
+        [
+          "105%"
+        ],
+        [
+          "115° C."
+        ],
+        [
+          "40%",
+          "0.5 11"
+        ],
+        [
+          "__________________________________________________________________________"
+        ],
+        [
+          "*The percentage of the stretching/relaxing was based on the original"
+        ],
+        [
+          "length before cold stretching"
+        ],
+        [
+          ".sup.1 The relax step indicates that the stretched film is allowed to"
+        ],
+        [
+          "shrink back."
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">                                  TABLE 6                                 \n__________________________________________________________________________\nStretching Conditions                                                     \nProduct       Hot     Hot                                                 \n(see                                                                      \n    Cold      Stretch Relax    Thick-                                     \nTABLE                                                                     \n    Stretch,                                                              \n          Cold                                                            \n              Temp                                                        \n                  Hot Temp                                                \n                          Hot  ness                                       \n                                   Gurley                                 \n5)  Temp (°C.)                                                     \n          Stretch*                                                        \n              (°C.)                                                \n                  Stretch*                                                \n                      (°C.)                                        \n                          Relax*, .sup.1                                  \n                               (mil)                                      \n                                   (sec)                                  \n__________________________________________________________________________\nP4, P5                                                                    \n    ambient                                                               \n          25% 120° C.                                              \n                  115%                                                    \n                      120° C.                                      \n                          40%  0.33                                       \n                                   12                                     \nP6  ambient                                                               \n          25% 135° C.                                              \n                  115%                                                    \n                      135° C.                                      \n                          40%  0.33                                       \n                                   10                                     \nE1  ambient                                                               \n          40% 119° C.                                              \n                  110%                                                    \n                      110° C.                                      \n                          50%  0.33                                       \n                                    8                                     \nE2  ambient                                                               \n          45% 115° C.                                              \n                  105%                                                    \n                      115° C.                                      \n                          40%  0.5 11                                     \n__________________________________________________________________________\n *The percentage of the stretching/relaxing was based on the original     \n length before cold stretching                                            \n .sup.1 The relax step indicates that the stretched film is allowed to    \n shrink back.                                                             \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 7"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Trilayer Separator Properties"
+        ],
+        [
+          "PP/PE/PP",
+          "Puncture"
+        ],
+        [
+          "(see",
+          "Thickness Gurley"
+        ],
+        [
+          "Strength"
+        ],
+        [
+          "Adhesion"
+        ],
+        [
+          "Product"
+        ],
+        [
+          "Table 6) (mil)",
+          "(sec) (g)",
+          "(g/cm)"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "T1",
+          "P2/E1/P2 1.02",
+          "20",
+          "480",
+          "4.3"
+        ],
+        [
+          "T2",
+          "P4,P5/E1/"
+        ],
+        [
+          "1.01",
+          "29",
+          "480",
+          "--"
+        ],
+        [
+          "P4,P5"
+        ],
+        [
+          "T3",
+          "P6/E1/P6 1.01",
+          "22",
+          "483",
+          "--"
+        ],
+        [
+          "T4",
+          "P4,P5/E2/"
+        ],
+        [
+          "1.15",
+          "30",
+          "500",
+          "6.5"
+        ],
+        [
+          "P4,P5"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 7                                                     \n______________________________________                                    \nTrilayer Separator Properties                                             \n       PP/PE/PP                 Puncture                                  \n       (see     Thickness Gurley                                          \n                                Strength                                  \n                                       Adhesion                           \nProduct                                                                   \n       Table 6) (mil)     (sec) (g)    (g/cm)                             \n______________________________________                                    \nT1     P2/E1/P2 1.02      20    480    4.3                                \nT2     P4,P5/E1/                                                          \n                1.01      29    480    --                                 \n       P4,P5                                                              \nT3     P6/E1/P6 1.01      22    483    --                                 \nT4     P4,P5/E2/                                                          \n                1.15      30    500    6.5                                \n       P4,P5                                                              \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 7"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 8"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "Comparison of trilayer (PP/PE/PP) with other battery separators"
+        ],
+        [
+          "single- single-",
+          "bilayer"
+        ],
+        [
+          "crossply"
+        ],
+        [
+          "trilayer"
+        ],
+        [
+          "Property"
+        ],
+        [
+          "ply PP",
+          "ply PE",
+          "PP/PE",
+          "PE/PE",
+          "PP/PE/PP"
+        ],
+        [
+          "______________________________________"
+        ],
+        [
+          "thickness"
+        ],
+        [
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        [
+          "(mil)"
+        ],
+        [
+          "Porosity"
+        ],
+        [
+          "38",
+          "38",
+          "38",
+          "38",
+          "38"
+        ],
+        [
+          "(%)"
+        ],
+        [
+          "Gurley",
+          "25",
+          "25",
+          "25",
+          "25",
+          "25"
+        ],
+        [
+          "(sec)"
+        ],
+        [
+          "Shutdown"
+        ],
+        [
+          "165",
+          "132",
+          "132",
+          "132",
+          "132"
+        ],
+        [
+          "temp (°C.)"
+        ],
+        [
+          "Shutdown"
+        ],
+        [
+          "--",
+          "20",
+          "35",
+          "20",
+          "35"
+        ],
+        [
+          "temp"
+        ],
+        [
+          "range"
+        ],
+        [
+          "(°C.)"
+        ],
+        [
+          "puncture"
+        ],
+        [
+          "380",
+          "290",
+          "490 (PP)"
+        ],
+        [
+          "490",
+          "480"
+        ],
+        [
+          "strength",
+          "300 (PE)"
+        ],
+        [
+          "(g)"
+        ],
+        [
+          "______________________________________"
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<pre listing-type=\"tabular\" xml:space=\"preserve\">              TABLE 8                                                     \n______________________________________                                    \nComparison of trilayer (PP/PE/PP) with other battery separators           \n        single- single-  bilayer                                          \n                                crossply                                  \n                                       trilayer                           \nProperty                                                                  \n        ply PP  ply PE   PP/PE  PE/PE  PP/PE/PP                           \n______________________________________                                    \nthickness                                                                 \n        1.0     1.0      1.0    1.0    1.0                                \n(mil)                                                                     \nPorosity                                                                  \n        38      38       38     38     38                                 \n(%)                                                                       \nGurley  25      25       25     25     25                                 \n(sec)                                                                     \nShutdown                                                                  \n        165     132      132    132    132                                \ntemp (°C.)                                                         \nShutdown                                                                  \n        --      20       35     20     35                                 \ntemp                                                                      \nrange                                                                     \n(°C.)                                                              \npuncture                                                                  \n        380     290      490 (PP)                                         \n                                490    480                                \nstrength                 300 (PE)                                         \n(g)                                                                       \n______________________________________                                    \n</pre>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 8"
+    },
+    {
+      "caption": "FIG. 1 is a graphical representation of a trilayer battery separator's ability to shutdown a battery (as measured by electrical resistance, in ohms) as a function of temperature (in °C.). FIG. 2 is a schematic illustration of a deplying and trilayer formation set-up. Shutdown battery separator, as used herein, refers to a battery separator that has the ability to shutdown ion migration across the separator in response to a particular event, for example, the rapid evolution of heat. In FIG. 1, a graph illustrates the function of a shutdown battery separator. Shutdown ability is represented by resistance (in ohms), and the evolution of heat is represented by temperature (in °C.). As the temperature increases over an initial range, resistance is little changed. Resistance values spike-up, however, as the temperature reaches the melt temperature of the shutdown layer. After the resistance spike-up, the resistance values plateau until the temperature reaches the melt temperature of the strength layers. The data used for plotting the graph of FIG. 1 was obtained from tests on a trilayer shutdown battery separator, made according to the instant invention. This trilayer separator was constructed from polypropylene (PP)--polyethylene (PE)--polypropylene (PP). Further information about shutdown battery separators maybe obtained from U.S. Pat. Nos. 4,640,730; 4,731,304; 5,2240,655; 5,281,491; Japanese Kokai No. 6-20671; U.S. patent application No. 08/341,239 filed Nov. 17, 1994, entitled \"Methods of Making Cross-Ply Microporous Membrane Battery Separators, and the Battery Separators Made Thereby\"; and U.S. patent application No. 08/348,630 filed Dec. 2, 1994, entitled \"Shutdown, Bilayer Battery Separator\", each of which is incorporated herein by reference. To avoid wrinkle formation, trimmed 2-ply films are handled until the trilayer separators are formed. The films' deplying configuration is shown in FIG. 2. In FIG. 2, a deply and trilayer formation scheme 10 is shown. Scheme 10 includes a ground level layout 12 and an elevated layout 14. Layouts 12 and 14 are identical, but for elevation (to efficiently use space), so only layout 12 will be discussed in detail. Layout 12 comprises three unwind stations 16, 18, and 20. Stations 16 and 20 support rolls of polypropylene microporous membrane (i.e., one roll--2 plies), and station 18 supports a roll of polyethylene microporous membrane (i.e., one roll--2 plies). The membranes (i.e., either the PP or PE membranes) in single-ply form are as thin as about 1/3 mil. Membranes or films of this thickness are prone to wrinkling or creasing. To avoid wrinkling or creasing, these membranes are handled (as much as possible), in 2-ply form (about 2/3 mils thick). The polypropylene films 24 and polyethylene films 26 are unwound from their rollers, deplyed, in some cases with the assistance of guide rollers 22, and then replied to form trilayer precursors 28. From scheme 10, four (4) trilayer precursors 28 are formed. At least four trilayer precursors are preferred so to avoid the wrinkle problem and to more efficiently use equipment (economic reasons). A minimum of at least two trilayer precursors is preferred for process economics. The precursors 28 are forwarded to a bonding station 30 (not shown).",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/6f/a5/60/e46980e52e7892/US5691077-drawings-page-2.png"
+    },
+    {
+      "caption": "FIG. 1 is a graphical representation of a trilayer battery separator's ability to shutdown a battery (as measured by electrical resistance, in ohms) as a function of temperature (in °C.). FIG. 2 is a schematic illustration of a deplying and trilayer formation set-up. Shutdown battery separator, as used herein, refers to a battery separator that has the ability to shutdown ion migration across the separator in response to a particular event, for example, the rapid evolution of heat. In FIG. 1, a graph illustrates the function of a shutdown battery separator. Shutdown ability is represented by resistance (in ohms), and the evolution of heat is represented by temperature (in °C.). As the temperature increases over an initial range, resistance is little changed. Resistance values spike-up, however, as the temperature reaches the melt temperature of the shutdown layer. After the resistance spike-up, the resistance values plateau until the temperature reaches the melt temperature of the strength layers. The data used for plotting the graph of FIG. 1 was obtained from tests on a trilayer shutdown battery separator, made according to the instant invention. This trilayer separator was constructed from polypropylene (PP)--polyethylene (PE)--polypropylene (PP). Further information about shutdown battery separators maybe obtained from U.S. Pat. Nos. 4,640,730; 4,731,304; 5,2240,655; 5,281,491; Japanese Kokai No. 6-20671; U.S. patent application No. 08/341,239 filed Nov. 17, 1994, entitled \"Methods of Making Cross-Ply Microporous Membrane Battery Separators, and the Battery Separators Made Thereby\"; and U.S. patent application No. 08/348,630 filed Dec. 2, 1994, entitled \"Shutdown, Bilayer Battery Separator\", each of which is incorporated herein by reference. To avoid wrinkle formation, trimmed 2-ply films are handled until the trilayer separators are formed. The films' deplying configuration is shown in FIG. 2. In FIG. 2, a deply and trilayer formation scheme 10 is shown. Scheme 10 includes a ground level layout 12 and an elevated layout 14. Layouts 12 and 14 are identical, but for elevation (to efficiently use space), so only layout 12 will be discussed in detail. Layout 12 comprises three unwind stations 16, 18, and 20. Stations 16 and 20 support rolls of polypropylene microporous membrane (i.e., one roll--2 plies), and station 18 supports a roll of polyethylene microporous membrane (i.e., one roll--2 plies). The membranes (i.e., either the PP or PE membranes) in single-ply form are as thin as about 1/3 mil. Membranes or films of this thickness are prone to wrinkling or creasing. To avoid wrinkling or creasing, these membranes are handled (as much as possible), in 2-ply form (about 2/3 mils thick). The polypropylene films 24 and polyethylene films 26 are unwound from their rollers, deplyed, in some cases with the assistance of guide rollers 22, and then replied to form trilayer precursors 28. From scheme 10, four (4) trilayer precursors 28 are formed. At least four trilayer precursors are preferred so to avoid the wrinkle problem and to more efficiently use equipment (economic reasons). A minimum of at least two trilayer precursors is preferred for process economics. The precursors 28 are forwarded to a bonding station 30 (not shown).",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/5c/f9/de/151c6f73f426aa/US5691077-drawings-page-3.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/2b/81/4b/bf6d768d267b30/US5691077.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US5691077A"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:15:20.352982+00:00",
+    "sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+    "source": "patents",
+    "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+    "url": "https://patents.google.com/patent/US5691077A/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Thickness Method: T411om-83 developed under the auspices of",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: e.g. Model 4120. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "8b6f878002755c810c980357fb9c3700f11fb169e8a3d287e925f23b6c2db9cd",
+      "original_property_label": "Gurley Gurley is a resistance to air flow measured by the Gurley densometer (e.g. Model 4120). Gurley is the time in seconds required to pass 10 cc of air through one square inch of product under a pressure of 12.2 inches of water. Thickness Method: T411om-83 developed under the auspices of",
+      "original_unit": "e.g. Model 4120",
+      "original_value": "ASTM-D726 (B)",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "table_1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Porosity",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "96320a8286b8090e032d799b825cec06e185c1ffef5ffa750100449e06dc84a5",
+      "original_property_label": "Porosity",
+      "original_unit": "",
+      "original_value": "ASTM D-2873",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "17",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "table_1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Density",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "0b1a04bdf95dbf609693b7aac2678a80668d0382af531518ea5d220bbbc36372",
+      "original_property_label": "Density",
+      "original_unit": "",
+      "original_value": "ASTM D-792",
+      "polymer": null,
+      "product": null,
+      "property": "density",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "18",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "table_1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Density",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "c622528985d91fd08401d2a4da1b97116dbb9b83ad41103a141dbe302df9313e",
+      "original_property_label": "Density",
+      "original_unit": "",
+      "original_value": "Melt Index",
+      "polymer": null,
+      "product": null,
+      "property": "density",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 1",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Density",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "45cab893ea3b5b61d2e28842c070d4c8016b299ba72d95a75160c84981aca17f",
+      "original_property_label": "Density",
+      "original_unit": "",
+      "original_value": "Melt Index",
+      "polymer": null,
+      "product": null,
+      "property": "density",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "4",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 2",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Hot Gurley",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "3d18b279850b0bf47527f08b9883008ce031aaa25bc2891140885c7f8f9ff101",
+      "original_property_label": "Hot Gurley",
+      "original_unit": "",
+      "original_value": "ness",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "12",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 6",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "40% __________________________________________________________________________ *The percentage of the stretching/relaxing was based on the original length before cold stretching .sup.1 The relax step indicates that the stretched film is allowed to shrink back.",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: %. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "c71e0329406713f60cb0c52afb1eced87d23748ae298a4e61a62dae2d457ba65",
+      "original_property_label": "40% __________________________________________________________________________ *The percentage of the stretching/relaxing was based on the original length before cold stretching .sup.1 The relax step indicates that the stretched film is allowed to shrink back.",
+      "original_unit": "%",
+      "original_value": "0.5 11",
+      "polymer": null,
+      "product": null,
+      "property": "thermal_shrinkage",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "46",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 6",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "ply PP ______________________________________ thickness",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "4ccfd5b0af61a1c42ec3b6609e156005932a1ca44676a888bbff08f2fff7a04e",
+      "original_property_label": "ply PP ______________________________________ thickness",
+      "original_unit": "",
+      "original_value": "ply PE",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "8",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "ply PP ______________________________________ thickness",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "a88fe0494f2c7fddf8ce5edee30f8d5223492dd10aef3afe1d9863cfaa0bb762",
+      "original_property_label": "ply PP ______________________________________ thickness",
+      "original_unit": "",
+      "original_value": "PP/PE",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "8",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "ply PP ______________________________________ thickness",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "491c7472e09efdff4de156973c945137496e5dbade72dee9e06dc233ef926d0c",
+      "original_property_label": "ply PP ______________________________________ thickness",
+      "original_unit": "",
+      "original_value": "PE/PE",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "8",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "ply PP ______________________________________ thickness",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: . Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "b37723f4490834d5fc7c3e48a9edbf0a47969cf5b714087b799ab1c4177679e6",
+      "original_property_label": "ply PP ______________________________________ thickness",
+      "original_unit": "",
+      "original_value": "PP/PE/PP",
+      "polymer": null,
+      "product": null,
+      "property": "thickness",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "8",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "1.0 (mil) Porosity",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "a67c650bc4c471c600640dc41ac642e62b54c2b181d95194d84ad6b0640c88b4",
+      "original_property_label": "1.0 (mil) Porosity",
+      "original_unit": "mil",
+      "original_value": "1.0",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "11",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "1.0 (mil) Porosity",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "f757c76502296797c14a4558fe9c30ecbf8a2a9c6776f7b47e77aa3a611cf5d3",
+      "original_property_label": "1.0 (mil) Porosity",
+      "original_unit": "mil",
+      "original_value": "1.0",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "11",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "1.0 (mil) Porosity",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "c32350ca44c987851169b36ebe38e47b8c7d8a819c21f9825b9f8e9708318581",
+      "original_property_label": "1.0 (mil) Porosity",
+      "original_unit": "mil",
+      "original_value": "1.0",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "11",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "1.0 (mil) Porosity",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: mil. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "d8b261715ae4e7a1b9757f61b76fd0431003b4722ca3ed0ceb19d3eada3be09d",
+      "original_property_label": "1.0 (mil) Porosity",
+      "original_unit": "mil",
+      "original_value": "1.0",
+      "polymer": null,
+      "product": null,
+      "property": "porosity",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "11",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"s\", \"unit_alias\": \"sec\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley (sec) Shutdown",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: sec. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "93cf85eae9fba75bbf4afcfbbcc9f7daa434ee46161dc0f49f4967f5d2d6359f",
+      "original_property_label": "Gurley (sec) Shutdown",
+      "original_unit": "sec",
+      "original_value": "25",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "2",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "s",
+      "value": 25.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"s\", \"unit_alias\": \"sec\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley (sec) Shutdown",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: sec. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "f43c5a882a77a73aeb3f65c6bcd4ad84b24c840d8bb08060fde5cbb1dad9ea44",
+      "original_property_label": "Gurley (sec) Shutdown",
+      "original_unit": "sec",
+      "original_value": "25",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "s",
+      "value": 25.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"s\", \"unit_alias\": \"sec\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley (sec) Shutdown",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: sec. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "012c1b1c42dce783f138d986e77e7cf76873e763dae570f0e3d771bcf9ef93d7",
+      "original_property_label": "Gurley (sec) Shutdown",
+      "original_unit": "sec",
+      "original_value": "25",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "s",
+      "value": 25.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"s\", \"unit_alias\": \"sec\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley (sec) Shutdown",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: sec. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "6ec937ae1b0b4fa1b2180774e7b81acd7b47d41e0fb8053fac4dc483f2f0b9ca",
+      "original_property_label": "Gurley (sec) Shutdown",
+      "original_unit": "sec",
+      "original_value": "25",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_4",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "5",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "s",
+      "value": 25.0
+    },
+    {
+      "coating": null,
+      "conversion_metadata": "{\"canonical_unit\": \"s\", \"unit_alias\": \"sec\"}",
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_text_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Gurley (sec) Shutdown",
+      "method": null,
+      "notes": "Publication US5691077A; ; printed unit: sec. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "d8071840ec8967fa94f6ed1c6f2eb5a5b7d8dce9297a3e4bdf39ab50dfdad48d",
+      "original_property_label": "Gurley (sec) Shutdown",
+      "original_unit": "sec",
+      "original_value": "25",
+      "polymer": null,
+      "product": null,
+      "property": "gurley_time",
+      "quality_flag": "unresolved_example_header",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US5691077A:column_5",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "6",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7.bin",
+      "source_id": "4dbb87b5f542e0fd7f4cc16ad2052ede2398463cf7f4bfb36cd8039e7868cafc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "16",
+      "source_sha256": "e00189cbbfc31e4a590a5fec63ba2777b73b275277625bb4bb9c64574fcfdcc7",
+      "source_table": "TABLE 8",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US5691077A/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": "s",
+      "value": 25.0
+    }
+  ],
+  "status": "complete"
+}

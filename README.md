@@ -14,11 +14,21 @@ integrity must be tracked as distinct outcomes.
 
 ## Current scope
 
-The package provides a Google Patents BigQuery client, initial research notes,
-and separate dry/wet property CSVs. The dry table now includes 60 clearly
-labeled FSRI bulk-polyethylene thermal reference observations; the wet table
-remains empty. The base installation remains dependency-free; patent access uses the optional `patents` extra. General property extraction, preprocessing, notebooks, models, and simulation
-adapters are deferred.
+The package now supports a manifest-driven automatic source-to-master workflow,
+EPO patent discovery, existing Google BigQuery searches, public FSRI and Celgard discovery,
+NIMS PoLyInfo assisted search, raw-document preservation, strict observation CSV
+cleaning, typed CSV/Parquet master exports, review queues, calibrated curve tracing,
+and temperature/property coverage reports. The base install has no
+runtime dependencies; BigQuery and PDF text extraction use optional extras.
+
+Run `uv run python scripts/run_pipeline_demo.py` after installing the `ingest` and
+`graph` extras for a repeatable offline demonstration.
+
+Start with the [collection guide](docs/COLLECTION_GUIDE.md) or the
+[illustrated codebase PDF](output/pdf/codebase_guide.pdf). The existing published
+wide tables remain unchanged: 60 bulk-polyethylene reference rows in the dry
+CSV and an empty electrolyte-wet CSV. New tidy examples are staged separately
+in `data_mining/examples/`; they are not additional independent measurements.
 
 Property data will live in the public
 [Hugging Face dataset](https://huggingface.co/datasets/archiitecture/che126), with
@@ -40,7 +50,11 @@ che126_data_science/
 ├── src/che126_data_science/
 │   ├── __init__.py
 │   ├── data_mining/patents.py     # Patent search, retrieval, and JSON export
-│   └── data_science/__init__.py   # Future reusable analysis code
+│   ├── data_mining/sources.py     # Public discovery and hashed downloads
+│   ├── data_mining/fsri.py        # HFM and public curve parsing
+│   ├── data_mining/celgard.py     # Conservative datasheet extraction
+│   ├── data_science/observations.py # Tidy validation and coverage
+│   └── __main__.py               # Command-line workflow
 ├── pyproject.toml
 └── uv.lock
 ```
@@ -64,7 +78,7 @@ uv run python -c "import che126_data_science.data_mining; import che126_data_sci
 Python 3.12 or newer is supported; `.python-version` selects 3.12 for development.
 `uv sync` installs the local package in editable mode, so library edits are
 available immediately. The imports above verify setup. Patent acquisition is documented in
-[data_mining/PATENTS.md](data_mining/PATENTS.md); analysis functions are deferred. Build distributable artifacts with `uv build`.
+[data_mining/PATENTS.md](data_mining/PATENTS.md); cleaning and coverage are documented in the collection guide. Build distributable artifacts with `uv build`.
 Another project can install this package with
 `uv add git+ssh://git@github.com/archiitectures/che126_data_science.git`.
 
@@ -85,11 +99,10 @@ Another project can install this package with
 - Keep simulation implementations in the simulation repository. Define adapters
   here only once actual upstream output examples are available.
 
-## Next agreed phase
+## Next research phase
 
-Use the patent client to find candidate documents, then manually inspect a small set of sources,
-agree on measurement granularity and units, and then implement the minimum
-schema, validation, and loaders needed for those examples. Follow with property
-versus temperature analysis. Modeling comes after data coverage and provenance
-are adequate. Research notes are starting hypotheses and source leads, not a
-validated property database.
+Inspect coverage gaps before collecting more sources. Requested temperatures do
+not guarantee measurements exist at those conditions. Keep source/sample/form,
+electrolyte state, direction, methods and conditioning distinct. Add parsers only
+when real source examples justify them, then test against those fixtures. Modeling
+comes after adequate coverage and provenance, not before.

@@ -1,0 +1,1078 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Monomer",
+          "Copolymer 1",
+          "Copolymer 2",
+          "Copolymer 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "DMAAm",
+          "40",
+          "31",
+          "—"
+        ],
+        [
+          "",
+          "DMAEA",
+          "20",
+          "4",
+          "35"
+        ],
+        [
+          "",
+          "AN",
+          "40",
+          "15",
+          "15"
+        ],
+        [
+          "",
+          "EA",
+          "—",
+          "46",
+          "30"
+        ],
+        [
+          "",
+          "BA",
+          "—",
+          "—",
+          "28"
+        ],
+        [
+          "",
+          "AA",
+          "—",
+          "4",
+          "—"
+        ],
+        [
+          "",
+          "HBA",
+          "—",
+          "—",
+          "2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Monomer</td>\n<td class=\"description-td\">Copolymer 1</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\"> <figure-callout filenames=\"US09130215-20150908-D00000.png,US09130215-20150908-D00001.png\" id=\"3\" label=\"Copolymer\" state=\"{{state}}\">Copolymer</figure-callout> 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">DMAAm</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">DMAEA</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">35</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">AN</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">EA</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">BA</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">28</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">AA</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">4</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HBA</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Organic-inorganic coating layer",
+          "Organic coating layer",
+          ""
+        ],
+        [
+          "",
+          "Thickness",
+          "Thickness",
+          "",
+          "",
+          "",
+          "",
+          "Total"
+        ],
+        [
+          "",
+          "of porous",
+          "after",
+          "",
+          "",
+          "HFP content",
+          "Concentration",
+          "thickness"
+        ],
+        [
+          "",
+          "film before",
+          "formation",
+          "",
+          "Packing",
+          "of PVdF-",
+          "of polymer",
+          "of"
+        ],
+        [
+          "",
+          "coating",
+          "of coating",
+          "Copolymer",
+          "density",
+          "HFP",
+          "solution",
+          "separator"
+        ],
+        [
+          "",
+          "(μm)",
+          "layer (μm)",
+          "used",
+          "(D)",
+          "copolymer",
+          "(wt %)",
+          "(μm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 1",
+          "0.58 × D inorg",
+          "6",
+          "mole %",
+          "0.5",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 2",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "6",
+          "mole %",
+          "1.0",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 3",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 3",
+          "0.57 × D inorg",
+          "6",
+          "mole %",
+          "2.0",
+          "17.0 ± 0.5"
+        ],
+        [
+          "Example 4",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "15",
+          "mole %",
+          "0.5",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 5",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "15",
+          "mole %",
+          "1.0",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 6",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "15",
+          "mole %",
+          "1.5",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 7",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "15",
+          "mole %",
+          "2.0",
+          "16.3 ± 0.5"
+        ],
+        [
+          "Comparative",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "—",
+          "—",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 1",
+          "0.58 × D inorg",
+          "6",
+          "mole %",
+          "0.1",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "6",
+          "mole %",
+          "2.5",
+          "18.0 ± 0.5"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "15",
+          "mole %",
+          "0.1",
+          "16.0 ± 0.5"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "15",
+          "mole %",
+          "2.5",
+          "17.0 ± 0.5"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Comparative",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "Copolymer 2",
+          "0.55 × D inorg",
+          "Copolymer 2",
+          "1.0",
+          "16.5 ± 0.5"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Comparative",
+          "12 ± 0.5",
+          "16 ± 0.5",
+          "PVdF-HFP",
+          "0.38 × D inorg",
+          "6",
+          "mole %",
+          "1.0",
+          "16.5 ± 0.5"
+        ],
+        [
+          "Example 7",
+          "",
+          "",
+          "(6 mole %)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Organic-inorganic coating layer</td>\n<td class=\"description-td\">Organic coating layer</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Total</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of porous</td>\n<td class=\"description-td\">after</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HFP content</td>\n<td class=\"description-td\">Concentration</td>\n<td class=\"description-td\">thickness</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">film before</td>\n<td class=\"description-td\">formation</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Packing</td>\n<td class=\"description-td\">of PVdF-</td>\n<td class=\"description-td\">of polymer</td>\n<td class=\"description-td\">of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n<td class=\"description-td\">of coating</td>\n<td class=\"description-td\">Copolymer</td>\n<td class=\"description-td\">density</td>\n<td class=\"description-td\">HFP</td>\n<td class=\"description-td\">solution</td>\n<td class=\"description-td\">separator</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">layer (μm)</td>\n<td class=\"description-td\">used</td>\n<td class=\"description-td\">(D)</td>\n<td class=\"description-td\">copolymer</td>\n<td class=\"description-td\">(wt %)</td>\n<td class=\"description-td\">(μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 1</td>\n<td class=\"description-td\">0.58 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 3</td>\n<td class=\"description-td\">0.57 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">2.0</td>\n<td class=\"description-td\">17.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">2.0</td>\n<td class=\"description-td\">16.3 ± 0.5</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 1</td>\n<td class=\"description-td\">0.58 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">18.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">0.1</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">2.5</td>\n<td class=\"description-td\">17.0 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">0.55 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">Copolymer 2</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">16.5 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">12 ± 0.5</td>\n<td class=\"description-td\">16 ± 0.5</td>\n<td class=\"description-td\">PVdF-HFP</td>\n<td class=\"description-td\">0.38 × D<sub>inorg</sub> </td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">mole %</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">16.5 ± 0.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(6 mole %)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3"
+        ],
+        [
+          ""
+        ],
+        [
+          "Physical properties of separators"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Electrical",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "resistance",
+          "Adhesive"
+        ],
+        [
+          "",
+          "Total",
+          "Air",
+          "of coin",
+          "strength",
+          "Lamination",
+          "MD thermal"
+        ],
+        [
+          "",
+          "thickness",
+          "permeability",
+          "cell",
+          "(gf/15",
+          "force",
+          "shrinkage"
+        ],
+        [
+          "",
+          "(μm)",
+          "(s/100 ml)",
+          "(ohm)",
+          "mm)",
+          "(gf/15 mm)",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "16.0 ± 0.5",
+          "342-362",
+          "0.92-1.05",
+          "33-52",
+          "15-22",
+          "<8"
+        ],
+        [
+          "Example 2",
+          "16.0 ± 0.5",
+          "346-353",
+          "0.93-1.07",
+          "32-48",
+          "19-25",
+          "<8"
+        ],
+        [
+          "Example 3",
+          "17.0 ± 0.5",
+          "344-459",
+          "0.92-1.05",
+          "32-45",
+          "23-26",
+          "<8"
+        ],
+        [
+          "Example 4",
+          "16.0 ± 0.5",
+          "345-356",
+          "0.93-1.04",
+          "30-52",
+          "15-19",
+          "<8"
+        ],
+        [
+          "Example 5",
+          "16.0 ± 0.5",
+          "343-367",
+          "0.92-1.09",
+          "32-44",
+          "18-23",
+          "<8"
+        ],
+        [
+          "Example 6",
+          "16.0 ± 0.5",
+          "351-382",
+          "0.95-1.10",
+          "33-42",
+          "21-28",
+          "<8"
+        ],
+        [
+          "Example 7",
+          "16.3 ± 0.5",
+          "372-403",
+          "0.98-1.10",
+          "33-45",
+          "24-29",
+          "<6"
+        ],
+        [
+          "Comparative",
+          "16.0 ± 0.5",
+          "341-370",
+          "0.93-1.04",
+          "35-50",
+          "0",
+          "<8"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "16.0 ± 0.5",
+          "338-373",
+          "0.95-1.03",
+          "32-49",
+          "0-2",
+          "<8"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "18.0 ± 0.5",
+          "362-380",
+          "0.98-1.13",
+          "26-43",
+          "20-24",
+          "<8"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "16.0 ± 0.5",
+          "335-368",
+          "0.90-1.02",
+          "31-54",
+          "0",
+          "<8"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "17.0 ± 0.5",
+          "503-630",
+          "1.18-1.32",
+          "33-47",
+          "21-26",
+          "<8"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Comparative",
+          "16.5 ± 0.5",
+          ">1000",
+          ">1.41",
+          "24-43",
+          "18-25",
+          "<8"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Comparative",
+          "16.5 ± 0.5",
+          "450-650",
+          "1.15-1.30",
+          "1-4",
+          "1-4",
+          "50>"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 3</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Physical properties of separators</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Electrical</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">resistance</td>\n<td class=\"description-td\">Adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Total</td>\n<td class=\"description-td\">Air</td>\n<td class=\"description-td\">of coin</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">Lamination</td>\n<td class=\"description-td\">MD thermal</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness</td>\n<td class=\"description-td\">permeability</td>\n<td class=\"description-td\">cell</td>\n<td class=\"description-td\">(gf/15</td>\n<td class=\"description-td\">force</td>\n<td class=\"description-td\">shrinkage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(s/100 ml)</td>\n<td class=\"description-td\">(ohm)</td>\n<td class=\"description-td\">mm)</td>\n<td class=\"description-td\">(gf/15 mm)</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">342-362</td>\n<td class=\"description-td\">0.92-1.05</td>\n<td class=\"description-td\">33-52</td>\n<td class=\"description-td\">15-22</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">346-353</td>\n<td class=\"description-td\">0.93-1.07</td>\n<td class=\"description-td\">32-48</td>\n<td class=\"description-td\">19-25</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">17.0 ± 0.5</td>\n<td class=\"description-td\">344-459</td>\n<td class=\"description-td\">0.92-1.05</td>\n<td class=\"description-td\">32-45</td>\n<td class=\"description-td\">23-26</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">345-356</td>\n<td class=\"description-td\">0.93-1.04</td>\n<td class=\"description-td\">30-52</td>\n<td class=\"description-td\">15-19</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">343-367</td>\n<td class=\"description-td\">0.92-1.09</td>\n<td class=\"description-td\">32-44</td>\n<td class=\"description-td\">18-23</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">351-382</td>\n<td class=\"description-td\">0.95-1.10</td>\n<td class=\"description-td\">33-42</td>\n<td class=\"description-td\">21-28</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">16.3 ± 0.5</td>\n<td class=\"description-td\">372-403</td>\n<td class=\"description-td\">0.98-1.10</td>\n<td class=\"description-td\">33-45</td>\n<td class=\"description-td\">24-29</td>\n<td class=\"description-td\">&lt;6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">341-370</td>\n<td class=\"description-td\">0.93-1.04</td>\n<td class=\"description-td\">35-50</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">338-373</td>\n<td class=\"description-td\">0.95-1.03</td>\n<td class=\"description-td\">32-49</td>\n<td class=\"description-td\">0-2</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">18.0 ± 0.5</td>\n<td class=\"description-td\">362-380</td>\n<td class=\"description-td\">0.98-1.13</td>\n<td class=\"description-td\">26-43</td>\n<td class=\"description-td\">20-24</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16.0 ± 0.5</td>\n<td class=\"description-td\">335-368</td>\n<td class=\"description-td\">0.90-1.02</td>\n<td class=\"description-td\">31-54</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">17.0 ± 0.5</td>\n<td class=\"description-td\">503-630</td>\n<td class=\"description-td\">1.18-1.32</td>\n<td class=\"description-td\">33-47</td>\n<td class=\"description-td\">21-26</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16.5 ± 0.5</td>\n<td class=\"description-td\">&gt;1000</td>\n<td class=\"description-td\">&gt;1.41</td>\n<td class=\"description-td\">24-43</td>\n<td class=\"description-td\">18-25</td>\n<td class=\"description-td\">&lt;8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16.5 ± 0.5</td>\n<td class=\"description-td\">450-650</td>\n<td class=\"description-td\">1.15-1.30</td>\n<td class=\"description-td\">1-4</td>\n<td class=\"description-td\">1-4</td>\n<td class=\"description-td\"> 50&gt;</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Room temperature (cycle)",
+          "60° C. (cycle)"
+        ],
+        [
+          "",
+          "100",
+          "200",
+          "300",
+          "600",
+          "100",
+          "200",
+          "300",
+          "600"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "97-",
+          "93-",
+          "89-",
+          "84-",
+          "97-",
+          "92-",
+          "86-",
+          "81-"
+        ],
+        [
+          "",
+          "99%",
+          "95%",
+          "93%",
+          "87%",
+          "99%",
+          "95%",
+          "91%",
+          "85%"
+        ],
+        [
+          "Example 2",
+          "97-",
+          "95-",
+          "92-",
+          "86-",
+          "97-",
+          "95-",
+          "87-",
+          "82-"
+        ],
+        [
+          "",
+          "99%",
+          "97%",
+          "94%",
+          "88%",
+          "99%",
+          "96%",
+          "93%",
+          "85%"
+        ],
+        [
+          "Example 3",
+          "96-",
+          "94-",
+          "91-",
+          "86-",
+          "97-",
+          "92-",
+          "87-",
+          "83-"
+        ],
+        [
+          "",
+          "98%",
+          "96%",
+          "93%",
+          "87%",
+          "99%",
+          "95%",
+          "91%",
+          "84%"
+        ],
+        [
+          "Example 4",
+          "97-",
+          "94-",
+          "91-",
+          "85-",
+          "97-",
+          "93-",
+          "85-",
+          "80-"
+        ],
+        [
+          "",
+          "99%",
+          "96%",
+          "93%",
+          "87%",
+          "99%",
+          "96%",
+          "90%",
+          "84%"
+        ],
+        [
+          "Example 5",
+          "97-",
+          "95-",
+          "91-",
+          "86-",
+          "97-",
+          "93-",
+          "88-",
+          "83-"
+        ],
+        [
+          "",
+          "99%",
+          "96%",
+          "93%",
+          "88%",
+          "99%",
+          "96%",
+          "91%",
+          "86%"
+        ],
+        [
+          "Example 6",
+          "97-",
+          "94-",
+          "90-",
+          "85-",
+          "97-",
+          "92-",
+          "89-",
+          "83-"
+        ],
+        [
+          "",
+          "99%",
+          "96%",
+          "92%",
+          "87%",
+          "99%",
+          "96%",
+          "91%",
+          "85%"
+        ],
+        [
+          "Example 7",
+          "96-",
+          "94-",
+          "90-",
+          "83-",
+          "97-",
+          "92-",
+          "89-",
+          "81-"
+        ],
+        [
+          "",
+          "98%",
+          "96%",
+          "92%",
+          "85%",
+          "99%",
+          "96%",
+          "91%",
+          "84%"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "91-",
+          "87-",
+          "84-",
+          "75-",
+          "93-",
+          "86-",
+          "79-",
+          "68-"
+        ],
+        [
+          "Example 3",
+          "93%",
+          "90%",
+          "86%",
+          "80%",
+          "95%",
+          "90%",
+          "84%",
+          "75%"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "80-",
+          "72-",
+          "64-",
+          "<65%",
+          "83-",
+          "75-",
+          "62-",
+          "<60%"
+        ],
+        [
+          "Example 5",
+          "85%",
+          "78%",
+          "68%",
+          "",
+          "89%",
+          "80%",
+          "68%"
+        ],
+        [
+          "Comparative",
+          "72-",
+          "62-",
+          "60-",
+          "<60%",
+          "78-",
+          "72-",
+          "65-",
+          "<65%"
+        ],
+        [
+          "Example 6",
+          "78%",
+          "68%",
+          "65%",
+          "",
+          "88%",
+          "82%",
+          "72%"
+        ],
+        [
+          "Comparative",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 4</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Room temperature (cycle)</td>\n<td class=\"description-td\">60° C. (cycle)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">300</td>\n<td class=\"description-td\">600</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">300</td>\n<td class=\"description-td\">600</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">93-</td>\n<td class=\"description-td\">89-</td>\n<td class=\"description-td\">84-</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">92-</td>\n<td class=\"description-td\">86-</td>\n<td class=\"description-td\">81-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">95%</td>\n<td class=\"description-td\">93%</td>\n<td class=\"description-td\">87%</td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">95%</td>\n<td class=\"description-td\">91%</td>\n<td class=\"description-td\">85%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">95-</td>\n<td class=\"description-td\">92-</td>\n<td class=\"description-td\">86-</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">95-</td>\n<td class=\"description-td\">87-</td>\n<td class=\"description-td\">82-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">97%</td>\n<td class=\"description-td\">94%</td>\n<td class=\"description-td\">88%</td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">93%</td>\n<td class=\"description-td\">85%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">96-</td>\n<td class=\"description-td\">94-</td>\n<td class=\"description-td\">91-</td>\n<td class=\"description-td\">86-</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">92-</td>\n<td class=\"description-td\">87-</td>\n<td class=\"description-td\">83-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">98%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">93%</td>\n<td class=\"description-td\">87%</td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">95%</td>\n<td class=\"description-td\">91%</td>\n<td class=\"description-td\">84%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">94-</td>\n<td class=\"description-td\">91-</td>\n<td class=\"description-td\">85-</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">93-</td>\n<td class=\"description-td\">85-</td>\n<td class=\"description-td\">80-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">93%</td>\n<td class=\"description-td\">87%</td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">90%</td>\n<td class=\"description-td\">84%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">95-</td>\n<td class=\"description-td\">91-</td>\n<td class=\"description-td\">86-</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">93-</td>\n<td class=\"description-td\">88-</td>\n<td class=\"description-td\">83-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">93%</td>\n<td class=\"description-td\">88%</td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">91%</td>\n<td class=\"description-td\">86%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">94-</td>\n<td class=\"description-td\">90-</td>\n<td class=\"description-td\">85-</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">92-</td>\n<td class=\"description-td\">89-</td>\n<td class=\"description-td\">83-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">92%</td>\n<td class=\"description-td\">87%</td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">91%</td>\n<td class=\"description-td\">85%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\">96-</td>\n<td class=\"description-td\">94-</td>\n<td class=\"description-td\">90-</td>\n<td class=\"description-td\">83-</td>\n<td class=\"description-td\">97-</td>\n<td class=\"description-td\">92-</td>\n<td class=\"description-td\">89-</td>\n<td class=\"description-td\">81-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">98%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">92%</td>\n<td class=\"description-td\">85%</td>\n<td class=\"description-td\">99%</td>\n<td class=\"description-td\">96%</td>\n<td class=\"description-td\">91%</td>\n<td class=\"description-td\">84%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">91-</td>\n<td class=\"description-td\">87-</td>\n<td class=\"description-td\">84-</td>\n<td class=\"description-td\">75-</td>\n<td class=\"description-td\">93-</td>\n<td class=\"description-td\">86-</td>\n<td class=\"description-td\">79-</td>\n<td class=\"description-td\">68-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">93%</td>\n<td class=\"description-td\">90%</td>\n<td class=\"description-td\">86%</td>\n<td class=\"description-td\">80%</td>\n<td class=\"description-td\">95%</td>\n<td class=\"description-td\">90%</td>\n<td class=\"description-td\">84%</td>\n<td class=\"description-td\">75%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">80-</td>\n<td class=\"description-td\">72-</td>\n<td class=\"description-td\">64-</td>\n<td class=\"description-td\">&lt;65%</td>\n<td class=\"description-td\">83-</td>\n<td class=\"description-td\">75-</td>\n<td class=\"description-td\">62-</td>\n<td class=\"description-td\">&lt;60%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">85%</td>\n<td class=\"description-td\">78%</td>\n<td class=\"description-td\">68%</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">89%</td>\n<td class=\"description-td\">80%</td>\n<td class=\"description-td\">68%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">72-</td>\n<td class=\"description-td\">62-</td>\n<td class=\"description-td\">60-</td>\n<td class=\"description-td\">&lt;60%</td>\n<td class=\"description-td\">78-</td>\n<td class=\"description-td\">72-</td>\n<td class=\"description-td\">65-</td>\n<td class=\"description-td\">&lt;65%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">78%</td>\n<td class=\"description-td\">68%</td>\n<td class=\"description-td\">65%</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">88%</td>\n<td class=\"description-td\">82%</td>\n<td class=\"description-td\">72%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional view schematically illustrating a separator of the present disclosure; FIG. 2 is a SEM image showing the surface of a separator produced in Example 1; FIG. 3 is a SEM image showing the surface of a separator produced in Example 2; FIG. 4 is a SEM image showing the surface of a separator produced in Example 3; FIG. 5 is a SEM image showing the surface of a separator produced in Example 4; FIG. 6 is a SEM image showing the surface of a separator produced in Example 5; FIG. 7 is a SEM image showing the surface of a separator produced in Example 6; FIG. 8 is a SEM image showing the surface of a separator produced in Example 7; FIG. 9 is a SEM image showing the surface of a separator produced in Comparative Example 1; FIG. 10 is a SEM image showing the surface of a separator produced in Comparative Example 2; FIG. 11 is a SEM image showing the surface of a separator produced in Comparative Example 3; FIG. 12 is a SEM image showing the surface of a separator produced in Comparative Example 4; FIG. 13 is a SEM image showing the surface of a separator produced in Comparative Example 5. FIG. 1 is a cross-sectional view schematically illustrating the separator of the present disclosure, which includes the elements described above. In the separator 10 illustrated in FIG. 1 , the porous organic-inorganic coating layer is formed on the porous substrate 1 and includes the inorganic particles 3 and the first binder polymer 5 . The organic coating layer 7 is formed by dispersing the second binder polymer on the surface of the organic-inorganic coating layer, leaving scattered uncoated areas.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/e0/ba/fb/f81361380a2bc7/US09130215-20150908-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional view schematically illustrating a separator of the present disclosure; FIG. 2 is a SEM image showing the surface of a separator produced in Example 1; FIG. 3 is a SEM image showing the surface of a separator produced in Example 2; FIG. 4 is a SEM image showing the surface of a separator produced in Example 3; FIG. 5 is a SEM image showing the surface of a separator produced in Example 4; FIG. 6 is a SEM image showing the surface of a separator produced in Example 5; FIG. 7 is a SEM image showing the surface of a separator produced in Example 6; FIG. 8 is a SEM image showing the surface of a separator produced in Example 7; FIG. 9 is a SEM image showing the surface of a separator produced in Comparative Example 1; FIG. 10 is a SEM image showing the surface of a separator produced in Comparative Example 2; FIG. 11 is a SEM image showing the surface of a separator produced in Comparative Example 3; FIG. 12 is a SEM image showing the surface of a separator produced in Comparative Example 4; FIG. 13 is a SEM image showing the surface of a separator produced in Comparative Example 5. FIG. 1 is a cross-sectional view schematically illustrating the separator of the present disclosure, which includes the elements described above. In the separator 10 illustrated in FIG. 1 , the porous organic-inorganic coating layer is formed on the porous substrate 1 and includes the inorganic particles 3 and the first binder polymer 5 . The organic coating layer 7 is formed by dispersing the second binder polymer on the surface of the organic-inorganic coating layer, leaving scattered uncoated areas.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/02/cf/9b/168ddb2c3133f5/US09130215-20150908-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional view schematically illustrating a separator of the present disclosure; FIG. 2 is a SEM image showing the surface of a separator produced in Example 1; FIG. 3 is a SEM image showing the surface of a separator produced in Example 2; FIG. 4 is a SEM image showing the surface of a separator produced in Example 3; FIG. 5 is a SEM image showing the surface of a separator produced in Example 4; FIG. 6 is a SEM image showing the surface of a separator produced in Example 5; FIG. 7 is a SEM image showing the surface of a separator produced in Example 6; FIG. 8 is a SEM image showing the surface of a separator produced in Example 7; FIG. 9 is a SEM image showing the surface of a separator produced in Comparative Example 1; FIG. 10 is a SEM image showing the surface of a separator produced in Comparative Example 2; FIG. 11 is a SEM image showing the surface of a separator produced in Comparative Example 3; FIG. 12 is a SEM image showing the surface of a separator produced in Comparative Example 4; FIG. 13 is a SEM image showing the surface of a separator produced in Comparative Example 5. FIG. 1 is a cross-sectional view schematically illustrating the separator of the present disclosure, which includes the elements described above. In the separator 10 illustrated in FIG. 1 , the porous organic-inorganic coating layer is formed on the porous substrate 1 and includes the inorganic particles 3 and the first binder polymer 5 . The organic coating layer 7 is formed by dispersing the second binder polymer on the surface of the organic-inorganic coating layer, leaving scattered uncoated areas.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/fc/95/2f/4a7692f74a6639/US09130215-20150908-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional view schematically illustrating a separator of the present disclosure; FIG. 2 is a SEM image showing the surface of a separator produced in Example 1; FIG. 3 is a SEM image showing the surface of a separator produced in Example 2; FIG. 4 is a SEM image showing the surface of a separator produced in Example 3; FIG. 5 is a SEM image showing the surface of a separator produced in Example 4; FIG. 6 is a SEM image showing the surface of a separator produced in Example 5; FIG. 7 is a SEM image showing the surface of a separator produced in Example 6; FIG. 8 is a SEM image showing the surface of a separator produced in Example 7; FIG. 9 is a SEM image showing the surface of a separator produced in Comparative Example 1; FIG. 10 is a SEM image showing the surface of a separator produced in Comparative Example 2; FIG. 11 is a SEM image showing the surface of a separator produced in Comparative Example 3; FIG. 12 is a SEM image showing the surface of a separator produced in Comparative Example 4; FIG. 13 is a SEM image showing the surface of a separator produced in Comparative Example 5. FIG. 1 is a cross-sectional view schematically illustrating the separator of the present disclosure, which includes the elements described above. In the separator 10 illustrated in FIG. 1 , the porous organic-inorganic coating layer is formed on the porous substrate 1 and includes the inorganic particles 3 and the first binder polymer 5 . The organic coating layer 7 is formed by dispersing the second binder polymer on the surface of the organic-inorganic coating layer, leaving scattered uncoated areas.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/98/ac/50/2fb8c565664ec9/US09130215-20150908-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional view schematically illustrating a separator of the present disclosure; FIG. 2 is a SEM image showing the surface of a separator produced in Example 1; FIG. 3 is a SEM image showing the surface of a separator produced in Example 2; FIG. 4 is a SEM image showing the surface of a separator produced in Example 3; FIG. 5 is a SEM image showing the surface of a separator produced in Example 4; FIG. 6 is a SEM image showing the surface of a separator produced in Example 5; FIG. 7 is a SEM image showing the surface of a separator produced in Example 6; FIG. 8 is a SEM image showing the surface of a separator produced in Example 7; FIG. 9 is a SEM image showing the surface of a separator produced in Comparative Example 1; FIG. 10 is a SEM image showing the surface of a separator produced in Comparative Example 2; FIG. 11 is a SEM image showing the surface of a separator produced in Comparative Example 3; FIG. 12 is a SEM image showing the surface of a separator produced in Comparative Example 4; FIG. 13 is a SEM image showing the surface of a separator produced in Comparative Example 5. FIG. 1 is a cross-sectional view schematically illustrating the separator of the present disclosure, which includes the elements described above. In the separator 10 illustrated in FIG. 1 , the porous organic-inorganic coating layer is formed on the porous substrate 1 and includes the inorganic particles 3 and the first binder polymer 5 . The organic coating layer 7 is formed by dispersing the second binder polymer on the surface of the organic-inorganic coating layer, leaving scattered uncoated areas.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/02/04/92/c6fb6d94c1cbc5/US09130215-20150908-D00004.png"
+    },
+    {
+      "caption": "FIG. 1 is a cross-sectional view schematically illustrating a separator of the present disclosure; FIG. 2 is a SEM image showing the surface of a separator produced in Example 1; FIG. 3 is a SEM image showing the surface of a separator produced in Example 2; FIG. 4 is a SEM image showing the surface of a separator produced in Example 3; FIG. 5 is a SEM image showing the surface of a separator produced in Example 4; FIG. 6 is a SEM image showing the surface of a separator produced in Example 5; FIG. 7 is a SEM image showing the surface of a separator produced in Example 6; FIG. 8 is a SEM image showing the surface of a separator produced in Example 7; FIG. 9 is a SEM image showing the surface of a separator produced in Comparative Example 1; FIG. 10 is a SEM image showing the surface of a separator produced in Comparative Example 2; FIG. 11 is a SEM image showing the surface of a separator produced in Comparative Example 3; FIG. 12 is a SEM image showing the surface of a separator produced in Comparative Example 4; FIG. 13 is a SEM image showing the surface of a separator produced in Comparative Example 5. FIG. 1 is a cross-sectional view schematically illustrating the separator of the present disclosure, which includes the elements described above. In the separator 10 illustrated in FIG. 1 , the porous organic-inorganic coating layer is formed on the porous substrate 1 and includes the inorganic particles 3 and the first binder polymer 5 . The organic coating layer 7 is formed by dispersing the second binder polymer on the surface of the organic-inorganic coating layer, leaving scattered uncoated areas.",
+      "kind": "figure",
+      "sheet": "6",
+      "url": "https://patentimages.storage.googleapis.com/06/05/ea/90b9655e30b920/US09130215-20150908-D00005.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/49/b2/8b/d6fd6457b83c3a/US9130215.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"0e8164ac631cdf22bb1718c7c4d7eb1b\"",
+        "last_modified": "Fri, 13 Oct 2017 21:02:36 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/7cf3680e4d202f2c8e27175839765d277f1edec15f04f1ac6cdc3860b756cbc8.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:26:39.044633+00:00",
+        "sha256": "7cf3680e4d202f2c8e27175839765d277f1edec15f04f1ac6cdc3860b756cbc8",
+        "source": "patent_pdf",
+        "source_id": "6c9ce9151b410d563026ae7316ef50976d92e852124af69058f010d7bb807c88",
+        "url": "https://patentimages.storage.googleapis.com/49/b2/8b/d6fd6457b83c3a/US9130215.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US9130215B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/6740900fff3bd2de03f6b9b9095e719f72aea36d763cf288a6130210968038e7.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:37.978796+00:00",
+    "sha256": "6740900fff3bd2de03f6b9b9095e719f72aea36d763cf288a6130210968038e7",
+    "source": "patents",
+    "source_id": "0427d793be87779976d1f9a36bf0904e9795d7497a47247e441127fb296ad9ad",
+    "url": "https://patents.google.com/patent/US9130215B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "201fac0eb1494b24c44c19fdc6e75ed0a46fb7a405b2ee2810e4915a797e0e34",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "0427d793be87779976d1f9a36bf0904e9795d7497a47247e441127fb296ad9ad",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/6740900fff3bd2de03f6b9b9095e719f72aea36d763cf288a6130210968038e7.bin",
+      "source_id": "0427d793be87779976d1f9a36bf0904e9795d7497a47247e441127fb296ad9ad",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "6740900fff3bd2de03f6b9b9095e719f72aea36d763cf288a6130210968038e7",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US9130215B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

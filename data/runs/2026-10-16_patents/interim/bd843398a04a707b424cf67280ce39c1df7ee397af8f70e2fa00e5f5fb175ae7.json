@@ -1,0 +1,307 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Coated"
+        ],
+        [
+          "",
+          "",
+          "Base",
+          "Coated",
+          "Membrane"
+        ],
+        [
+          "Example",
+          "Base",
+          "membrane",
+          "Membrane",
+          "thickness,"
+        ],
+        [
+          "#",
+          "membrane",
+          "thickness, μm",
+          "Manufacturer",
+          "μm"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex"
+        ],
+        [
+          "1",
+          "Celgard ®",
+          "12",
+          "Celgard",
+          "16"
+        ],
+        [
+          "",
+          "EK1240"
+        ],
+        [
+          "Ex"
+        ],
+        [
+          "2",
+          "Celgard ®",
+          "12",
+          "Celgard",
+          "18"
+        ],
+        [
+          "",
+          "EK1240"
+        ],
+        [
+          "Ex"
+        ],
+        [
+          "3",
+          "Celgard ®",
+          "13",
+          "Celgard",
+          "20"
+        ],
+        [
+          "",
+          "EK1311"
+        ],
+        [
+          "Ex"
+        ],
+        [
+          "4",
+          "Celgard ®",
+          "16",
+          "Celgard",
+          "22"
+        ],
+        [
+          "",
+          "C-210"
+        ],
+        [
+          "Ex 5",
+          "Celgard ®",
+          "18",
+          "Celgard",
+          "22"
+        ],
+        [
+          "",
+          "A273"
+        ],
+        [
+          "CE1",
+          "Celgard ®",
+          "12",
+          "uncoated",
+          "na"
+        ],
+        [
+          "",
+          "EK1240"
+        ],
+        [
+          "CE"
+        ],
+        [
+          "2",
+          "Celgard ®",
+          "16",
+          "uncoated",
+          "na"
+        ],
+        [
+          "",
+          "C210"
+        ],
+        [
+          "CE"
+        ],
+        [
+          "3",
+          "Celgard ®",
+          "16",
+          "Company A",
+          "28"
+        ],
+        [
+          "",
+          "2320"
+        ],
+        [
+          "CE 4",
+          "Monolayer",
+          "26",
+          "Company B",
+          "33"
+        ],
+        [
+          "",
+          "PE"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "Shrinkage is measured at 120 deg C. for one hour or at 130 deg C. for one hour using modified ASTM 2732-96 procedure. Both the width and length of a sample are measured before and after heat treatment. Samples are placed in an oven in a free state meaning the sample is not placed under tension and the sample is not supported by a tentering frame. The net shrinkage is calculated by the following formula:",
+      "context_locator": "p-0037",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"1\" label=\"Manufacturer μm Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"1\" label=\"Manufacturer μm Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"1\" label=\"Manufacturer μm Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"2\" label=\"EK1240 Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"2\" label=\"EK1240 Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png,US20140045033A1-20140213-D00003.png\" id=\"3\" label=\"EK1240 Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png,US20140045033A1-20140213-D00003.png\" id=\"3\" label=\"EK1240 Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00003.png\" id=\"4\" label=\"EK1311 Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00003.png\" id=\"4\" label=\"EK1311 Ex\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"2\" label=\"EK1240 CE\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"2\" label=\"EK1240 CE\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png,US20140045033A1-20140213-D00003.png\" id=\"3\" label=\"C210 CE\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20140045033A1-20140213-D00001.png,US20140045033A1-20140213-D00003.png\" id=\"3\" label=\"C210 CE\" state=\"{{state}}\">\n</figure-callout><table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Coated</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Base</td>\n<td class=\"description-td\">Coated</td>\n<td class=\"description-td\">Membrane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example</td>\n<td class=\"description-td\">Base</td>\n<td class=\"description-td\">membrane</td>\n<td class=\"description-td\">Membrane</td>\n<td class=\"description-td\">thickness,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">#</td>\n<td class=\"description-td\">membrane</td>\n<td class=\"description-td\">thickness, μm</td>\n<td class=\"description-td\"> <figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"1\" label=\"Manufacturer μm Ex\" state=\"{{state}}\">Manufacturer</figure-callout> </td> <td class=\"description-td\">μm</td>\n</tr> <tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead> <tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Ex</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> 1</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">Celgard</td>\n<td class=\"description-td\">16</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> <figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"2\" label=\"EK1240 Ex\" state=\"{{state}}\">EK1240</figure-callout> </td> </tr> <tr class=\"description-tr\">\n<td class=\"description-td\">Ex</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> 2</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">Celgard</td>\n<td class=\"description-td\">18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> <figure-callout filenames=\"US20140045033A1-20140213-D00001.png,US20140045033A1-20140213-D00003.png\" id=\"3\" label=\"EK1240 Ex\" state=\"{{state}}\">EK1240</figure-callout> </td> </tr> <tr class=\"description-tr\">\n<td class=\"description-td\">Ex</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> 3</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">Celgard</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> <figure-callout filenames=\"US20140045033A1-20140213-D00003.png\" id=\"4\" label=\"EK1311 Ex\" state=\"{{state}}\">EK1311</figure-callout> </td> </tr> <tr class=\"description-tr\">\n<td class=\"description-td\">Ex</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> 4</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">Celgard</td>\n<td class=\"description-td\">22</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">C-210</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ex 5</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">Celgard</td>\n<td class=\"description-td\">22</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">A273</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">CE1</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">uncoated</td>\n<td class=\"description-td\">na</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> <figure-callout filenames=\"US20140045033A1-20140213-D00001.png\" id=\"2\" label=\"EK1240 CE\" state=\"{{state}}\">EK1240</figure-callout> </td> </tr> <tr class=\"description-tr\">\n<td class=\"description-td\">CE</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> 2</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">uncoated</td>\n<td class=\"description-td\">na</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> <figure-callout filenames=\"US20140045033A1-20140213-D00001.png,US20140045033A1-20140213-D00003.png\" id=\"3\" label=\"C210 CE\" state=\"{{state}}\">C210</figure-callout> </td> </tr> <tr class=\"description-tr\">\n<td class=\"description-td\">CE</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> 3</td>\n<td class=\"description-td\">Celgard ®</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">Company A</td>\n<td class=\"description-td\">28</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2320</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US20140045033A1-20140213-D00003.png\" id=\"4\" label=\"CE\" state=\"{{state}}\">CE</figure-callout> 4</td>\n<td class=\"description-td\">Monolayer</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">Company B</td>\n<td class=\"description-td\">33</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PE</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 5 and two comparative samples wCE 1 and CE 2 with testing performed in the Machine Direction (MD) of the membranes. FIG. 2 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 4 and Comparative samples CE 1 and CE 2 with testing performed in the Transverse Direction (TD) of the membrane. FIG. 3 is a Thermogravimetric Analysis (TGA) thermogram representation of Inventive Examples Ex 3 and Ex 4 and Comparative examples CE 3 and CE 4. FIG. 4 is a schematic cross-section illustration of a single side coated membrane, separator membrane or separator. FIG. 5 is a schematic cross-section illustration of a double side coated membrane, separator membrane or separator. In accordance with selected embodiments, the coating, particle coating or ceramic coating may be present on one or both sides of the membrane, film, separator membrane or separator. FIGS. 4 and 5 show respective single sided or single side coated and double sided or double side coated embodiments. It should be noted that in FIGS. 4 and 5 that the coatings may be polymer, particle or ceramic coatings, that the coatings may be porous or non-porous, and that in the double side coated embodiment of FIG. 5 that the coating may be the same or different on each side. For example, although two ceramic coatings are shown, it is understood that one side may be a particle-free coating (such as PVDF), a particle coating (such as polymer particles in a binder), or a ceramic coating (such as ceramic particles in a binder or polymeric binder) and the other side may be the same or a different coating, particle coating, or ceramic coating. One side may be adapted to contact the cathode while the other side may be adapted to contact the anode. For instance, one side may be PVDF coated while the other side is ceramic coated with a mixture of a one or more ceramic particles combined with one or more polymeric binders such as PP, PE, PO, PVDF or PTFE. FIG. 1 shows a thermogram analysis or TMA analysis with the sample in the MD direction for inventive examples Ex 1 through Ex 5, together with the comparative examples CE 1 and CE 2. TMA data for the ceramic coated samples Ex 1, Ex 2 and Ex 3 shows a marked reduction in the amount of MD strain shrinkage for the ceramic coated PE samples between 90 and 130 deg C. as compared to the uncoated CE 1 control. Inventive Ex 4, a ceramic coated PP/PE/PP trilayer membrane Celgard C-210, also shows a reduction in the amount for strain shrinkage compared to the uncoated control sample CE 2. Furthermore, the MD strain shrinkage of Ex 5, a monolayer PP ceramic coated microporous membrane is reduced. The inventive ceramic coating produces a reduction in the amount of MD strain shrinkage of the PE, PP and multilayer microporous separator membranes containing PP and PE at temperatures between 90 and 130 deg C. Furthermore, the TMA test results in the MD direction shows that a total ceramic coating thickness of 5-6 um (see Ex 2 in FIG. 1 ) when applied as a double sided coating to the PE membrane is sufficient to prevent the ceramic coated PE separator membrane from melting up to 250 deg C. FIG. 2 shows TMA test results in the transverse direction (TD) on samples Ex 1 through Ex 5 and Comparative examples CE 1 and CE 2. The inventive ceramic coating has a very low TD strain shrinkage of <1%. Ex 2 has high temperature stability up to a temperature of 225 deg C. FIG. 3 shows a Thermogravimetric Analysis (TGA) thermogram for the inventive ceramic coated separator membrane Ex 3 and Ex 4 together with comparative patent examples CE 3 and CE 4. TGA analysis of the inventive ceramic coated separator was performed using TA Instruments TGA Q50 model to monitor the change in the mass of the inventive ceramic coated separator membrane as a function of increasing temperature.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/c3/59/91/e8e557cf62159c/US20140045033A1-20140213-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 5 and two comparative samples wCE 1 and CE 2 with testing performed in the Machine Direction (MD) of the membranes. FIG. 2 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 4 and Comparative samples CE 1 and CE 2 with testing performed in the Transverse Direction (TD) of the membrane. FIG. 3 is a Thermogravimetric Analysis (TGA) thermogram representation of Inventive Examples Ex 3 and Ex 4 and Comparative examples CE 3 and CE 4. FIG. 4 is a schematic cross-section illustration of a single side coated membrane, separator membrane or separator. FIG. 5 is a schematic cross-section illustration of a double side coated membrane, separator membrane or separator. In accordance with selected embodiments, the coating, particle coating or ceramic coating may be present on one or both sides of the membrane, film, separator membrane or separator. FIGS. 4 and 5 show respective single sided or single side coated and double sided or double side coated embodiments. It should be noted that in FIGS. 4 and 5 that the coatings may be polymer, particle or ceramic coatings, that the coatings may be porous or non-porous, and that in the double side coated embodiment of FIG. 5 that the coating may be the same or different on each side. For example, although two ceramic coatings are shown, it is understood that one side may be a particle-free coating (such as PVDF), a particle coating (such as polymer particles in a binder), or a ceramic coating (such as ceramic particles in a binder or polymeric binder) and the other side may be the same or a different coating, particle coating, or ceramic coating. One side may be adapted to contact the cathode while the other side may be adapted to contact the anode. For instance, one side may be PVDF coated while the other side is ceramic coated with a mixture of a one or more ceramic particles combined with one or more polymeric binders such as PP, PE, PO, PVDF or PTFE. FIG. 1 shows a thermogram analysis or TMA analysis with the sample in the MD direction for inventive examples Ex 1 through Ex 5, together with the comparative examples CE 1 and CE 2. TMA data for the ceramic coated samples Ex 1, Ex 2 and Ex 3 shows a marked reduction in the amount of MD strain shrinkage for the ceramic coated PE samples between 90 and 130 deg C. as compared to the uncoated CE 1 control. Inventive Ex 4, a ceramic coated PP/PE/PP trilayer membrane Celgard C-210, also shows a reduction in the amount for strain shrinkage compared to the uncoated control sample CE 2. Furthermore, the MD strain shrinkage of Ex 5, a monolayer PP ceramic coated microporous membrane is reduced. The inventive ceramic coating produces a reduction in the amount of MD strain shrinkage of the PE, PP and multilayer microporous separator membranes containing PP and PE at temperatures between 90 and 130 deg C. Furthermore, the TMA test results in the MD direction shows that a total ceramic coating thickness of 5-6 um (see Ex 2 in FIG. 1 ) when applied as a double sided coating to the PE membrane is sufficient to prevent the ceramic coated PE separator membrane from melting up to 250 deg C. FIG. 2 shows TMA test results in the transverse direction (TD) on samples Ex 1 through Ex 5 and Comparative examples CE 1 and CE 2. The inventive ceramic coating has a very low TD strain shrinkage of <1%. Ex 2 has high temperature stability up to a temperature of 225 deg C. FIG. 3 shows a Thermogravimetric Analysis (TGA) thermogram for the inventive ceramic coated separator membrane Ex 3 and Ex 4 together with comparative patent examples CE 3 and CE 4. TGA analysis of the inventive ceramic coated separator was performed using TA Instruments TGA Q50 model to monitor the change in the mass of the inventive ceramic coated separator membrane as a function of increasing temperature.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/78/ec/53/3e9d230f8da1fc/US20140045033A1-20140213-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 5 and two comparative samples wCE 1 and CE 2 with testing performed in the Machine Direction (MD) of the membranes. FIG. 2 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 4 and Comparative samples CE 1 and CE 2 with testing performed in the Transverse Direction (TD) of the membrane. FIG. 3 is a Thermogravimetric Analysis (TGA) thermogram representation of Inventive Examples Ex 3 and Ex 4 and Comparative examples CE 3 and CE 4. FIG. 4 is a schematic cross-section illustration of a single side coated membrane, separator membrane or separator. FIG. 5 is a schematic cross-section illustration of a double side coated membrane, separator membrane or separator. In accordance with selected embodiments, the coating, particle coating or ceramic coating may be present on one or both sides of the membrane, film, separator membrane or separator. FIGS. 4 and 5 show respective single sided or single side coated and double sided or double side coated embodiments. It should be noted that in FIGS. 4 and 5 that the coatings may be polymer, particle or ceramic coatings, that the coatings may be porous or non-porous, and that in the double side coated embodiment of FIG. 5 that the coating may be the same or different on each side. For example, although two ceramic coatings are shown, it is understood that one side may be a particle-free coating (such as PVDF), a particle coating (such as polymer particles in a binder), or a ceramic coating (such as ceramic particles in a binder or polymeric binder) and the other side may be the same or a different coating, particle coating, or ceramic coating. One side may be adapted to contact the cathode while the other side may be adapted to contact the anode. For instance, one side may be PVDF coated while the other side is ceramic coated with a mixture of a one or more ceramic particles combined with one or more polymeric binders such as PP, PE, PO, PVDF or PTFE. FIG. 1 shows a thermogram analysis or TMA analysis with the sample in the MD direction for inventive examples Ex 1 through Ex 5, together with the comparative examples CE 1 and CE 2. TMA data for the ceramic coated samples Ex 1, Ex 2 and Ex 3 shows a marked reduction in the amount of MD strain shrinkage for the ceramic coated PE samples between 90 and 130 deg C. as compared to the uncoated CE 1 control. Inventive Ex 4, a ceramic coated PP/PE/PP trilayer membrane Celgard C-210, also shows a reduction in the amount for strain shrinkage compared to the uncoated control sample CE 2. Furthermore, the MD strain shrinkage of Ex 5, a monolayer PP ceramic coated microporous membrane is reduced. The inventive ceramic coating produces a reduction in the amount of MD strain shrinkage of the PE, PP and multilayer microporous separator membranes containing PP and PE at temperatures between 90 and 130 deg C. Furthermore, the TMA test results in the MD direction shows that a total ceramic coating thickness of 5-6 um (see Ex 2 in FIG. 1 ) when applied as a double sided coating to the PE membrane is sufficient to prevent the ceramic coated PE separator membrane from melting up to 250 deg C. FIG. 2 shows TMA test results in the transverse direction (TD) on samples Ex 1 through Ex 5 and Comparative examples CE 1 and CE 2. The inventive ceramic coating has a very low TD strain shrinkage of <1%. Ex 2 has high temperature stability up to a temperature of 225 deg C. FIG. 3 shows a Thermogravimetric Analysis (TGA) thermogram for the inventive ceramic coated separator membrane Ex 3 and Ex 4 together with comparative patent examples CE 3 and CE 4. TGA analysis of the inventive ceramic coated separator was performed using TA Instruments TGA Q50 model to monitor the change in the mass of the inventive ceramic coated separator membrane as a function of increasing temperature.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/f2/33/a6/fa5598010fbff3/US20140045033A1-20140213-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 5 and two comparative samples wCE 1 and CE 2 with testing performed in the Machine Direction (MD) of the membranes. FIG. 2 is a Thermomechanical Analysis (TMA) thermogram representation of Inventive Examples Ex 1 through Ex 4 and Comparative samples CE 1 and CE 2 with testing performed in the Transverse Direction (TD) of the membrane. FIG. 3 is a Thermogravimetric Analysis (TGA) thermogram representation of Inventive Examples Ex 3 and Ex 4 and Comparative examples CE 3 and CE 4. FIG. 4 is a schematic cross-section illustration of a single side coated membrane, separator membrane or separator. FIG. 5 is a schematic cross-section illustration of a double side coated membrane, separator membrane or separator. In accordance with selected embodiments, the coating, particle coating or ceramic coating may be present on one or both sides of the membrane, film, separator membrane or separator. FIGS. 4 and 5 show respective single sided or single side coated and double sided or double side coated embodiments. It should be noted that in FIGS. 4 and 5 that the coatings may be polymer, particle or ceramic coatings, that the coatings may be porous or non-porous, and that in the double side coated embodiment of FIG. 5 that the coating may be the same or different on each side. For example, although two ceramic coatings are shown, it is understood that one side may be a particle-free coating (such as PVDF), a particle coating (such as polymer particles in a binder), or a ceramic coating (such as ceramic particles in a binder or polymeric binder) and the other side may be the same or a different coating, particle coating, or ceramic coating. One side may be adapted to contact the cathode while the other side may be adapted to contact the anode. For instance, one side may be PVDF coated while the other side is ceramic coated with a mixture of a one or more ceramic particles combined with one or more polymeric binders such as PP, PE, PO, PVDF or PTFE. FIG. 1 shows a thermogram analysis or TMA analysis with the sample in the MD direction for inventive examples Ex 1 through Ex 5, together with the comparative examples CE 1 and CE 2. TMA data for the ceramic coated samples Ex 1, Ex 2 and Ex 3 shows a marked reduction in the amount of MD strain shrinkage for the ceramic coated PE samples between 90 and 130 deg C. as compared to the uncoated CE 1 control. Inventive Ex 4, a ceramic coated PP/PE/PP trilayer membrane Celgard C-210, also shows a reduction in the amount for strain shrinkage compared to the uncoated control sample CE 2. Furthermore, the MD strain shrinkage of Ex 5, a monolayer PP ceramic coated microporous membrane is reduced. The inventive ceramic coating produces a reduction in the amount of MD strain shrinkage of the PE, PP and multilayer microporous separator membranes containing PP and PE at temperatures between 90 and 130 deg C. Furthermore, the TMA test results in the MD direction shows that a total ceramic coating thickness of 5-6 um (see Ex 2 in FIG. 1 ) when applied as a double sided coating to the PE membrane is sufficient to prevent the ceramic coated PE separator membrane from melting up to 250 deg C. FIG. 2 shows TMA test results in the transverse direction (TD) on samples Ex 1 through Ex 5 and Comparative examples CE 1 and CE 2. The inventive ceramic coating has a very low TD strain shrinkage of <1%. Ex 2 has high temperature stability up to a temperature of 225 deg C. FIG. 3 shows a Thermogravimetric Analysis (TGA) thermogram for the inventive ceramic coated separator membrane Ex 3 and Ex 4 together with comparative patent examples CE 3 and CE 4. TGA analysis of the inventive ceramic coated separator was performed using TA Instruments TGA Q50 model to monitor the change in the mass of the inventive ceramic coated separator membrane as a function of increasing temperature.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/08/75/bb/b57a659125f1fe/US20140045033A1-20140213-D00004.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/7c/4e/ea/f3497ce3c43ba8/US20140045033A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"1d044fa9994554dc30acdc82a7f5758d\"",
+        "last_modified": "Fri, 27 Oct 2017 08:02:26 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/20f5da11d664a3c4669f4e49efa49c950189a90d1d0c408ec526b476f35470a5.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:21:40.775363+00:00",
+        "sha256": "20f5da11d664a3c4669f4e49efa49c950189a90d1d0c408ec526b476f35470a5",
+        "source": "patent_pdf",
+        "source_id": "c727a4738beade3f8748d1955fd04ca126be24b7f162859f806e7c92a2a34b82",
+        "url": "https://patentimages.storage.googleapis.com/7c/4e/ea/f3497ce3c43ba8/US20140045033A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20140045033A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/b9dbd297fe2bdebb94a442356a1fc9737f09c813007b392c5faecbda4da22346.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:21:39.837562+00:00",
+    "sha256": "b9dbd297fe2bdebb94a442356a1fc9737f09c813007b392c5faecbda4da22346",
+    "source": "patents",
+    "source_id": "b0b0271cfc70e41635042123aff3b662c37238626e0a1247a6879c3a5efefbbc",
+    "url": "https://patents.google.com/patent/US20140045033A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "1c22f5ed559952cf12843dc10b544f061bb8719b784b0d26976d684e5c8adf15",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "b0b0271cfc70e41635042123aff3b662c37238626e0a1247a6879c3a5efefbbc",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/b9dbd297fe2bdebb94a442356a1fc9737f09c813007b392c5faecbda4da22346.bin",
+      "source_id": "b0b0271cfc70e41635042123aff3b662c37238626e0a1247a6879c3a5efefbbc",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "b9dbd297fe2bdebb94a442356a1fc9737f09c813007b392c5faecbda4da22346",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20140045033A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

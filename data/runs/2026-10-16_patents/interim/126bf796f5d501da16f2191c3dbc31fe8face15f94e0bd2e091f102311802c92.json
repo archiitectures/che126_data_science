@@ -1,0 +1,450 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Characteristics of Example 1 and the Comparative Examples."
+        ],
+        [
+          "",
+          "",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "Polymer Solution",
+          "Example 1",
+          "Example 1",
+          "Example 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Viscosity",
+          "250",
+          "cp",
+          "275",
+          "cp",
+          ">10,000 cp (coating"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "is difficult)"
+        ],
+        [
+          "Membrane Strength",
+          "11.5",
+          "MPa",
+          "<5",
+          "MPa",
+          "14.2 MPa"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Characteristics of Example 1 and the Comparative Examples.</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polymer Solution</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Viscosity</td>\n<td class=\"description-td\">250</td>\n<td class=\"description-td\">cp</td>\n<td class=\"description-td\">275</td>\n<td class=\"description-td\">cp</td>\n<td class=\"description-td\">&gt;10,000 cp (coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">is difficult)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Membrane Strength</td>\n<td class=\"description-td\">11.5</td>\n<td class=\"description-td\">MPa</td>\n<td class=\"description-td\">&lt;5</td>\n<td class=\"description-td\">MPa</td>\n<td class=\"description-td\">14.2 MPa</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "Comparison of membrane strength"
+        ],
+        [
+          "between Example 1 and Example 2."
+        ],
+        [
+          "",
+          "Polymer Solution",
+          "Example 1",
+          "Example 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Membrane Strength",
+          "11.5 MPa",
+          "15.1 MPa (due to the"
+        ],
+        [
+          "",
+          "",
+          "",
+          "increased crystallinity)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparison of membrane strength</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">between Example 1 and Example 2.</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polymer Solution</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Membrane Strength</td>\n<td class=\"description-td\">11.5 MPa</td>\n<td class=\"description-td\">15.1 MPa (due to the</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">increased crystallinity)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3"
+        ],
+        [
+          ""
+        ],
+        [
+          "Characteristics of Example 1, Example"
+        ],
+        [
+          "3, and of a commercial separator."
+        ],
+        [
+          "",
+          "Commercial PE separator",
+          "Example 1",
+          "Example 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "σ eff (mS/cm)",
+          "1.47",
+          "1.58",
+          "1.69"
+        ],
+        [
+          "Shrinkage at",
+          "9%",
+          "about 0%",
+          "about 0%"
+        ],
+        [
+          "120° C. for 1"
+        ],
+        [
+          "hour"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 3</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Characteristics of Example 1, Example</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">3, and of a commercial separator.</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Commercial PE separator</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">σ<sub>eff </sub>(mS/cm)</td>\n<td class=\"description-td\">1.47</td>\n<td class=\"description-td\">1.58</td>\n<td class=\"description-td\">1.69</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Shrinkage at</td>\n<td class=\"description-td\">9%</td>\n<td class=\"description-td\">about 0%</td>\n<td class=\"description-td\">about 0%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">120° C. for 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">hour</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4"
+        ],
+        [
+          ""
+        ],
+        [
+          "Characteristics of Example 4 and of a commercial separator."
+        ],
+        [
+          "",
+          "Commercial PE separator",
+          "Example 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "σ eff (mS/cm)",
+          "1.47",
+          "1.61"
+        ],
+        [
+          "",
+          "Shrinkage at",
+          "9%",
+          "about 0%"
+        ],
+        [
+          "",
+          "120° C. for 1"
+        ],
+        [
+          "",
+          "hour"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 4</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Characteristics of Example 4 and of a commercial separator.</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Commercial PE separator</td>\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">σ<sub>eff </sub>(mS/cm)</td>\n<td class=\"description-td\">1.47</td>\n<td class=\"description-td\">1.61</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shrinkage at</td>\n<td class=\"description-td\">9%</td>\n<td class=\"description-td\">about 0%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">120° C. for 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">hour</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5"
+        ],
+        [
+          ""
+        ],
+        [
+          "Comparison of membrane strength"
+        ],
+        [
+          "between Example 2 and Example 4."
+        ],
+        [
+          "",
+          "Example 2",
+          "Example 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tensile Strength (MPa)",
+          "13.1",
+          "22.3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 5</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparison of membrane strength</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">between Example 2 and Example 4.</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Tensile Strength (MPa)</td>\n<td class=\"description-td\">13.1</td>\n<td class=\"description-td\">22.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell; FIG. 2A is a schematic of a die coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 2B is a schematic of a spray coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 3 is a micrograph showing a cross section of a battery separator made according to certain aspects of the current technology; and FIG. 4 is a micrograph showing a surface of a battery separator made according to certain aspects of the current technology. FIG. 2A shows an embodiment where a liquid precursor material 50 is applied to a substrate 60 by die coating with an exemplary die coating device 70 including a slot die 72 containing the polymer solution 50 and a roller 74 . Here, the slot die 72 applies the liquid precursor material 50 to the substrate 60 as the roller 74 rolls in the direction of arrow 76 . A coating layer 52 forms on the substrate 60 as the substrate moves through the coating device 70 . FIG. 2B shows an embodiment where the same liquid precursor material 50 from FIG. 2A is applied to the same substrate 60 as from FIG. 2A by spray coating with an exemplary spray gun 80 containing the liquid precursor material 50 . Here, the spray gun 80 ejects the liquid precursor material 50 as a spray plume 54 , which coats the substrate 60 and forms the coating layer 52 . After or during the applying a liquid precursor material to a substrate, and when the liquid precursor material includes the optional second solvent, the method includes removing a portion of the second solvent, such as, for example, by volatilizing or evaporating a portion of the second solvent. Evaporating the second solvent can be performed at greater than or equal to about ambient temperature to less than or equal to about 100° C. The temperature and time of evaporation are sufficient to reduce the concentration of the second solvent in the liquid precursor material applied to the substrate by from greater than or equal to about 50% by weight to less than or equal to about 100% by weight. In various aspects of the present technology, the concentration of the second solvent is reduced by more than about 50% by weight, more than about 60% by weight, more than about 70% by weight, more than about 80% by weight, or more than about 90% by weight. When the liquid precursor material is applied by die coating (see FIG. 2A ), evaporating takes place in an environment having a desired temperature, such as in an oven. When the liquid precursor material is applied by spray coating (see FIG. 2B ), evaporating takes place, at least in part, in midair while the liquid precursor material is being ejected from the spray gun 80 as a spray plume 54 . Evaporation may further occur after the liquid precursor material is applied to the substrate, at ambient temperature or at a temperature above ambient temperature in an oven. A membrane/separator is prepared similarly to Example 1, but with the addition of a non-solvent. In particular, a mixture of the water/NMP (non-solvent) is added to the polymer solution and the polymer solution is applied to a PET thin film substrate to generate a polymer solution coating layer. The polymer solution coating layer is heated to evaporate the volatile second solvent, increase the water concentration, and precipitate the polymer. The coating layer, i.e., polymer, is then rinsed to remove the solvent in the polymer coating layer. The PET thin film substrate is separated from the coating layer. Table 3 shows various characteristics of Example 1, Example 3, and of a commercial PE separator. To determine ionic conductivity (σ eff ), samples are saturated with a liquid electrolyte (1M LiPF 6 in EC/DMC; 1:1 by volume). FIG. 3 is a micrograph that shows a cross section of the Example 3 membrane/separator. The polymer solution is applied to a non-woven reinforcement to generate a coating layer. The reinforcement helps improve the mechanical property of the laminated separator. Then, the volatile solvent is evaporated to increase the polymer concentration. The coating layer is conditioned in a controlled environment (humidity and temperature) and then rinsed to remove the solvent in the polymer coating layer. The coating layer, e.g., membrane, is then annealed in a wet state (containing greater than 10 parts of water per 100 parts of solids) at a temperature of greater than or equal to about 100° C. for a time of greater than or equal to about 1 second to increase film crystallinity. Table 4 shows the ionic conductivity and shrinkage properties of Example 4 and a commercial separator. Table 5 compares the membrane strength of a membrane/separator made similarly to Example 4, but without the non-woven reinforcement, i.e., Example 2, to Example 4. FIG. 4 is a micrograph showing the surface of the membrane/separator of Example 4.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/56/7b/b2/a58323c951f9b9/US10056590-20180821-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell; FIG. 2A is a schematic of a die coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 2B is a schematic of a spray coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 3 is a micrograph showing a cross section of a battery separator made according to certain aspects of the current technology; and FIG. 4 is a micrograph showing a surface of a battery separator made according to certain aspects of the current technology. FIG. 2A shows an embodiment where a liquid precursor material 50 is applied to a substrate 60 by die coating with an exemplary die coating device 70 including a slot die 72 containing the polymer solution 50 and a roller 74 . Here, the slot die 72 applies the liquid precursor material 50 to the substrate 60 as the roller 74 rolls in the direction of arrow 76 . A coating layer 52 forms on the substrate 60 as the substrate moves through the coating device 70 . FIG. 2B shows an embodiment where the same liquid precursor material 50 from FIG. 2A is applied to the same substrate 60 as from FIG. 2A by spray coating with an exemplary spray gun 80 containing the liquid precursor material 50 . Here, the spray gun 80 ejects the liquid precursor material 50 as a spray plume 54 , which coats the substrate 60 and forms the coating layer 52 . After or during the applying a liquid precursor material to a substrate, and when the liquid precursor material includes the optional second solvent, the method includes removing a portion of the second solvent, such as, for example, by volatilizing or evaporating a portion of the second solvent. Evaporating the second solvent can be performed at greater than or equal to about ambient temperature to less than or equal to about 100° C. The temperature and time of evaporation are sufficient to reduce the concentration of the second solvent in the liquid precursor material applied to the substrate by from greater than or equal to about 50% by weight to less than or equal to about 100% by weight. In various aspects of the present technology, the concentration of the second solvent is reduced by more than about 50% by weight, more than about 60% by weight, more than about 70% by weight, more than about 80% by weight, or more than about 90% by weight. When the liquid precursor material is applied by die coating (see FIG. 2A ), evaporating takes place in an environment having a desired temperature, such as in an oven. When the liquid precursor material is applied by spray coating (see FIG. 2B ), evaporating takes place, at least in part, in midair while the liquid precursor material is being ejected from the spray gun 80 as a spray plume 54 . Evaporation may further occur after the liquid precursor material is applied to the substrate, at ambient temperature or at a temperature above ambient temperature in an oven. A membrane/separator is prepared similarly to Example 1, but with the addition of a non-solvent. In particular, a mixture of the water/NMP (non-solvent) is added to the polymer solution and the polymer solution is applied to a PET thin film substrate to generate a polymer solution coating layer. The polymer solution coating layer is heated to evaporate the volatile second solvent, increase the water concentration, and precipitate the polymer. The coating layer, i.e., polymer, is then rinsed to remove the solvent in the polymer coating layer. The PET thin film substrate is separated from the coating layer. Table 3 shows various characteristics of Example 1, Example 3, and of a commercial PE separator. To determine ionic conductivity (σ eff ), samples are saturated with a liquid electrolyte (1M LiPF 6 in EC/DMC; 1:1 by volume). FIG. 3 is a micrograph that shows a cross section of the Example 3 membrane/separator. The polymer solution is applied to a non-woven reinforcement to generate a coating layer. The reinforcement helps improve the mechanical property of the laminated separator. Then, the volatile solvent is evaporated to increase the polymer concentration. The coating layer is conditioned in a controlled environment (humidity and temperature) and then rinsed to remove the solvent in the polymer coating layer. The coating layer, e.g., membrane, is then annealed in a wet state (containing greater than 10 parts of water per 100 parts of solids) at a temperature of greater than or equal to about 100° C. for a time of greater than or equal to about 1 second to increase film crystallinity. Table 4 shows the ionic conductivity and shrinkage properties of Example 4 and a commercial separator. Table 5 compares the membrane strength of a membrane/separator made similarly to Example 4, but without the non-woven reinforcement, i.e., Example 2, to Example 4. FIG. 4 is a micrograph showing the surface of the membrane/separator of Example 4.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/e6/63/88/a964a6617bd111/US10056590-20180821-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell; FIG. 2A is a schematic of a die coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 2B is a schematic of a spray coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 3 is a micrograph showing a cross section of a battery separator made according to certain aspects of the current technology; and FIG. 4 is a micrograph showing a surface of a battery separator made according to certain aspects of the current technology. FIG. 2A shows an embodiment where a liquid precursor material 50 is applied to a substrate 60 by die coating with an exemplary die coating device 70 including a slot die 72 containing the polymer solution 50 and a roller 74 . Here, the slot die 72 applies the liquid precursor material 50 to the substrate 60 as the roller 74 rolls in the direction of arrow 76 . A coating layer 52 forms on the substrate 60 as the substrate moves through the coating device 70 . FIG. 2B shows an embodiment where the same liquid precursor material 50 from FIG. 2A is applied to the same substrate 60 as from FIG. 2A by spray coating with an exemplary spray gun 80 containing the liquid precursor material 50 . Here, the spray gun 80 ejects the liquid precursor material 50 as a spray plume 54 , which coats the substrate 60 and forms the coating layer 52 . After or during the applying a liquid precursor material to a substrate, and when the liquid precursor material includes the optional second solvent, the method includes removing a portion of the second solvent, such as, for example, by volatilizing or evaporating a portion of the second solvent. Evaporating the second solvent can be performed at greater than or equal to about ambient temperature to less than or equal to about 100° C. The temperature and time of evaporation are sufficient to reduce the concentration of the second solvent in the liquid precursor material applied to the substrate by from greater than or equal to about 50% by weight to less than or equal to about 100% by weight. In various aspects of the present technology, the concentration of the second solvent is reduced by more than about 50% by weight, more than about 60% by weight, more than about 70% by weight, more than about 80% by weight, or more than about 90% by weight. When the liquid precursor material is applied by die coating (see FIG. 2A ), evaporating takes place in an environment having a desired temperature, such as in an oven. When the liquid precursor material is applied by spray coating (see FIG. 2B ), evaporating takes place, at least in part, in midair while the liquid precursor material is being ejected from the spray gun 80 as a spray plume 54 . Evaporation may further occur after the liquid precursor material is applied to the substrate, at ambient temperature or at a temperature above ambient temperature in an oven. A membrane/separator is prepared similarly to Example 1, but with the addition of a non-solvent. In particular, a mixture of the water/NMP (non-solvent) is added to the polymer solution and the polymer solution is applied to a PET thin film substrate to generate a polymer solution coating layer. The polymer solution coating layer is heated to evaporate the volatile second solvent, increase the water concentration, and precipitate the polymer. The coating layer, i.e., polymer, is then rinsed to remove the solvent in the polymer coating layer. The PET thin film substrate is separated from the coating layer. Table 3 shows various characteristics of Example 1, Example 3, and of a commercial PE separator. To determine ionic conductivity (σ eff ), samples are saturated with a liquid electrolyte (1M LiPF 6 in EC/DMC; 1:1 by volume). FIG. 3 is a micrograph that shows a cross section of the Example 3 membrane/separator. The polymer solution is applied to a non-woven reinforcement to generate a coating layer. The reinforcement helps improve the mechanical property of the laminated separator. Then, the volatile solvent is evaporated to increase the polymer concentration. The coating layer is conditioned in a controlled environment (humidity and temperature) and then rinsed to remove the solvent in the polymer coating layer. The coating layer, e.g., membrane, is then annealed in a wet state (containing greater than 10 parts of water per 100 parts of solids) at a temperature of greater than or equal to about 100° C. for a time of greater than or equal to about 1 second to increase film crystallinity. Table 4 shows the ionic conductivity and shrinkage properties of Example 4 and a commercial separator. Table 5 compares the membrane strength of a membrane/separator made similarly to Example 4, but without the non-woven reinforcement, i.e., Example 2, to Example 4. FIG. 4 is a micrograph showing the surface of the membrane/separator of Example 4.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/13/51/38/e25456ab597d8b/US10056590-20180821-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell; FIG. 2A is a schematic of a die coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 2B is a schematic of a spray coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 3 is a micrograph showing a cross section of a battery separator made according to certain aspects of the current technology; and FIG. 4 is a micrograph showing a surface of a battery separator made according to certain aspects of the current technology. FIG. 2A shows an embodiment where a liquid precursor material 50 is applied to a substrate 60 by die coating with an exemplary die coating device 70 including a slot die 72 containing the polymer solution 50 and a roller 74 . Here, the slot die 72 applies the liquid precursor material 50 to the substrate 60 as the roller 74 rolls in the direction of arrow 76 . A coating layer 52 forms on the substrate 60 as the substrate moves through the coating device 70 . FIG. 2B shows an embodiment where the same liquid precursor material 50 from FIG. 2A is applied to the same substrate 60 as from FIG. 2A by spray coating with an exemplary spray gun 80 containing the liquid precursor material 50 . Here, the spray gun 80 ejects the liquid precursor material 50 as a spray plume 54 , which coats the substrate 60 and forms the coating layer 52 . After or during the applying a liquid precursor material to a substrate, and when the liquid precursor material includes the optional second solvent, the method includes removing a portion of the second solvent, such as, for example, by volatilizing or evaporating a portion of the second solvent. Evaporating the second solvent can be performed at greater than or equal to about ambient temperature to less than or equal to about 100° C. The temperature and time of evaporation are sufficient to reduce the concentration of the second solvent in the liquid precursor material applied to the substrate by from greater than or equal to about 50% by weight to less than or equal to about 100% by weight. In various aspects of the present technology, the concentration of the second solvent is reduced by more than about 50% by weight, more than about 60% by weight, more than about 70% by weight, more than about 80% by weight, or more than about 90% by weight. When the liquid precursor material is applied by die coating (see FIG. 2A ), evaporating takes place in an environment having a desired temperature, such as in an oven. When the liquid precursor material is applied by spray coating (see FIG. 2B ), evaporating takes place, at least in part, in midair while the liquid precursor material is being ejected from the spray gun 80 as a spray plume 54 . Evaporation may further occur after the liquid precursor material is applied to the substrate, at ambient temperature or at a temperature above ambient temperature in an oven. A membrane/separator is prepared similarly to Example 1, but with the addition of a non-solvent. In particular, a mixture of the water/NMP (non-solvent) is added to the polymer solution and the polymer solution is applied to a PET thin film substrate to generate a polymer solution coating layer. The polymer solution coating layer is heated to evaporate the volatile second solvent, increase the water concentration, and precipitate the polymer. The coating layer, i.e., polymer, is then rinsed to remove the solvent in the polymer coating layer. The PET thin film substrate is separated from the coating layer. Table 3 shows various characteristics of Example 1, Example 3, and of a commercial PE separator. To determine ionic conductivity (σ eff ), samples are saturated with a liquid electrolyte (1M LiPF 6 in EC/DMC; 1:1 by volume). FIG. 3 is a micrograph that shows a cross section of the Example 3 membrane/separator. The polymer solution is applied to a non-woven reinforcement to generate a coating layer. The reinforcement helps improve the mechanical property of the laminated separator. Then, the volatile solvent is evaporated to increase the polymer concentration. The coating layer is conditioned in a controlled environment (humidity and temperature) and then rinsed to remove the solvent in the polymer coating layer. The coating layer, e.g., membrane, is then annealed in a wet state (containing greater than 10 parts of water per 100 parts of solids) at a temperature of greater than or equal to about 100° C. for a time of greater than or equal to about 1 second to increase film crystallinity. Table 4 shows the ionic conductivity and shrinkage properties of Example 4 and a commercial separator. Table 5 compares the membrane strength of a membrane/separator made similarly to Example 4, but without the non-woven reinforcement, i.e., Example 2, to Example 4. FIG. 4 is a micrograph showing the surface of the membrane/separator of Example 4.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/ec/58/38/0b30bf63f5da69/US10056590-20180821-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic of an exemplary electrochemical battery cell; FIG. 2A is a schematic of a die coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 2B is a schematic of a spray coating process for applying a polymer solution to a substrate according to various aspects of the current technology; FIG. 3 is a micrograph showing a cross section of a battery separator made according to certain aspects of the current technology; and FIG. 4 is a micrograph showing a surface of a battery separator made according to certain aspects of the current technology. FIG. 2A shows an embodiment where a liquid precursor material 50 is applied to a substrate 60 by die coating with an exemplary die coating device 70 including a slot die 72 containing the polymer solution 50 and a roller 74 . Here, the slot die 72 applies the liquid precursor material 50 to the substrate 60 as the roller 74 rolls in the direction of arrow 76 . A coating layer 52 forms on the substrate 60 as the substrate moves through the coating device 70 . FIG. 2B shows an embodiment where the same liquid precursor material 50 from FIG. 2A is applied to the same substrate 60 as from FIG. 2A by spray coating with an exemplary spray gun 80 containing the liquid precursor material 50 . Here, the spray gun 80 ejects the liquid precursor material 50 as a spray plume 54 , which coats the substrate 60 and forms the coating layer 52 . After or during the applying a liquid precursor material to a substrate, and when the liquid precursor material includes the optional second solvent, the method includes removing a portion of the second solvent, such as, for example, by volatilizing or evaporating a portion of the second solvent. Evaporating the second solvent can be performed at greater than or equal to about ambient temperature to less than or equal to about 100° C. The temperature and time of evaporation are sufficient to reduce the concentration of the second solvent in the liquid precursor material applied to the substrate by from greater than or equal to about 50% by weight to less than or equal to about 100% by weight. In various aspects of the present technology, the concentration of the second solvent is reduced by more than about 50% by weight, more than about 60% by weight, more than about 70% by weight, more than about 80% by weight, or more than about 90% by weight. When the liquid precursor material is applied by die coating (see FIG. 2A ), evaporating takes place in an environment having a desired temperature, such as in an oven. When the liquid precursor material is applied by spray coating (see FIG. 2B ), evaporating takes place, at least in part, in midair while the liquid precursor material is being ejected from the spray gun 80 as a spray plume 54 . Evaporation may further occur after the liquid precursor material is applied to the substrate, at ambient temperature or at a temperature above ambient temperature in an oven. A membrane/separator is prepared similarly to Example 1, but with the addition of a non-solvent. In particular, a mixture of the water/NMP (non-solvent) is added to the polymer solution and the polymer solution is applied to a PET thin film substrate to generate a polymer solution coating layer. The polymer solution coating layer is heated to evaporate the volatile second solvent, increase the water concentration, and precipitate the polymer. The coating layer, i.e., polymer, is then rinsed to remove the solvent in the polymer coating layer. The PET thin film substrate is separated from the coating layer. Table 3 shows various characteristics of Example 1, Example 3, and of a commercial PE separator. To determine ionic conductivity (σ eff ), samples are saturated with a liquid electrolyte (1M LiPF 6 in EC/DMC; 1:1 by volume). FIG. 3 is a micrograph that shows a cross section of the Example 3 membrane/separator. The polymer solution is applied to a non-woven reinforcement to generate a coating layer. The reinforcement helps improve the mechanical property of the laminated separator. Then, the volatile solvent is evaporated to increase the polymer concentration. The coating layer is conditioned in a controlled environment (humidity and temperature) and then rinsed to remove the solvent in the polymer coating layer. The coating layer, e.g., membrane, is then annealed in a wet state (containing greater than 10 parts of water per 100 parts of solids) at a temperature of greater than or equal to about 100° C. for a time of greater than or equal to about 1 second to increase film crystallinity. Table 4 shows the ionic conductivity and shrinkage properties of Example 4 and a commercial separator. Table 5 compares the membrane strength of a membrane/separator made similarly to Example 4, but without the non-woven reinforcement, i.e., Example 2, to Example 4. FIG. 4 is a micrograph showing the surface of the membrane/separator of Example 4.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/be/26/c1/c9b13e8d99b4b7/US10056590-20180821-D00004.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/de/13/29/79fc1b6390fdd4/US10056590.pdf"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10056590B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/ef51b7b0c3040ae877e7f05fe6dc40290d4bb69e0981fdeb8f3e29ae7072e60e.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:24:28.596909+00:00",
+    "sha256": "ef51b7b0c3040ae877e7f05fe6dc40290d4bb69e0981fdeb8f3e29ae7072e60e",
+    "source": "patents",
+    "source_id": "eb856ae8759e8f6fcc5a7f1664326cd393cd93d0fc5715e7d488dd63ec4277ee",
+    "url": "https://patents.google.com/patent/US10056590B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": 60.0,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Shrinkage at 120° C. for 1 hour",
+      "method": null,
+      "notes": "Publication US10056590B2; Example 1; printed unit: 9%. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "046e504c92979a6df4cbe2c6be6f6f6fa6634ae5f16e35cf9e17c5f6fa4adca9",
+      "original_property_label": "Shrinkage at 120° C. for 1 hour",
+      "original_unit": "9%",
+      "original_value": "about 0%",
+      "polymer": null,
+      "product": null,
+      "property": "thermal_shrinkage",
+      "quality_flag": "unresolved_test_protocol",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US10056590B2:Example 1",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "3",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/ef51b7b0c3040ae877e7f05fe6dc40290d4bb69e0981fdeb8f3e29ae7072e60e.bin",
+      "source_id": "eb856ae8759e8f6fcc5a7f1664326cd393cd93d0fc5715e7d488dd63ec4277ee",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "8",
+      "source_sha256": "ef51b7b0c3040ae877e7f05fe6dc40290d4bb69e0981fdeb8f3e29ae7072e60e",
+      "source_table": "TABLE 3",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10056590B2/en",
+      "statistic": "reported",
+      "temperature_C": 120.0,
+      "temperature_role": "exposure",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    },
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": 60.0,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "patent_html_table",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": "Shrinkage at 120° C. for 1 hour",
+      "method": null,
+      "notes": "Publication US10056590B2; Example 3; printed unit: 9%. Example identity and experimental protocol retained; no processing temperature inferred.",
+      "observation_id": "ffb48afa4278a82351607542b2595a92295bbdf69ccf73ea6101e1623c44339b",
+      "original_property_label": "Shrinkage at 120° C. for 1 hour",
+      "original_unit": "9%",
+      "original_value": "about 0%",
+      "polymer": null,
+      "product": null,
+      "property": "thermal_shrinkage",
+      "quality_flag": "unresolved_test_protocol",
+      "record_type": "measured",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": "separator",
+      "sample_id": "US10056590B2:Example 3",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": "4",
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/ef51b7b0c3040ae877e7f05fe6dc40290d4bb69e0981fdeb8f3e29ae7072e60e.bin",
+      "source_id": "eb856ae8759e8f6fcc5a7f1664326cd393cd93d0fc5715e7d488dd63ec4277ee",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": "8",
+      "source_sha256": "ef51b7b0c3040ae877e7f05fe6dc40290d4bb69e0981fdeb8f3e29ae7072e60e",
+      "source_table": "TABLE 3",
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10056590B2/en",
+      "statistic": "reported",
+      "temperature_C": 120.0,
+      "temperature_role": "exposure",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "complete"
+}

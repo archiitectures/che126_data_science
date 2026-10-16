@@ -1,0 +1,453 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Puncture",
+          "Maximum TMA shrinkage ratio in",
+          ""
+        ],
+        [
+          "Punctue",
+          "strength at high",
+          "the transverse direction (%)",
+          "",
+          "Shrinkage ratio"
+        ],
+        [
+          "strength",
+          "temperature",
+          "2",
+          "1.5",
+          "1.3",
+          "Overcharge",
+          "(120° C., 1 hr)"
+        ],
+        [
+          "(N/μm)",
+          "(120° C.",
+          "mN/μm",
+          "mN/μm",
+          "mN/μm",
+          "test",
+          "LD",
+          "TD"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "0.24",
+          "0.085",
+          "≦0%",
+          "≦0%",
+          "8%",
+          "Pass",
+          "5%",
+          "2%",
+          ""
+        ],
+        [
+          "0.27",
+          "0.094",
+          "≦0%",
+          "≦0%",
+          "≦0%",
+          "Pass",
+          "6%",
+          "6%"
+        ],
+        [
+          "0.25",
+          "0.088",
+          "≦0%",
+          "≦0%",
+          "≦0%",
+          "Pass",
+          "4%",
+          "2%"
+        ],
+        [
+          "0.22",
+          "0.072",
+          "≦0%",
+          "12%",
+          "—",
+          "Pass",
+          "6%",
+          "9%"
+        ],
+        [
+          "0.24",
+          "0.089",
+          "≦0%",
+          "≦0%",
+          "≦0%",
+          "Pass",
+          "4%",
+          "4%"
+        ],
+        [
+          "0.33",
+          "0.131",
+          "≦0%",
+          "7%",
+          "—",
+          "Pass",
+          "4%",
+          "3%"
+        ],
+        [
+          "0.24",
+          "0.082",
+          "≦0%",
+          "≦0%",
+          "≦0%",
+          "Pass",
+          "6%",
+          "3%"
+        ],
+        [
+          "0.23",
+          "0.060",
+          "19%",
+          "—",
+          "—",
+          "Pass",
+          "14%",
+          "17%"
+        ],
+        [
+          "0.13",
+          "0.031",
+          "≦0%",
+          "≦0%",
+          "≦0%",
+          "Pass",
+          "10%",
+          "25%"
+        ],
+        [
+          "0.21",
+          "0.063",
+          "15%",
+          "—",
+          "—",
+          "Fail",
+          "11%",
+          "15%"
+        ],
+        [
+          "0.21",
+          "0.043",
+          "28%",
+          "—",
+          "—",
+          "Pass",
+          "9%",
+          "8%"
+        ],
+        [
+          "0.22",
+          "0.077",
+          "≦0%",
+          "≦0%",
+          "≦0%",
+          "Pass",
+          "5%",
+          "0%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Film",
+          "",
+          "",
+          "Average",
+          "Maximum"
+        ],
+        [
+          "",
+          "",
+          "thickness",
+          "Porosity",
+          "Permeability",
+          "pore size",
+          "pore size"
+        ],
+        [
+          "",
+          "",
+          "(μm)",
+          "(%)",
+          "(Darcy 10 −5 )",
+          "(μm)",
+          "(μm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Ex. 1",
+          "16",
+          "41",
+          "2.42",
+          "0.046",
+          "0.066"
+        ],
+        [
+          "",
+          "Ex. 2",
+          "20",
+          "43",
+          "2.93",
+          "0.051",
+          "0.072"
+        ],
+        [
+          "",
+          "Ex. 3",
+          "18",
+          "41",
+          "2.46",
+          "0.041",
+          "0.063"
+        ],
+        [
+          "",
+          "Ex. 4",
+          "24",
+          "54",
+          "6.37",
+          "0.049",
+          "0.075"
+        ],
+        [
+          "",
+          "Ex. 5",
+          "10",
+          "40",
+          "2.72",
+          "0.043",
+          "0.065"
+        ],
+        [
+          "",
+          "Ex. 6",
+          "13",
+          "39",
+          "2.51",
+          "0.047",
+          "0.069"
+        ],
+        [
+          "",
+          "Ex. 7",
+          "15",
+          "42",
+          "2.57",
+          "0.046",
+          "0.070"
+        ],
+        [
+          "",
+          "Comp. Ex. 1",
+          "17",
+          "46",
+          "3.41",
+          "0.042",
+          "0.060"
+        ],
+        [
+          "",
+          "Comp. Ex. 2",
+          "19",
+          "36",
+          "2.23",
+          "0.035",
+          "0.051"
+        ],
+        [
+          "",
+          "Comp. Ex. 3",
+          "20",
+          "57",
+          "6.92",
+          "0.068",
+          "0.111"
+        ],
+        [
+          "",
+          "Comp. Ex. 4",
+          "22",
+          "46",
+          "3.64",
+          "0.048",
+          "0.071"
+        ],
+        [
+          "",
+          "Comp. Ex. 5",
+          "12",
+          "33",
+          "1.64",
+          "0.029",
+          "0.044"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "The separator was cut to a size of 15 cm 15 cm. Lines were drawn on the sample with a spacing of 10 cm in the longitudinal and transverse directions. The sample was interposed between two sheets of paper and subjected to temperature stabilization in an oven of 120° C. After 60 minutes, the change of the spacing was measured to calculate the shrinkage ratio. The equation for calculating the shrinkage ratio is as follows.",
+      "context_locator": "p-0091",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Puncture</td>\n<td class=\"description-td\">Maximum TMA shrinkage ratio in</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Punctue</td>\n<td class=\"description-td\">strength at high</td>\n<td class=\"description-td\">the transverse direction (%)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shrinkage ratio</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">temperature</td>\n<td class=\"description-td\">2</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">Overcharge</td>\n<td class=\"description-td\">(120° C., 1 hr)</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">(N/μm)</td>\n<td class=\"description-td\">(120° C.</td>\n<td class=\"description-td\">mN/μm</td>\n<td class=\"description-td\">mN/μm</td>\n<td class=\"description-td\">mN/μm</td>\n<td class=\"description-td\">test</td>\n<td class=\"description-td\">LD</td>\n<td class=\"description-td\">TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">0.24</td>\n<td class=\"description-td\">0.085</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\"> <sup> </sup>8%</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">5%</td>\n<td class=\"description-td\">2%</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.27</td>\n<td class=\"description-td\">0.094</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">6%</td>\n<td class=\"description-td\">6%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.25</td>\n<td class=\"description-td\">0.088</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">4%</td>\n<td class=\"description-td\">2%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.22</td>\n<td class=\"description-td\">0.072</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\"> 12%</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">6%</td>\n<td class=\"description-td\">9%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.24</td>\n<td class=\"description-td\">0.089</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">4%</td>\n<td class=\"description-td\">4%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.33</td>\n<td class=\"description-td\">0.131</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\"> <sup> </sup>7%</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">4%</td>\n<td class=\"description-td\">3%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.24</td>\n<td class=\"description-td\">0.082</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">6%</td>\n<td class=\"description-td\">3%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.23</td>\n<td class=\"description-td\">0.060</td>\n<td class=\"description-td\"> 19%</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">14% </td>\n<td class=\"description-td\">17%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.13</td>\n<td class=\"description-td\">0.031</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">10% </td>\n<td class=\"description-td\">25%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.21</td>\n<td class=\"description-td\">0.063</td>\n<td class=\"description-td\"> 15%</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Fail</td>\n<td class=\"description-td\">11% </td>\n<td class=\"description-td\">15%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.21</td>\n<td class=\"description-td\">0.043</td>\n<td class=\"description-td\"> 28%</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">9%</td>\n<td class=\"description-td\">8%</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">0.22</td>\n<td class=\"description-td\">0.077</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">≦0%</td>\n<td class=\"description-td\">Pass</td>\n<td class=\"description-td\">5%</td>\n<td class=\"description-td\">0%</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"9\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Film</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average</td>\n<td class=\"description-td\">Maximum</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">Permeability</td>\n<td class=\"description-td\">pore size</td>\n<td class=\"description-td\">pore size</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(Darcy 10<sup>−5</sup>)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 1</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">2.42</td>\n<td class=\"description-td\">0.046</td>\n<td class=\"description-td\">0.066</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">2.93</td>\n<td class=\"description-td\">0.051</td>\n<td class=\"description-td\">0.072</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 3</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">2.46</td>\n<td class=\"description-td\">0.041</td>\n<td class=\"description-td\">0.063</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 4</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">54</td>\n<td class=\"description-td\">6.37</td>\n<td class=\"description-td\">0.049</td>\n<td class=\"description-td\">0.075</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 5</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">2.72</td>\n<td class=\"description-td\">0.043</td>\n<td class=\"description-td\">0.065</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 6</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">2.51</td>\n<td class=\"description-td\">0.047</td>\n<td class=\"description-td\">0.069</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 7</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">2.57</td>\n<td class=\"description-td\">0.046</td>\n<td class=\"description-td\">0.070</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 1</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">3.41</td>\n<td class=\"description-td\">0.042</td>\n<td class=\"description-td\">0.060</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 2</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">36</td>\n<td class=\"description-td\">2.23</td>\n<td class=\"description-td\">0.035</td>\n<td class=\"description-td\">0.051</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 3</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">57</td>\n<td class=\"description-td\">6.92</td>\n<td class=\"description-td\">0.068</td>\n<td class=\"description-td\">0.111</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 4</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">3.64</td>\n<td class=\"description-td\">0.048</td>\n<td class=\"description-td\">0.071</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 5</td>\n<td class=\"description-td\">12</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">1.64</td>\n<td class=\"description-td\">0.029</td>\n<td class=\"description-td\">0.044</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/a1/6f/70/2b4f2e6c7a99c8/US20090148685A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"877650e471de6b0022f49eefebc6106b\"",
+        "last_modified": "Mon, 16 Oct 2017 04:56:42 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/f30dbf30d952bf29e76cc8577e4dc5df4e744ea741ae213188b41af6c3b47454.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:24:12.767557+00:00",
+        "sha256": "f30dbf30d952bf29e76cc8577e4dc5df4e744ea741ae213188b41af6c3b47454",
+        "source": "patent_pdf",
+        "source_id": "721053b7a3f52bfc9defe0fabb0efdb29307c714288cdefe3e01ea16ae79e3ee",
+        "url": "https://patentimages.storage.googleapis.com/a1/6f/70/2b4f2e6c7a99c8/US20090148685A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20090148685A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/861657cc1770fe8fbcd27772827528d09696286257423405d4aee05d433db723.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:24:11.820719+00:00",
+    "sha256": "861657cc1770fe8fbcd27772827528d09696286257423405d4aee05d433db723",
+    "source": "patents",
+    "source_id": "41dcac5966671a1ca9eb4f140e8779acae9e7a324e6e1ee967c5cd029b2cce0d",
+    "url": "https://patents.google.com/patent/US20090148685A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "c4b647bba463a7b31bb787be1441a9ce05c98a77d7422ebcb49d9ccbe2f5c266",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "41dcac5966671a1ca9eb4f140e8779acae9e7a324e6e1ee967c5cd029b2cce0d",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/861657cc1770fe8fbcd27772827528d09696286257423405d4aee05d433db723.bin",
+      "source_id": "41dcac5966671a1ca9eb4f140e8779acae9e7a324e6e1ee967c5cd029b2cce0d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "861657cc1770fe8fbcd27772827528d09696286257423405d4aee05d433db723",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20090148685A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

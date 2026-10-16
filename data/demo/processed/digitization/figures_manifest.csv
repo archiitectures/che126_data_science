@@ -1,0 +1,2 @@
+source_file,source_sha256,source_url,figure,caption,crop
+tests/fixtures/pipeline/patent_tma.png,029f37b08c6f01ce5746c5467c07adf1beb41aa13d2abd1550bb4464940130a7,https://patents.google.com/patent/US20120077113A1/en,5,TMA length-change plot; selected Comparative Example 1 trough segment only,"[324, 2022, 1950, 2766]"

@@ -1,0 +1,195 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Effective Ionic Conductivity"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "σ eff"
+        ],
+        [
+          "",
+          "Separator",
+          "t (μm)",
+          "S (cm 2 )",
+          "R b (Ω)",
+          "(mS/cm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Inventive",
+          "25",
+          "6.6",
+          "0.27",
+          "1.40"
+        ],
+        [
+          "",
+          "Separator"
+        ],
+        [
+          "",
+          "Celgard",
+          "25",
+          "6.6",
+          "0.39",
+          "0.97"
+        ],
+        [
+          "",
+          "2400"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Effective Ionic Conductivity</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">σ<sub>eff</sub> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">t (μm)</td>\n<td class=\"description-td\">S (cm<sup>2</sup>)</td>\n<td class=\"description-td\">R<sub>b </sub>(Ω)</td>\n<td class=\"description-td\">(mS/cm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Inventive</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">6.6</td>\n<td class=\"description-td\">0.27</td>\n<td class=\"description-td\">1.40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Separator</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Celgard</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">6.6</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">0.97</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2400</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective illustration of a lithium ion battery that includes several adjacent electrochemical battery cells, each of which includes a negative electrode, a positive electrode, and a separator sandwiched between the two electrodes. FIG. 2 is an enlarged, exploded cross-sectional view of one of the electrochemical battery cells shown in FIG. 1 along with its associated metallic current collectors. The components of the electrochemical battery cell and the metallic current collectors are idealized representations that are not necessarily drawn to scale. FIG. 3 is a graph that compares the thermal stability of a specific and exemplary separator comprised predominantly of heat resistant-particles and a conventional monolayer polypropylene separator. FIG. 4 is a graph that compares the cycle performance of a specific and exemplary separator comprised predominantly of heat resistant-particles and a conventional monolayer polypropylene separator. An exemplary and generalized illustration of a lithium ion battery 10 is depicted in FIG. 1 . The lithium ion battery 10 shown here includes several rectangularly-shaped electrochemical battery cells 12 that are each bracketed by metallic current collectors. The electrochemical battery cells 12 are stacked side-by-side in a modular configuration and connected in series (although a parallel connection is also permitted). The lithium ion battery 10 can be connected serially or in parallel to other similarly constructed lithium ion batteries to form a lithium ion battery pack that exhibits the voltage and current capacity demanded for a particular application. It should be understood the lithium ion battery 10 shown here is only a schematic illustration. FIG. 1 is meant to show the relative position and physical interactions of the various components that constitute the electrochemical battery cells 12 (i.e., the electrodes and the separator); it is not intended to inform the relative sizes of the electrochemical battery cells' components, to define the number of electrochemical battery cells 12 in the lithium ion battery 10 , or to limit the wide variety of structural configurations the lithium ion battery 10 may assume. Various structural modifications to the lithium ion battery 10 shown in FIG. 1 are possible despite what is explicitly illustrated. An exploded cross-sectional view of the electrochemical battery cell 12 and its associated metallic current collectors 20 , 24 is generally illustrated in FIG. 2 . The negative electrode 14 includes an inner face surface 32 and an outer face surface 34 relative to the location of the separator 18 . The positive electrode 16 similarly includes an inner face surface 36 and an outer face surface 38 . The inner face surface 32 of the negative electrode 14 may, but is not required to, encompass a larger two-dimensional surface area than the inner face surface 36 of the positive electrode 16 , as shown. When assembled into the electrochemical battery cell 12 , the inner face surfaces 32 , 36 of the negative and positive electrodes 14 , 16 confront one another and are pressed against a negative-side major face surface 40 and a positive-side major face surface 42 of the separator 18 , respectively, under the applied compressive force F. Such pressed-engagement occurs generally uniformly along the entire interface of the major face surfaces 40 , 42 of the separator 18 and the corresponding portions of the inner face surfaces 32 , 36 of the electrodes 14 , 16 . The negative-side metallic current collector 20 is formed against the outer face surface 34 of the negative electrode 14 and the positive-side metallic current collector 24 is formed against the outer face surface 38 of the positive electrode 16 . Both of the metallic current collectors 20 , 24 engage their respective electrode outer face surfaces 34 , 38 over an appreciable interfacial surface area to facilitate the efficient collection and distribution of free electrons. The separator 18 , as shown best in FIG. 2 , is comprised predominantly of heat- resistant particles 44 held together by a small amount of a porous inert polymer material 46 . The heat- resistant particles 44 have a diameter that ranges from about 0.01 μm to about 10 μm. They are randomly stacked to a thickness T of the separator 18 that preferably ranges from about 25 μm to about 50 μm. Such stacking naturally forms a coextensive network of interconnected interstices around the particles 46 and through the separator 18 from one side to the other. The outermost, surface-exposed heat resistant particles 44 delineate the major face surfaces 40 , 42 of the separator 18 . The interstices formed between the heat- resistant particles 44 are occupied by the porous inert polymer material 46 . In terms of the composition of the separator 18 , the heat- resistant particles 44 are present at about 75 wt. % to about 95 wt. % and, preferably, about 85 wt. % to about 95 wt. %, while the porous inert polymer material 46 is present at about 5 wt. % to about 25 wt. % and, preferably, about 5 wt. % to about 15 wt. %. Referring back to FIG. 1 , the negative and positive terminals 28 , 30 of the lithium ion battery 10 may be connected to an electrical device 50 that generally encompasses power-consuming and power-generating devices. A power-consuming device is one that is powered fully or partially by the lithium ion battery 10 when operating in a discharge state. Conversely, a power-generating device is one that charges or re-powers the lithium ion battery 10 . The power-consuming device and the power-generating device can be the same device in some instances. For example, the electrical device 50 may be an electric motor for a hybrid electric or an extended range electric vehicle that is designed to draw an electric current from the lithium ion battery 10 during acceleration and provide a regenerative electric current to the lithium ion battery 10 during deceleration. The power-consuming device and the power-generating device can also be different devices. For example, the power-consuming device may be an electric motor for a hybrid electric or an extended range electric vehicle and the power-generating device may be an AC wall outlet, an internal combustion engine, and/or a vehicle alternator.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/b2/f0/67/7757633449e8e2/US09287540-20160315-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective illustration of a lithium ion battery that includes several adjacent electrochemical battery cells, each of which includes a negative electrode, a positive electrode, and a separator sandwiched between the two electrodes. FIG. 2 is an enlarged, exploded cross-sectional view of one of the electrochemical battery cells shown in FIG. 1 along with its associated metallic current collectors. The components of the electrochemical battery cell and the metallic current collectors are idealized representations that are not necessarily drawn to scale. FIG. 3 is a graph that compares the thermal stability of a specific and exemplary separator comprised predominantly of heat resistant-particles and a conventional monolayer polypropylene separator. FIG. 4 is a graph that compares the cycle performance of a specific and exemplary separator comprised predominantly of heat resistant-particles and a conventional monolayer polypropylene separator. An exemplary and generalized illustration of a lithium ion battery 10 is depicted in FIG. 1 . The lithium ion battery 10 shown here includes several rectangularly-shaped electrochemical battery cells 12 that are each bracketed by metallic current collectors. The electrochemical battery cells 12 are stacked side-by-side in a modular configuration and connected in series (although a parallel connection is also permitted). The lithium ion battery 10 can be connected serially or in parallel to other similarly constructed lithium ion batteries to form a lithium ion battery pack that exhibits the voltage and current capacity demanded for a particular application. It should be understood the lithium ion battery 10 shown here is only a schematic illustration. FIG. 1 is meant to show the relative position and physical interactions of the various components that constitute the electrochemical battery cells 12 (i.e., the electrodes and the separator); it is not intended to inform the relative sizes of the electrochemical battery cells' components, to define the number of electrochemical battery cells 12 in the lithium ion battery 10 , or to limit the wide variety of structural configurations the lithium ion battery 10 may assume. Various structural modifications to the lithium ion battery 10 shown in FIG. 1 are possible despite what is explicitly illustrated. An exploded cross-sectional view of the electrochemical battery cell 12 and its associated metallic current collectors 20 , 24 is generally illustrated in FIG. 2 . The negative electrode 14 includes an inner face surface 32 and an outer face surface 34 relative to the location of the separator 18 . The positive electrode 16 similarly includes an inner face surface 36 and an outer face surface 38 . The inner face surface 32 of the negative electrode 14 may, but is not required to, encompass a larger two-dimensional surface area than the inner face surface 36 of the positive electrode 16 , as shown. When assembled into the electrochemical battery cell 12 , the inner face surfaces 32 , 36 of the negative and positive electrodes 14 , 16 confront one another and are pressed against a negative-side major face surface 40 and a positive-side major face surface 42 of the separator 18 , respectively, under the applied compressive force F. Such pressed-engagement occurs generally uniformly along the entire interface of the major face surfaces 40 , 42 of the separator 18 and the corresponding portions of the inner face surfaces 32 , 36 of the electrodes 14 , 16 . The negative-side metallic current collector 20 is formed against the outer face surface 34 of the negative electrode 14 and the positive-side metallic current collector 24 is formed against the outer face surface 38 of the positive electrode 16 . Both of the metallic current collectors 20 , 24 engage their respective electrode outer face surfaces 34 , 38 over an appreciable interfacial surface area to facilitate the efficient collection and distribution of free electrons. The separator 18 , as shown best in FIG. 2 , is comprised predominantly of heat- resistant particles 44 held together by a small amount of a porous inert polymer material 46 . The heat- resistant particles 44 have a diameter that ranges from about 0.01 μm to about 10 μm. They are randomly stacked to a thickness T of the separator 18 that preferably ranges from about 25 μm to about 50 μm. Such stacking naturally forms a coextensive network of interconnected interstices around the particles 46 and through the separator 18 from one side to the other. The outermost, surface-exposed heat resistant particles 44 delineate the major face surfaces 40 , 42 of the separator 18 . The interstices formed between the heat- resistant particles 44 are occupied by the porous inert polymer material 46 . In terms of the composition of the separator 18 , the heat- resistant particles 44 are present at about 75 wt. % to about 95 wt. % and, preferably, about 85 wt. % to about 95 wt. %, while the porous inert polymer material 46 is present at about 5 wt. % to about 25 wt. % and, preferably, about 5 wt. % to about 15 wt. %. Referring back to FIG. 1 , the negative and positive terminals 28 , 30 of the lithium ion battery 10 may be connected to an electrical device 50 that generally encompasses power-consuming and power-generating devices. A power-consuming device is one that is powered fully or partially by the lithium ion battery 10 when operating in a discharge state. Conversely, a power-generating device is one that charges or re-powers the lithium ion battery 10 . The power-consuming device and the power-generating device can be the same device in some instances. For example, the electrical device 50 may be an electric motor for a hybrid electric or an extended range electric vehicle that is designed to draw an electric current from the lithium ion battery 10 during acceleration and provide a regenerative electric current to the lithium ion battery 10 during deceleration. The power-consuming device and the power-generating device can also be different devices. For example, the power-consuming device may be an electric motor for a hybrid electric or an extended range electric vehicle and the power-generating device may be an AC wall outlet, an internal combustion engine, and/or a vehicle alternator.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/d6/97/e6/db7d1d764904a3/US09287540-20160315-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective illustration of a lithium ion battery that includes several adjacent electrochemical battery cells, each of which includes a negative electrode, a positive electrode, and a separator sandwiched between the two electrodes. FIG. 2 is an enlarged, exploded cross-sectional view of one of the electrochemical battery cells shown in FIG. 1 along with its associated metallic current collectors. The components of the electrochemical battery cell and the metallic current collectors are idealized representations that are not necessarily drawn to scale. FIG. 3 is a graph that compares the thermal stability of a specific and exemplary separator comprised predominantly of heat resistant-particles and a conventional monolayer polypropylene separator. FIG. 4 is a graph that compares the cycle performance of a specific and exemplary separator comprised predominantly of heat resistant-particles and a conventional monolayer polypropylene separator. An exemplary and generalized illustration of a lithium ion battery 10 is depicted in FIG. 1 . The lithium ion battery 10 shown here includes several rectangularly-shaped electrochemical battery cells 12 that are each bracketed by metallic current collectors. The electrochemical battery cells 12 are stacked side-by-side in a modular configuration and connected in series (although a parallel connection is also permitted). The lithium ion battery 10 can be connected serially or in parallel to other similarly constructed lithium ion batteries to form a lithium ion battery pack that exhibits the voltage and current capacity demanded for a particular application. It should be understood the lithium ion battery 10 shown here is only a schematic illustration. FIG. 1 is meant to show the relative position and physical interactions of the various components that constitute the electrochemical battery cells 12 (i.e., the electrodes and the separator); it is not intended to inform the relative sizes of the electrochemical battery cells' components, to define the number of electrochemical battery cells 12 in the lithium ion battery 10 , or to limit the wide variety of structural configurations the lithium ion battery 10 may assume. Various structural modifications to the lithium ion battery 10 shown in FIG. 1 are possible despite what is explicitly illustrated. An exploded cross-sectional view of the electrochemical battery cell 12 and its associated metallic current collectors 20 , 24 is generally illustrated in FIG. 2 . The negative electrode 14 includes an inner face surface 32 and an outer face surface 34 relative to the location of the separator 18 . The positive electrode 16 similarly includes an inner face surface 36 and an outer face surface 38 . The inner face surface 32 of the negative electrode 14 may, but is not required to, encompass a larger two-dimensional surface area than the inner face surface 36 of the positive electrode 16 , as shown. When assembled into the electrochemical battery cell 12 , the inner face surfaces 32 , 36 of the negative and positive electrodes 14 , 16 confront one another and are pressed against a negative-side major face surface 40 and a positive-side major face surface 42 of the separator 18 , respectively, under the applied compressive force F. Such pressed-engagement occurs generally uniformly along the entire interface of the major face surfaces 40 , 42 of the separator 18 and the corresponding portions of the inner face surfaces 32 , 36 of the electrodes 14 , 16 . The negative-side metallic current collector 20 is formed against the outer face surface 34 of the negative electrode 14 and the positive-side metallic current collector 24 is formed against the outer face surface 38 of the positive electrode 16 . Both of the metallic current collectors 20 , 24 engage their respective electrode outer face surfaces 34 , 38 over an appreciable interfacial surface area to facilitate the efficient collection and distribution of free electrons. The separator 18 , as shown best in FIG. 2 , is comprised predominantly of heat- resistant particles 44 held together by a small amount of a porous inert polymer material 46 . The heat- resistant particles 44 have a diameter that ranges from about 0.01 μm to about 10 μm. They are randomly stacked to a thickness T of the separator 18 that preferably ranges from about 25 μm to about 50 μm. Such stacking naturally forms a coextensive network of interconnected interstices around the particles 46 and through the separator 18 from one side to the other. The outermost, surface-exposed heat resistant particles 44 delineate the major face surfaces 40 , 42 of the separator 18 . The interstices formed between the heat- resistant particles 44 are occupied by the porous inert polymer material 46 . In terms of the composition of the separator 18 , the heat- resistant particles 44 are present at about 75 wt. % to about 95 wt. % and, preferably, about 85 wt. % to about 95 wt. %, while the porous inert polymer material 46 is present at about 5 wt. % to about 25 wt. % and, preferably, about 5 wt. % to about 15 wt. %. Referring back to FIG. 1 , the negative and positive terminals 28 , 30 of the lithium ion battery 10 may be connected to an electrical device 50 that generally encompasses power-consuming and power-generating devices. A power-consuming device is one that is powered fully or partially by the lithium ion battery 10 when operating in a discharge state. Conversely, a power-generating device is one that charges or re-powers the lithium ion battery 10 . The power-consuming device and the power-generating device can be the same device in some instances. For example, the electrical device 50 may be an electric motor for a hybrid electric or an extended range electric vehicle that is designed to draw an electric current from the lithium ion battery 10 during acceleration and provide a regenerative electric current to the lithium ion battery 10 during deceleration. The power-consuming device and the power-generating device can also be different devices. For example, the power-consuming device may be an electric motor for a hybrid electric or an extended range electric vehicle and the power-generating device may be an AC wall outlet, an internal combustion engine, and/or a vehicle alternator.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/31/65/4c/eeb90be0c397f3/US09287540-20160315-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/58/4b/50/d18f3680581832/US9287540.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"aa282044f4918d3c17c6c34a033599c4\"",
+        "last_modified": "Sun, 12 Nov 2017 04:31:38 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/1fb77134dcee53c1349bb6e961d0a58bb33060ce989a9937c794a85f0cab3787.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:08.976134+00:00",
+        "sha256": "1fb77134dcee53c1349bb6e961d0a58bb33060ce989a9937c794a85f0cab3787",
+        "source": "patent_pdf",
+        "source_id": "56e0ce3004d77e86a7ac10df56b6ac3b976aa4c70a3bc5ff852b0c93dad81541",
+        "url": "https://patentimages.storage.googleapis.com/58/4b/50/d18f3680581832/US9287540.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US9287540B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/622dcf9a80699ca35a4943dce3adf7da0ee95d6082ed88c54729b10a0a9d2853.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:08.091921+00:00",
+    "sha256": "622dcf9a80699ca35a4943dce3adf7da0ee95d6082ed88c54729b10a0a9d2853",
+    "source": "patents",
+    "source_id": "74ad012a0896e36d7080594c4bf5960c8ad07545942e374079f8279fa3476af2",
+    "url": "https://patents.google.com/patent/US9287540B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "4c844682353b903ee6c524b04fe7cf6ce687f8df3fabde2ffe2c2a9fd6304b35",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "74ad012a0896e36d7080594c4bf5960c8ad07545942e374079f8279fa3476af2",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/622dcf9a80699ca35a4943dce3adf7da0ee95d6082ed88c54729b10a0a9d2853.bin",
+      "source_id": "74ad012a0896e36d7080594c4bf5960c8ad07545942e374079f8279fa3476af2",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "622dcf9a80699ca35a4943dce3adf7da0ee95d6082ed88c54729b10a0a9d2853",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US9287540B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

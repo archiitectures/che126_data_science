@@ -1,0 +1,773 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5",
+          "Example 6",
+          "Example 7"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Coating",
+          "Line speed",
+          "m/min",
+          "30",
+          "30",
+          "30",
+          "30",
+          "30",
+          "30",
+          "3"
+        ],
+        [
+          "conditions",
+          "Drying time at 40° C.",
+          "sec",
+          "10",
+          "10",
+          "10",
+          "10",
+          "10",
+          "10",
+          "10"
+        ],
+        [
+          "",
+          "Drying time at 70° C.",
+          "sec",
+          "10≤",
+          "10≤",
+          "10≤",
+          "10≤",
+          "10≤",
+          "10≤",
+          "10≤"
+        ],
+        [
+          "",
+          "Drying temperature",
+          "° C.",
+          "40 → 70",
+          "40 → 70",
+          "40 → 70",
+          "40 → 70",
+          "40 → 70",
+          "40 → 70",
+          "40 → 70"
+        ],
+        [
+          "Porous",
+          "Membrane thickness",
+          "μm",
+          "16.0",
+          "16.0",
+          "16.0",
+          "16.0",
+          "16.0",
+          "16.0",
+          "16.0"
+        ],
+        [
+          "membrane"
+        ],
+        [
+          "(layer A)"
+        ],
+        [
+          "Porous layer",
+          "Inorganic filler",
+          "—",
+          "AlO",
+          "AlO",
+          "AlO",
+          "AlO",
+          "AlO",
+          "AlO",
+          "AlO"
+        ],
+        [
+          "(layer B)",
+          "",
+          "",
+          "(OH)",
+          "(OH)",
+          "(OH)",
+          "(OH)",
+          "(OH)",
+          "(OH)",
+          "(OH)"
+        ],
+        [
+          "",
+          "Particle shape",
+          "",
+          "Block",
+          "Block",
+          "Plate",
+          "Block",
+          "Block",
+          "Block",
+          "Block"
+        ],
+        [
+          "",
+          "",
+          "",
+          "shape",
+          "shape",
+          "shape",
+          "shape",
+          "shape",
+          "shape",
+          "shape"
+        ],
+        [
+          "",
+          "Proportion of pores with",
+          "%",
+          "42",
+          "41",
+          "32",
+          "40",
+          "43",
+          "38",
+          "35"
+        ],
+        [
+          "",
+          "angle θ: 60° ≤ θ ≤ 120°"
+        ],
+        [
+          "",
+          "Aspect ratio of inorganic",
+          "—",
+          "2.2",
+          "2.2",
+          "3.9",
+          "2.2",
+          "2.2",
+          "2.2",
+          "2.2"
+        ],
+        [
+          "",
+          "filler"
+        ],
+        [
+          "",
+          "Average particle size of",
+          "μm",
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        [
+          "",
+          "inorganic filler D 50"
+        ],
+        [
+          "",
+          "Layer density",
+          "g/m 2 /(μm)",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.6",
+          "1.3",
+          "1.6",
+          "1.5"
+        ],
+        [
+          "",
+          "Layer thickness",
+          "μm",
+          "4.0",
+          "7.0",
+          "4.0",
+          "9.0",
+          "1.5",
+          "12.0",
+          "4.0"
+        ],
+        [
+          "Multilayer",
+          "Total thickness of",
+          "μm",
+          "20.0",
+          "23.0",
+          "20.0",
+          "25.0",
+          "17.5",
+          "28.0",
+          "20.0"
+        ],
+        [
+          "porous layer",
+          "membrane"
+        ],
+        [
+          "",
+          "Thermal shrinkage ratio",
+          "%",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "",
+          "(MD) at 120° C."
+        ],
+        [
+          "",
+          "Thermal shrinkage ratio",
+          "%",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "",
+          "(TD) at 120° C."
+        ],
+        [
+          "",
+          "Air permeability",
+          "sec/100 cc",
+          "200",
+          "210",
+          "220",
+          "215",
+          "190",
+          "220",
+          "210"
+        ],
+        [
+          "",
+          "Membrane resistance",
+          "Ω · cm 2",
+          "2.4",
+          "2.2",
+          "2.5",
+          "2.4",
+          "2.2",
+          "2.6",
+          "2.6"
+        ],
+        [
+          "",
+          "(25° C.)"
+        ],
+        [
+          "Nonaqueous",
+          "Rate characteristics",
+          "%",
+          "60",
+          "59",
+          "58",
+          "58",
+          "65",
+          "56",
+          "59"
+        ],
+        [
+          "electrolyte"
+        ],
+        [
+          "battery"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative",
+          "Comparative"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Coating",
+          "Line speed",
+          "m/ min",
+          "3",
+          "30",
+          "30",
+          "30",
+          "30"
+        ],
+        [
+          "",
+          "conditions",
+          "Drying time at 40° C.",
+          "sec",
+          "—",
+          "—",
+          "—",
+          "—",
+          "10≤"
+        ],
+        [
+          "",
+          "",
+          "Drying time at 70° C.",
+          "sec",
+          "10≤",
+          "10≤",
+          "10≤",
+          "10≤",
+          "—"
+        ],
+        [
+          "",
+          "",
+          "Drying temperature",
+          "° C.",
+          "80",
+          "70",
+          "70",
+          "70",
+          "40"
+        ],
+        [
+          "",
+          "Porous",
+          "Membrane thickness",
+          "μm",
+          "16.0",
+          "16.0",
+          "16.0",
+          "16.0",
+          "16.0"
+        ],
+        [
+          "",
+          "membrane"
+        ],
+        [
+          "",
+          "(layer A)"
+        ],
+        [
+          "",
+          "Porous layer",
+          "Inorganic filler",
+          "—",
+          "AlO (OH)",
+          "AlO (OH)",
+          "AlO (OH)",
+          "AlO (OH)",
+          "AlO (OH)"
+        ],
+        [
+          "",
+          "(layer B)"
+        ],
+        [
+          "",
+          "",
+          "Particle shape",
+          "",
+          "Block shape",
+          "Plate shape",
+          "Block shape",
+          "Block shape",
+          "Block shape"
+        ],
+        [
+          "",
+          "",
+          "Proportion of pores with",
+          "%",
+          "22",
+          "18",
+          "27",
+          "28",
+          "26"
+        ],
+        [
+          "",
+          "",
+          "angle θ: 60° ≤ θ ≤ 120°"
+        ],
+        [
+          "",
+          "",
+          "Aspect ratio of inorganic",
+          "—",
+          "2.5",
+          "3.9",
+          "2.2",
+          "2.2",
+          "2.2"
+        ],
+        [
+          "",
+          "",
+          "filler"
+        ],
+        [
+          "",
+          "",
+          "Average particle size of",
+          "μm",
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        [
+          "",
+          "",
+          "inorganic filler D 50"
+        ],
+        [
+          "",
+          "",
+          "Layer density",
+          "g/m 2 /(μm)",
+          "1.7",
+          "1.7",
+          "1.4",
+          "1.4",
+          "1.6"
+        ],
+        [
+          "",
+          "",
+          "Layer thickness",
+          "μm",
+          "6.0",
+          "4.0",
+          "4.0",
+          "2.5",
+          "4.0"
+        ],
+        [
+          "",
+          "Multilayer",
+          "Total thickness of",
+          "μm",
+          "22.0",
+          "20.0",
+          "20.0",
+          "18.5",
+          "20.0"
+        ],
+        [
+          "",
+          "porous layer",
+          "membrane"
+        ],
+        [
+          "",
+          "",
+          "Thermal shrinkage ratio",
+          "%",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "",
+          "",
+          "(MD) at 120° C."
+        ],
+        [
+          "",
+          "",
+          "Thermal shrinkage ratio",
+          "%",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "",
+          "",
+          "(TD) at 120° C."
+        ],
+        [
+          "",
+          "",
+          "Air permeability",
+          "sec/100 cc",
+          "230",
+          "230",
+          "205",
+          "195",
+          "215"
+        ],
+        [
+          "",
+          "",
+          "Membrane resistance",
+          "Ω · cm 2",
+          "3.7",
+          "3.8",
+          "3.6",
+          "3.2",
+          "3.8"
+        ],
+        [
+          "",
+          "",
+          "(25° C.)"
+        ],
+        [
+          "",
+          "Nonaqueous",
+          "Rate characteristics",
+          "%",
+          "48",
+          "49",
+          "60",
+          "63",
+          "58"
+        ],
+        [
+          "",
+          "electrolyte"
+        ],
+        [
+          "",
+          "battery"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A sample was cut out from the multilayer porous membrane, having a size of 100 mm in MD direction by 100 mm in TD direction, and was left standing in an oven at 120° C. for 1 hour. On this occasion, the sample was held between two sheets of paper to prevent the hot air from blowing directly on the sample. The sample taken out from the oven was cooled down to room temperature. The length (mm) of the sample was then measured, and the MD and TD thermal shrinkage ratios were calculated. MD thermal shrinkage ratio (%)=(100−MD length after heating)/100×100 TD thermal shrinkage ratio (%)=(100−TD length after heating)/100×100",
+      "context_locator": "p-0140",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">Line speed</td>\n<td class=\"description-td\">m/min</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">conditions</td>\n<td class=\"description-td\">Drying time at 40° C.</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\"> 10</td>\n<td class=\"description-td\"> 10</td>\n<td class=\"description-td\"> 10</td>\n<td class=\"description-td\"> 10</td>\n<td class=\"description-td\"> 10</td>\n<td class=\"description-td\"> 10</td>\n<td class=\"description-td\"> 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Drying time at 70° C.</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Drying temperature</td>\n<td class=\"description-td\">° C.</td>\n<td class=\"description-td\">40 → 70</td>\n<td class=\"description-td\">40 → 70</td>\n<td class=\"description-td\">40 → 70</td>\n<td class=\"description-td\">40 → 70</td>\n<td class=\"description-td\">40 → 70</td>\n<td class=\"description-td\">40 → 70</td>\n<td class=\"description-td\">40 → 70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Porous</td>\n<td class=\"description-td\">Membrane thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">membrane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(layer A)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Porous layer</td>\n<td class=\"description-td\">Inorganic filler</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">AlO</td>\n<td class=\"description-td\">AlO</td>\n<td class=\"description-td\">AlO</td>\n<td class=\"description-td\">AlO</td>\n<td class=\"description-td\">AlO</td>\n<td class=\"description-td\">AlO</td>\n<td class=\"description-td\">AlO</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">(layer B)</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(OH)</td>\n<td class=\"description-td\">(OH)</td>\n<td class=\"description-td\">(OH)</td>\n<td class=\"description-td\">(OH)</td>\n<td class=\"description-td\">(OH)</td>\n<td class=\"description-td\">(OH)</td>\n<td class=\"description-td\">(OH)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Particle shape</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Block</td>\n<td class=\"description-td\">Block</td>\n<td class=\"description-td\">Plate</td>\n<td class=\"description-td\">Block</td>\n<td class=\"description-td\">Block</td>\n<td class=\"description-td\">Block</td>\n<td class=\"description-td\">Block</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shape</td>\n<td class=\"description-td\">shape</td>\n<td class=\"description-td\">shape</td>\n<td class=\"description-td\">shape</td>\n<td class=\"description-td\">shape</td>\n<td class=\"description-td\">shape</td>\n<td class=\"description-td\">shape</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Proportion of pores with</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 42</td>\n<td class=\"description-td\"> 41</td>\n<td class=\"description-td\"> 32</td>\n<td class=\"description-td\"> 40</td>\n<td class=\"description-td\"> 43</td>\n<td class=\"description-td\"> 38</td>\n<td class=\"description-td\"> 35</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">angle θ: 60° ≤ θ ≤ 120°</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Aspect ratio of inorganic</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 3.9</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">filler</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average particle size of</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic filler D<sub>50</sub> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layer density</td>\n<td class=\"description-td\">g/m<sup>2</sup>/(μm)</td>\n<td class=\"description-td\"> 1.4</td>\n<td class=\"description-td\"> 1.5</td>\n<td class=\"description-td\"> 1.6</td>\n<td class=\"description-td\"> 1.6</td>\n<td class=\"description-td\"> 1.3</td>\n<td class=\"description-td\"> 1.6</td>\n<td class=\"description-td\"> 1.5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layer thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 4.0</td>\n<td class=\"description-td\"> 7.0</td>\n<td class=\"description-td\"> 4.0</td>\n<td class=\"description-td\"> 9.0</td>\n<td class=\"description-td\"> 1.5</td>\n<td class=\"description-td\"> 12.0</td>\n<td class=\"description-td\"> 4.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Multilayer</td>\n<td class=\"description-td\">Total thickness of</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 20.0</td>\n<td class=\"description-td\"> 23.0</td>\n<td class=\"description-td\"> 20.0</td>\n<td class=\"description-td\"> 25.0</td>\n<td class=\"description-td\"> 17.5</td>\n<td class=\"description-td\"> 28.0</td>\n<td class=\"description-td\"> 20.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">porous layer</td>\n<td class=\"description-td\">membrane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal shrinkage ratio</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(MD) at 120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal shrinkage ratio</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(TD) at 120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec/100 cc</td>\n<td class=\"description-td\">200</td>\n<td class=\"description-td\">210</td>\n<td class=\"description-td\">220</td>\n<td class=\"description-td\">215</td>\n<td class=\"description-td\">190</td>\n<td class=\"description-td\">220</td>\n<td class=\"description-td\">210</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Membrane resistance</td>\n<td class=\"description-td\">Ω · cm<sup>2</sup> </td>\n<td class=\"description-td\"> 2.4</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.5</td>\n<td class=\"description-td\"> 2.4</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.6</td>\n<td class=\"description-td\"> 2.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(25° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Nonaqueous</td>\n<td class=\"description-td\">Rate characteristics</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 60</td>\n<td class=\"description-td\"> 59</td>\n<td class=\"description-td\"> 58</td>\n<td class=\"description-td\"> 58</td>\n<td class=\"description-td\"> 65</td>\n<td class=\"description-td\"> 56</td>\n<td class=\"description-td\"> 59</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">electrolyte</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">battery</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\">Line speed</td>\n<td class=\"description-td\">m/<figure-callout filenames=\"US10276849-20190430-D00000.png,US10276849-20190430-D00003.png\" id=\"3\" label=\"min\" state=\"{{state}}\">min</figure-callout> </td>\n<td class=\"description-td\"> 3</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n<td class=\"description-td\"> 30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">conditions</td>\n<td class=\"description-td\">Drying time at 40° C.</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\"> 10≤</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Drying time at 70° C.</td>\n<td class=\"description-td\">sec</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\"> 10≤</td>\n<td class=\"description-td\">—</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Drying temperature</td>\n<td class=\"description-td\">° C.</td>\n<td class=\"description-td\"> 80</td>\n<td class=\"description-td\"> 70</td>\n<td class=\"description-td\"> 70</td>\n<td class=\"description-td\"> 70</td>\n<td class=\"description-td\"> 40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Porous</td>\n<td class=\"description-td\">Membrane thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n<td class=\"description-td\"> 16.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">membrane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(layer A)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Porous layer</td>\n<td class=\"description-td\">Inorganic filler</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">AlO (OH)</td>\n<td class=\"description-td\">AlO (OH)</td>\n<td class=\"description-td\">AlO (OH)</td>\n<td class=\"description-td\">AlO (OH)</td>\n<td class=\"description-td\">AlO (OH)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(layer B)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Particle shape</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Block shape</td>\n<td class=\"description-td\">Plate shape</td>\n<td class=\"description-td\">Block shape</td>\n<td class=\"description-td\">Block shape</td>\n<td class=\"description-td\">Block shape</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Proportion of pores with</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 22</td>\n<td class=\"description-td\"> 18</td>\n<td class=\"description-td\"> 27</td>\n<td class=\"description-td\"> 28</td>\n<td class=\"description-td\"> 26</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">angle θ: 60° ≤ θ ≤ 120°</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Aspect ratio of inorganic</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\"> 2.5</td>\n<td class=\"description-td\"> 3.9</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.2</td>\n<td class=\"description-td\"> 2.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">filler</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Average particle size of</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n<td class=\"description-td\"> 1.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic filler D<sub>50</sub> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layer density</td>\n<td class=\"description-td\">g/m<sup>2</sup>/(μm)</td>\n<td class=\"description-td\"> 1.7</td>\n<td class=\"description-td\"> 1.7</td>\n<td class=\"description-td\"> 1.4</td>\n<td class=\"description-td\"> 1.4</td>\n<td class=\"description-td\"> 1.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Layer thickness</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 6.0</td>\n<td class=\"description-td\"> 4.0</td>\n<td class=\"description-td\"> 4.0</td>\n<td class=\"description-td\"> 2.5</td>\n<td class=\"description-td\"> 4.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Multilayer</td>\n<td class=\"description-td\">Total thickness of</td>\n<td class=\"description-td\">μm</td>\n<td class=\"description-td\"> 22.0</td>\n<td class=\"description-td\"> 20.0</td>\n<td class=\"description-td\"> 20.0</td>\n<td class=\"description-td\"> 18.5</td>\n<td class=\"description-td\"> 20.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">porous layer</td>\n<td class=\"description-td\">membrane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal shrinkage ratio</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(MD) at 120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal shrinkage ratio</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n<td class=\"description-td\"> 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(TD) at 120° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Air permeability</td>\n<td class=\"description-td\">sec/100 cc</td>\n<td class=\"description-td\">230</td>\n<td class=\"description-td\">230</td>\n<td class=\"description-td\">205</td>\n<td class=\"description-td\">195</td>\n<td class=\"description-td\">215</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Membrane resistance</td>\n<td class=\"description-td\">Ω · cm<sup>2</sup> </td>\n<td class=\"description-td\"> 3.7</td>\n<td class=\"description-td\"> 3.8</td>\n<td class=\"description-td\"> 3.6</td>\n<td class=\"description-td\"> 3.2</td>\n<td class=\"description-td\"> 3.8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(25° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Nonaqueous</td>\n<td class=\"description-td\">Rate characteristics</td>\n<td class=\"description-td\">%</td>\n<td class=\"description-td\"> 48</td>\n<td class=\"description-td\"> 49</td>\n<td class=\"description-td\"> 60</td>\n<td class=\"description-td\"> 63</td>\n<td class=\"description-td\"> 58</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">electrolyte</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">battery</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 shows a cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1. FIG. 2 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores painted in black color. FIG. 3 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores of 0.01 μm 2 or more being transformed into ellipses after image processing. FIG. 4 shows a schematic view illustrating the angle θ formed between the major axis of an ellipse and a straight line in parallel with a membrane plane, for the processed image of a pore in a porous layer transformed into the ellipse. FIG. 5 shows an illustration showing the method for identifying pores, using the SEM image in FIG. 1 as an example. Since the pores are not necessarily clearly identified depending on the measurement object in some cases, the identification method is described with reference to FIG. 5 as an example. FIG. 5 is the cross-sectional SEM image of a porous layer of the multilayer porous membrane in FIG. 1 . For example, when attention is paid to a pore 1 at the left end in FIG. 5 , a dark part is present with no filler located in the rear. Such a region with a closed contour around the dark part is identified as a pore (void). In this case, although a filler is also observed inside the identified pore, it can be evaluated that the portion composes part of the void and contributes to the ionic conductivity. Consequently, the portion is identified as a pore without problems. On the other hand, it cannot be evaluated that a filler part 2 positioned slightly backward of the BIB-processed cross section contributes to the ionic conductivity. Consequently, the filler part 2 is not identified as a pore. The pores are thus identified around the dark parts in an image photographed under the conditions for SEM imaging, so that pores in accordance with the technical meaning of the present embodiment can be identified for various measurement objects. As an example, the cross-sectional SEM image of a separator obtained in Example 1 is shown in FIG. 2 . A diagram of pores of 0.01 μm 2 or more transformed into ellipses after binarization of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1 is shown in FIG. 3 .",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/44/4c/4a/702809c98c81b8/US10276849-20190430-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 shows a cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1. FIG. 2 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores painted in black color. FIG. 3 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores of 0.01 μm 2 or more being transformed into ellipses after image processing. FIG. 4 shows a schematic view illustrating the angle θ formed between the major axis of an ellipse and a straight line in parallel with a membrane plane, for the processed image of a pore in a porous layer transformed into the ellipse. FIG. 5 shows an illustration showing the method for identifying pores, using the SEM image in FIG. 1 as an example. Since the pores are not necessarily clearly identified depending on the measurement object in some cases, the identification method is described with reference to FIG. 5 as an example. FIG. 5 is the cross-sectional SEM image of a porous layer of the multilayer porous membrane in FIG. 1 . For example, when attention is paid to a pore 1 at the left end in FIG. 5 , a dark part is present with no filler located in the rear. Such a region with a closed contour around the dark part is identified as a pore (void). In this case, although a filler is also observed inside the identified pore, it can be evaluated that the portion composes part of the void and contributes to the ionic conductivity. Consequently, the portion is identified as a pore without problems. On the other hand, it cannot be evaluated that a filler part 2 positioned slightly backward of the BIB-processed cross section contributes to the ionic conductivity. Consequently, the filler part 2 is not identified as a pore. The pores are thus identified around the dark parts in an image photographed under the conditions for SEM imaging, so that pores in accordance with the technical meaning of the present embodiment can be identified for various measurement objects. As an example, the cross-sectional SEM image of a separator obtained in Example 1 is shown in FIG. 2 . A diagram of pores of 0.01 μm 2 or more transformed into ellipses after binarization of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1 is shown in FIG. 3 .",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/87/e1/8b/0edd633ba2bb00/US10276849-20190430-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 shows a cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1. FIG. 2 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores painted in black color. FIG. 3 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores of 0.01 μm 2 or more being transformed into ellipses after image processing. FIG. 4 shows a schematic view illustrating the angle θ formed between the major axis of an ellipse and a straight line in parallel with a membrane plane, for the processed image of a pore in a porous layer transformed into the ellipse. FIG. 5 shows an illustration showing the method for identifying pores, using the SEM image in FIG. 1 as an example. Since the pores are not necessarily clearly identified depending on the measurement object in some cases, the identification method is described with reference to FIG. 5 as an example. FIG. 5 is the cross-sectional SEM image of a porous layer of the multilayer porous membrane in FIG. 1 . For example, when attention is paid to a pore 1 at the left end in FIG. 5 , a dark part is present with no filler located in the rear. Such a region with a closed contour around the dark part is identified as a pore (void). In this case, although a filler is also observed inside the identified pore, it can be evaluated that the portion composes part of the void and contributes to the ionic conductivity. Consequently, the portion is identified as a pore without problems. On the other hand, it cannot be evaluated that a filler part 2 positioned slightly backward of the BIB-processed cross section contributes to the ionic conductivity. Consequently, the filler part 2 is not identified as a pore. The pores are thus identified around the dark parts in an image photographed under the conditions for SEM imaging, so that pores in accordance with the technical meaning of the present embodiment can be identified for various measurement objects. As an example, the cross-sectional SEM image of a separator obtained in Example 1 is shown in FIG. 2 . A diagram of pores of 0.01 μm 2 or more transformed into ellipses after binarization of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1 is shown in FIG. 3 .",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/cb/9b/02/60b251d787aa2f/US10276849-20190430-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 shows a cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1. FIG. 2 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores painted in black color. FIG. 3 shows a processed image of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1, with pores of 0.01 μm 2 or more being transformed into ellipses after image processing. FIG. 4 shows a schematic view illustrating the angle θ formed between the major axis of an ellipse and a straight line in parallel with a membrane plane, for the processed image of a pore in a porous layer transformed into the ellipse. FIG. 5 shows an illustration showing the method for identifying pores, using the SEM image in FIG. 1 as an example. Since the pores are not necessarily clearly identified depending on the measurement object in some cases, the identification method is described with reference to FIG. 5 as an example. FIG. 5 is the cross-sectional SEM image of a porous layer of the multilayer porous membrane in FIG. 1 . For example, when attention is paid to a pore 1 at the left end in FIG. 5 , a dark part is present with no filler located in the rear. Such a region with a closed contour around the dark part is identified as a pore (void). In this case, although a filler is also observed inside the identified pore, it can be evaluated that the portion composes part of the void and contributes to the ionic conductivity. Consequently, the portion is identified as a pore without problems. On the other hand, it cannot be evaluated that a filler part 2 positioned slightly backward of the BIB-processed cross section contributes to the ionic conductivity. Consequently, the filler part 2 is not identified as a pore. The pores are thus identified around the dark parts in an image photographed under the conditions for SEM imaging, so that pores in accordance with the technical meaning of the present embodiment can be identified for various measurement objects. As an example, the cross-sectional SEM image of a separator obtained in Example 1 is shown in FIG. 2 . A diagram of pores of 0.01 μm 2 or more transformed into ellipses after binarization of the cross-sectional SEM image of the porous layer of the multilayer porous membrane in Example 1 is shown in FIG. 3 .",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/e0/e4/2c/21526b0bfc999a/US10276849-20190430-D00003.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/0a/82/b0/bc4757473b65ca/US10276849.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"8fac4cc5a250eecd9720bbbd7bac5cb7\"",
+        "last_modified": "Fri, 03 May 2019 17:00:43 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/30d869b4a2453f5f4754754be38f191186d6ec7f15c9d9815f2814d4728e421a.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:55.615056+00:00",
+        "sha256": "30d869b4a2453f5f4754754be38f191186d6ec7f15c9d9815f2814d4728e421a",
+        "source": "patent_pdf",
+        "source_id": "1cb6d6ccf08349ad6ddb7646615d57ad6427b43f1826e9cca253e96eb7a8ef49",
+        "url": "https://patentimages.storage.googleapis.com/0a/82/b0/bc4757473b65ca/US10276849.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10276849B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/7deaf10f0d83d5523fb54a73f897585ea941bd6164a06a9c2cafb5e261b473ed.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:54.587847+00:00",
+    "sha256": "7deaf10f0d83d5523fb54a73f897585ea941bd6164a06a9c2cafb5e261b473ed",
+    "source": "patents",
+    "source_id": "89a0c4e53dc9b541f8e5fcd08902e31243b450a1e809f30d426d6f72daba6b33",
+    "url": "https://patents.google.com/patent/US10276849B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "9dd458f4114f210d86f99a292351f477eb07fd6d3a9b8afba2d31e4aff557fe2",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "89a0c4e53dc9b541f8e5fcd08902e31243b450a1e809f30d426d6f72daba6b33",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/7deaf10f0d83d5523fb54a73f897585ea941bd6164a06a9c2cafb5e261b473ed.bin",
+      "source_id": "89a0c4e53dc9b541f8e5fcd08902e31243b450a1e809f30d426d6f72daba6b33",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "7deaf10f0d83d5523fb54a73f897585ea941bd6164a06a9c2cafb5e261b473ed",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10276849B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

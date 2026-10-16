@@ -1,0 +1,29 @@
+At the Center of Membrane Innovation
+www.celgard.com
+Product Name & Description
+Celgard® 2400
+25µm Monolayer Microporous Membrane (PP)
+Primary Applications
+Primary Lithium Batteries
+Product Benefits
+• Zero TD shrinkage reduces internal shorting
+• Uniform pore structure with high chemical & thermal stability
+• Medium porosity provides excellent energy performance 
+• PP layer provides superior high temperature melt integrity compared to other polyolefin-based,
+uncoated separators as well as oxidation resistance
+• Offers additional safety and longevity for energy applications
+Packaging
+Please contact your Celgard representative for more information on product roll lengths and slit widths.
+Technical Data (Typical Properties)
+Celgard® 2400
+Monolayer Microporous Membrane
+SEM images for illustrative purposes only
+Basic Film Properties Unit of Measure Typical Value
+Thickness μm 25
+Gurley (JIS) Seconds 620
+Porosity (Calculated) % 41
+TD Shrinkage @ 105°C / 1 Hour (typical) % 0
+MD Shrinkage @ 105°C / 1 Hour (typical / max) % 2.3 / 5.0
+TD Tensile Strength (typical / min) Kg/cm2 140 / 70
+MD Tensile Strength (typical / min) Kg/cm2 1420 / 700
+Puncture Strength (typical / min) Grams Force (gf) 450 / 340

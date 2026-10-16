@@ -1,0 +1,609 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Binder:inorganic",
+          ""
+        ],
+        [
+          "",
+          "material (weight",
+          "",
+          "",
+          "Dry heat",
+          "Wet heat",
+          ""
+        ],
+        [
+          "",
+          "ratio) 1:25",
+          "",
+          "",
+          "shrinkage",
+          "shrinkage"
+        ],
+        [
+          "",
+          "First inorganic",
+          "",
+          "",
+          "rate",
+          "rate"
+        ],
+        [
+          "",
+          "particles:second",
+          "Thickness",
+          "Adhesive",
+          "150° C.",
+          "150° C."
+        ],
+        [
+          "",
+          "inorganic",
+          "of coating",
+          "strength to",
+          "1 hr",
+          "1 hr",
+          "Moisture"
+        ],
+        [
+          "Coating",
+          "",
+          "particles",
+          "layer",
+          "substrate",
+          "MD",
+          "TD",
+          "MD",
+          "TD",
+          "content"
+        ],
+        [
+          "surface",
+          "",
+          "(weight ratio)",
+          "(μm)",
+          "(gf)",
+          "(%)",
+          "(%)",
+          "(%)",
+          "(%)",
+          "(ppm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Single",
+          "Ex. 1",
+          "90:10",
+          "3",
+          "11.2",
+          "1.5",
+          "1.7",
+          "20",
+          "20",
+          "455"
+        ],
+        [
+          "surface",
+          "Ex. 2",
+          "75:25",
+          "3",
+          "12.1",
+          "1.4",
+          "1.5",
+          "18",
+          "19",
+          "393"
+        ],
+        [
+          "",
+          "Ex. 3",
+          "60:40",
+          "3",
+          "12.6",
+          "1.3",
+          "1.6",
+          "15",
+          "15",
+          "472"
+        ],
+        [
+          "",
+          "Ex. 4",
+          "50:50",
+          "3",
+          "13.7",
+          "1.1",
+          "1.6",
+          "10",
+          "10",
+          "491"
+        ],
+        [
+          "",
+          "Ex. 5",
+          "40:60",
+          "3",
+          "12.3",
+          "1.1",
+          "1.4",
+          "18",
+          "19",
+          "725"
+        ],
+        [
+          "",
+          "Ex. 6",
+          "25:75",
+          "3",
+          "12.4",
+          "1.4",
+          "2.3",
+          "26",
+          "25",
+          "902"
+        ],
+        [
+          "",
+          "Ex. 7",
+          "10:90",
+          "3",
+          "11.5",
+          "1.6",
+          "1.9",
+          "28",
+          "25",
+          "1,105"
+        ],
+        [
+          "",
+          "Comp. Ex. 1",
+          "100:0",
+          "3",
+          "10.1",
+          "1.2",
+          "1.2",
+          "21",
+          "22",
+          "325"
+        ],
+        [
+          "",
+          "Comp. Ex. 2",
+          "0:100",
+          "3",
+          "10.2",
+          "1.8",
+          "1.7",
+          "25",
+          "31",
+          "1,610"
+        ],
+        [
+          "Both",
+          "Ex. 8",
+          "50:50",
+          "3",
+          "15.6",
+          "0.7",
+          "0.7",
+          "6",
+          "6",
+          "521"
+        ],
+        [
+          "surfaces",
+          "Comp. Ex. 3",
+          "100:0",
+          "3",
+          "14.5",
+          "1.0",
+          "1.0",
+          "16",
+          "18",
+          "1,885"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Binder:inorganic</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">material (weight</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Dry heat</td>\n<td class=\"description-td\">Wet heat</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">ratio) 1:25</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shrinkage</td>\n<td class=\"description-td\">shrinkage</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">First inorganic</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">rate</td>\n<td class=\"description-td\">rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles:second</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Adhesive</td>\n<td class=\"description-td\">150° C.</td>\n<td class=\"description-td\">150° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">inorganic</td>\n<td class=\"description-td\">of coating</td>\n<td class=\"description-td\">strength to</td>\n<td class=\"description-td\">1 <figure-callout filenames=\"US12136743-20241105-D00000.png,US12136743-20241105-D00002.png\" id=\"1\" label=\"hr\" state=\"{{state}}\">hr</figure-callout> </td>\n<td class=\"description-td\">1 hr</td>\n<td class=\"description-td\">Moisture</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">particles</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">substrate</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">content</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">surface</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(weight ratio)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(gf)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(ppm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Single</td>\n<td class=\"description-td\">Ex. 1</td>\n<td class=\"description-td\">90:10</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">11.2</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">1.7</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">455</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">surface</td>\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">75:25</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.1</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">393</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 3</td>\n<td class=\"description-td\">60:40</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.6</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">472</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 4</td>\n<td class=\"description-td\">50:50</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">13.7</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">491</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 5</td>\n<td class=\"description-td\">40:60</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.3</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">725</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 6</td>\n<td class=\"description-td\">25:75</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">12.4</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">2.3</td>\n<td class=\"description-td\">26</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">902</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ex. 7</td>\n<td class=\"description-td\">10:90</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">11.5</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">1.9</td>\n<td class=\"description-td\">28</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">1,105</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 1</td>\n<td class=\"description-td\">100:0 </td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">10.1</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">325</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comp. Ex. 2</td>\n<td class=\"description-td\"> 0:100</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">10.2</td>\n<td class=\"description-td\">1.8</td>\n<td class=\"description-td\">1.7</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">1,610</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Both</td>\n<td class=\"description-td\">Ex. 8</td>\n<td class=\"description-td\">50:50</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">15.6</td>\n<td class=\"description-td\">0.7</td>\n<td class=\"description-td\">0.7</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">521</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">surfaces</td>\n<td class=\"description-td\">Comp. Ex. 3</td>\n<td class=\"description-td\">100:0 </td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">14.5</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">1.0</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">1,885</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Dry heat",
+          "Wet heat"
+        ],
+        [
+          "",
+          "Thickness",
+          "shrinkage rate",
+          "shrinkage rate"
+        ],
+        [
+          "",
+          "of coating",
+          "150° C., 1 hr",
+          "150° C., 1 hr"
+        ],
+        [
+          "",
+          "Type of binder",
+          "layer",
+          "MD",
+          "TD",
+          "MD",
+          "TD"
+        ],
+        [
+          "",
+          "(structural unit mol %)",
+          "(μm)",
+          "(%)",
+          "(%)",
+          "(%)",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 2",
+          "Synthesis Example 1",
+          "3",
+          "1.4",
+          "1.5",
+          "18",
+          "19"
+        ],
+        [
+          "Comp. Ex. 4",
+          "AA(20)/CMC(80)",
+          "3",
+          "4.9",
+          "5.0",
+          "46",
+          "47"
+        ],
+        [
+          "Comp. Ex. 5",
+          "AA(30)/VP(70)",
+          "3",
+          "1.3",
+          "1.7",
+          "45",
+          "45"
+        ],
+        [
+          "Comp. Ex. 6",
+          "AA(40)/CMC(30)/VP(30)",
+          "3",
+          "1.3",
+          "2.0",
+          "38",
+          "40"
+        ],
+        [
+          "Comp. Ex. 7",
+          "AA(50)/VA(50)",
+          "3",
+          "1.1",
+          "1.5",
+          "47",
+          "51"
+        ],
+        [
+          "Comp. Ex. 8",
+          "AA(100)",
+          "3",
+          "1.3",
+          "1.5",
+          "50",
+          "54"
+        ],
+        [
+          "Comp. Ex. 9",
+          "separator tradename:",
+          "3",
+          "5.8",
+          "5.8",
+          "71",
+          "72"
+        ],
+        [
+          "",
+          "SC1230"
+        ],
+        [
+          "",
+          "(manufacturer: WSK)"
+        ],
+        [
+          "Comp. Ex. 10",
+          "separator tradename:",
+          "3",
+          "1.4",
+          "1.8",
+          "65",
+          "57"
+        ],
+        [
+          "",
+          "SC1230P1"
+        ],
+        [
+          "",
+          "(manufacturer: WSK)"
+        ],
+        [
+          "Comp. Ex. 11",
+          "separator tradename:",
+          "3",
+          "1.9",
+          "2.8",
+          "62",
+          "68"
+        ],
+        [
+          "",
+          "SC0930"
+        ],
+        [
+          "",
+          "(manufacturer: WSK)"
+        ],
+        [
+          "Comp. Ex. 12",
+          "separator tradename:",
+          "3",
+          "1.9",
+          "1.9",
+          "66",
+          "63"
+        ],
+        [
+          "",
+          "CW151338"
+        ],
+        [
+          "",
+          "(manufacturer: CZMZ)"
+        ],
+        [
+          "Comp. Ex. 13",
+          "separator tradename:",
+          "3",
+          "1.8",
+          "1.6",
+          "75",
+          "60"
+        ],
+        [
+          "",
+          "CW121338"
+        ],
+        [
+          "",
+          "(manufacturer: CZMZ)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Dry heat</td>\n<td class=\"description-td\">Wet heat</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">shrinkage rate</td>\n<td class=\"description-td\">shrinkage rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of coating</td>\n<td class=\"description-td\">150° C., 1 hr</td>\n<td class=\"description-td\">150° C., 1 hr</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type of binder</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">TD</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(structural unit mol %)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Ex. 2</td>\n<td class=\"description-td\">Synthesis Example 1</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">19</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 4</td>\n<td class=\"description-td\">AA(20)/CMC(80)</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">4.9</td>\n<td class=\"description-td\">5.0</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">47</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 5</td>\n<td class=\"description-td\">AA(30)/VP(70)</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">1.7</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">45</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 6</td>\n<td class=\"description-td\">AA(40)/CMC(30)/VP(30)</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">2.0</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 7</td>\n<td class=\"description-td\">AA(50)/VA(50)</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 8</td>\n<td class=\"description-td\">AA(100)</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">1.5</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">54</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 9</td>\n<td class=\"description-td\">separator tradename:</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">5.8</td>\n<td class=\"description-td\">5.8</td>\n<td class=\"description-td\">71</td>\n<td class=\"description-td\">72</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">SC1230</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(manufacturer: WSK)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 10</td>\n<td class=\"description-td\">separator tradename:</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">1.8</td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">57</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">SC1230P1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(manufacturer: WSK)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 11</td>\n<td class=\"description-td\">separator tradename:</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.9</td>\n<td class=\"description-td\">2.8</td>\n<td class=\"description-td\">62</td>\n<td class=\"description-td\">68</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">SC0930</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(manufacturer: WSK)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 12</td>\n<td class=\"description-td\">separator tradename:</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.9</td>\n<td class=\"description-td\">1.9</td>\n<td class=\"description-td\">66</td>\n<td class=\"description-td\">63</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">CW151338</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(manufacturer: CZMZ)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comp. Ex. 13</td>\n<td class=\"description-td\">separator tradename:</td>\n<td class=\"description-td\">3</td>\n<td class=\"description-td\">1.8</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">60</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">CW121338</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(manufacturer: CZMZ)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM (Scanning Electron Microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of the separator prepared in Example 4. FIG. 4 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 4 to 8. FIG. 5 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 9 to 13. FIG. 6 is photographs showing change results after wet shrinkage of the both-surfaces coated separator prepared in Example 8 and Comparative Example 3. FIG. 2 is a SEM (scanning electron microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of a separator prepared in Example 4. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIGS. 4 and 5 are photographs showing change results after performing wet heat shrinkage of each of the single-surface coated separators prepared in Comparative Examples 4 to 13 and FIG. 6 is a photograph showing a change result after performing wet heat shrinkage of each of the both-surfaces coated separators prepared in Comparative Examples 3 and 8.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/df/92/6b/f94605bc53615c/US12136743-20241105-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM (Scanning Electron Microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of the separator prepared in Example 4. FIG. 4 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 4 to 8. FIG. 5 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 9 to 13. FIG. 6 is photographs showing change results after wet shrinkage of the both-surfaces coated separator prepared in Example 8 and Comparative Example 3. FIG. 2 is a SEM (scanning electron microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of a separator prepared in Example 4. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIGS. 4 and 5 are photographs showing change results after performing wet heat shrinkage of each of the single-surface coated separators prepared in Comparative Examples 4 to 13 and FIG. 6 is a photograph showing a change result after performing wet heat shrinkage of each of the both-surfaces coated separators prepared in Comparative Examples 3 and 8.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/77/b9/e1/5e8695464cbc26/US12136743-20241105-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM (Scanning Electron Microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of the separator prepared in Example 4. FIG. 4 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 4 to 8. FIG. 5 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 9 to 13. FIG. 6 is photographs showing change results after wet shrinkage of the both-surfaces coated separator prepared in Example 8 and Comparative Example 3. FIG. 2 is a SEM (scanning electron microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of a separator prepared in Example 4. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIGS. 4 and 5 are photographs showing change results after performing wet heat shrinkage of each of the single-surface coated separators prepared in Comparative Examples 4 to 13 and FIG. 6 is a photograph showing a change result after performing wet heat shrinkage of each of the both-surfaces coated separators prepared in Comparative Examples 3 and 8.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/80/f7/eb/ac859ad4e9665d/US12136743-20241105-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM (Scanning Electron Microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of the separator prepared in Example 4. FIG. 4 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 4 to 8. FIG. 5 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 9 to 13. FIG. 6 is photographs showing change results after wet shrinkage of the both-surfaces coated separator prepared in Example 8 and Comparative Example 3. FIG. 2 is a SEM (scanning electron microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of a separator prepared in Example 4. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIGS. 4 and 5 are photographs showing change results after performing wet heat shrinkage of each of the single-surface coated separators prepared in Comparative Examples 4 to 13 and FIG. 6 is a photograph showing a change result after performing wet heat shrinkage of each of the both-surfaces coated separators prepared in Comparative Examples 3 and 8.",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/75/42/47/a0962756b64c91/US12136743-20241105-D00003.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM (Scanning Electron Microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of the separator prepared in Example 4. FIG. 4 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 4 to 8. FIG. 5 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 9 to 13. FIG. 6 is photographs showing change results after wet shrinkage of the both-surfaces coated separator prepared in Example 8 and Comparative Example 3. FIG. 2 is a SEM (scanning electron microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of a separator prepared in Example 4. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIGS. 4 and 5 are photographs showing change results after performing wet heat shrinkage of each of the single-surface coated separators prepared in Comparative Examples 4 to 13 and FIG. 6 is a photograph showing a change result after performing wet heat shrinkage of each of the both-surfaces coated separators prepared in Comparative Examples 3 and 8.",
+      "kind": "figure",
+      "sheet": "5",
+      "url": "https://patentimages.storage.googleapis.com/70/4d/05/96612c0ecf0553/US12136743-20241105-D00004.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM (Scanning Electron Microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of the separator prepared in Example 4. FIG. 4 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 4 to 8. FIG. 5 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 9 to 13. FIG. 6 is photographs showing change results after wet shrinkage of the both-surfaces coated separator prepared in Example 8 and Comparative Example 3. FIG. 2 is a SEM (scanning electron microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of a separator prepared in Example 4. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIGS. 4 and 5 are photographs showing change results after performing wet heat shrinkage of each of the single-surface coated separators prepared in Comparative Examples 4 to 13 and FIG. 6 is a photograph showing a change result after performing wet heat shrinkage of each of the both-surfaces coated separators prepared in Comparative Examples 3 and 8.",
+      "kind": "figure",
+      "sheet": "6",
+      "url": "https://patentimages.storage.googleapis.com/ff/83/52/01a4e9647c7f7c/US12136743-20241105-D00005.png"
+    },
+    {
+      "caption": "FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIG. 2 is a SEM (Scanning Electron Microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of the separator prepared in Example 4. FIG. 4 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 4 to 8. FIG. 5 is photographs showing change results after wet shrinkage of the single-surface coated separators prepared in Comparative Examples 9 to 13. FIG. 6 is photographs showing change results after wet shrinkage of the both-surfaces coated separator prepared in Example 8 and Comparative Example 3. FIG. 2 is a SEM (scanning electron microscope) measurement result of the separator prepared in Example 4. FIG. 3 is a graph showing a volume weighted particle size distribution curve of a composition for forming a coating layer of a separator prepared in Example 4. FIG. 1 is an exploded perspective view of a lithium secondary battery according to an embodiment. FIGS. 4 and 5 are photographs showing change results after performing wet heat shrinkage of each of the single-surface coated separators prepared in Comparative Examples 4 to 13 and FIG. 6 is a photograph showing a change result after performing wet heat shrinkage of each of the both-surfaces coated separators prepared in Comparative Examples 3 and 8.",
+      "kind": "figure",
+      "sheet": "7",
+      "url": "https://patentimages.storage.googleapis.com/9c/99/77/4b43fea456a1d3/US12136743-20241105-D00006.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/5a/38/41/df8b49775f963e/US12136743.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"ddd8c307e816f6a46f4960f5f3630fe9\"",
+        "last_modified": "Sat, 09 Nov 2024 08:38:18 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/1a3ee6d41e70f5d14cef1d82f98c6f6769dddc1506de025b9a75ab8f5b660c91.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:26:58.846659+00:00",
+        "sha256": "1a3ee6d41e70f5d14cef1d82f98c6f6769dddc1506de025b9a75ab8f5b660c91",
+        "source": "patent_pdf",
+        "source_id": "e7a7e81b691fcde419e4742bb2d37fb45b1fcb4fd024e0e5b417d4d30715d25a",
+        "url": "https://patentimages.storage.googleapis.com/5a/38/41/df8b49775f963e/US12136743.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US12136743B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/68a5d2e487946ed1d35c937856aaa4912cbb169cfc3ee0977294ad9733231d7e.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:57.796485+00:00",
+    "sha256": "68a5d2e487946ed1d35c937856aaa4912cbb169cfc3ee0977294ad9733231d7e",
+    "source": "patents",
+    "source_id": "76c99856d3dcd0859a4d931df2339a30090ceb5bff7d99e619f7e54454508ee0",
+    "url": "https://patents.google.com/patent/US12136743B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "11d43931233383b8d33a1c6aef88c4d2b1acb065f3fc7afebad21b12114b6b70",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "76c99856d3dcd0859a4d931df2339a30090ceb5bff7d99e619f7e54454508ee0",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/68a5d2e487946ed1d35c937856aaa4912cbb169cfc3ee0977294ad9733231d7e.bin",
+      "source_id": "76c99856d3dcd0859a4d931df2339a30090ceb5bff7d99e619f7e54454508ee0",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "68a5d2e487946ed1d35c937856aaa4912cbb169cfc3ee0977294ad9733231d7e",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US12136743B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

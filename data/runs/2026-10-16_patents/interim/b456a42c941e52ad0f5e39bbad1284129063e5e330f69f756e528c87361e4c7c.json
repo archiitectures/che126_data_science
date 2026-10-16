@@ -1,0 +1,839 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Ultra-high molecular",
+          "",
+          "",
+          "Stretching in longitudinal",
+          "Stretching in transverse"
+        ],
+        [
+          "",
+          "weight PE",
+          "High-density",
+          "",
+          "direction",
+          "direction"
+        ],
+        [
+          "",
+          "Molecular",
+          "Amount",
+          "PE molecular",
+          "Plasticizer",
+          "Stretching",
+          "Magnification",
+          "",
+          "Magnification",
+          ""
+        ],
+        [
+          "",
+          "weight",
+          "Added",
+          "weight",
+          "concentration",
+          "method",
+          "ratio",
+          "Temperature",
+          "ratio",
+          "Temperature"
+        ],
+        [
+          "",
+          "[—]",
+          "[wt. %]",
+          "[—]",
+          "[wt. %]",
+          "[—]",
+          "[times]",
+          "[° C.]",
+          "[times]",
+          "[° C.]"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Working",
+          "1.0 × 10 6",
+          "60",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "9",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Working",
+          "1.0 × 10 6",
+          "60",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "7",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Working",
+          "1.0 × 10 6",
+          "40",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "9",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Working",
+          "1.0 × 10 6",
+          "40",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "7",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "2.5 × 10 6",
+          "40",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "9",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "2.5 × 10 6",
+          "30",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "7",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "—",
+          "0",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "9",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "—",
+          "0",
+          "2.8 × 10 5",
+          "75",
+          "Sequential",
+          "7",
+          "115",
+          "5",
+          "115"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "—",
+          "0",
+          "2.8 × 10 5",
+          "65",
+          "Sequential",
+          "9",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Comparative",
+          "—",
+          "0",
+          "2.8 × 10 5",
+          "65",
+          "Sequential",
+          "7",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Comparative",
+          "—",
+          "0",
+          "3.8 × 10 5",
+          "60",
+          "Sequential",
+          "9",
+          "115",
+          "6",
+          "120"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "Comparative",
+          "2.5 × 10 6",
+          "30",
+          "2.8 × 10 5",
+          "71.5",
+          "Simultaneous",
+          "6",
+          "115",
+          "6",
+          "115"
+        ],
+        [
+          "Example 8"
+        ],
+        [
+          "Comparative",
+          "2.5 × 10 6",
+          "30",
+          "2.8 × 10 5",
+          "71.5",
+          "Simultaneous",
+          "7",
+          "115",
+          "7",
+          "115"
+        ],
+        [
+          "Example 9"
+        ],
+        [
+          "Comparative",
+          "2.5 × 10 6",
+          "30",
+          "2.8 × 10 5",
+          "71.5",
+          "Simultaneous",
+          "8",
+          "115",
+          "8",
+          "115"
+        ],
+        [
+          "Example 10"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A polyolefin microporous membrane was cut out to a size of 5 cm×5 cm, and a mark was placed at the midpoint of each side of the sample. The sample was sandwiched with paper and left to stand for 8 hours in an oven at 105° C. After the sample was removed from the oven and cooled, the lengths (cm) between the marks in the longitudinal direction and the marks the transverse direction were measured, and the thermal shrinkages in the longitudinal direction and the transverse direction were calculated with the following formula. Thermal shrinkage (%)=(5−length (cm) between marks after heating)/5×100 (5) Crystallization Half Time t 1/2 During Isothermal Crystallization at 117° C.",
+      "context_locator": "p-0089",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ultra-high molecular</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Stretching in longitudinal</td>\n<td class=\"description-td\">Stretching in transverse</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">weight PE</td>\n<td class=\"description-td\">High-density</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">direction</td>\n<td class=\"description-td\">direction</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Molecular</td>\n<td class=\"description-td\">Amount</td>\n<td class=\"description-td\">PE molecular</td>\n<td class=\"description-td\">Plasticizer</td>\n<td class=\"description-td\">Stretching</td>\n<td class=\"description-td\">Magnification</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Magnification</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\">Added</td>\n<td class=\"description-td\">weight</td>\n<td class=\"description-td\">concentration</td>\n<td class=\"description-td\">method</td>\n<td class=\"description-td\">ratio</td>\n<td class=\"description-td\">Temperature</td>\n<td class=\"description-td\">ratio</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">[—]</td>\n<td class=\"description-td\">[wt. %]</td>\n<td class=\"description-td\">[—]</td>\n<td class=\"description-td\">[wt. %]</td>\n<td class=\"description-td\">[—]</td>\n<td class=\"description-td\">[times]</td>\n<td class=\"description-td\">[° C.]</td>\n<td class=\"description-td\">[times]</td>\n<td class=\"description-td\">[° C.]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">2.5 × 10<sup>6</sup> </td>\n<td class=\"description-td\">40</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">2.5 × 10<sup>6</sup> </td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">65</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">3.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">60</td>\n<td class=\"description-td\">Sequential</td>\n<td class=\"description-td\">9</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">120</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">2.5 × 10<sup>6</sup> </td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">71.5</td>\n<td class=\"description-td\">Simultaneous</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">2.5 × 10<sup>6</sup> </td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">71.5</td>\n<td class=\"description-td\">Simultaneous</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">7</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">2.5 × 10<sup>6</sup> </td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">71.5</td>\n<td class=\"description-td\">Simultaneous</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">8</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Pin",
+          "Air",
+          "Thermal shrinkage",
+          ""
+        ],
+        [
+          "",
+          "Film",
+          "",
+          "puncture",
+          "permeability",
+          "Transverse",
+          "Longitudinal/",
+          "Crystallization",
+          "Curling",
+          "Roll"
+        ],
+        [
+          "",
+          "thickness",
+          "Porosity",
+          "strength",
+          "[sec/100 cc",
+          "direction",
+          "width",
+          "half time t 1/2",
+          "assessment",
+          "appearance"
+        ],
+        [
+          "",
+          "[μm]",
+          "[%]",
+          "[gf]",
+          "Air]",
+          "[%]",
+          "[—]",
+          "[min]",
+          "[—]",
+          "[—]"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Working",
+          "16",
+          "51",
+          "670",
+          "132",
+          "5.4",
+          "1.2",
+          "17",
+          "◯",
+          "◯"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Working",
+          "16",
+          "51",
+          "590",
+          "138",
+          "4.4",
+          "1.7",
+          "17",
+          "◯",
+          "◯"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Working",
+          "16",
+          "51",
+          "560",
+          "132",
+          "4.5",
+          "1.4",
+          "20",
+          "◯",
+          "◯"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Working",
+          "16",
+          "47",
+          "555",
+          "207",
+          "3.7",
+          "1.9",
+          "20",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "16",
+          "50",
+          "642",
+          "150",
+          "7.3",
+          "0.7",
+          "38",
+          "X",
+          "X"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "16",
+          "50",
+          "550",
+          "149",
+          "5.0",
+          "1.3",
+          "38",
+          "X",
+          "X"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "16",
+          "54",
+          "465",
+          "117",
+          "5.1",
+          "1",
+          "18",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "16",
+          "54",
+          "322",
+          "115",
+          "6.0",
+          "0.7",
+          "18",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "Comparative",
+          "16",
+          "51",
+          "347",
+          "169",
+          "8.8",
+          "0.6",
+          "18",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 5"
+        ],
+        [
+          "Comparative",
+          "16",
+          "49",
+          "485",
+          "174",
+          "11.3",
+          "0.4",
+          "18",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 6"
+        ],
+        [
+          "Comparative",
+          "16",
+          "39",
+          "520",
+          "231",
+          "—",
+          "—",
+          "19",
+          "◯",
+          "◯"
+        ],
+        [
+          "Example 7"
+        ],
+        [
+          "Comparative",
+          "16",
+          "41",
+          "500",
+          "409",
+          "5.2",
+          "1",
+          "38",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 8"
+        ],
+        [
+          "Comparative",
+          "16",
+          "42",
+          "513",
+          "279",
+          "7.0",
+          "0.9",
+          "38",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 9"
+        ],
+        [
+          "Comparative",
+          "16",
+          "46",
+          "536",
+          "268",
+          "7.4",
+          "0.9",
+          "38",
+          "⊚",
+          "⊚"
+        ],
+        [
+          "Example 10"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A polyolefin microporous membrane was cut out to a size of 5 cm×5 cm, and a mark was placed at the midpoint of each side of the sample. The sample was sandwiched with paper and left to stand for 8 hours in an oven at 105° C. After the sample was removed from the oven and cooled, the lengths (cm) between the marks in the longitudinal direction and the marks the transverse direction were measured, and the thermal shrinkages in the longitudinal direction and the transverse direction were calculated with the following formula. Thermal shrinkage (%)=(5−length (cm) between marks after heating)/5×100 (5) Crystallization Half Time t 1/2 During Isothermal Crystallization at 117° C.",
+      "context_locator": "p-0089",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Pin</td>\n<td class=\"description-td\">Air</td>\n<td class=\"description-td\">Thermal shrinkage</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Film</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">puncture</td>\n<td class=\"description-td\">permeability</td>\n<td class=\"description-td\">Transverse</td>\n<td class=\"description-td\">Longitudinal/</td>\n<td class=\"description-td\">Crystallization</td>\n<td class=\"description-td\">Curling</td>\n<td class=\"description-td\">Roll</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">thickness</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">[sec/100 cc</td>\n<td class=\"description-td\">direction</td>\n<td class=\"description-td\">width</td>\n<td class=\"description-td\">half time t<sub>1/2</sub> </td>\n<td class=\"description-td\">assessment</td>\n<td class=\"description-td\">appearance</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">[μm]</td>\n<td class=\"description-td\">[%]</td>\n<td class=\"description-td\">[gf]</td>\n<td class=\"description-td\">Air]</td>\n<td class=\"description-td\">[%]</td>\n<td class=\"description-td\">[—]</td>\n<td class=\"description-td\">[min]</td>\n<td class=\"description-td\">[—]</td>\n<td class=\"description-td\">[—]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"9\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">670</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">5.4</td>\n<td class=\"description-td\">1.2</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">◯</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">590</td>\n<td class=\"description-td\">138</td>\n<td class=\"description-td\">4.4</td>\n<td class=\"description-td\">1.7</td>\n<td class=\"description-td\">17</td>\n<td class=\"description-td\">◯</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">560</td>\n<td class=\"description-td\">132</td>\n<td class=\"description-td\">4.5</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">◯</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Working</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">555</td>\n<td class=\"description-td\">207</td>\n<td class=\"description-td\">3.7</td>\n<td class=\"description-td\">1.9</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">642</td>\n<td class=\"description-td\">150</td>\n<td class=\"description-td\">7.3</td>\n<td class=\"description-td\">0.7</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">X</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">50</td>\n<td class=\"description-td\">550</td>\n<td class=\"description-td\">149</td>\n<td class=\"description-td\">5.0</td>\n<td class=\"description-td\">1.3</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">X</td>\n<td class=\"description-td\">X</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">54</td>\n<td class=\"description-td\">465</td>\n<td class=\"description-td\">117</td>\n<td class=\"description-td\">5.1</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">54</td>\n<td class=\"description-td\">322</td>\n<td class=\"description-td\">115</td>\n<td class=\"description-td\">6.0</td>\n<td class=\"description-td\">0.7</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">51</td>\n<td class=\"description-td\">347</td>\n<td class=\"description-td\">169</td>\n<td class=\"description-td\">8.8</td>\n<td class=\"description-td\">0.6</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">49</td>\n<td class=\"description-td\">485</td>\n<td class=\"description-td\">174</td>\n<td class=\"description-td\">11.3</td>\n<td class=\"description-td\">0.4</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">520</td>\n<td class=\"description-td\">231</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">◯</td>\n<td class=\"description-td\">◯</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">41</td>\n<td class=\"description-td\">500</td>\n<td class=\"description-td\">409</td>\n<td class=\"description-td\">5.2</td>\n<td class=\"description-td\">1</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">513</td>\n<td class=\"description-td\">279</td>\n<td class=\"description-td\">7.0</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 9</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">16</td>\n<td class=\"description-td\">46</td>\n<td class=\"description-td\">536</td>\n<td class=\"description-td\">268</td>\n<td class=\"description-td\">7.4</td>\n<td class=\"description-td\">0.9</td>\n<td class=\"description-td\">38</td>\n<td class=\"description-td\">⊚</td>\n<td class=\"description-td\">⊚</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 10</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Crystallization half time t 1/2 [min]"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Working Example 1",
+          "17"
+        ],
+        [
+          "",
+          "Working Example 2",
+          "17"
+        ],
+        [
+          "",
+          "Working Example 3",
+          "20"
+        ],
+        [
+          "",
+          "Working Example 4",
+          "20"
+        ],
+        [
+          "",
+          "Comparative Example 1",
+          "38"
+        ],
+        [
+          "",
+          "Comparative Example 2",
+          "38"
+        ],
+        [
+          "",
+          "Comparative Example 3",
+          "18"
+        ],
+        [
+          "",
+          "Comparative Example 4",
+          "18"
+        ],
+        [
+          "",
+          "Comparative Example 5",
+          "21"
+        ],
+        [
+          "",
+          "Comparative Example 6",
+          "21"
+        ],
+        [
+          "",
+          "Comparative Example 7",
+          "24"
+        ],
+        [
+          "",
+          "Comparative Example 8",
+          "40"
+        ],
+        [
+          "",
+          "Comparative Example 9",
+          "40"
+        ],
+        [
+          "",
+          "Comparative Example 10",
+          "40"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "A polyolefin microporous membrane was cut out to a size of 5 cm×5 cm, and a mark was placed at the midpoint of each side of the sample. The sample was sandwiched with paper and left to stand for 8 hours in an oven at 105° C. After the sample was removed from the oven and cooled, the lengths (cm) between the marks in the longitudinal direction and the marks the transverse direction were measured, and the thermal shrinkages in the longitudinal direction and the transverse direction were calculated with the following formula. Thermal shrinkage (%)=(5−length (cm) between marks after heating)/5×100 (5) Crystallization Half Time t 1/2 During Isothermal Crystallization at 117° C.",
+      "context_locator": "p-0089",
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Crystallization half time t<sub>1/2 </sub>[min]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"1\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working Example 1</td>\n<td class=\"description-td\">17</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working Example 2</td>\n<td class=\"description-td\">17</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working Example 3</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Working Example 4</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 1</td>\n<td class=\"description-td\">38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 2</td>\n<td class=\"description-td\">38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 3</td>\n<td class=\"description-td\">18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 4</td>\n<td class=\"description-td\">18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 5</td>\n<td class=\"description-td\">21</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 6</td>\n<td class=\"description-td\">21</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 7</td>\n<td class=\"description-td\">24</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 8</td>\n<td class=\"description-td\">40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 9</td>\n<td class=\"description-td\">40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Comparative Example 10</td>\n<td class=\"description-td\">40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of curling measurement for a polyolefin microporous membrane.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/07/6d/e2/923fabe7641b1a/US10079378-20180918-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of curling measurement for a polyolefin microporous membrane.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/e9/2d/d5/1e20d7ab10b6a7/US10079378-20180918-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/d9/9c/34/a3c61573eda43b/US10079378.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"1eda0bbf7c5ac9dd11c95a8de3c2cd22\"",
+        "last_modified": "Sun, 23 Sep 2018 18:01:55 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/93ab8fdd8b91e1e8448d35fea5e373d55cd4e4d25df12a65636bf1d553418cb1.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:21:55.808667+00:00",
+        "sha256": "93ab8fdd8b91e1e8448d35fea5e373d55cd4e4d25df12a65636bf1d553418cb1",
+        "source": "patent_pdf",
+        "source_id": "a8c69529440f6c0d503193e02d50a17c1dbfe59ef39574d4cd8b39f123a60554",
+        "url": "https://patentimages.storage.googleapis.com/d9/9c/34/a3c61573eda43b/US10079378.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US10079378B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/01ebb945aa175584c2567b253c7662c22dad7c5afdc3fa0b81a23a01b48bc04c.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:21:54.955075+00:00",
+    "sha256": "01ebb945aa175584c2567b253c7662c22dad7c5afdc3fa0b81a23a01b48bc04c",
+    "source": "patents",
+    "source_id": "280d2a36ca8108557ad41dff4c57193a462cfabcdaeefef8956654644f0fdf87",
+    "url": "https://patents.google.com/patent/US10079378B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "ce5282c9c87d09941e9adfb57a87b3fbf990ef5a323323eacbc14bfa37f8164e",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "280d2a36ca8108557ad41dff4c57193a462cfabcdaeefef8956654644f0fdf87",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/01ebb945aa175584c2567b253c7662c22dad7c5afdc3fa0b81a23a01b48bc04c.bin",
+      "source_id": "280d2a36ca8108557ad41dff4c57193a462cfabcdaeefef8956654644f0fdf87",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "01ebb945aa175584c2567b253c7662c22dad7c5afdc3fa0b81a23a01b48bc04c",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US10079378B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

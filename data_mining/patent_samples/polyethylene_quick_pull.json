@@ -1,0 +1,75 @@
+{
+  "retrieved_at": "2026-10-12T19:21:22.252019+00:00",
+  "retrieval_method": "manual structured extraction from Google Patents HTML via web tool",
+  "bigquery_run_status": "not submitted: agent shell DNS failed for Google API hosts",
+  "source_url": "https://patents.google.com/patent/US8252450B2/en",
+  "publication_number": "US8252450B2",
+  "coverage": "Two polyethylene-only examples; other examples and PE/PP blends not extracted.",
+  "methods": {
+    "porosity": "gravimetric",
+    "thickness": "contact meter, averaged",
+    "tensile": "ASTM D882; 10 mm specimen width",
+    "pore_diameter": "mercury intrusion",
+    "meltdown": "TMA; 5 C/min, 2 g load, 50% elongation endpoint"
+  },
+  "notes": [
+    "Tensile values converted from kPa to MPa by division by 1000.",
+    "Puncture load retains its thickness normalization; it is not the actual specimen load.",
+    "105 C applies only to shrinkage exposure. Other measurement temperatures are unspecified.",
+    "Research sample; not merged into dry/wet dataset CSVs."
+  ],
+  "samples": [
+    {
+      "sample_id": "US8252450B2-example-1",
+      "source_locator": "Table 1, Example 1; measurement methods (1), (4)-(9)",
+      "material": "polyethylene (UHMWPE/HDPE)",
+      "sample_form": "three-layer microporous separator",
+      "electrolyte_soaking_for_these_measurements": "not reported",
+      "measurement_temperature_C": null,
+      "thickness_um": 20.2,
+      "porosity_pct": 36.9,
+      "tensile_strength_MPa": {
+        "MD": 143.08,
+        "TD": 155.82
+      },
+      "pin_puncture_strength_mN_normalized_to_20_um": 3978.8,
+      "pore_diameter_um": {
+        "surface_layers": 0.02,
+        "inner_layer": 0.05
+      },
+      "heat_shrinkage": {
+        "exposure_temperature_C": 105,
+        "duration_h": 8,
+        "MD_pct": 2.5,
+        "TD_pct": 2.5
+      },
+      "meltdown_temperature_C": 152
+    },
+    {
+      "sample_id": "US8252450B2-example-4",
+      "source_locator": "Table 1, Example 4; measurement methods (1), (4)-(9)",
+      "material": "polyethylene (UHMWPE/HDPE)",
+      "sample_form": "three-layer microporous separator",
+      "electrolyte_soaking_for_these_measurements": "not reported",
+      "measurement_temperature_C": null,
+      "thickness_um": 19.9,
+      "porosity_pct": 41.3,
+      "tensile_strength_MPa": {
+        "MD": 121.52,
+        "TD": 131.32
+      },
+      "pin_puncture_strength_mN_normalized_to_20_um": 3822,
+      "pore_diameter_um": {
+        "surface_layers": 0.02,
+        "inner_layer": 0.05
+      },
+      "heat_shrinkage": {
+        "exposure_temperature_C": 105,
+        "duration_h": 8,
+        "MD_pct": 3.8,
+        "TD_pct": 3.9
+      },
+      "meltdown_temperature_C": 153
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Com-",
+          "Com-",
+          "",
+          "",
+          "Com-"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "parative",
+          "parative",
+          "Comparative",
+          "Comparative",
+          "parative"
+        ],
+        [
+          "",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 1",
+          "Example 2",
+          "Example 3",
+          "Example 4",
+          "Example 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Material",
+          "UHWMPE",
+          "Mw",
+          "[—]",
+          "1.0 × 10 6",
+          "1.0 × 10 6",
+          "1.0 × 10 6",
+          "—",
+          "1.0 × 10 6",
+          "1.0 × 10 6",
+          "2.5 × 10 6",
+          "2.5 × 10 6"
+        ],
+        [
+          "",
+          "",
+          "Added",
+          "[wt %]",
+          "10",
+          "18",
+          "25",
+          "0",
+          "5",
+          "30",
+          "10",
+          "18"
+        ],
+        [
+          "",
+          "",
+          "amount"
+        ],
+        [
+          "",
+          "HDPE",
+          "Mw",
+          "[—]",
+          "2.8 × 10 5",
+          "2.8 × 10 5",
+          "2.8 × 10 5",
+          "2.8 × 10 5",
+          "2.8 × 10 5",
+          "2.8 × 10 5",
+          "2.8 × 10 5",
+          "2.8 × 10 5"
+        ],
+        [
+          "",
+          "",
+          "Added",
+          "[wt %]",
+          "90",
+          "82",
+          "75",
+          "100",
+          "95",
+          "70",
+          "90",
+          "82"
+        ],
+        [
+          "",
+          "",
+          "amount"
+        ],
+        [
+          "",
+          "Resin content",
+          "[parts by",
+          "28.5",
+          "25",
+          "25",
+          "30",
+          "30",
+          "30",
+          "30",
+          "30"
+        ],
+        [
+          "",
+          "",
+          "mass]"
+        ],
+        [
+          "",
+          "Plasticizer content",
+          "[parts by",
+          "71.5",
+          "75",
+          "75",
+          "70",
+          "70",
+          "70",
+          "70",
+          "70"
+        ],
+        [
+          "",
+          "",
+          "mass]"
+        ],
+        [
+          "Physical",
+          "Air resistance",
+          "[sec/",
+          "269",
+          "326",
+          "407",
+          "241",
+          "303",
+          "432",
+          "547",
+          "458"
+        ],
+        [
+          "properties",
+          "",
+          "100 cm 3 ]"
+        ],
+        [
+          "",
+          "",
+          "[sec/",
+          "237",
+          "375",
+          "399",
+          "247",
+          "243",
+          "337",
+          "402",
+          "313"
+        ],
+        [
+          "",
+          "",
+          "100 cm 3 /"
+        ],
+        [
+          "",
+          "",
+          "20 μm]"
+        ],
+        [
+          "",
+          "Thickness of",
+          "[μm]",
+          "22.8",
+          "17.4",
+          "20.4",
+          "19.5",
+          "24.9",
+          "25.6",
+          "23.8",
+          "29.3"
+        ],
+        [
+          "",
+          "polyolefin"
+        ],
+        [
+          "",
+          "microporous"
+        ],
+        [
+          "",
+          "membrane"
+        ],
+        [
+          "",
+          "Porosity",
+          "[%]",
+          "47",
+          "40.3",
+          "39.8",
+          "43",
+          "46.7",
+          "44",
+          "48.3",
+          "44.6"
+        ],
+        [
+          "",
+          "Pin puncture strength",
+          "[N]",
+          "5.56",
+          "4.82",
+          "5.73",
+          "3.67",
+          "5.85",
+          "6.9",
+          "4.26",
+          "7.27"
+        ],
+        [
+          "",
+          "Pin puncture strength",
+          "[N/20 μm]",
+          "4.89",
+          "5.54",
+          "5.62",
+          "3.76",
+          "4.47",
+          "5.39",
+          "3.58",
+          "4.97"
+        ],
+        [
+          "",
+          "in terms of 20 μm"
+        ],
+        [
+          "",
+          "Melt-heat shrinkage",
+          "[%]",
+          "19.4",
+          "18.4",
+          "22.2",
+          "2.3",
+          "17.6",
+          "27.9",
+          "20.3",
+          "26"
+        ],
+        [
+          "",
+          "rate (TD direction,"
+        ],
+        [
+          "",
+          "in terms of 20 μm)"
+        ],
+        [
+          "",
+          "Maximum pore size",
+          "[nm]",
+          "57.9",
+          "49.1",
+          "46.2",
+          "79.5",
+          "67.5",
+          "39.3",
+          "57.1",
+          "41"
+        ],
+        [
+          "Dielectric breakdown voltage",
+          "[kV/20 μm]",
+          "3.28",
+          "3.46",
+          "3.47",
+          "2.92",
+          "3.15",
+          "Not",
+          "Not",
+          "3.1"
+        ],
+        [
+          "in terms of 20 mm",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "measured",
+          "measured"
+        ],
+        [
+          "Ratio of polyolefin having",
+          "[%]",
+          "0.7",
+          "1.1",
+          "1.4",
+          "0.3",
+          "0.5",
+          "1.6",
+          "1.9",
+          "3.2"
+        ],
+        [
+          "a molecular weight of"
+        ],
+        [
+          "5.0 × 10 6 or more"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"9\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Com-</td>\n<td class=\"description-td\">Com-</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Com-</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">parative</td>\n<td class=\"description-td\">parative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">parative</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">Example 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"9\" nameend=\"8\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"12\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Material</td>\n<td class=\"description-td\">UHWMPE</td>\n<td class=\"description-td\">Mw</td>\n<td class=\"description-td\">[—]</td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">1.0 × 10<sup>6</sup> </td>\n<td class=\"description-td\">2.5 × 10<sup>6</sup> </td>\n<td class=\"description-td\">2.5 × 10<sup>6</sup> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Added</td>\n<td class=\"description-td\">[wt %]</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">5</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">18</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">amount</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HDPE</td>\n<td class=\"description-td\">Mw</td>\n<td class=\"description-td\">[—]</td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n<td class=\"description-td\">2.8 × 10<sup>5</sup> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Added</td>\n<td class=\"description-td\">[wt %]</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">82</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">95</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">90</td>\n<td class=\"description-td\">82</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">amount</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"11\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Resin content</td>\n<td class=\"description-td\">[parts by</td>\n<td class=\"description-td\">28.5</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Plasticizer content</td>\n<td class=\"description-td\">[parts by</td>\n<td class=\"description-td\">71.5</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">75</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">70</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">mass]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Physical</td>\n<td class=\"description-td\">Air resistance</td>\n<td class=\"description-td\">[sec/</td>\n<td class=\"description-td\">269</td>\n<td class=\"description-td\">326</td>\n<td class=\"description-td\">407</td>\n<td class=\"description-td\">241</td>\n<td class=\"description-td\">303</td>\n<td class=\"description-td\">432</td>\n<td class=\"description-td\">547</td>\n<td class=\"description-td\">458</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">properties</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">100 cm<sup>3</sup>]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">[sec/</td>\n<td class=\"description-td\">237</td>\n<td class=\"description-td\">375</td>\n<td class=\"description-td\">399</td>\n<td class=\"description-td\">247</td>\n<td class=\"description-td\">243</td>\n<td class=\"description-td\">337</td>\n<td class=\"description-td\">402</td>\n<td class=\"description-td\">313</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">100 cm<sup>3</sup>/</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">20 μm]</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness of</td>\n<td class=\"description-td\">[μm]</td>\n<td class=\"description-td\">22.8</td>\n<td class=\"description-td\">17.4</td>\n<td class=\"description-td\">20.4</td>\n<td class=\"description-td\">19.5</td>\n<td class=\"description-td\">24.9</td>\n<td class=\"description-td\">25.6</td>\n<td class=\"description-td\">23.8</td>\n<td class=\"description-td\">29.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polyolefin</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">microporous</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">membrane</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">[%]</td>\n<td class=\"description-td\">47</td>\n<td class=\"description-td\">40.3</td>\n<td class=\"description-td\">39.8</td>\n<td class=\"description-td\">43</td>\n<td class=\"description-td\">46.7</td>\n<td class=\"description-td\">44</td>\n<td class=\"description-td\">48.3</td>\n<td class=\"description-td\">44.6</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Pin puncture strength</td>\n<td class=\"description-td\">[N]</td>\n<td class=\"description-td\">5.56</td>\n<td class=\"description-td\">4.82</td>\n<td class=\"description-td\">5.73</td>\n<td class=\"description-td\">3.67</td>\n<td class=\"description-td\">5.85</td>\n<td class=\"description-td\">6.9</td>\n<td class=\"description-td\">4.26</td>\n<td class=\"description-td\">7.27</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Pin puncture strength</td>\n<td class=\"description-td\">[N/20 μm]</td>\n<td class=\"description-td\">4.89</td>\n<td class=\"description-td\">5.54</td>\n<td class=\"description-td\">5.62</td>\n<td class=\"description-td\">3.76</td>\n<td class=\"description-td\">4.47</td>\n<td class=\"description-td\">5.39</td>\n<td class=\"description-td\">3.58</td>\n<td class=\"description-td\">4.97</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">in terms of 20 μm</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Melt-heat shrinkage</td>\n<td class=\"description-td\">[%]</td>\n<td class=\"description-td\">19.4</td>\n<td class=\"description-td\">18.4</td>\n<td class=\"description-td\">22.2</td>\n<td class=\"description-td\">2.3</td>\n<td class=\"description-td\">17.6</td>\n<td class=\"description-td\">27.9</td>\n<td class=\"description-td\">20.3</td>\n<td class=\"description-td\">26</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">rate (TD direction,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">in terms of 20 μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Maximum pore size</td>\n<td class=\"description-td\">[nm]</td>\n<td class=\"description-td\">57.9</td>\n<td class=\"description-td\">49.1</td>\n<td class=\"description-td\">46.2</td>\n<td class=\"description-td\">79.5</td>\n<td class=\"description-td\">67.5</td>\n<td class=\"description-td\">39.3</td>\n<td class=\"description-td\">57.1</td>\n<td class=\"description-td\">41</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"10\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Dielectric breakdown voltage</td>\n<td class=\"description-td\">[kV/20 μm]</td>\n<td class=\"description-td\">3.28</td>\n<td class=\"description-td\">3.46</td>\n<td class=\"description-td\">3.47</td>\n<td class=\"description-td\">2.92</td>\n<td class=\"description-td\">3.15</td>\n<td class=\"description-td\">Not</td>\n<td class=\"description-td\">Not</td>\n<td class=\"description-td\">3.1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">in terms of 20 mm</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">measured</td>\n<td class=\"description-td\">measured</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Ratio of polyolefin having</td>\n<td class=\"description-td\">[%]</td>\n<td class=\"description-td\">0.7</td>\n<td class=\"description-td\">1.1</td>\n<td class=\"description-td\">1.4</td>\n<td class=\"description-td\">0.3</td>\n<td class=\"description-td\">0.5</td>\n<td class=\"description-td\">1.6</td>\n<td class=\"description-td\">1.9</td>\n<td class=\"description-td\">3.2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">a molecular weight of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">5.0 × 10<sup>6 </sup>or more</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"10\" nameend=\"10\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/cb/ce/f7/44b87923331912/US20200006735A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"733eca5582f4207007659e6048879377\"",
+        "last_modified": "Mon, 06 Jul 2020 10:13:10 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/ee67473db125909ad6ee05829068cba4519023c670d785788257f93e9c7ff2a5.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:33.139680+00:00",
+        "sha256": "ee67473db125909ad6ee05829068cba4519023c670d785788257f93e9c7ff2a5",
+        "source": "patent_pdf",
+        "source_id": "5295df6cf833ba64f752671cc7d3536e050dabbeb720bae38a93042a85d33196",
+        "url": "https://patentimages.storage.googleapis.com/cb/ce/f7/44b87923331912/US20200006735A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20200006735A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/0c27a45c89d8d0d011922ee26bce27784e9b2a6937b4a3e236a7e8c562e3f46c.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:31.788010+00:00",
+    "sha256": "0c27a45c89d8d0d011922ee26bce27784e9b2a6937b4a3e236a7e8c562e3f46c",
+    "source": "patents",
+    "source_id": "e928cae432588585ffbe8464e9d0a728d54ab3f8181ce0b753dd9ea32e2a9bfd",
+    "url": "https://patents.google.com/patent/US20200006735A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "9d4e2297a17c58054c6de0af3f0047c973efe6c4a48c471a2c377cffe29dbf84",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "e928cae432588585ffbe8464e9d0a728d54ab3f8181ce0b753dd9ea32e2a9bfd",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/0c27a45c89d8d0d011922ee26bce27784e9b2a6937b4a3e236a7e8c562e3f46c.bin",
+      "source_id": "e928cae432588585ffbe8464e9d0a728d54ab3f8181ce0b753dd9ea32e2a9bfd",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "0c27a45c89d8d0d011922ee26bce27784e9b2a6937b4a3e236a7e8c562e3f46c",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20200006735A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

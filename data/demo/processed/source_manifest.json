@@ -1,0 +1,106 @@
+{
+  "batch_status": [],
+  "documents": {
+    "0f25603383a86e4ea204c6bbb9e0db70598697344692b3bd024c5eb651faea36": {
+      "artifact_file": "data/demo/interim/9694de5ee207b6098a6f9dbba40500d36aa6d1cf4c39c105d1405419d485101f.json",
+      "context": {
+        "filename": "US9911958B2.html",
+        "source_url": "https://patents.google.com/patent/US9911958B2/en"
+      },
+      "document": {
+        "etag": null,
+        "last_modified": null,
+        "path": "data/demo/raw/4ba0ba52d121d48cace3bfdfae9d0f13f4b2c243094e6c5dce962c2fde031e1d.html",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T17:51:31.402044+00:00",
+        "sha256": "4ba0ba52d121d48cace3bfdfae9d0f13f4b2c243094e6c5dce962c2fde031e1d",
+        "source": "patents",
+        "source_id": "cbf44cc05e8bf694f6c37188717583ca6c0c2d543f5f7017f0ff82786ecf1b9d",
+        "url": "https://patents.google.com/patent/US9911958B2/en"
+      },
+      "status": "complete",
+      "version_key": "9694de5ee207b6098a6f9dbba40500d36aa6d1cf4c39c105d1405419d485101f"
+    },
+    "17f1c78f8cfac1ff202b63af30920d9ab7ed79c59e6a43c0204a3dbf360214e2": {
+      "artifact_file": "data/demo/interim/a4e48a97765180b574fd3de6cd9df6d598c095f07afe0ef702cf5d4225820320.json",
+      "context": {
+        "filename": "US20120077113A1.html",
+        "source_url": "https://patents.google.com/patent/US20120077113A1/en"
+      },
+      "document": {
+        "etag": null,
+        "last_modified": null,
+        "path": "data/demo/raw/74fa561941712529cc7b43a71ea00e7cb2c254f8f7836c4c4cb35f43df83dac1.html",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T17:51:31.403177+00:00",
+        "sha256": "74fa561941712529cc7b43a71ea00e7cb2c254f8f7836c4c4cb35f43df83dac1",
+        "source": "patents",
+        "source_id": "447ee07cd77e3653eb4da9f57b0483ba6241fb7df723e475bc98dff56fe41659",
+        "url": "https://patents.google.com/patent/US20120077113A1/en"
+      },
+      "status": "complete",
+      "version_key": "a4e48a97765180b574fd3de6cd9df6d598c095f07afe0ef702cf5d4225820320"
+    },
+    "9dfc2846557da02f431c68440472cd82d0db201355bde9290569b56349167994": {
+      "artifact_file": "data/demo/interim/e5c124813f3b2c1f21e381ecd7f659dfccb5d8964233472d3742b5499b353744.json",
+      "context": {
+        "filename": "z1831.pdf",
+        "source_url": "https://www.celgard.com/storage/components/z1831_com_data_2026-03.pdf"
+      },
+      "document": {
+        "etag": null,
+        "last_modified": null,
+        "path": "data/demo/raw/6bba8a81fc006315da533aa205e2f5d161a8adac4551c9899ffb02f1878dfaf6.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T17:51:31.399778+00:00",
+        "sha256": "6bba8a81fc006315da533aa205e2f5d161a8adac4551c9899ffb02f1878dfaf6",
+        "source": "celgard",
+        "source_id": "545a773acf2fbc498ee217cc1885324d770a3ff59773d37159b7860e7cb38ceb",
+        "url": "https://www.celgard.com/storage/components/z1831_com_data_2026-03.pdf"
+      },
+      "status": "complete",
+      "version_key": "e5c124813f3b2c1f21e381ecd7f659dfccb5d8964233472d3742b5499b353744"
+    },
+    "a0b36f9ec3314cce0306a50a1e0bbd03511976778d61468bfaa71831424d3eac": {
+      "artifact_file": "data/demo/interim/8b8edccfc8863573f8bc3160ef55fc5a78972f7b130e1e5c8b41fb3b3b199766.json",
+      "context": {
+        "filename": "fsri_polyethylene_hfm_extract.json"
+      },
+      "document": {
+        "etag": null,
+        "last_modified": null,
+        "path": "data/demo/raw/1d9061a97ef6f0e2e2be80a20a0bab044629bafcdb6a8c3e7f0bf0eb9ddf30ef.json",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T17:51:31.400520+00:00",
+        "sha256": "1d9061a97ef6f0e2e2be80a20a0bab044629bafcdb6a8c3e7f0bf0eb9ddf30ef",
+        "source": "fsri",
+        "source_id": "6cffeeba8eaa4975d2fa2cbbc650629b0578f41018eafa2fb2b86af083d784ee",
+        "url": null
+      },
+      "status": "complete",
+      "version_key": "8b8edccfc8863573f8bc3160ef55fc5a78972f7b130e1e5c8b41fb3b3b199766"
+    },
+    "a38fb9b8b87c6ee66ad927eacec6071932ac98b99029d9ac347e8ad79e9fb773": {
+      "artifact_file": "data/demo/interim/600753b2da3542f50b203da91eb02006979e1e960a82a53b47d4148d3dc9709f.json",
+      "context": {
+        "filename": "pp1611.pdf",
+        "source_url": "https://www.celgard.com/storage/components/pp1611_com_data_2026-01.pdf"
+      },
+      "document": {
+        "etag": null,
+        "last_modified": null,
+        "path": "data/demo/raw/70a180682d0aa6e29aaf8568dae24259c835e852f442baa6d5594c4f9a660064.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T17:51:31.398274+00:00",
+        "sha256": "70a180682d0aa6e29aaf8568dae24259c835e852f442baa6d5594c4f9a660064",
+        "source": "celgard",
+        "source_id": "f4a1d0b0896e49e7903052c770081668ed5f0cf6a36886a8b831eb2ff816cd8f",
+        "url": "https://www.celgard.com/storage/components/pp1611_com_data_2026-01.pdf"
+      },
+      "status": "complete",
+      "version_key": "600753b2da3542f50b203da91eb02006979e1e960a82a53b47d4148d3dc9709f"
+    }
+  },
+  "duplicates": [],
+  "schema_version": "1"
+}

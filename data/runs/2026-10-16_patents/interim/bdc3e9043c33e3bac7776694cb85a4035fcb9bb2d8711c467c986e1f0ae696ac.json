@@ -1,0 +1,412 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Process of releasing",
+          ""
+        ],
+        [
+          "",
+          "coating layer"
+        ],
+        [
+          "",
+          "",
+          "Whether",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "surface",
+          "",
+          "",
+          "",
+          "Weight of"
+        ],
+        [
+          "",
+          "",
+          "polishing",
+          "Whether",
+          "",
+          "",
+          "coating"
+        ],
+        [
+          "",
+          "",
+          "treatment",
+          "sonication",
+          "Weight of",
+          "Weight of",
+          "layer",
+          "Coating"
+        ],
+        [
+          "",
+          "",
+          "was",
+          "was",
+          "initial",
+          "final",
+          "before",
+          "release"
+        ],
+        [
+          "",
+          "Type of",
+          "performed",
+          "performed",
+          "separator",
+          "separator",
+          "releasing",
+          "rate"
+        ],
+        [
+          "",
+          "specimen",
+          "(∘/x)",
+          "(∘/x)",
+          "(g)",
+          "(g)",
+          "(g)",
+          "(%)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "A",
+          "∘",
+          "x",
+          "0.221",
+          "0.0606",
+          "0.162",
+          "99.0"
+        ],
+        [
+          "Example 2",
+          "B",
+          "∘",
+          "x",
+          "0.193",
+          "0.0657",
+          "0.134",
+          "95.0"
+        ],
+        [
+          "Example 3",
+          "A",
+          "∘",
+          "∘",
+          "0.218",
+          "0.0601",
+          "0.159",
+          "99.3"
+        ],
+        [
+          "Example 4",
+          "B",
+          "∘",
+          "∘",
+          "0.195",
+          "0.0631",
+          "0.136",
+          "97.0"
+        ],
+        [
+          "Comparative",
+          "A",
+          "x",
+          "∘",
+          "0.221",
+          "0.0946",
+          "0.162",
+          "78.0"
+        ],
+        [
+          "Example 1"
+        ],
+        [
+          "Comparative",
+          "B",
+          "x",
+          "∘",
+          "0.193",
+          "0.1072",
+          "0.134",
+          "64.0"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Process of releasing</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating layer</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Whether</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">surface</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Weight of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">polishing</td>\n<td class=\"description-td\">Whether</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">treatment</td>\n<td class=\"description-td\">sonication</td>\n<td class=\"description-td\">Weight of</td>\n<td class=\"description-td\">Weight of</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">Coating</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">was</td>\n<td class=\"description-td\">was</td>\n<td class=\"description-td\">initial</td>\n<td class=\"description-td\">final</td>\n<td class=\"description-td\">before</td>\n<td class=\"description-td\">release</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Type of</td>\n<td class=\"description-td\">performed</td>\n<td class=\"description-td\">performed</td>\n<td class=\"description-td\">separator</td>\n<td class=\"description-td\">separator</td>\n<td class=\"description-td\">releasing</td>\n<td class=\"description-td\">rate</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">specimen</td>\n<td class=\"description-td\">(∘/x)</td>\n<td class=\"description-td\">(∘/x)</td>\n<td class=\"description-td\">(g)</td>\n<td class=\"description-td\">(g)</td>\n<td class=\"description-td\">(g)</td>\n<td class=\"description-td\">(%)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">x</td>\n<td class=\"description-td\">0.221</td>\n<td class=\"description-td\">0.0606</td>\n<td class=\"description-td\">0.162</td>\n<td class=\"description-td\">99.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">x</td>\n<td class=\"description-td\">0.193</td>\n<td class=\"description-td\">0.0657</td>\n<td class=\"description-td\">0.134</td>\n<td class=\"description-td\">95.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">0.218</td>\n<td class=\"description-td\">0.0601</td>\n<td class=\"description-td\">0.159</td>\n<td class=\"description-td\">99.3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">0.195</td>\n<td class=\"description-td\">0.0631</td>\n<td class=\"description-td\">0.136</td>\n<td class=\"description-td\">97.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">A</td>\n<td class=\"description-td\">x</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">0.221</td>\n<td class=\"description-td\">0.0946</td>\n<td class=\"description-td\">0.162</td>\n<td class=\"description-td\">78.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">B</td>\n<td class=\"description-td\">x</td>\n<td class=\"description-td\">∘</td>\n<td class=\"description-td\">0.193</td>\n<td class=\"description-td\">0.1072</td>\n<td class=\"description-td\">0.134</td>\n<td class=\"description-td\">64.0</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Mixing condition",
+          ""
+        ],
+        [
+          "",
+          "Mixing ratio",
+          "",
+          "Yield",
+          "",
+          "Young's",
+          "Impact"
+        ],
+        [
+          "",
+          "HDPE",
+          "Separator",
+          "Separator",
+          "strength",
+          "Elongation",
+          "modulus",
+          "strength"
+        ],
+        [
+          "",
+          "(wt %)",
+          "(wt %)",
+          "type",
+          "(kgf/cm 2 )",
+          "(%)",
+          "(kgf/cm 2 )",
+          "(kJ/m 2 )"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ref.",
+          "100",
+          "0",
+          "—",
+          "242",
+          "828",
+          "11300",
+          "20"
+        ],
+        [
+          "Example 5",
+          "80",
+          "20",
+          "Example 1",
+          "241",
+          "818",
+          "10800",
+          "20"
+        ],
+        [
+          "Example 6",
+          "70",
+          "30",
+          "Example 1",
+          "243",
+          "797",
+          "11200",
+          "20"
+        ],
+        [
+          "Comparative",
+          "70",
+          "30",
+          "Specimen",
+          "232",
+          "39",
+          "12100",
+          "15"
+        ],
+        [
+          "Example 3",
+          "",
+          "",
+          "A"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"2\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Mixing condition</td>\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Mixing ratio</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Yield</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Young's</td>\n<td class=\"description-td\">Impact</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HDPE</td>\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">strength</td>\n<td class=\"description-td\">Elongation</td>\n<td class=\"description-td\">modulus</td>\n<td class=\"description-td\">strength</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(wt %)</td>\n<td class=\"description-td\">(wt %)</td>\n<td class=\"description-td\">type</td>\n<td class=\"description-td\">(kgf/cm<sup>2</sup>)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(kgf/cm<sup>2</sup>)</td>\n<td class=\"description-td\">(kJ/m<sup>2</sup>)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"7\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Ref.</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">—</td>\n<td class=\"description-td\">242</td>\n<td class=\"description-td\">828</td>\n<td class=\"description-td\">11300</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\">80</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">241</td>\n<td class=\"description-td\">818</td>\n<td class=\"description-td\">10800</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">243</td>\n<td class=\"description-td\">797</td>\n<td class=\"description-td\">11200</td>\n<td class=\"description-td\">20</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">70</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">Specimen</td>\n<td class=\"description-td\">232</td>\n<td class=\"description-td\">39</td>\n<td class=\"description-td\">12100</td>\n<td class=\"description-td\">15</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">A</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is a simplified process diagram illustrating a continuous regeneration of a separator according to an embodiment of the present disclosure. FIG. 2 is a simplified schematic diagram of a separator regeneration device according to an embodiment of the present disclosure. FIG. 3 is a simplified schematic diagram showing a layout structure of a polishing roller according to an embodiment of the present disclosure. FIG. 4 is a simplified schematic diagram showing an example of a polishing roller. Referring to FIG. 1 , according to an embodiment of the present disclosure, the separator may be provided in a wound roll form. Thereafter, the separator may be unwound from the provided roll and impregnated in the water tank. The separator is impregnated in the water tank and sufficiently wetted, and may be subjected to a surface polishing treatment alone or a combination of sonication-surface polishing treatment in the water tank. In FIG. 1 , the sonication and the surface polishing treatment are illustrated to be performed in the same water tank; however, it is understood that they may be also performed in separate water tanks. The separate water tanks may be of the same type and size or may be different from each other. FIG. 2 is a schematic diagram of the separator regeneration device according to an embodiment of the present disclosure. The separator regeneration device 10 includes an unwinder 11 which unwinds a separator 20 , a water tank 12 in which a liquid is contained and the separator is added thereto, and a rewinder 14 which winds the separator through the water tank 12 and includes a plurality of guide rollers 15 for transferring the separator between the unwinder 11 and the rewinder 14 . In the present device 10 , a polishing roller 13 is installed inside the water tank 12 , and the corresponding polishing roller 13 is disposed to be accommodated in the liquid contained inside the water tank 12 . The polishing roller 13 may be composed of multiple rollers. The polishing roller 13 has a rough surface to scrub and polish the surface of the separator, and thus, the separator may be polished in a state of being immersed in the liquid. As such, by polishing the separator in a liquid, the damage of the separator may be decreased and polishing performance may be improved. FIG. 2 shows a first tank 12 ( 12 - 1 ) and a second tank 12 ( 12 - 2 ) which are described in more detail below. Here, the polishing roller 13 may be disposed to press the separator, so that the polishing roller 13 pressurizes the separator. FIG. 3 is a drawing schematically showing the layout structure of the polishing roller according to an embodiment of the present disclosure, and as shown in the drawing, it may be configured in the layout structure in which the polishing roller 13 is disposed so as to protrude toward the separator as compared with the guide roller 15 disposed at the front and rear of the polishing roller 13 , so that the separator wraps around the polishing roller 13 in an S shape (S-wrap). Accordingly, the polishing roller 13 presses the separator from top to bottom or from front to back to pressurize the separator. As such, since the polishing roller 13 pressurizes the separator, adhesion between the polishing roller 13 and the separator is increased to increase polishing performance. The present device 10 may include a plurality of polishing rollers 13 , and the plurality of polishing rollers 13 may be configured in a structure in which the layout structure of FIG. 3 is installed in series. Here, though not shown, another polishing roller is disposed instead of the guide roller on at least one side of the front and back of any one polishing roller, and the corresponding adjacent two or more polishing rollers are disposed in zigzags with each other, so that the adjacent polishing rollers may be configured in an S-shaped layout structure. Meanwhile, the polishing roller 13 may be configured in a structure in which a sanding sponge 13 s is attached to the surface. FIG. 4 shows the polishing roller, and the polishing roller 13 may be formed in a structure in which the sanding sponge 13 s is attached to the surface of a roll body 13 b , in which the sanding sponge 13 s may be attached using an internal adhesive tape. The roughness of the sanding sponge 13 s may be appropriately selected. Since the polishing roller 13 is configured as such, it is easy to attach and detach the sanding sponge 13 s , thereby providing convenience in installation and management, and based on the fact, the roughness of the polishing roller 13 may be easily changed. One or two or more polishing rollers 13 may be installed, and the roughness of each polishing roller 13 may be configured to be the same or different. Referring to FIG. 2 again, the water tank 12 may be composed of a first water tank 12 - 1 and a second water tank 12 - 2 separately, and the polishing roller 13 may be installed in the second water tank 12 - 2 . The reason for configuring the water tank 12 separately as such is that the functions of each water tank 12 are different, and the separator may be immersed in the first water tank 12 - 1 and the separator may be polished and washed in the second water tank 12 - 2 . Meanwhile, as shown in FIG. 1 , three water tanks are separately formed, so that a final washing function may be further performed in a third water tank as the final water tank. In this case, though there is an advantage of improving a washing function, the total volume of the device is increased, and thus, the design may be appropriately changed according to the situation.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/b0/f6/81/ce06072477f185/US12040464-20240716-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a simplified process diagram illustrating a continuous regeneration of a separator according to an embodiment of the present disclosure. FIG. 2 is a simplified schematic diagram of a separator regeneration device according to an embodiment of the present disclosure. FIG. 3 is a simplified schematic diagram showing a layout structure of a polishing roller according to an embodiment of the present disclosure. FIG. 4 is a simplified schematic diagram showing an example of a polishing roller. Referring to FIG. 1 , according to an embodiment of the present disclosure, the separator may be provided in a wound roll form. Thereafter, the separator may be unwound from the provided roll and impregnated in the water tank. The separator is impregnated in the water tank and sufficiently wetted, and may be subjected to a surface polishing treatment alone or a combination of sonication-surface polishing treatment in the water tank. In FIG. 1 , the sonication and the surface polishing treatment are illustrated to be performed in the same water tank; however, it is understood that they may be also performed in separate water tanks. The separate water tanks may be of the same type and size or may be different from each other. FIG. 2 is a schematic diagram of the separator regeneration device according to an embodiment of the present disclosure. The separator regeneration device 10 includes an unwinder 11 which unwinds a separator 20 , a water tank 12 in which a liquid is contained and the separator is added thereto, and a rewinder 14 which winds the separator through the water tank 12 and includes a plurality of guide rollers 15 for transferring the separator between the unwinder 11 and the rewinder 14 . In the present device 10 , a polishing roller 13 is installed inside the water tank 12 , and the corresponding polishing roller 13 is disposed to be accommodated in the liquid contained inside the water tank 12 . The polishing roller 13 may be composed of multiple rollers. The polishing roller 13 has a rough surface to scrub and polish the surface of the separator, and thus, the separator may be polished in a state of being immersed in the liquid. As such, by polishing the separator in a liquid, the damage of the separator may be decreased and polishing performance may be improved. FIG. 2 shows a first tank 12 ( 12 - 1 ) and a second tank 12 ( 12 - 2 ) which are described in more detail below. Here, the polishing roller 13 may be disposed to press the separator, so that the polishing roller 13 pressurizes the separator. FIG. 3 is a drawing schematically showing the layout structure of the polishing roller according to an embodiment of the present disclosure, and as shown in the drawing, it may be configured in the layout structure in which the polishing roller 13 is disposed so as to protrude toward the separator as compared with the guide roller 15 disposed at the front and rear of the polishing roller 13 , so that the separator wraps around the polishing roller 13 in an S shape (S-wrap). Accordingly, the polishing roller 13 presses the separator from top to bottom or from front to back to pressurize the separator. As such, since the polishing roller 13 pressurizes the separator, adhesion between the polishing roller 13 and the separator is increased to increase polishing performance. The present device 10 may include a plurality of polishing rollers 13 , and the plurality of polishing rollers 13 may be configured in a structure in which the layout structure of FIG. 3 is installed in series. Here, though not shown, another polishing roller is disposed instead of the guide roller on at least one side of the front and back of any one polishing roller, and the corresponding adjacent two or more polishing rollers are disposed in zigzags with each other, so that the adjacent polishing rollers may be configured in an S-shaped layout structure. Meanwhile, the polishing roller 13 may be configured in a structure in which a sanding sponge 13 s is attached to the surface. FIG. 4 shows the polishing roller, and the polishing roller 13 may be formed in a structure in which the sanding sponge 13 s is attached to the surface of a roll body 13 b , in which the sanding sponge 13 s may be attached using an internal adhesive tape. The roughness of the sanding sponge 13 s may be appropriately selected. Since the polishing roller 13 is configured as such, it is easy to attach and detach the sanding sponge 13 s , thereby providing convenience in installation and management, and based on the fact, the roughness of the polishing roller 13 may be easily changed. One or two or more polishing rollers 13 may be installed, and the roughness of each polishing roller 13 may be configured to be the same or different. Referring to FIG. 2 again, the water tank 12 may be composed of a first water tank 12 - 1 and a second water tank 12 - 2 separately, and the polishing roller 13 may be installed in the second water tank 12 - 2 . The reason for configuring the water tank 12 separately as such is that the functions of each water tank 12 are different, and the separator may be immersed in the first water tank 12 - 1 and the separator may be polished and washed in the second water tank 12 - 2 . Meanwhile, as shown in FIG. 1 , three water tanks are separately formed, so that a final washing function may be further performed in a third water tank as the final water tank. In this case, though there is an advantage of improving a washing function, the total volume of the device is increased, and thus, the design may be appropriately changed according to the situation.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/f2/d8/2e/e77bca7a6f7ae6/US12040464-20240716-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a simplified process diagram illustrating a continuous regeneration of a separator according to an embodiment of the present disclosure. FIG. 2 is a simplified schematic diagram of a separator regeneration device according to an embodiment of the present disclosure. FIG. 3 is a simplified schematic diagram showing a layout structure of a polishing roller according to an embodiment of the present disclosure. FIG. 4 is a simplified schematic diagram showing an example of a polishing roller. Referring to FIG. 1 , according to an embodiment of the present disclosure, the separator may be provided in a wound roll form. Thereafter, the separator may be unwound from the provided roll and impregnated in the water tank. The separator is impregnated in the water tank and sufficiently wetted, and may be subjected to a surface polishing treatment alone or a combination of sonication-surface polishing treatment in the water tank. In FIG. 1 , the sonication and the surface polishing treatment are illustrated to be performed in the same water tank; however, it is understood that they may be also performed in separate water tanks. The separate water tanks may be of the same type and size or may be different from each other. FIG. 2 is a schematic diagram of the separator regeneration device according to an embodiment of the present disclosure. The separator regeneration device 10 includes an unwinder 11 which unwinds a separator 20 , a water tank 12 in which a liquid is contained and the separator is added thereto, and a rewinder 14 which winds the separator through the water tank 12 and includes a plurality of guide rollers 15 for transferring the separator between the unwinder 11 and the rewinder 14 . In the present device 10 , a polishing roller 13 is installed inside the water tank 12 , and the corresponding polishing roller 13 is disposed to be accommodated in the liquid contained inside the water tank 12 . The polishing roller 13 may be composed of multiple rollers. The polishing roller 13 has a rough surface to scrub and polish the surface of the separator, and thus, the separator may be polished in a state of being immersed in the liquid. As such, by polishing the separator in a liquid, the damage of the separator may be decreased and polishing performance may be improved. FIG. 2 shows a first tank 12 ( 12 - 1 ) and a second tank 12 ( 12 - 2 ) which are described in more detail below. Here, the polishing roller 13 may be disposed to press the separator, so that the polishing roller 13 pressurizes the separator. FIG. 3 is a drawing schematically showing the layout structure of the polishing roller according to an embodiment of the present disclosure, and as shown in the drawing, it may be configured in the layout structure in which the polishing roller 13 is disposed so as to protrude toward the separator as compared with the guide roller 15 disposed at the front and rear of the polishing roller 13 , so that the separator wraps around the polishing roller 13 in an S shape (S-wrap). Accordingly, the polishing roller 13 presses the separator from top to bottom or from front to back to pressurize the separator. As such, since the polishing roller 13 pressurizes the separator, adhesion between the polishing roller 13 and the separator is increased to increase polishing performance. The present device 10 may include a plurality of polishing rollers 13 , and the plurality of polishing rollers 13 may be configured in a structure in which the layout structure of FIG. 3 is installed in series. Here, though not shown, another polishing roller is disposed instead of the guide roller on at least one side of the front and back of any one polishing roller, and the corresponding adjacent two or more polishing rollers are disposed in zigzags with each other, so that the adjacent polishing rollers may be configured in an S-shaped layout structure. Meanwhile, the polishing roller 13 may be configured in a structure in which a sanding sponge 13 s is attached to the surface. FIG. 4 shows the polishing roller, and the polishing roller 13 may be formed in a structure in which the sanding sponge 13 s is attached to the surface of a roll body 13 b , in which the sanding sponge 13 s may be attached using an internal adhesive tape. The roughness of the sanding sponge 13 s may be appropriately selected. Since the polishing roller 13 is configured as such, it is easy to attach and detach the sanding sponge 13 s , thereby providing convenience in installation and management, and based on the fact, the roughness of the polishing roller 13 may be easily changed. One or two or more polishing rollers 13 may be installed, and the roughness of each polishing roller 13 may be configured to be the same or different. Referring to FIG. 2 again, the water tank 12 may be composed of a first water tank 12 - 1 and a second water tank 12 - 2 separately, and the polishing roller 13 may be installed in the second water tank 12 - 2 . The reason for configuring the water tank 12 separately as such is that the functions of each water tank 12 are different, and the separator may be immersed in the first water tank 12 - 1 and the separator may be polished and washed in the second water tank 12 - 2 . Meanwhile, as shown in FIG. 1 , three water tanks are separately formed, so that a final washing function may be further performed in a third water tank as the final water tank. In this case, though there is an advantage of improving a washing function, the total volume of the device is increased, and thus, the design may be appropriately changed according to the situation.",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/d2/9f/cb/4425121ffa4e68/US12040464-20240716-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/de/fe/c1/e4c8c51d2e08ad/US12040464.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US12040464B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/0d68f76d98a0ec4a16b80edf1522d97f0e01a4f5f6da2367e0f186e9556750e3.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:15:48.864764+00:00",
+    "sha256": "0d68f76d98a0ec4a16b80edf1522d97f0e01a4f5f6da2367e0f186e9556750e3",
+    "source": "patents",
+    "source_id": "0193798481323242df6d99eb8dbaba37aeea242a337c227e9156d30d5e4f652d",
+    "url": "https://patents.google.com/patent/US12040464B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "98e0aefa12eb62aa6a81eb94c494cac19b43aa7bbfbdc4d1c982b0c3156244fb",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "0193798481323242df6d99eb8dbaba37aeea242a337c227e9156d30d5e4f652d",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/0d68f76d98a0ec4a16b80edf1522d97f0e01a4f5f6da2367e0f186e9556750e3.bin",
+      "source_id": "0193798481323242df6d99eb8dbaba37aeea242a337c227e9156d30d5e4f652d",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "0d68f76d98a0ec4a16b80edf1522d97f0e01a4f5f6da2367e0f186e9556750e3",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US12040464B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

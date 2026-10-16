@@ -1,0 +1,255 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Core Layer",
+          "ABA",
+          "",
+          "BAB"
+        ],
+        [
+          "Sample",
+          "Basis",
+          "MPS",
+          "",
+          "Sample",
+          "Core Layer",
+          "MPS",
+          ""
+        ],
+        [
+          "No.",
+          "Weight",
+          "(micron)",
+          "Airflow",
+          "No.",
+          "Basis Weight",
+          "(micron)",
+          "Airflow"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1A",
+          "40 gsm",
+          "0.112",
+          "43",
+          "1E",
+          "40 gsm",
+          "0.157",
+          ">100"
+        ],
+        [
+          "1B",
+          "30 gsm",
+          "0.118",
+          "62",
+          "1F",
+          "30 gsm",
+          "0.164",
+          ">100"
+        ],
+        [
+          "1C",
+          "20 gsm",
+          "0.119",
+          "60",
+          "1G",
+          "20 gsm",
+          "0.136",
+          "92"
+        ],
+        [
+          "1D",
+          "10 gsm",
+          "0.127",
+          "88",
+          "1H",
+          "10 gsm",
+          "0.135",
+          "63"
+        ],
+        [
+          "Single",
+          "35 gsm",
+          "0.119",
+          "44",
+          "Single",
+          "35 gsm",
+          "0.180",
+          ">100"
+        ],
+        [
+          "Layer B",
+          "",
+          "",
+          "",
+          "Layer A"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\">TABLE 1</td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Core Layer</td> <td class=\"description-td\">ABA</td> <td class=\"description-td\"> </td> <td class=\"description-td\">BAB</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Sample</td> <td class=\"description-td\">Basis</td> <td class=\"description-td\">MPS</td> <td class=\"description-td\"> </td> <td class=\"description-td\">Sample</td> <td class=\"description-td\">Core Layer</td> <td class=\"description-td\">MPS</td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">No.</td> <td class=\"description-td\">Weight</td> <td class=\"description-td\">(micron)</td> <td class=\"description-td\">Airflow</td> <td class=\"description-td\">No.</td> <td class=\"description-td\">Basis Weight</td> <td class=\"description-td\">(micron)</td> <td class=\"description-td\">Airflow</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"8\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">1A</td> <td class=\"description-td\">40 gsm</td> <td class=\"description-td\">0.112</td> <td class=\"description-td\">43</td> <td class=\"description-td\">1E</td> <td class=\"description-td\">40 gsm</td> <td class=\"description-td\">0.157</td> <td class=\"description-td\">&gt;100</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">1B</td> <td class=\"description-td\">30 gsm</td> <td class=\"description-td\">0.118</td> <td class=\"description-td\">62</td> <td class=\"description-td\">1F</td> <td class=\"description-td\">30 gsm</td> <td class=\"description-td\">0.164</td> <td class=\"description-td\">&gt;100</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">1C</td> <td class=\"description-td\">20 gsm</td> <td class=\"description-td\">0.119</td> <td class=\"description-td\">60</td> <td class=\"description-td\">1G</td> <td class=\"description-td\">20 gsm</td> <td class=\"description-td\">0.136</td> <td class=\"description-td\">92</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">1D</td> <td class=\"description-td\">10 gsm</td> <td class=\"description-td\">0.127</td> <td class=\"description-td\">88</td> <td class=\"description-td\">1H</td> <td class=\"description-td\">10 gsm</td> <td class=\"description-td\">0.135</td> <td class=\"description-td\">63</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Single</td> <td class=\"description-td\">35 gsm</td> <td class=\"description-td\">0.119</td> <td class=\"description-td\">44</td> <td class=\"description-td\">Single</td> <td class=\"description-td\">35 gsm</td> <td class=\"description-td\">0.180</td> <td class=\"description-td\">&gt;100</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Layer B</td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Layer A</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"8\" nameend=\"8\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers; [0017] FIG. 2 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers; [0018] FIG. 3 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers and a nonwoven web layer; [0019] FIG. 4 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers and a nonwoven web layer; [0020] FIG. 5 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising two microporous film layers as described in Example 4; [0021] FIG. 6 is an electron photomicrograph showing a conventional one layer microporous film as described in Example 4; [0022] FIG. 7 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4; and [0023] FIG. 8 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4. [0024] In a more specific embodiment, the multilayer microporous films according to the invention may comprise a third microporous film layer having a third maximum pore size. This embodiment is illustrated schematically in FIG. 2 wherein a multilayer microporous film [0027] 20 comprises first, second and third microporous film layers 12 , 14 and 18 , respectively. The film layers 12 and 14 are adjacent to each other at interface 16 a while the films 14 and 18 are adjacent one another at the interface 16 b . In the embodiment of FIG. 2, the second film layer 14 is schematically disclosed as having a smaller maximum pore size relative to the first and third film layers 12 and 18 , respectively. However, the multilayer films according to the invention may comprise any arrangement of the layers of relative maximum pore size, whereby the film layer or layers having the largest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. Similarly, the film layer or layers having the smallest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. In a more specific embodiment, the microporous film layer having the smallest maximum pore size is positioned between the first and third film layers, as shown by the second film layer 14 positioned between the first film layer 12 and the third film layer 18 in FIG. 2. In another more specific embodiment, the microporous film layer with the largest maximum pore size is positioned between film layers having relatively smaller maximum pore sizes. The maximum pore sizes of the outermost layers may be the same, substantially the same, or different from one another. Similarly, with reference to FIG. 1, when the multilayer film [0030] 10 is formed as a composite material, with one of microporous film layers 12 and 14 arranged adjacent another layer of the composite, and the other of microporous film layers 12 and 14 exposed as an outer surface, the one of layers 12 and 14 which is constrained at both surfaces will characterize the maximum pore size of the multilayer microporous film as employed in the composite. More particularly, with reference to FIG. 3, a multilayer microporous film composite material 40 comprises a multilayer microporous film 42 in combination with a nonwoven layer 44 . The multilayer microporous film 42 comprises a first microporous film layer 52 having a first maximum pore size and a second microporous film layer 54 having a second maximum pore size different from the first maximum pore size. The layers 52 and 54 are adjacent one another at interface 56 . Thus, one surface of the second microporous film layer 54 is adjacent the first microporous film layer 52 at interface 56 while the other surface of the microporous film layer 54 is constrained at interface 58 by the nonwoven layer 44 of the composite material. As a result, the multilayer microporous film 42 will exhibit a maximum pore size more characteristic of the constrained film layer 54 , regardless of whether the film layer 54 has a larger or smaller maximum pore size as compared with the microporous film layer 52 . In a more specific embodiment, wherein the multilayer microporous film comprises three microporous film layers as set forth in FIG. 2, the second film layer is positioned between the first and third film layers and is formed of a second polymer composition which is different from the first and third polymer compositions from which the first and third layers are formed, respectively. In one embodiment, the second polymer composition is selected such that the second film layer has a larger maximum pore size as compared with the maximum pore size of the first and third layers. In an alternate embodiment, the second polymer composition is selected such that the second film layer has a smaller maximum pore size as compared with the first and third film layers. In yet further embodiments, the first and third layers have substantially the same or the same maximum pore sizes. [0035] In a more specific embodiment, the microporous film layers of the multilayer microporous film are formed of the same polymer composition and comprise filler of the same chemical composition, with the average particle size of the filler being varied in at least two adjacent layers. In a more specific embodiment, the filler employed in the respective film layers comprises calcium carbonate. Calcium carbonate is typically available in average particle sizes ranging from about 0.1 micron to about 2.5 microns. Calcium carbonate in the lower average particle size ranges is typically formed by precipitation while calcium carbonate in the higher average particle size ranges is typically formed by grinding. In a further embodiment of the three layer multilayer microporous film as described in FIG. 3, the second film layer comprises a second filler having an average particle size smaller than the average particle sizes of the first and third fillers employed in the first and third film layers, and the second film layer is arranged between the first and third film layers whereby the second film layer has a smaller maximum pore size as compared with the first and third film layers. In an alternate embodiment, the second film layer comprises a second filler having a larger average particle size as compared with the first and third fillers employed in the first and third film layers, respectively, and the second layer is arranged between the first and third film layers, whereby the second film layer has a larger maximum pore size as compared with the first and third layers. [0041] In this example, additional multilayer microporous films according to the invention are prepared. In this example, each film layer comprises 45% calcium carbonate, 50% linear low density polyethylene and 5% of additional components comprising pigments, antioxidants and processing aids. Each calcium carbonate filler is surface coated with approximately 1% stearic acid and the difference in pore size between the various layers is obtained by varying the average particle size of the calcium carbonate from layer to layer. A first multilayer film sample 4A comprises two layers and is therefore of the structure AB. Layer A comprises calcium carbonate having an average particle size of about 1.2 microns while layer B comprises calcium carbonate having an average particle size of about 2.5 microns. An electron photomicrograph (2000×) of the multilayer microporous film of sample 4A is set forth in FIG. 5. For comparison purposes, a single layer microporous film is prepared comprising layer B only. An electron photomicrograph (2000×) of the resulting film is set forth in FIG. 6. [0080]",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/ac/69/50/27815295f74a1f/US20030035943A1-20030220-D00000.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers; [0017] FIG. 2 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers; [0018] FIG. 3 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers and a nonwoven web layer; [0019] FIG. 4 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers and a nonwoven web layer; [0020] FIG. 5 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising two microporous film layers as described in Example 4; [0021] FIG. 6 is an electron photomicrograph showing a conventional one layer microporous film as described in Example 4; [0022] FIG. 7 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4; and [0023] FIG. 8 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4. [0024] In a more specific embodiment, the multilayer microporous films according to the invention may comprise a third microporous film layer having a third maximum pore size. This embodiment is illustrated schematically in FIG. 2 wherein a multilayer microporous film [0027] 20 comprises first, second and third microporous film layers 12 , 14 and 18 , respectively. The film layers 12 and 14 are adjacent to each other at interface 16 a while the films 14 and 18 are adjacent one another at the interface 16 b . In the embodiment of FIG. 2, the second film layer 14 is schematically disclosed as having a smaller maximum pore size relative to the first and third film layers 12 and 18 , respectively. However, the multilayer films according to the invention may comprise any arrangement of the layers of relative maximum pore size, whereby the film layer or layers having the largest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. Similarly, the film layer or layers having the smallest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. In a more specific embodiment, the microporous film layer having the smallest maximum pore size is positioned between the first and third film layers, as shown by the second film layer 14 positioned between the first film layer 12 and the third film layer 18 in FIG. 2. In another more specific embodiment, the microporous film layer with the largest maximum pore size is positioned between film layers having relatively smaller maximum pore sizes. The maximum pore sizes of the outermost layers may be the same, substantially the same, or different from one another. Similarly, with reference to FIG. 1, when the multilayer film [0030] 10 is formed as a composite material, with one of microporous film layers 12 and 14 arranged adjacent another layer of the composite, and the other of microporous film layers 12 and 14 exposed as an outer surface, the one of layers 12 and 14 which is constrained at both surfaces will characterize the maximum pore size of the multilayer microporous film as employed in the composite. More particularly, with reference to FIG. 3, a multilayer microporous film composite material 40 comprises a multilayer microporous film 42 in combination with a nonwoven layer 44 . The multilayer microporous film 42 comprises a first microporous film layer 52 having a first maximum pore size and a second microporous film layer 54 having a second maximum pore size different from the first maximum pore size. The layers 52 and 54 are adjacent one another at interface 56 . Thus, one surface of the second microporous film layer 54 is adjacent the first microporous film layer 52 at interface 56 while the other surface of the microporous film layer 54 is constrained at interface 58 by the nonwoven layer 44 of the composite material. As a result, the multilayer microporous film 42 will exhibit a maximum pore size more characteristic of the constrained film layer 54 , regardless of whether the film layer 54 has a larger or smaller maximum pore size as compared with the microporous film layer 52 . In a more specific embodiment, wherein the multilayer microporous film comprises three microporous film layers as set forth in FIG. 2, the second film layer is positioned between the first and third film layers and is formed of a second polymer composition which is different from the first and third polymer compositions from which the first and third layers are formed, respectively. In one embodiment, the second polymer composition is selected such that the second film layer has a larger maximum pore size as compared with the maximum pore size of the first and third layers. In an alternate embodiment, the second polymer composition is selected such that the second film layer has a smaller maximum pore size as compared with the first and third film layers. In yet further embodiments, the first and third layers have substantially the same or the same maximum pore sizes. [0035] In a more specific embodiment, the microporous film layers of the multilayer microporous film are formed of the same polymer composition and comprise filler of the same chemical composition, with the average particle size of the filler being varied in at least two adjacent layers. In a more specific embodiment, the filler employed in the respective film layers comprises calcium carbonate. Calcium carbonate is typically available in average particle sizes ranging from about 0.1 micron to about 2.5 microns. Calcium carbonate in the lower average particle size ranges is typically formed by precipitation while calcium carbonate in the higher average particle size ranges is typically formed by grinding. In a further embodiment of the three layer multilayer microporous film as described in FIG. 3, the second film layer comprises a second filler having an average particle size smaller than the average particle sizes of the first and third fillers employed in the first and third film layers, and the second film layer is arranged between the first and third film layers whereby the second film layer has a smaller maximum pore size as compared with the first and third film layers. In an alternate embodiment, the second film layer comprises a second filler having a larger average particle size as compared with the first and third fillers employed in the first and third film layers, respectively, and the second layer is arranged between the first and third film layers, whereby the second film layer has a larger maximum pore size as compared with the first and third layers. [0041] In this example, additional multilayer microporous films according to the invention are prepared. In this example, each film layer comprises 45% calcium carbonate, 50% linear low density polyethylene and 5% of additional components comprising pigments, antioxidants and processing aids. Each calcium carbonate filler is surface coated with approximately 1% stearic acid and the difference in pore size between the various layers is obtained by varying the average particle size of the calcium carbonate from layer to layer. A first multilayer film sample 4A comprises two layers and is therefore of the structure AB. Layer A comprises calcium carbonate having an average particle size of about 1.2 microns while layer B comprises calcium carbonate having an average particle size of about 2.5 microns. An electron photomicrograph (2000×) of the multilayer microporous film of sample 4A is set forth in FIG. 5. For comparison purposes, a single layer microporous film is prepared comprising layer B only. An electron photomicrograph (2000×) of the resulting film is set forth in FIG. 6. [0080]",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/ea/22/48/3352a752c59b0d/US20030035943A1-20030220-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers; [0017] FIG. 2 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers; [0018] FIG. 3 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers and a nonwoven web layer; [0019] FIG. 4 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers and a nonwoven web layer; [0020] FIG. 5 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising two microporous film layers as described in Example 4; [0021] FIG. 6 is an electron photomicrograph showing a conventional one layer microporous film as described in Example 4; [0022] FIG. 7 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4; and [0023] FIG. 8 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4. [0024] In a more specific embodiment, the multilayer microporous films according to the invention may comprise a third microporous film layer having a third maximum pore size. This embodiment is illustrated schematically in FIG. 2 wherein a multilayer microporous film [0027] 20 comprises first, second and third microporous film layers 12 , 14 and 18 , respectively. The film layers 12 and 14 are adjacent to each other at interface 16 a while the films 14 and 18 are adjacent one another at the interface 16 b . In the embodiment of FIG. 2, the second film layer 14 is schematically disclosed as having a smaller maximum pore size relative to the first and third film layers 12 and 18 , respectively. However, the multilayer films according to the invention may comprise any arrangement of the layers of relative maximum pore size, whereby the film layer or layers having the largest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. Similarly, the film layer or layers having the smallest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. In a more specific embodiment, the microporous film layer having the smallest maximum pore size is positioned between the first and third film layers, as shown by the second film layer 14 positioned between the first film layer 12 and the third film layer 18 in FIG. 2. In another more specific embodiment, the microporous film layer with the largest maximum pore size is positioned between film layers having relatively smaller maximum pore sizes. The maximum pore sizes of the outermost layers may be the same, substantially the same, or different from one another. Similarly, with reference to FIG. 1, when the multilayer film [0030] 10 is formed as a composite material, with one of microporous film layers 12 and 14 arranged adjacent another layer of the composite, and the other of microporous film layers 12 and 14 exposed as an outer surface, the one of layers 12 and 14 which is constrained at both surfaces will characterize the maximum pore size of the multilayer microporous film as employed in the composite. More particularly, with reference to FIG. 3, a multilayer microporous film composite material 40 comprises a multilayer microporous film 42 in combination with a nonwoven layer 44 . The multilayer microporous film 42 comprises a first microporous film layer 52 having a first maximum pore size and a second microporous film layer 54 having a second maximum pore size different from the first maximum pore size. The layers 52 and 54 are adjacent one another at interface 56 . Thus, one surface of the second microporous film layer 54 is adjacent the first microporous film layer 52 at interface 56 while the other surface of the microporous film layer 54 is constrained at interface 58 by the nonwoven layer 44 of the composite material. As a result, the multilayer microporous film 42 will exhibit a maximum pore size more characteristic of the constrained film layer 54 , regardless of whether the film layer 54 has a larger or smaller maximum pore size as compared with the microporous film layer 52 . In a more specific embodiment, wherein the multilayer microporous film comprises three microporous film layers as set forth in FIG. 2, the second film layer is positioned between the first and third film layers and is formed of a second polymer composition which is different from the first and third polymer compositions from which the first and third layers are formed, respectively. In one embodiment, the second polymer composition is selected such that the second film layer has a larger maximum pore size as compared with the maximum pore size of the first and third layers. In an alternate embodiment, the second polymer composition is selected such that the second film layer has a smaller maximum pore size as compared with the first and third film layers. In yet further embodiments, the first and third layers have substantially the same or the same maximum pore sizes. [0035] In a more specific embodiment, the microporous film layers of the multilayer microporous film are formed of the same polymer composition and comprise filler of the same chemical composition, with the average particle size of the filler being varied in at least two adjacent layers. In a more specific embodiment, the filler employed in the respective film layers comprises calcium carbonate. Calcium carbonate is typically available in average particle sizes ranging from about 0.1 micron to about 2.5 microns. Calcium carbonate in the lower average particle size ranges is typically formed by precipitation while calcium carbonate in the higher average particle size ranges is typically formed by grinding. In a further embodiment of the three layer multilayer microporous film as described in FIG. 3, the second film layer comprises a second filler having an average particle size smaller than the average particle sizes of the first and third fillers employed in the first and third film layers, and the second film layer is arranged between the first and third film layers whereby the second film layer has a smaller maximum pore size as compared with the first and third film layers. In an alternate embodiment, the second film layer comprises a second filler having a larger average particle size as compared with the first and third fillers employed in the first and third film layers, respectively, and the second layer is arranged between the first and third film layers, whereby the second film layer has a larger maximum pore size as compared with the first and third layers. [0041] In this example, additional multilayer microporous films according to the invention are prepared. In this example, each film layer comprises 45% calcium carbonate, 50% linear low density polyethylene and 5% of additional components comprising pigments, antioxidants and processing aids. Each calcium carbonate filler is surface coated with approximately 1% stearic acid and the difference in pore size between the various layers is obtained by varying the average particle size of the calcium carbonate from layer to layer. A first multilayer film sample 4A comprises two layers and is therefore of the structure AB. Layer A comprises calcium carbonate having an average particle size of about 1.2 microns while layer B comprises calcium carbonate having an average particle size of about 2.5 microns. An electron photomicrograph (2000×) of the multilayer microporous film of sample 4A is set forth in FIG. 5. For comparison purposes, a single layer microporous film is prepared comprising layer B only. An electron photomicrograph (2000×) of the resulting film is set forth in FIG. 6. [0080]",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/45/95/53/045f29512e5b18/US20030035943A1-20030220-D00002.png"
+    },
+    {
+      "caption": "FIG. 1 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers; [0017] FIG. 2 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers; [0018] FIG. 3 is a schematic diagram of a multilayer microporous film according to the present invention comprising two microporous film layers and a nonwoven web layer; [0019] FIG. 4 is a schematic diagram of a multilayer microporous film according to the present invention comprising three microporous film layers and a nonwoven web layer; [0020] FIG. 5 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising two microporous film layers as described in Example 4; [0021] FIG. 6 is an electron photomicrograph showing a conventional one layer microporous film as described in Example 4; [0022] FIG. 7 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4; and [0023] FIG. 8 is an electron photomicrograph showing a multilayer microporous film according to the present invention comprising three microporous film layers as described in Example 4. [0024] In a more specific embodiment, the multilayer microporous films according to the invention may comprise a third microporous film layer having a third maximum pore size. This embodiment is illustrated schematically in FIG. 2 wherein a multilayer microporous film [0027] 20 comprises first, second and third microporous film layers 12 , 14 and 18 , respectively. The film layers 12 and 14 are adjacent to each other at interface 16 a while the films 14 and 18 are adjacent one another at the interface 16 b . In the embodiment of FIG. 2, the second film layer 14 is schematically disclosed as having a smaller maximum pore size relative to the first and third film layers 12 and 18 , respectively. However, the multilayer films according to the invention may comprise any arrangement of the layers of relative maximum pore size, whereby the film layer or layers having the largest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. Similarly, the film layer or layers having the smallest maximum pore size may be arranged as an outer surface film layer or layers or as an inner film layer wherein both surfaces of the film layer are constrained by adjacent film layers or other layers of a composite product. In a more specific embodiment, the microporous film layer having the smallest maximum pore size is positioned between the first and third film layers, as shown by the second film layer 14 positioned between the first film layer 12 and the third film layer 18 in FIG. 2. In another more specific embodiment, the microporous film layer with the largest maximum pore size is positioned between film layers having relatively smaller maximum pore sizes. The maximum pore sizes of the outermost layers may be the same, substantially the same, or different from one another. Similarly, with reference to FIG. 1, when the multilayer film [0030] 10 is formed as a composite material, with one of microporous film layers 12 and 14 arranged adjacent another layer of the composite, and the other of microporous film layers 12 and 14 exposed as an outer surface, the one of layers 12 and 14 which is constrained at both surfaces will characterize the maximum pore size of the multilayer microporous film as employed in the composite. More particularly, with reference to FIG. 3, a multilayer microporous film composite material 40 comprises a multilayer microporous film 42 in combination with a nonwoven layer 44 . The multilayer microporous film 42 comprises a first microporous film layer 52 having a first maximum pore size and a second microporous film layer 54 having a second maximum pore size different from the first maximum pore size. The layers 52 and 54 are adjacent one another at interface 56 . Thus, one surface of the second microporous film layer 54 is adjacent the first microporous film layer 52 at interface 56 while the other surface of the microporous film layer 54 is constrained at interface 58 by the nonwoven layer 44 of the composite material. As a result, the multilayer microporous film 42 will exhibit a maximum pore size more characteristic of the constrained film layer 54 , regardless of whether the film layer 54 has a larger or smaller maximum pore size as compared with the microporous film layer 52 . In a more specific embodiment, wherein the multilayer microporous film comprises three microporous film layers as set forth in FIG. 2, the second film layer is positioned between the first and third film layers and is formed of a second polymer composition which is different from the first and third polymer compositions from which the first and third layers are formed, respectively. In one embodiment, the second polymer composition is selected such that the second film layer has a larger maximum pore size as compared with the maximum pore size of the first and third layers. In an alternate embodiment, the second polymer composition is selected such that the second film layer has a smaller maximum pore size as compared with the first and third film layers. In yet further embodiments, the first and third layers have substantially the same or the same maximum pore sizes. [0035] In a more specific embodiment, the microporous film layers of the multilayer microporous film are formed of the same polymer composition and comprise filler of the same chemical composition, with the average particle size of the filler being varied in at least two adjacent layers. In a more specific embodiment, the filler employed in the respective film layers comprises calcium carbonate. Calcium carbonate is typically available in average particle sizes ranging from about 0.1 micron to about 2.5 microns. Calcium carbonate in the lower average particle size ranges is typically formed by precipitation while calcium carbonate in the higher average particle size ranges is typically formed by grinding. In a further embodiment of the three layer multilayer microporous film as described in FIG. 3, the second film layer comprises a second filler having an average particle size smaller than the average particle sizes of the first and third fillers employed in the first and third film layers, and the second film layer is arranged between the first and third film layers whereby the second film layer has a smaller maximum pore size as compared with the first and third film layers. In an alternate embodiment, the second film layer comprises a second filler having a larger average particle size as compared with the first and third fillers employed in the first and third film layers, respectively, and the second layer is arranged between the first and third film layers, whereby the second film layer has a larger maximum pore size as compared with the first and third layers. [0041] In this example, additional multilayer microporous films according to the invention are prepared. In this example, each film layer comprises 45% calcium carbonate, 50% linear low density polyethylene and 5% of additional components comprising pigments, antioxidants and processing aids. Each calcium carbonate filler is surface coated with approximately 1% stearic acid and the difference in pore size between the various layers is obtained by varying the average particle size of the calcium carbonate from layer to layer. A first multilayer film sample 4A comprises two layers and is therefore of the structure AB. Layer A comprises calcium carbonate having an average particle size of about 1.2 microns while layer B comprises calcium carbonate having an average particle size of about 2.5 microns. An electron photomicrograph (2000×) of the multilayer microporous film of sample 4A is set forth in FIG. 5. For comparison purposes, a single layer microporous film is prepared comprising layer B only. An electron photomicrograph (2000×) of the resulting film is set forth in FIG. 6. [0080]",
+      "kind": "figure",
+      "sheet": "4",
+      "url": "https://patentimages.storage.googleapis.com/73/24/13/5cbcf40dcb83ca/US20030035943A1-20030220-D00003.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/8b/ff/24/064317396c18fc/US20030035943A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"d9ef69fb44f9173d121f844c71eaddf0\"",
+        "last_modified": "Tue, 17 Oct 2017 11:21:32 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/19d82e5ec415fa4a3dcbb4839611600bf63642195d3bed6db911a85bfacc8d75.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:23:35.770698+00:00",
+        "sha256": "19d82e5ec415fa4a3dcbb4839611600bf63642195d3bed6db911a85bfacc8d75",
+        "source": "patent_pdf",
+        "source_id": "6b1b5e4fdb471efbc417b7fca502d823484bc9041af0e24a239ecf35bbe907c5",
+        "url": "https://patentimages.storage.googleapis.com/8b/ff/24/064317396c18fc/US20030035943A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20030035943A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/811088f59c98265694f459dbe43189500f1426aa960b052685d479e936521fe4.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:23:34.878783+00:00",
+    "sha256": "811088f59c98265694f459dbe43189500f1426aa960b052685d479e936521fe4",
+    "source": "patents",
+    "source_id": "ebb8817ebf1e19a797ba1c2664124c406c28eee11a451a0bc6cb259b397fe4ea",
+    "url": "https://patents.google.com/patent/US20030035943A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "ff9d45fbcbabd76895d54d17ccb80d487a04c34643559a560e5205655fac4fcc",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "ebb8817ebf1e19a797ba1c2664124c406c28eee11a451a0bc6cb259b397fe4ea",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/811088f59c98265694f459dbe43189500f1426aa960b052685d479e936521fe4.bin",
+      "source_id": "ebb8817ebf1e19a797ba1c2664124c406c28eee11a451a0bc6cb259b397fe4ea",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "811088f59c98265694f459dbe43189500f1426aa960b052685d479e936521fe4",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20030035943A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

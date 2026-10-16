@@ -1,0 +1,3411 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>US8623539B2 - Multilayer battery separator and method for manufacturing the same 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/US8623539B2/en">
+    <meta name="description" content="
+     A multilayer battery separator is provided. The multilayer battery separator includes a porous polyethylene (PE) film, and a porous thermal resistant film selected from a group consisting of: a weight ratio of polyvinylidene fluoride (PVDF) and cellulose of 90/10-40/60; a weight ratio of polyvinylidene fluoride and polyethylene glycol (PEG) of 99/1-85/15; and polyimide (PI), and combinations thereof. A method for manufacturing the multilayer battery separator is also provided. 
+   
+   ">
+    <meta name="DC.type" content="patent">
+    <meta name="DC.title" content="Multilayer battery separator and method for manufacturing the same 
+       ">
+    <meta name="DC.date" content="2011-06-03" scheme="dateSubmitted">
+    <meta name="DC.description" content="
+     A multilayer battery separator is provided. The multilayer battery separator includes a porous polyethylene (PE) film, and a porous thermal resistant film selected from a group consisting of: a weight ratio of polyvinylidene fluoride (PVDF) and cellulose of 90/10-40/60; a weight ratio of polyvinylidene fluoride and polyethylene glycol (PEG) of 99/1-85/15; and polyimide (PI), and combinations thereof. A method for manufacturing the multilayer battery separator is also provided. 
+   
+   ">
+    <meta name="citation_patent_application_number" content="US:13/152,668">
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/c1/f4/ec/f1bf281c7a0f6f/US8623539.pdf">
+    <meta name="citation_patent_number" content="US:8623539">
+    <meta name="DC.date" content="2014-01-07" scheme="issue">
+    <meta name="DC.contributor" content="Li-Han Chung" scheme="inventor">
+    <meta name="DC.contributor" content="Ching-Chun Tsai" scheme="inventor">
+    <meta name="DC.contributor" content="Dan-Cheng Kong" scheme="inventor">
+    <meta name="DC.contributor" content="Ming-Cheng Feng" scheme="inventor">
+    <meta name="DC.contributor" content="Kuan-Yeh Huang" scheme="inventor">
+    <meta name="DC.contributor" content="Industrial Technology Research Institute" scheme="assignee">
+    <meta name="DC.relation" content="US:5691047" scheme="references">
+    <meta name="DC.relation" content="US:5565281" scheme="references">
+    <meta name="DC.relation" content="US:5922492" scheme="references">
+    <meta name="DC.relation" content="US:6180280" scheme="references">
+    <meta name="DC.relation" content="US:20030190499:A1" scheme="references">
+    <meta name="DC.relation" content="US:6586138" scheme="references">
+    <meta name="DC.relation" content="US:20020055039:A1" scheme="references">
+    <meta name="DC.relation" content="US:20030194607:A1" scheme="references">
+    <meta name="DC.relation" content="US:20040018428:A1" scheme="references">
+    <meta name="DC.relation" content="US:20050014063:A1" scheme="references">
+    <meta name="DC.relation" content="US:20050069770:A1" scheme="references">
+    <meta name="DC.relation" content="CN:1930703:A" scheme="references">
+    <meta name="DC.relation" content="CN:1670989:A" scheme="references">
+    <meta name="DC.relation" content="TW:I310253:B" scheme="references">
+    <meta name="DC.relation" content="TW:I311102:B" scheme="references">
+    <meta name="DC.relation" content="TW:I260811:B" scheme="references">
+    <meta name="DC.relation" content="US:20090098450:A1" scheme="references">
+    <meta name="DC.relation" content="CN:101558513:A" scheme="references">
+    <meta name="DC.relation" content="US:20100068612:A1" scheme="references">
+    <meta name="DC.relation" content="US:20090169984:A1" scheme="references">
+    <meta name="DC.relation" content="US:20090197159:A1" scheme="references">
+    <meta name="DC.relation" content="CN:101504976:A" scheme="references">
+    <meta name="DC.relation" content="CN:101265337:A" scheme="references">
+    <meta name="DC.relation" content="TW:201006668:A" scheme="references">
+    <meta name="DC.relation" content="US:20100015509:A1" scheme="references">
+    <meta name="DC.relation" content="CN:101714655:A" scheme="references">
+    <meta name="citation_reference" content="Choi et al., &#34;Electrospun PVDF nanofiber web as polymer electrolyte or separator&#34;, Electrochimica Acta, 50 (2004) 339-343." scheme="references">
+    <meta name="citation_reference" content="Cui et al., &#34;Preparation of PVDF/PEO-PPO-PEO blend microporous membranes for lithium ion batteries via thermally induced phase separation process&#34;, Journal of Membrane Science, 325 (2008) 957-963." scheme="references">
+    <meta name="citation_reference" content="Jeong et al., &#34;Effect of Solvent-Nonsolvent Miscibility on Morphology and Electrochemical Performance of SiO2/PVdF-HFP-Based Composite Separator Membranes for Safer Lithium-Ion Batteries&#34;, Macromol. Chem. Phys. (2010) 211, 420-425." scheme="references">
+    <meta name="citation_reference" content="Lee et al., &#34;Novel porous separator based on PVdF and PE non-woven matrix for rechargeable lithium batteries&#34;, Journal of Power Sources, 139 (2005) 235-241." scheme="references">
+    <meta name="citation_reference" content="Notice of First Examination Opinon issued by the Taiwan Intellectual Property Office on Jul. 3, 2013, for the above-referenced application&#39;s counterpart application in China (Application No. 201010621768.2)." scheme="references">
+    <meta name="citation_reference" content="Office Action (Notification of Examination Opinion) issued by the Taiwan Intellectual Property Office on Jun. 13, 2013, for the above-referenced application&#39;s counterpart application in Taiwan (Application No. 099142312)." scheme="references">
+    <meta name="citation_reference" content="Saunier et al., &#34;Study of the Interaction Polymer/Organic Solvents/Salt in Microporous PVdF Separator for Lithium Batteries&#34;, Macromol. Symp., (2003) 200, 101-110." scheme="references">
+    <meta name="citation_reference" content="Sohn et al., &#34;Preparation and characterization of a PVDF-HFP/PEGDMA-coated PE separator for lithium-ion polymer battery by electron beam irradiation&#34;, Radiation Physics and Chemistry, 78 (2009) 505-508." scheme="references">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700">
+
+    <style>
+      
+      #gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+    </style>
+    <script></script>
+
+    <script>
+      window.version = 'patent-search.search_20260819_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/search-app-vulcanized.html">
+  </head>
+  <body unresolved>
+    
+    
+    <script></script>
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20260819_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    <search-app>
+      
+      
+
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">US8623539B2 - Multilayer battery separator and method for manufacturing the same 
+        - Google Patents</h1>
+  <span itemprop="title">Multilayer battery separator and method for manufacturing the same 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/c1/f4/ec/f1bf281c7a0f6f/US8623539.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">US8623539B2</dd>
+    <meta itemprop="numberWithoutCodes" content="8623539">
+    <meta itemprop="kindCode" content="B2">
+    <meta itemprop="publicationDescription" content="Patent ( having previously published pre-grant publication)">
+    <span>US8623539B2</span>
+    <span>US13/152,668</span>
+    <span>US201113152668A</span>
+    <span>US8623539B2</span>
+    <span>US 8623539 B2</span>
+    <span>US8623539 B2</span>
+    <span>US 8623539B2</span>
+    <span>  </span>
+    <span> </span>
+    <span> </span>
+    <span>US 201113152668 A</span>
+    <span>US201113152668 A</span>
+    <span>US 201113152668A</span>
+    <span>US 8623539 B2</span>
+    <span>US8623539 B2</span>
+    <span>US 8623539B2</span>
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">US</dd>
+    <dd itemprop="countryName">United States</dd>
+
+    <dt>Prior art keywords</dt>
+    <dd itemprop="priorArtKeywords" repeat>film</dd>
+    <dd itemprop="priorArtKeywords" repeat>porous</dd>
+    <dd itemprop="priorArtKeywords" repeat>battery separator</dd>
+    <dd itemprop="priorArtKeywords" repeat>multilayer battery</dd>
+    <dd itemprop="priorArtKeywords" repeat>thermal</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2010-12-06">2010-12-06</time></dd>
+
+    <dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+    <dd itemprop="legalStatusIfi" itemscope>
+      <span itemprop="status">Active</span>, expires <time itemprop="expiration" datetime="2031-08-05">2031-08-05</time>
+    </dd>
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">US13/152,668</dd>
+
+  
+
+  <dt>Other versions</dt>
+  <dd itemprop="directAssociations" itemscope repeat>
+    <a href="/patent/US20120141858A1/en">
+      <span itemprop="publicationNumber">US20120141858A1</span>
+      (<span itemprop="primaryLanguage">en</span>
+    </a>
+  </dd>
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>Li-Han Chung</dd>
+  <dd itemprop="inventor" repeat>Ching-Chun Tsai</dd>
+  <dd itemprop="inventor" repeat>Dan-Cheng Kong</dd>
+  <dd itemprop="inventor" repeat>Ming-Cheng Feng</dd>
+  <dd itemprop="inventor" repeat>Kuan-Yeh Huang</dd>
+
+  <dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+  <dd itemprop="assigneeCurrent" repeat>
+    Industrial Technology Research Institute
+  </dd>
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>Industrial Technology Research Institute</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2010-12-06">2010-12-06</time></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2011-06-03">2011-06-03</time></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2014-01-07">2014-01-07</time></dd>
+
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2011-06-03">2011-06-03</time>
+    <span itemprop="title">Application filed by Industrial Technology Research Institute</span>
+    <span itemprop="type">filed</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    <span itemprop="assigneeSearch">Industrial Technology Research Institute</span>
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2011-06-03">2011-06-03</time>
+    <span itemprop="title">Assigned to INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE</span>
+    <span itemprop="type">reassignment</span>
+    
+    
+    
+    
+    <span itemprop="assigneeSearch">INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE</span>
+    <span itemprop="description" repeat>ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).</span>
+    <span itemprop="description" repeat>Assignors: CHUNG, LI-HAN, FENG, MING-CHENG, HUANG, KUAN-YEH, KONG, DAN-CHENG, TSAI, CHING-CHUN</span>
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2012-06-07">2012-06-07</time>
+    <span itemprop="title">Publication of US20120141858A1</span>
+    <span itemprop="type">publication</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    <span itemprop="documentId">patent/US20120141858A1/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2014-01-07">2014-01-07</time>
+    <span itemprop="title">Application granted</span>
+    <span itemprop="type">granted</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2014-01-07">2014-01-07</time>
+    <span itemprop="title">Publication of US8623539B2</span>
+    <span itemprop="type">publication</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    <span itemprop="documentId">patent/US8623539B2/en</span>
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date">Status</time>
+    <span itemprop="title">Active</span>
+    <span itemprop="type">legal-status</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    <span itemprop="current" content="true" bool>Current</span>
+    
+    
+    
+  </dd>
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2031-08-05">2031-08-05</time>
+    <span itemprop="title">Adjusted expiration</span>
+    <span itemprop="type">legal-status</span>
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    
+  </dd>
+
+  <h2>Links</h2>
+  <ul>
+    
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoLink">
+          <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=8623539.PN." itemprop="url" target="_blank"><span itemprop="text">USPTO</span></a>
+        </li>
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoPatentCenterLink">
+          <a href="https://patentcenter.uspto.gov/applications/13152668" itemprop="url" target="_blank"><span itemprop="text">USPTO PatentCenter</span></a>
+        </li>
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="usptoAssignmentLink">
+          <a href="https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=8623539" itemprop="url" target="_blank"><span itemprop="text">USPTO Assignment</span></a>
+        </li>
+
+    <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="espacenetLink">
+        <a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&amp;NR=8623539B2&amp;KC=B2&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+      </li>
+      
+
+    
+
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="globalDossierLink">
+      <a href="https://globaldossier.uspto.gov/result/application/US/13152668/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+    </li>
+
+    
+
+      
+
+      
+
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="stackexchangeLink">
+        <a href="https://patents.stackexchange.com/questions/tagged/US8623539" itemprop="url"><span itemprop="text">Discuss</span></a>
+      </li>
+      
+  </ul>
+
+  
+
+  
+
+  <section>
+    <h2>Classifications</h2>
+    <ul>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08</span>&mdash;<span itemprop="Description">ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J</span>&mdash;<span itemprop="Description">WORKING-UP; GENERAL PROCESSES OF COMPOUNDING; AFTER-TREATMENT NOT COVERED BY SUBCLASSES C08B, C08C, C08F, C08G or C08H</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J7/00</span>&mdash;<span itemprop="Description">Chemical treatment or coating of shaped articles made of macromolecular substances</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J7/04</span>&mdash;<span itemprop="Description">Coating</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J7/0427</span>&mdash;<span itemprop="Description">Coating with only one layer of a composition containing a polymer binder</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="FirstCode" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/409</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/411</span>&mdash;<span itemprop="Description">Organic material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/414</span>&mdash;<span itemprop="Description">Synthetic resins, e.g. thermoplastics or thermosetting resins</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/417</span>&mdash;<span itemprop="Description">Polyolefins</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/409</span>&mdash;<span itemprop="Description">Separators, membranes or diaphragms characterised by the material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/411</span>&mdash;<span itemprop="Description">Organic material</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/414</span>&mdash;<span itemprop="Description">Synthetic resins, e.g. thermoplastics or thermosetting resins</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/426</span>&mdash;<span itemprop="Description">Fluorocarbon polymers</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H</span>&mdash;<span itemprop="Description">ELECTRICITY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01</span>&mdash;<span itemprop="Description">ELECTRIC ELEMENTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M</span>&mdash;<span itemprop="Description">PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/00</span>&mdash;<span itemprop="Description">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/40</span>&mdash;<span itemprop="Description">Separators; Membranes; Diaphragms; Spacing elements inside cells</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">H01M50/489</span>&mdash;<span itemprop="Description">Separators, membranes, diaphragms or spacing elements inside the cells, characterised by their physical properties, e.g. swelling degree, hydrophilicity or shut down properties</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08</span>&mdash;<span itemprop="Description">ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J</span>&mdash;<span itemprop="Description">WORKING-UP; GENERAL PROCESSES OF COMPOUNDING; AFTER-TREATMENT NOT COVERED BY SUBCLASSES C08B, C08C, C08F, C08G or C08H</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J2323/00</span>&mdash;<span itemprop="Description">Characterised by the use of homopolymers or copolymers of unsaturated aliphatic hydrocarbons having only one carbon-to-carbon double bond; Derivatives of such polymers</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J2323/02</span>&mdash;<span itemprop="Description">Characterised by the use of homopolymers or copolymers of unsaturated aliphatic hydrocarbons having only one carbon-to-carbon double bond; Derivatives of such polymers not modified by chemical after treatment</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J2323/04</span>&mdash;<span itemprop="Description">Homopolymers or copolymers of ethene</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J2323/06</span>&mdash;<span itemprop="Description">Polyethene</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08</span>&mdash;<span itemprop="Description">ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J</span>&mdash;<span itemprop="Description">WORKING-UP; GENERAL PROCESSES OF COMPOUNDING; AFTER-TREATMENT NOT COVERED BY SUBCLASSES C08B, C08C, C08F, C08G or C08H</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J2401/00</span>&mdash;<span itemprop="Description">Characterised by the use of cellulose, modified cellulose or cellulose derivatives</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">C08J2401/02</span>&mdash;<span itemprop="Description">Cellulose; Modified cellulose</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul itemprop="classifications" itemscope repeat>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y</span>&mdash;<span itemprop="Description">GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02</span>&mdash;<span itemprop="Description">TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E</span>&mdash;<span itemprop="Description">REDUCTION OF GREENHOUSE GAS [GHG] EMISSIONS, RELATED TO ENERGY GENERATION, TRANSMISSION OR DISTRIBUTION</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E60/00</span>&mdash;<span itemprop="Description">Enabling technologies; Technologies with a potential or indirect contribution to GHG emissions mitigation</span>
+            <meta itemprop="IsCPC" content="true">
+          </li>
+          <li itemprop="classifications" itemscope repeat>
+            <span itemprop="Code">Y02E60/10</span>&mdash;<span itemprop="Description">Energy storage using batteries</span>
+            <meta itemprop="Leaf" content="true"><meta itemprop="Additional" content="true"><meta itemprop="IsCPC" content="true">
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  
+
+  
+
+  <section>
+    <h2>Definitions</h2>
+    <ul>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the present invention</span>
+        <span itemprop="definition">relates to a battery separator, and in particular relates to a battery separator with good thermal stability.</span>
+        <meta itemprop="num_attr" content="p-0004">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a typical battery</span>
+        <span itemprop="definition">includes electrodes, an electrolyte, and a separator. Ions formed at the electrode are transported in the electrolyte to form a current, such that chemical energy is transformed to electric energy.</span>
+        <meta itemprop="num_attr" content="p-0007">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a lithium-ion battery having high energy density</span>
+        <span itemprop="definition">is one of a main power source of electric vehicles due to its high energy density.</span>
+        <meta itemprop="num_attr" content="p-0007">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the power and size of the battery</span>
+        <span itemprop="definition">may also increase, such that a great amount of heat is produced. Without an effective way to release the heat, temperature of the battery may be increased, resulting in an explosion of the electrolyte. Therefore, the safety of the battery is a high concern.</span>
+        <meta itemprop="num_attr" content="p-0007">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator</span>
+        <span itemprop="definition">plays an important role in a lithium-ion battery.</span>
+        <meta itemprop="num_attr" content="p-0008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator</span>
+        <span itemprop="definition">is placed between two electrodes to prevent physical contact between the two electrodes, such that the safety of the battery may be improved.</span>
+        <meta itemprop="num_attr" content="p-0008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the battery separator</span>
+        <span itemprop="definition">should be chemical resistant and electrochemical resistant, such that the performance of the battery won&#39;t be affected.</span>
+        <meta itemprop="num_attr" content="p-0008">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">An embodiment of the invention</span>
+        <span itemprop="definition">provides a multilayer battery separator, comprising: a porous polyethylene (PE) film; and a porous thermal resistant film selected from a group consisting of: a weight ratio of polyvinylidene fluoride (PVDF) and cellulose being 90/10-40/60; a weight ratio of polyvinylidene fluoride and polyethylene glycol (PEG) being 99/1-85/15; and polyimide (PI); and combinations thereof.</span>
+        <meta itemprop="num_attr" content="p-0010">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PE</span>
+        <span itemprop="definition">polyethylene</span>
+        <meta itemprop="num_attr" content="p-0010">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PI</span>
+        <span itemprop="definition">polyimide</span>
+        <meta itemprop="num_attr" content="p-0010">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Another embodiment of the invention</span>
+        <span itemprop="definition">provides a method for manufacturing a multilayer battery separator, comprising: providing a porous polyethylene film; coating a thermal resistant film onto the porous polyethylene film to form a composite film using a wet process, wherein the porous thermal resistant film is selected from a group consisting of: a weight ratio of polyvinylidene fluoride (PVDF) and cellulose being 90/10-40/60; and a weight ratio of polyvinylidene fluoride and polyethylene glycol (PEG) being 99/1-85/15; polyimide (PI); and combinations thereof.</span>
+        <meta itemprop="num_attr" content="p-0011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PVDF</span>
+        <span itemprop="definition">polyvinylidene fluoride</span>
+        <meta itemprop="num_attr" content="p-0011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PEG</span>
+        <span itemprop="definition">polyethylene glycol</span>
+        <meta itemprop="num_attr" content="p-0011">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a multilayer battery separator having thermal shutdown properties and good thermal stability to improve safety of a lithium-ion battery</span>
+        <span itemprop="definition">is provided.</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a porous thermal resistant film</span>
+        <span itemprop="definition">is applied to the polyolefin film to form a composite battery separator having thermal shutdown properties and good thermal stability.</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">may be such as polyvinylidiene fluride (PVDF)/cellulose, polyvinylidiene fluride/polyethylene glycol (PEG), polyimide (PI), or combinations thereof.</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PVDF</span>
+        <span itemprop="definition">polyvinylidiene fluride</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PEG</span>
+        <span itemprop="definition">polyethylene glycol</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PI</span>
+        <span itemprop="definition">polyimide</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Polyvinylidiene fluride</span>
+        <span itemprop="definition">may include polyvinylidiene fluride and its derivatives.</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the derivatives of polyvinylidiene fluride</span>
+        <span itemprop="definition">may include polyvinylidiene fluride-hexafluoropropylene (PVDF-HEP) copolymers, polyvinylidiene fluride-trifluorochloroethylene copolymers, derivatives thereof, or combinations thereof.</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Cellulose</span>
+        <span itemprop="definition">may include cellulose acetate, cellulose diacetate, cellulose triacetate, derivatives thereof, or combinations thereof.</span>
+        <meta itemprop="num_attr" content="p-0013">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a dry process</span>
+        <span itemprop="definition">is used to form a polyethylene film.</span>
+        <meta itemprop="num_attr" content="p-0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">High density polyethylene particles</span>
+        <span itemprop="definition">are placed into a twin screw extruder with a temperature set at 180° C. to 200° C. and extruded through a T-die with a temperature set at 180° C. to 200° C.</span>
+        <meta itemprop="num_attr" content="p-0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a precursor film with a width of 20 cm</span>
+        <span itemprop="definition">is formed.</span>
+        <meta itemprop="num_attr" content="p-0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the precursor film</span>
+        <span itemprop="definition">is heated in an oven at a temperature of 180° C. to 200° C. for 30 min to 120 min, and then subjected to mechanical stretching.</span>
+        <meta itemprop="num_attr" content="p-0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a cold drawing</span>
+        <span itemprop="definition">is performed at room temperature, and then a hot drawing is performed at a temperature of 80° C. to 120° C. to form a porous film.</span>
+        <meta itemprop="num_attr" content="p-0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a heat setting process</span>
+        <span itemprop="definition">is proceeded at a temperature of 80° C. to 120° C. to form a porous polyethylene film.</span>
+        <meta itemprop="num_attr" content="p-0014">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">is coated onto the porous polyethylene film to form a composite film by a wet process.</span>
+        <meta itemprop="num_attr" content="p-0015">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the wet process</span>
+        <span itemprop="definition">may include spin coating, casting, bar coating, blade coating, roller coating, wire bar coating, dip coating, or the like.</span>
+        <meta itemprop="num_attr" content="p-0015">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Advantages of using the composite film as a battery separator</span>
+        <span itemprop="definition">may include adjustable permeability, thermal shutdown properties, and good thermal stability. Therefore, the safety of a battery is improved.</span>
+        <meta itemprop="num_attr" content="p-0016">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous polyethylene film</span>
+        <span itemprop="definition">is placed between two electrodes to separate the electrodes, wherein a thickness of the porous polyethylene film may be between about 10  ⁇ m and 25  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0017">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous polyethylene film</span>
+        <span itemprop="definition">has an appropriate pore size, such that ions inside the battery can have a better transportation rate.</span>
+        <meta itemprop="num_attr" content="p-0017">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous ethylene film</span>
+        <span itemprop="definition">has a Gurley value of between about 5 sec/10 cc and 200 sec/10 cc, preferably between about 10 sec/10 cc and 100 sec/10 cc.</span>
+        <meta itemprop="num_attr" content="p-0017">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous polyethylene film</span>
+        <span itemprop="definition">has the Gurley value of less than 5 sec/10 cc, the large pore size of the porous polyethylene film results in a high transportation rate of the ions inside the battery. Although the battery can therefore have a high power, the battery temperature may increase too fast.</span>
+        <meta itemprop="num_attr" content="p-0017">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyethylene of the porous polyethylene film</span>
+        <span itemprop="definition">may have a weight-average molecular weight Mw of between about 100,000 and 500,000, preferably between about 150,000 and 400,000.</span>
+        <meta itemprop="num_attr" content="p-0017">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyethylene of the porous polyethylene film</span>
+        <span itemprop="definition">may have a density of between about 0.935 g/cm 3 and 0.975 g/cm 3 , preferably between about 0.940 g/cm 3 and 0.970 g/cm 3 .</span>
+        <meta itemprop="num_attr" content="p-0017">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous polyethylene film</span>
+        <span itemprop="definition">may have a thermal shutdown temperature of between about 125° C. and 135° C. That is, when the temperature inside the battery reaches of over 125° C. to 135° C., the porous polyethylene film is shutdown and the ions inside the battery can no longer be transported. However, although the porous polyethylene film can be shutdown, the temperature inside the battery may not stop increasing immediately. If the temperature keeps increasing, the porous polyethylene film may meltdown and break. Therefore, the separator of the invention further includes a porous thermal resistant film that can resist high temperatures, such that even when the porous polyethylene film melts down and breaks, the separator won&#39;t lose its function.</span>
+        <meta itemprop="num_attr" content="p-0018">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the average pore size of the porous thermal resistant film</span>
+        <span itemprop="definition">should be no less than the average pore size of the porous polyethylene film. Therefore, before the temperature inside the battery reaches the thermal shutdown temperature of the porous polyethylene film, the porous thermal resistant film will not affect the ion transportation rate inside of the battery.</span>
+        <meta itemprop="num_attr" content="p-0019">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">may have a thickness of between about 5  ⁇ m and 50  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0019">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">may have a Gurley value of between 5 sec/10 cc and 40 sec/10 cc preferably. When the porous thermal resistant film has a Gurley value of larger than 40 sec/10 cc, the small pore size of the porous thermal resistant film results in decreasing the charging/discharging rate of the battery.</span>
+        <meta itemprop="num_attr" content="p-0019">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">has the Gurley value of lower than 5 sec/10 cc, the pore size of the porous thermal resistant film is too large to control the ion transportation rate. In other words, when the porous polyethylene film melts down and breaks due to the high temperature inside the battery, the ions inside the battery can transport freely.</span>
+        <meta itemprop="num_attr" content="p-0019">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">is formed of PVDF/cellulose.</span>
+        <meta itemprop="num_attr" content="p-0020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">includes about 40-90 wt % of the PVDF and about 10-60 wt % of the cellulose.</span>
+        <meta itemprop="num_attr" content="p-0020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a pore size of the porous thermal resistant film</span>
+        <span itemprop="definition">may be too large.</span>
+        <meta itemprop="num_attr" content="p-0020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">is completely formed of PVDF, ions inside the battery can be transported freely after the porous polyethylene film is broken. That is, because the pore size of the porous thermal resistant film is too large, the transportation rate of the ions is not controlled, such that the separator loses its function even though the PVDF film still exists, and the temperature inside the battery keeps rising to result in dangerous condition.</span>
+        <meta itemprop="num_attr" content="p-0020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">includes less than 40 wt % of the PVDF, the pore size of the porous thermal resistant film may be too small, drastically affecting the charging/discharging rate of the battery.</span>
+        <meta itemprop="num_attr" content="p-0020">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">is formed of PVDF/polyethylene glycol.</span>
+        <meta itemprop="num_attr" content="p-0021">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">includes about 85-99 wt % of the PVDF and about 1-15 wt % of the polyethylene glycol.</span>
+        <meta itemprop="num_attr" content="p-0021">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">includes over 99 wt % of the PVDF, the pore size of the porous thermal resistant film may be too large.</span>
+        <meta itemprop="num_attr" content="p-0021">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">includes less than 85 wt % of the PVDF, the pore size of the porous thermal resistant film may be too small.</span>
+        <meta itemprop="num_attr" content="p-0021">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">is formed with polyimide (PI).</span>
+        <meta itemprop="num_attr" content="p-0022">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the porous thermal resistant film</span>
+        <span itemprop="definition">has a thermal meltdown temperature or a glass transition temperature of over 150° C., preferably of over 160° C. That is, the function of the separator can be retained at a temperature of about 150° C., preferably at a temperature of about 160° C.</span>
+        <meta itemprop="num_attr" content="p-0023">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the battery separator described above</span>
+        <span itemprop="definition">may be applied to a lithium-ion battery.</span>
+        <meta itemprop="num_attr" content="p-0024">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the battery separator</span>
+        <span itemprop="definition">may be applied to a nickel hydride battery.</span>
+        <meta itemprop="num_attr" content="p-0024">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the battery separator</span>
+        <span itemprop="definition">may be applied to the automobile industry. Comparing the batteries within common electronic products such as mobile phones or laptops, the batteries of electric vehicles require higher charging speed and must be extremely safe.</span>
+        <meta itemprop="num_attr" content="p-0024">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the battery separator of the invention</span>
+        <span itemprop="definition">is safer.</span>
+        <meta itemprop="num_attr" content="p-0025">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the conventional battery</span>
+        <span itemprop="definition">such as those made of non-woven fabrics, has good mechanical strength, its pore size is too big to control ion transportation rate.</span>
+        <meta itemprop="num_attr" content="p-0025">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the conventional separator</span>
+        <span itemprop="definition">is thermal resistant, it does not serve to improve the safety of the battery.</span>
+        <meta itemprop="num_attr" content="p-0025">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the battery</span>
+        <span itemprop="definition">can have an appropriate ion transportation rate by adjusting the pore sizes of the porous polyethylene film and the porous thermal resistant film. Furthermore, when the battery is overheated, the porous polyethylene film will shutdown to prevent ions from further reacting, such that the temperature inside the battery can lower. However, if the temperature of the battery does not decrease immediately due to the breakage of the porous polyethylene film, the ion transportation rate can still be controlled by the porous thermal resistant film of the battery separator because of its appropriate pore size. Therefore, the safety of the battery is improved.</span>
+        <meta itemprop="num_attr" content="p-0026">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Advantages of the battery separator of the invention</span>
+        <span itemprop="definition">may include current controlling properties, insulating characteristics, thermal shutdown ability, good mechanical strength, or good thermal stability. Breakage of the separator resulting from electrode expansion, power decreasing resulting from compression, short-circuit of the battery resulting from weak thermal resistant, or other problems may not occur in the battery of the invention.</span>
+        <meta itemprop="num_attr" content="p-0027">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator of the embodiment</span>
+        <span itemprop="definition">included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and cellulose.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a weight ratio of polyvinylidene fluoride (PVDF) and cellulose</span>
+        <span itemprop="definition">was 60/40.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PVDF</span>
+        <span itemprop="definition">polyvinylidene fluoride</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a heating treatment</span>
+        <span itemprop="definition">was performed to increase crystallinity of the film, and then a tensile machine was used to stretch the film and generate small pores inside the film.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a porous polyethylene film (A film)</span>
+        <span itemprop="definition">was formed with a thickness of about 15  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PVDF and cellulose acetate</span>
+        <span itemprop="definition">was added into N-methyl-2-pyrrolidione (NMP) respectively to form solutions containing 14 wt % of PVDF or cellulose acetate.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">NMP</span>
+        <span itemprop="definition">N-methyl-2-pyrrolidione</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the PVDF and cellulose acetate solutions</span>
+        <span itemprop="definition">were mixed at a weight ratio of 60/40.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the mixed solution</span>
+        <span itemprop="definition">was coated onto an A film.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the coating</span>
+        <span itemprop="definition">was solidificated by non-solvent water, and then underwent cleaning and drying processes.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a B film</span>
+        <span itemprop="definition">was formed.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the B film</span>
+        <span itemprop="definition">had a thickness of about 25  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the formed composite film</span>
+        <span itemprop="definition">had a Gurley value of about 44 sec/10 cc.</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the composite film</span>
+        <span itemprop="definition">had a tensile strength of about 1100 kgf/cm 2 , a puncture strength of about 200 gf/25  ⁇ m, and a thermal contraction rate (at 90° C./30 min) of about 4.0%(MD) and 0%(TD).</span>
+        <meta itemprop="num_attr" content="p-0028">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Gurley value</span>
+        <span itemprop="definition">was measured by an ASTM-726(B) of a Gurley Densometer (Model 4120). The definition of the Gurley value was the time (by second) for 10 c.c of air to flow through a 1-sq-in. area of test material, under a pressure of 12.2 inch WG.</span>
+        <meta itemprop="num_attr" content="p-0029">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the tensile strength</span>
+        <span itemprop="definition">was measured by an ASTM-D638. The method of measuring the puncture strength is described below.</span>
+        <meta itemprop="num_attr" content="p-0030">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the film</span>
+        <span itemprop="definition">was fixed between two hollow metal films. Each of the hollow metal films had a hole at a center with a diameter of 12.7 mm. A probe with a diameter of 2 mm was pressed to the film surface to break the surface at a speed of 2 mm/sec. The resistant to the probe was called puncture strength (gf/25  ⁇ m).</span>
+        <meta itemprop="num_attr" content="p-0030">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator of the embodiment</span>
+        <span itemprop="definition">included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and cellulose.</span>
+        <meta itemprop="num_attr" content="p-0031">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a weight ratio of polyvinylidene fluoride (PVDF) and cellulose</span>
+        <span itemprop="definition">was 70/30.</span>
+        <meta itemprop="num_attr" content="p-0031">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a porous polyethylene film</span>
+        <span itemprop="definition">(A film) was manufactured as described in example 1 and had a thickness of about 15  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PVDF and cellulose acetate</span>
+        <span itemprop="definition">was added into N-methyl-2-pyrrolidione (NMP) respectively to form solutions containing 14 wt % of PVDF or cellulose acetate.</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">NMP</span>
+        <span itemprop="definition">N-methyl-2-pyrrolidione</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the PVDF and cellulose acetate solutions</span>
+        <span itemprop="definition">were mixed at a weight ratio of 70/30.</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the mixed solution</span>
+        <span itemprop="definition">was coated onto an A film.</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the coating</span>
+        <span itemprop="definition">was solidificated by non-solvent water, and then underwent cleaning and drying processes.</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a B film</span>
+        <span itemprop="definition">was formed.</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the B film</span>
+        <span itemprop="definition">had a thickness of about 25  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the formed composite film</span>
+        <span itemprop="definition">had a Gurley value of about 26 sec/10 cc, a tensile strength of about 1150 kgf/cm 2 , a puncture strength of about 200 gf/25  ⁇ m, and a thermal contraction rate (at 90° C./30 min) of about 4.2%(MD) and 0%(TD).</span>
+        <meta itemprop="num_attr" content="p-0032">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator of the embodiment</span>
+        <span itemprop="definition">included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and cellulose.</span>
+        <meta itemprop="num_attr" content="p-0033">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a weight ratio of polyvinylidene fluoride (PVDF) and cellulose</span>
+        <span itemprop="definition">was 80/20.</span>
+        <meta itemprop="num_attr" content="p-0033">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a porous polyethylene film</span>
+        <span itemprop="definition">(A film) was manufactured as described in example 1 and had a thickness of about 15  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PVDF and cellulose acetate</span>
+        <span itemprop="definition">was added into N-methyl-2-pyrrolidione (NMP) respectively to form solutions containing 14 wt % of PVDF or cellulose acetate.</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">NMP</span>
+        <span itemprop="definition">N-methyl-2-pyrrolidione</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the PVDF and cellulose acetate solutions</span>
+        <span itemprop="definition">were mixed at a weight ratio of 80/20.</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the mixed solution</span>
+        <span itemprop="definition">was coated onto an A film.</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the coating</span>
+        <span itemprop="definition">was solidificated by non-solvent water, and then underwent cleaning and drying processes.</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a B film</span>
+        <span itemprop="definition">was formed.</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the B film</span>
+        <span itemprop="definition">had a thickness of about 25  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the formed composite film</span>
+        <span itemprop="definition">had a Gurley value of about 23 sec/10 cc, a tensile strength of about 1125 kgf/cm 2 , a puncture strength of about 200 gf/25  ⁇ m, and a thermal contraction rate (at 90° C./30 min) of about 4.1%(MD) and 0%(TD).</span>
+        <meta itemprop="num_attr" content="p-0034">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator of the embodiment</span>
+        <span itemprop="definition">included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and polyethylene glycol (PEG).</span>
+        <meta itemprop="num_attr" content="p-0035">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a weight ratio of polyvinylidene fluoride (PVDF) and polyethylene glycol (PEG)</span>
+        <span itemprop="definition">was 98.6/1.4-87/13.</span>
+        <meta itemprop="num_attr" content="p-0035">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a porous polyethylene film</span>
+        <span itemprop="definition">(A film) was manufactured as described in example 1 and had a thickness of about 15  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0036">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">PVDF</span>
+        <span itemprop="definition">was added into N-methyl-2-pyrrolidione (NMP) to form a solution containing 14 wt % of PVDF.</span>
+        <meta itemprop="num_attr" content="p-0036">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">NMP</span>
+        <span itemprop="definition">N-methyl-2-pyrrolidione</span>
+        <meta itemprop="num_attr" content="p-0036">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">1.4-13% of the polyethylene glycol</span>
+        <span itemprop="definition">was added into the solution to form a PVDF/PEG/NMP solution.</span>
+        <meta itemprop="num_attr" content="p-0036">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the mixed solution</span>
+        <span itemprop="definition">was coated onto an A film. Then, the coating was solidificated by non-solvent water, and then underwent cleaning and drying processes. Then, a B film was formed.</span>
+        <meta itemprop="num_attr" content="p-0036">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the B film</span>
+        <span itemprop="definition">had a thickness of about 30  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0036">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the formed composite film</span>
+        <span itemprop="definition">had a Gurley value of about 15-19 sec/10 cc, a tensile strength of about 1120 kgf/cm 2 , a puncture strength of t about 210 gf/25  ⁇ m, and a thermal contraction rate (at 90° C./30 min) of t about 4.2%(MD) and 0%(TD).</span>
+        <meta itemprop="num_attr" content="p-0036">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a battery separator of the embodiment</span>
+        <span itemprop="definition">included a porous polyethylene film and a porous thermal resistant film containing polyimide (PI).</span>
+        <meta itemprop="num_attr" content="p-0037">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">a porous polyethylene film</span>
+        <span itemprop="definition">(A film) was manufactured as described in example 1 and had a thickness of about 15  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0038">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">B film</span>
+        <span itemprop="definition">The formation of a B film is described below.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">52 g of 4,4′-(4,4′-isopropylidiphenoxy)bis(phthalic anhydride) (BSAA)</span>
+        <span itemprop="definition">was dissolved in 28 g of NMP. The mixture was stirred for 30 minutes until BSAA dissolved completely.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">20 g of 4,4-oxydianiline (ODA)</span>
+        <span itemprop="definition">was added to the mixture and stirred for another 4 hours to form polyamic acid.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">Acetic anhydride and pyridine</span>
+        <span itemprop="definition">were then added to the mixture and stirred for 1 hour at room temperature. Next, the mixture was heated and refluxed to 130° C. for 3 hours. The product was added into Methanol, and pallet was obtained after vacuum filtration.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the pallet</span>
+        <span itemprop="definition">was washed by Methanol, acetone, and water and oven dried under vacuum to obtain organo-soluble polyimide (ODA-BSAAPI).</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyimide described above</span>
+        <span itemprop="definition">was dissolved in NMP to form 20 wt % of the polyimide solution.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the polyimide solution</span>
+        <span itemprop="definition">was coated onto an A film, and 50/50 (vol) of NMP/H2O was used as a coagulant to solidify the coating.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the B film</span>
+        <span itemprop="definition">was then formed with a thickness of about 30  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the formed composite film</span>
+        <span itemprop="definition">had a Gurley value of about 35 sec/10 cc.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the composite film</span>
+        <span itemprop="definition">had a tensile strength of about 1100 kgf/cm 2 .</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the composite film</span>
+        <span itemprop="definition">had a puncture strength of about 200 gf/25  ⁇ m.</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+      <li itemprop="definitions" itemscope repeat>
+        <span itemprop="subject">the composite film (at 90° C./30 min)</span>
+        <span itemprop="definition">had a thermal contraction rate of about 4.0%(MD) and 0%(TD).</span>
+        <meta itemprop="num_attr" content="p-0039">
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Landscapes</h2>
+    <ul>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Chemical Kinetics &amp; Catalysis</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Electrochemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">General Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Medicinal Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Polymers &amp; Plastics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Organic Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+      <li itemprop="landscapes" itemscope repeat>
+        <span itemprop="name">Cell Separators</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+    </ul>
+  </section>
+
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    
+    <div itemprop="content" html><abstract mxw-id="PA128659990" lang="EN" load-source="patent-office">
+    <div num="p-0001" class="abstract">A multilayer battery separator is provided. The multilayer battery separator includes a porous polyethylene (PE) film, and a porous thermal resistant film selected from a group consisting of: a weight ratio of polyvinylidene fluoride (PVDF) and cellulose of 90/10-40/60; a weight ratio of polyvinylidene fluoride and polyethylene glycol (PEG) of 99/1-85/15; and polyimide (PI), and combinations thereof. A method for manufacturing the multilayer battery separator is also provided.</div>
+  </abstract>
+  </div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    
+    <div itemprop="content" html><div mxw-id="PDES63950065" lang="EN" load-source="patent-office" class="description">
+    
+    <heading>CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+    <div num="p-0002" class="description-paragraph">This Application claims priority of Taiwan Patent Application No. 099142312, filed on Dec. 6, 2010, the entirety of which is incorporated by reference herein.</div>
+    <heading>BACKGROUND OF THE INVENTION</heading>
+    <div num="p-0003" class="description-paragraph">1. Field of the Invention</div>
+    <div num="p-0004" class="description-paragraph">The present invention relates to a battery separator, and in particular relates to a battery separator with good thermal stability.</div>
+    <div num="p-0005" class="description-paragraph">2. Description of the Related Art</div>
+    <div num="p-0006" class="description-paragraph">With the progress of the electronic industry, batteries have been broadly applied to all kinds of things, such as mobile phones, digital cameras, laptops, or even electric vehicles. Therefore, demands of the batteries constantly increase. While pursuing improvement of performance of the batteries, there is an increased concern for battery safety.</div>
+    <div num="p-0007" class="description-paragraph">A typical battery includes electrodes, an electrolyte, and a separator. Ions formed at the electrode are transported in the electrolyte to form a current, such that chemical energy is transformed to electric energy. A lithium-ion battery having high energy density is one of a main power source of electric vehicles due to its high energy density. However, when the energy density of the battery increases, the power and size of the battery may also increase, such that a great amount of heat is produced. Without an effective way to release the heat, temperature of the battery may be increased, resulting in an explosion of the electrolyte. Therefore, the safety of the battery is a high concern.</div>
+    <div num="p-0008" class="description-paragraph">Thus, a battery separator plays an important role in a lithium-ion battery. A battery separator is placed between two electrodes to prevent physical contact between the two electrodes, such that the safety of the battery may be improved. Furthermore, the battery separator should be chemical resistant and electrochemical resistant, such that the performance of the battery won&#39;t be affected.</div>
+    <heading>BRIEF SUMMARY OF THE INVENTION</heading>
+    <div num="p-0009" class="description-paragraph">A detailed description is given in the following embodiments with reference to the accompanying drawings.</div>
+    <div num="p-0010" class="description-paragraph">An embodiment of the invention provides a multilayer battery separator, comprising: a porous polyethylene (PE) film; and a porous thermal resistant film selected from a group consisting of: a weight ratio of polyvinylidene fluoride (PVDF) and cellulose being 90/10-40/60; a weight ratio of polyvinylidene fluoride and polyethylene glycol (PEG) being 99/1-85/15; and polyimide (PI); and combinations thereof.</div>
+    <div num="p-0011" class="description-paragraph">Another embodiment of the invention provides a method for manufacturing a multilayer battery separator, comprising: providing a porous polyethylene film; coating a thermal resistant film onto the porous polyethylene film to form a composite film using a wet process, wherein the porous thermal resistant film is selected from a group consisting of: a weight ratio of polyvinylidene fluoride (PVDF) and cellulose being 90/10-40/60; and a weight ratio of polyvinylidene fluoride and polyethylene glycol (PEG) being 99/1-85/15; polyimide (PI); and combinations thereof.</div>
+    
+    
+    <heading>DETAILED DESCRIPTION OF THE INVENTION</heading>
+    <div num="p-0012" class="description-paragraph">The following description is of the best-contemplated mode of carrying out the invention. This description is made for the purpose of illustrating the general principles of the invention and should not be taken in a limiting sense. The scope of the invention is best determined by reference to the appended claims.</div>
+    <div num="p-0013" class="description-paragraph">A multilayer battery separator having thermal shutdown properties and good thermal stability to improve safety of a lithium-ion battery is provided. After a polyolefin film is made, a porous thermal resistant film is applied to the polyolefin film to form a composite battery separator having thermal shutdown properties and good thermal stability. The porous thermal resistant film may be such as polyvinylidiene fluride (PVDF)/cellulose, polyvinylidiene fluride/polyethylene glycol (PEG), polyimide (PI), or combinations thereof. Polyvinylidiene fluride may include polyvinylidiene fluride and its derivatives. The derivatives of polyvinylidiene fluride may include polyvinylidiene fluride-hexafluoropropylene (PVDF-HEP) copolymers, polyvinylidiene fluride-trifluorochloroethylene copolymers, derivatives thereof, or combinations thereof. Cellulose may include cellulose acetate, cellulose diacetate, cellulose triacetate, derivatives thereof, or combinations thereof.</div>
+    <div num="p-0014" class="description-paragraph">A dry process is used to form a polyethylene film. High density polyethylene particles are placed into a twin screw extruder with a temperature set at 180° C. to 200° C. and extruded through a T-die with a temperature set at 180° C. to 200° C. After cooling, a precursor film with a width of 20 cm is formed. The precursor film is heated in an oven at a temperature of 180° C. to 200° C. for 30 min to 120 min, and then subjected to mechanical stretching. First, a cold drawing is performed at room temperature, and then a hot drawing is performed at a temperature of 80° C. to 120° C. to form a porous film. Finally, a heat setting process is proceeded at a temperature of 80° C. to 120° C. to form a porous polyethylene film.</div>
+    <div num="p-0015" class="description-paragraph">The porous thermal resistant film is coated onto the porous polyethylene film to form a composite film by a wet process. The wet process may include spin coating, casting, bar coating, blade coating, roller coating, wire bar coating, dip coating, or the like.</div>
+    <div num="p-0016" class="description-paragraph">Advantages of using the composite film as a battery separator may include adjustable permeability, thermal shutdown properties, and good thermal stability. Therefore, the safety of a battery is improved.</div>
+    <div num="p-0017" class="description-paragraph">The porous polyethylene film is placed between two electrodes to separate the electrodes, wherein a thickness of the porous polyethylene film may be between about 10 μm and 25 μm. The porous polyethylene film has an appropriate pore size, such that ions inside the battery can have a better transportation rate. In one embodiment, the porous ethylene film has a Gurley value of between about 5 sec/10 cc and 200 sec/10 cc, preferably between about 10 sec/10 cc and 100 sec/10 cc. When the porous polyethylene film has the Gurley value of less than 5 sec/10 cc, the large pore size of the porous polyethylene film results in a high transportation rate of the ions inside the battery. Although the battery can therefore have a high power, the battery temperature may increase too fast. When the porous polyethylene film has a Gurley value of larger than 200 sec/10 cc, the small pore size of the porous polyethylene film results in low ion transportation and therefore a low charging/discharging rate of the battery. The polyethylene of the porous polyethylene film may have a weight-average molecular weight Mw of between about 100,000 and 500,000, preferably between about 150,000 and 400,000. The polyethylene of the porous polyethylene film may have a density of between about 0.935 g/cm<sup>3 </sup>and 0.975 g/cm<sup>3</sup>, preferably between about 0.940 g/cm<sup>3 </sup>and 0.970 g/cm<sup>3</sup>.</div>
+    <div num="p-0018" class="description-paragraph">The porous polyethylene film may have a thermal shutdown temperature of between about 125° C. and 135° C. That is, when the temperature inside the battery reaches of over 125° C. to 135° C., the porous polyethylene film is shutdown and the ions inside the battery can no longer be transported. However, although the porous polyethylene film can be shutdown, the temperature inside the battery may not stop increasing immediately. If the temperature keeps increasing, the porous polyethylene film may meltdown and break. Therefore, the separator of the invention further includes a porous thermal resistant film that can resist high temperatures, such that even when the porous polyethylene film melts down and breaks, the separator won&#39;t lose its function.</div>
+    <div num="p-0019" class="description-paragraph">In an embodiment, the average pore size of the porous thermal resistant film should be no less than the average pore size of the porous polyethylene film. Therefore, before the temperature inside the battery reaches the thermal shutdown temperature of the porous polyethylene film, the porous thermal resistant film will not affect the ion transportation rate inside of the battery. The porous thermal resistant film may have a thickness of between about 5 μm and 50 μm. The porous thermal resistant film may have a Gurley value of between 5 sec/10 cc and 40 sec/10 cc preferably. When the porous thermal resistant film has a Gurley value of larger than 40 sec/10 cc, the small pore size of the porous thermal resistant film results in decreasing the charging/discharging rate of the battery. When the porous thermal resistant film has the Gurley value of lower than 5 sec/10 cc, the pore size of the porous thermal resistant film is too large to control the ion transportation rate. In other words, when the porous polyethylene film melts down and breaks due to the high temperature inside the battery, the ions inside the battery can transport freely.</div>
+    <div num="p-0020" class="description-paragraph">In one embodiment, the porous thermal resistant film is formed of PVDF/cellulose. The porous thermal resistant film includes about 40-90 wt % of the PVDF and about 10-60 wt % of the cellulose. When the porous thermal resistant film includes over 90 wt % of the PVDF, a pore size of the porous thermal resistant film may be too large. For example, if the porous thermal resistant film is completely formed of PVDF, ions inside the battery can be transported freely after the porous polyethylene film is broken. That is, because the pore size of the porous thermal resistant film is too large, the transportation rate of the ions is not controlled, such that the separator loses its function even though the PVDF film still exists, and the temperature inside the battery keeps rising to result in dangerous condition. When the porous thermal resistant film includes less than 40 wt % of the PVDF, the pore size of the porous thermal resistant film may be too small, drastically affecting the charging/discharging rate of the battery.</div>
+    <div num="p-0021" class="description-paragraph">In another embodiment, the porous thermal resistant film is formed of PVDF/polyethylene glycol. The porous thermal resistant film includes about 85-99 wt % of the PVDF and about 1-15 wt % of the polyethylene glycol. When the porous thermal resistant film includes over 99 wt % of the PVDF, the pore size of the porous thermal resistant film may be too large. When the porous thermal resistant film includes less than 85 wt % of the PVDF, the pore size of the porous thermal resistant film may be too small.</div>
+    <div num="p-0022" class="description-paragraph">In still another embodiment, the porous thermal resistant film is formed with polyimide (PI).</div>
+    <div num="p-0023" class="description-paragraph">In one embodiment, the porous thermal resistant film has a thermal meltdown temperature or a glass transition temperature of over 150° C., preferably of over 160° C. That is, the function of the separator can be retained at a temperature of about 150° C., preferably at a temperature of about 160° C.</div>
+    <div num="p-0024" class="description-paragraph">In one embodiment, the battery separator described above may be applied to a lithium-ion battery. In another embodiment, the battery separator may be applied to a nickel hydride battery. In still another embodiment, the battery separator may be applied to the automobile industry. Comparing the batteries within common electronic products such as mobile phones or laptops, the batteries of electric vehicles require higher charging speed and must be extremely safe.</div>
+    <div num="p-0025" class="description-paragraph">Compared to a conventional battery separator, the battery separator of the invention is safer. Although the conventional battery, such as those made of non-woven fabrics, has good mechanical strength, its pore size is too big to control ion transportation rate. Also, although the conventional separator is thermal resistant, it does not serve to improve the safety of the battery.</div>
+    <div num="p-0026" class="description-paragraph">In one embodiment, the battery can have an appropriate ion transportation rate by adjusting the pore sizes of the porous polyethylene film and the porous thermal resistant film. Furthermore, when the battery is overheated, the porous polyethylene film will shutdown to prevent ions from further reacting, such that the temperature inside the battery can lower. However, if the temperature of the battery does not decrease immediately due to the breakage of the porous polyethylene film, the ion transportation rate can still be controlled by the porous thermal resistant film of the battery separator because of its appropriate pore size. Therefore, the safety of the battery is improved.</div>
+    <div num="p-0027" class="description-paragraph">Advantages of the battery separator of the invention may include current controlling properties, insulating characteristics, thermal shutdown ability, good mechanical strength, or good thermal stability. Breakage of the separator resulting from electrode expansion, power decreasing resulting from compression, short-circuit of the battery resulting from weak thermal resistant, or other problems may not occur in the battery of the invention.</div>
+    <heading>EXAMPLE 1</heading>
+    <div num="p-0028" class="description-paragraph">A battery separator of the embodiment included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and cellulose. A weight ratio of polyvinylidene fluoride (PVDF) and cellulose was 60/40. First, high density polyethylene particles were melted and extruded to form a film. A heating treatment was performed to increase crystallinity of the film, and then a tensile machine was used to stretch the film and generate small pores inside the film. A porous polyethylene film (A film) was formed with a thickness of about 15 μm. Next, PVDF and cellulose acetate was added into N-methyl-2-pyrrolidione (NMP) respectively to form solutions containing 14 wt % of PVDF or cellulose acetate. The PVDF and cellulose acetate solutions were mixed at a weight ratio of 60/40. The mixed solution was coated onto an A film. The coating was solidificated by non-solvent water, and then underwent cleaning and drying processes. Then, a B film was formed. The B film had a thickness of about 25 μm. The formed composite film had a Gurley value of about 44 sec/10 cc. The composite film had a tensile strength of about 1100 kgf/cm<sup>2</sup>, a puncture strength of about 200 gf/25 μm, and a thermal contraction rate (at 90° C./30 min) of about 4.0%(MD) and 0%(TD).</div>
+    <div num="p-0029" class="description-paragraph">The Gurley value was measured by an ASTM-726(B) of a Gurley Densometer (Model 4120). The definition of the Gurley value was the time (by second) for 10 c.c of air to flow through a 1-sq-in. area of test material, under a pressure of 12.2 inch WG.</div>
+    <div num="p-0030" class="description-paragraph">The tensile strength was measured by an ASTM-D638. The method of measuring the puncture strength is described below. The film was fixed between two hollow metal films. Each of the hollow metal films had a hole at a center with a diameter of 12.7 mm. A probe with a diameter of 2 mm was pressed to the film surface to break the surface at a speed of 2 mm/sec. The resistant to the probe was called puncture strength (gf/25 μm).</div>
+    <heading>EXAMPLE 2</heading>
+    <div num="p-0031" class="description-paragraph">A battery separator of the embodiment included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and cellulose. A weight ratio of polyvinylidene fluoride (PVDF) and cellulose was 70/30.</div>
+    <div num="p-0032" class="description-paragraph">First, a porous polyethylene film (A film) was manufactured as described in example 1 and had a thickness of about 15 μm. Next, PVDF and cellulose acetate was added into N-methyl-2-pyrrolidione (NMP) respectively to form solutions containing 14 wt % of PVDF or cellulose acetate. The PVDF and cellulose acetate solutions were mixed at a weight ratio of 70/30. The mixed solution was coated onto an A film. The coating was solidificated by non-solvent water, and then underwent cleaning and drying processes. Then, a B film was formed. The B film had a thickness of about 25 μm. The formed composite film had a Gurley value of about 26 sec/10 cc, a tensile strength of about 1150 kgf/cm<sup>2</sup>, a puncture strength of about 200 gf/25 μm, and a thermal contraction rate (at 90° C./30 min) of about 4.2%(MD) and 0%(TD).</div>
+    <heading>EXAMPLE 3</heading>
+    <div num="p-0033" class="description-paragraph">A battery separator of the embodiment included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and cellulose. A weight ratio of polyvinylidene fluoride (PVDF) and cellulose was 80/20.</div>
+    <div num="p-0034" class="description-paragraph">First, a porous polyethylene film (A film) was manufactured as described in example 1 and had a thickness of about 15 μm. Next, PVDF and cellulose acetate was added into N-methyl-2-pyrrolidione (NMP) respectively to form solutions containing 14 wt % of PVDF or cellulose acetate. The PVDF and cellulose acetate solutions were mixed at a weight ratio of 80/20. The mixed solution was coated onto an A film. Then, the coating was solidificated by non-solvent water, and then underwent cleaning and drying processes. Then, a B film was formed. The B film had a thickness of about 25 μm. The formed composite film had a Gurley value of about 23 sec/10 cc, a tensile strength of about 1125 kgf/cm<sup>2</sup>, a puncture strength of about 200 gf/25 μm, and a thermal contraction rate (at 90° C./30 min) of about 4.1%(MD) and 0%(TD).</div>
+    <heading>EXAMPLE 4</heading>
+    <div num="p-0035" class="description-paragraph">A battery separator of the embodiment included a porous polyethylene film and a porous thermal resistant film containing polyvinylidene fluoride and polyethylene glycol (PEG). A weight ratio of polyvinylidene fluoride (PVDF) and polyethylene glycol (PEG) was 98.6/1.4-87/13.</div>
+    <div num="p-0036" class="description-paragraph">First, a porous polyethylene film (A film) was manufactured as described in example 1 and had a thickness of about 15 μm. Next, PVDF was added into N-methyl-2-pyrrolidione (NMP) to form a solution containing 14 wt % of PVDF. Then, 1.4-13% of the polyethylene glycol was added into the solution to form a PVDF/PEG/NMP solution. The mixed solution was coated onto an A film. Then, the coating was solidificated by non-solvent water, and then underwent cleaning and drying processes. Then, a B film was formed. The B film had a thickness of about 30 μm. The formed composite film had a Gurley value of about 15-19 sec/10 cc, a tensile strength of about 1120 kgf/cm<sup>2</sup>, a puncture strength of t about 210 gf/25 μm, and a thermal contraction rate (at 90° C./30 min) of t about 4.2%(MD) and 0%(TD).</div>
+    <heading>EXAMPLE 5</heading>
+    <div num="p-0037" class="description-paragraph">A battery separator of the embodiment included a porous polyethylene film and a porous thermal resistant film containing polyimide (PI).</div>
+    <div num="p-0038" class="description-paragraph">First, a porous polyethylene film (A film) was manufactured as described in example 1 and had a thickness of about 15 μm.</div>
+    <div num="p-0039" class="description-paragraph">The formation of a B film is described below. 52 g of 4,4′-(4,4′-isopropylidiphenoxy)bis(phthalic anhydride) (BSAA) was dissolved in 28 g of NMP. The mixture was stirred for 30 minutes until BSAA dissolved completely. 20 g of 4,4-oxydianiline (ODA) was added to the mixture and stirred for another 4 hours to form polyamic acid. Acetic anhydride and pyridine were then added to the mixture and stirred for 1 hour at room temperature. Next, the mixture was heated and refluxed to 130° C. for 3 hours. The product was added into Methanol, and pallet was obtained after vacuum filtration. The pallet was washed by Methanol, acetone, and water and oven dried under vacuum to obtain organo-soluble polyimide (ODA-BSAAPI). The polyimide described above was dissolved in NMP to form 20 wt % of the polyimide solution. The polyimide solution was coated onto an A film, and 50/50 (vol) of NMP/H2O was used as a coagulant to solidify the coating. The B film was then formed with a thickness of about 30 μm. The formed composite film had a Gurley value of about 35 sec/10 cc. The composite film had a tensile strength of about 1100 kgf/cm<sup>2</sup>. The composite film had a puncture strength of about 200 gf/25 μm. The composite film (at 90° C./30 min) had a thermal contraction rate of about 4.0%(MD) and 0%(TD).</div>
+    <div num="p-0040" class="description-paragraph">While the invention has been described by way of example and in terms of the preferred embodiments, it is to be understood that the invention is not limited to the disclosed embodiments. To the contrary, it is intended to cover various modifications and similar arrangements (as would be apparent to those skilled in the art). Therefore, the scope of the appended claims should be accorded the broadest interpretation so as to encompass all such modifications and similar arrangements.</div>
+    
+  </div>
+  </div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">16</span>)</h2>
+    
+    <div itemprop="content" html><div mxw-id="PCLM56970985" lang="EN" load-source="patent-office" class="claims">
+    <claim-statement>What is claimed is:</claim-statement>
+    <div class="claim"> <div id="CLM-00001" num="00001" class="claim">
+      <div class="claim-text">1. A multilayer battery separator, comprising:
+<div class="claim-text">a porous polyethylene film; and</div>
+<div class="claim-text">a porous thermal resistant film selected from the group consisting of: polyvinylidene fluoride and cellulose having a weight ratio of 90/10-40/60; polyvinylidene fluoride and polyethylene glycol having a weight ratio of 99/1-85/15; and combinations thereof.</div>
+</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00002" num="00002" class="claim">
+      <div class="claim-text">2. The multilayer battery separator as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an average pore size of the porous thermal resistant film is no less than an average pore size of the porous polyethylene film, and wherein the porous polyethylene film is formed of a high density polyethylene resin.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00003" num="00003" class="claim">
+      <div class="claim-text">3. The multilayer battery separator as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the porous polyethylene film has a thermal shutdown temperature of between 125° C. and 135° C.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00004" num="00004" class="claim">
+      <div class="claim-text">4. The multilayer battery separator as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the porous polyethylene film has a Gurley value of between 5 and 200 sec/10 cc.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00005" num="00005" class="claim">
+      <div class="claim-text">5. The multilayer battery separator as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the porous thermal resistant film has a thermal meltdown temperature or a glass transition temperature of over 150° C.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00006" num="00006" class="claim">
+      <div class="claim-text">6. The multilayer battery separator as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the porous thermal resistant film has a thermal meltdown temperature or a glass transition temperature of over 160° C.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00007" num="00007" class="claim">
+      <div class="claim-text">7. The multilayer battery separator as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the porous thermal resistant film has a Gurley value of between 5 and 40 sec/10 cc.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00008" num="00008" class="claim">
+      <div class="claim-text">8. The multilayer separator as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the multilayer battery separator is used in a lithium-ion battery.</div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00009" num="00009" class="claim">
+      <div class="claim-text">9. A method for manufacturing a multilayer battery separator, comprising:
+<div class="claim-text">providing a porous polyethylene film;</div>
+<div class="claim-text">coating a thermal resistant film onto the porous polyethylene film to form a composite film using a wet process, wherein the porous thermal resistant film is selected from the group consisting of: polyvinylidene fluoride and cellulose having a weight ratio of 90/10-40/60, polyvinylidene fluoride and polyethylene glycol having a weight ratio of 99/1-85/15, and combinations thereof.</div>
+</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00010" num="00010" class="claim">
+      <div class="claim-text">10. The method of manufacturing a multilayer battery separator as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein an average pore size of the porous thermal resistant film is no less than an average pore size of the porous polyethylene film, and wherein the porous polyethylene film is formed with a high density polyethylene resin.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00011" num="00011" class="claim">
+      <div class="claim-text">11. The method of manufacturing a multilayer battery separator as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the porous polyethylene film has a thermal shutdown temperature of between 125° C. and 135° C.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00012" num="00012" class="claim">
+      <div class="claim-text">12. The method of manufacturing a multilayer battery separator as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein, the porous polyethylene film has a Gurley value of between 5 and 200 sec/10 cc.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00013" num="00013" class="claim">
+      <div class="claim-text">13. The method of manufacturing a multilayer battery separator as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the porous thermal resistant film has a thermal meltdown temperature or a glass transition temperature of over 150° C.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00014" num="00014" class="claim">
+      <div class="claim-text">14. The method of manufacturing a multilayer battery separator as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the porous thermal resistant film has a thermal meltdown temperature or a glass transition temperature of over 160° C.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00015" num="00015" class="claim">
+      <div class="claim-text">15. The method of manufacturing a multilayer battery separator as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the porous thermal resistant film has a Gurley value of between 5 and 40 sec/10 cc.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00016" num="00016" class="claim">
+      <div class="claim-text">16. The method of manufacturing a multilayer battery separator a claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein a dry process is used to form the porous polyethylene film. </div>
+    </div>
+  </div> </div>
+  </div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+      <span itemprop="applicationNumber">US13/152,668</span>
+      <span itemprop="priorityDate">2010-12-06</span>
+      <span itemprop="filingDate">2011-06-03</span>
+      <span itemprop="title">Multilayer battery separator and method for manufacturing the same 
+       </span>
+      <span itemprop="ifiStatus">Active</span>
+      <span itemprop="ifiExpiration">2031-08-05</span>
+      <a href="/patent/US8623539B2/en">
+        <span itemprop="representativePublication">US8623539B2</span>
+        (<span itemprop="primaryLanguage">en</span>)
+      </a>
+    </section>
+
+    
+
+    <h2>Applications Claiming Priority (3)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="appsClaimingPriority" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">TW99142312A</span>
+            
+          </td>
+          <td itemprop="priorityDate"></td>
+          <td itemprop="filingDate">2010-12-06</td>
+          <td itemprop="title"></td>
+        </tr>
+        <tr itemprop="appsClaimingPriority" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">TW099142312</span>
+            
+          </td>
+          <td itemprop="priorityDate"></td>
+          <td itemprop="filingDate">2010-12-06</td>
+          <td itemprop="title"></td>
+        </tr>
+        <tr itemprop="appsClaimingPriority" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">TW099142312A</span>
+            <a href="/patent/TWI491096B/en">
+              <span itemprop="representativePublication">TWI491096B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2010-12-06</td>
+          <td itemprop="filingDate">2010-12-06</td>
+          <td itemprop="title">Multilayer battery separator and method for manufacturing the same 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    
+
+    <h2>Publications (2)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication Number</th>
+          <th>Publication Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="pubs" itemscope repeat>
+          <td>
+            <span itemprop="publicationNumber">US20120141858A1</span>
+            
+            <a href="/patent/US20120141858A1/en">
+              US20120141858A1
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-06-07</td>
+        </tr>
+        <tr itemprop="pubs" itemscope repeat>
+          <td>
+            <span itemprop="publicationNumber">US8623539B2</span>
+            
+            <span itemprop="thisPatent">true</span>
+            <a href="/patent/US8623539B2/en">
+              US8623539B2
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2014-01-07</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=46152600</h2>
+
+    <h2>Family Applications (1)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Application Number</th>
+          <th>Title</th>
+          <th>Priority Date</th>
+          <th>Filing Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="applications" itemscope repeat>
+          <td>
+            <span itemprop="applicationNumber">US13/152,668</span>
+            <span itemprop="ifiStatus">Active</span>
+            <span itemprop="ifiExpiration">2031-08-05</span>
+            <a href="/patent/US8623539B2/en">
+              <span itemprop="representativePublication">US8623539B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="priorityDate">2010-12-06</td>
+          <td itemprop="filingDate">2011-06-03</td>
+          <td itemprop="title">Multilayer battery separator and method for manufacturing the same 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    
+
+    <h2>Country Status (3)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Country</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">US</span>
+            (<span itemprop="num">1</span>)
+            <meta itemprop="thisCountry" content="true">
+          </td>
+          <td>
+            <a href="/patent/US8623539B2/en">
+              <span itemprop="representativePublication">US8623539B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">CN</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/CN102487131B/en">
+              <span itemprop="representativePublication">CN102487131B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+        <tr itemprop="countryStatus" itemscope repeat>
+          <td>
+            <span itemprop="countryCode">TW</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+          <td>
+            <a href="/patent/TWI491096B/en">
+              <span itemprop="representativePublication">TWI491096B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    <h2>Families Citing this family (12)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN103066230B/en">
+              <span itemprop="publicationNumber">CN103066230B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2012-12-28</td>
+          <td itemprop="publicationDate">2015-12-23</td>
+          <td><span itemprop="assigneeOriginal">广东精进能源有限公司</span></td>
+          <td itemprop="title">A kind of composite polymer electrolytes and preparation method thereof 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN103066229B/en">
+              <span itemprop="publicationNumber">CN103066229B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2012-12-28</td>
+          <td itemprop="publicationDate">2015-07-08</td>
+          <td><span itemprop="assigneeOriginal">广东精进能源有限公司</span></td>
+          <td itemprop="title">Composite polymer separator and preparation method thereof 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/DE102013203485A1/en">
+              <span itemprop="publicationNumber">DE102013203485A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2013-03-01</td>
+          <td itemprop="publicationDate">2014-09-04</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh</span></td>
+          <td itemprop="title">
+        Galvanic element with improved safety features
+       
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/ES2557182B1/en">
+              <span itemprop="publicationNumber">ES2557182B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2014-07-21</td>
+          <td itemprop="publicationDate">2016-11-04</td>
+          <td><span itemprop="assigneeOriginal">Jofemar, S.A.</span></td>
+          <td itemprop="title">
+        Polymeric membrane for use as a separator in flow batteries
+       
+     </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/WO2016157656A1/en">
+              <span itemprop="publicationNumber">WO2016157656A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2015-03-31</td>
+          <td itemprop="publicationDate">2016-10-06</td>
+          <td><span itemprop="assigneeOriginal">帝人株式会社</span></td>
+          <td itemprop="title">Method for manufacturing composite membrane 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN108269956B/en">
+              <span itemprop="publicationNumber">CN108269956B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2016-12-30</td>
+          <td itemprop="publicationDate">2020-04-03</td>
+          <td><span itemprop="assigneeOriginal">比亚迪股份有限公司</span></td>
+          <td itemprop="title">Polymer composite membrane, preparation method thereof and lithium ion battery 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN108305973B/en">
+              <span itemprop="publicationNumber">CN108305973B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2017-12-29</td>
+          <td itemprop="publicationDate">2021-11-23</td>
+          <td><span itemprop="assigneeOriginal">深圳中兴新材技术股份有限公司</span></td>
+          <td itemprop="title">Composite diaphragm with coating, preparation method and application 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN109786622A/en">
+              <span itemprop="publicationNumber">CN109786622A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2018-12-25</td>
+          <td itemprop="publicationDate">2019-05-21</td>
+          <td><span itemprop="assigneeOriginal">武汉中兴创新材料技术有限公司</span></td>
+          <td itemprop="title">A kind of coating slurry and its preparation method and application being used to prepare coated separator 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN111916617A/en">
+              <span itemprop="publicationNumber">CN111916617A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2019-05-10</td>
+          <td itemprop="publicationDate">2020-11-10</td>
+          <td><span itemprop="assigneeOriginal">湖南农业大学</span></td>
+          <td itemprop="title">Cellulose-based functionalized diaphragm and preparation method and application thereof 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN112018305A/en">
+              <span itemprop="publicationNumber">CN112018305A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2019-05-30</td>
+          <td itemprop="publicationDate">2020-12-01</td>
+          <td><span itemprop="assigneeOriginal">财团法人工业技术研究院</span></td>
+          <td itemprop="title">Composite membrane and manufacturing method and application thereof 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/WO2021017553A1/en">
+              <span itemprop="publicationNumber">WO2021017553A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2019-07-26</td>
+          <td itemprop="publicationDate">2021-02-04</td>
+          <td><span itemprop="assigneeOriginal">瑞新材料科技(香港)有限公司</span></td>
+          <td itemprop="title">Composite membrane, battery, and battery pack 
+       </td>
+        </tr>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN110600657B/en">
+              <span itemprop="publicationNumber">CN110600657B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2019-09-27</td>
+          <td itemprop="publicationDate">2022-04-19</td>
+          <td><span itemprop="assigneeOriginal">宁德卓高新材料科技有限公司</span></td>
+          <td itemprop="title">Preparation method of filamentous vinylidene fluoride polymer composite coating diaphragm 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Citations (24)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5565281A/en">
+              <span itemprop="publicationNumber">US5565281A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-12-02</td>
+          <td itemprop="publicationDate">1996-10-15</td>
+          <td>
+            <span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span>
+          </td>
+          <td itemprop="title">Shutdown, bilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5691047A/en">
+              <span itemprop="publicationNumber">US5691047A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-05-12</td>
+          <td itemprop="publicationDate">1997-11-25</td>
+          <td>
+            <span itemprop="assigneeOriginal">Ube Industries, Ltd.</span>
+          </td>
+          <td itemprop="title">Porous multi-layer film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US5922492A/en">
+              <span itemprop="publicationNumber">US5922492A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1996-06-04</td>
+          <td itemprop="publicationDate">1999-07-13</td>
+          <td>
+            <span itemprop="assigneeOriginal">Tonen Chemical Corporation</span>
+          </td>
+          <td itemprop="title">Microporous polyolefin battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US6180280B1/en">
+              <span itemprop="publicationNumber">US6180280B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-03-12</td>
+          <td itemprop="publicationDate">2001-01-30</td>
+          <td>
+            <span itemprop="assigneeOriginal">Celgard Inc.</span>
+          </td>
+          <td itemprop="title">Trilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20020055039A1/en">
+              <span itemprop="publicationNumber">US20020055039A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2000-09-04</td>
+          <td itemprop="publicationDate">2002-05-09</td>
+          <td>
+            <span itemprop="assigneeOriginal">Do-Young Seung</span>
+          </td>
+          <td itemprop="title">Cathode active material and lithium battery employing the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US6586138B2/en">
+              <span itemprop="publicationNumber">US6586138B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2000-02-04</td>
+          <td itemprop="publicationDate">2003-07-01</td>
+          <td>
+            <span itemprop="assigneeOriginal">Amtek Research International Llc</span>
+          </td>
+          <td itemprop="title">Freestanding microporous separator including a gel-forming polymer 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20030190499A1/en">
+              <span itemprop="publicationNumber">US20030190499A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-12-14</td>
+          <td itemprop="publicationDate">2003-10-09</td>
+          <td>
+            <span itemprop="assigneeOriginal">Hiroshi Watanabe</span>
+          </td>
+          <td itemprop="title">Lithium secondary battery and battery device comprising same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20030194607A1/en">
+              <span itemprop="publicationNumber">US20030194607A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2002-04-10</td>
+          <td itemprop="publicationDate">2003-10-16</td>
+          <td>
+            <span itemprop="assigneeOriginal">Sui-Yang Huang</span>
+          </td>
+          <td itemprop="title">Polymer-gel lithium ion battery 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20040018428A1/en">
+              <span itemprop="publicationNumber">US20040018428A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2002-07-24</td>
+          <td itemprop="publicationDate">2004-01-29</td>
+          <td>
+            <span itemprop="assigneeOriginal">Cochran Steven D.</span>
+          </td>
+          <td itemprop="title">Lithium cell with mixed polymer system 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20050014063A1/en">
+              <span itemprop="publicationNumber">US20050014063A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-07-15</td>
+          <td itemprop="publicationDate">2005-01-20</td>
+          <td>
+            <span itemprop="assigneeOriginal">Lie Shi</span>
+          </td>
+          <td itemprop="title">High melt integrity battery separator for lithium ion batteries 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20050069770A1/en">
+              <span itemprop="publicationNumber">US20050069770A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-09-30</td>
+          <td itemprop="publicationDate">2005-03-31</td>
+          <td>
+            <span itemprop="assigneeOriginal">Manev Vesselin G.</span>
+          </td>
+          <td itemprop="title">Lithium ion battery with dissimilar polymer compositions in electrodes 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN1670989A/en">
+              <span itemprop="publicationNumber">CN1670989A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-19</td>
+          <td itemprop="publicationDate">2005-09-21</td>
+          <td>
+            <span itemprop="assigneeOriginal">株式会社巴川制纸所</span>
+          </td>
+          <td itemprop="title">Electronic component separator and method for producing the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/TWI260811B/en">
+              <span itemprop="publicationNumber">TWI260811B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-12-28</td>
+          <td itemprop="publicationDate">2006-08-21</td>
+          <td>
+            <span itemprop="assigneeOriginal">Ind Tech Res Inst</span>
+          </td>
+          <td itemprop="title">Composite separator and method thereof 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN1930703A/en">
+              <span itemprop="publicationNumber">CN1930703A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-11-03</td>
+          <td itemprop="publicationDate">2007-03-14</td>
+          <td>
+            <span itemprop="assigneeOriginal">株式会社Lg化学</span>
+          </td>
+          <td itemprop="title">Separator coated with electrolyte-miscible polymer and electrochemical device using the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN101265337A/en">
+              <span itemprop="publicationNumber">CN101265337A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-04-10</td>
+          <td itemprop="publicationDate">2008-09-17</td>
+          <td>
+            <span itemprop="assigneeOriginal">深圳市富易达电子科技有限公司</span>
+          </td>
+          <td itemprop="title">Method for preparing membrane with excellent ion conductivity 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20090098450A1/en">
+              <span itemprop="publicationNumber">US20090098450A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-24</td>
+          <td itemprop="publicationDate">2009-04-16</td>
+          <td>
+            <span itemprop="assigneeOriginal">Tonen Chemical Corporation</span>
+          </td>
+          <td itemprop="title">Multi-layer, microporous polyolefin membrane, its production method, and battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/TWI310253B/en">
+              <span itemprop="publicationNumber">TWI310253B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-12-07</td>
+          <td itemprop="publicationDate">2009-05-21</td>
+          <td>
+            <span itemprop="assigneeOriginal">Lg Chemical Ltd</span>
+          </td>
+          <td itemprop="title">Surface-treated microporous membrane and electrochemical device prepared thereby 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/TWI311102B/en">
+              <span itemprop="publicationNumber">TWI311102B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-12-22</td>
+          <td itemprop="publicationDate">2009-06-21</td>
+          <td>
+            <span itemprop="assigneeOriginal">Lg Chemical Ltd</span>
+          </td>
+          <td itemprop="title">Organic/inorganic composite microporous membrane and electrochemical device prepared thereby 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20090169984A1/en">
+              <span itemprop="publicationNumber">US20090169984A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2007-12-27</td>
+          <td itemprop="publicationDate">2009-07-02</td>
+          <td>
+            <span itemprop="assigneeOriginal">Byd Company Limited</span>
+          </td>
+          <td itemprop="title">Composite separator films for lithium-ion batteries 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20090197159A1/en">
+              <span itemprop="publicationNumber">US20090197159A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-02-06</td>
+          <td itemprop="publicationDate">2009-08-06</td>
+          <td>
+            <span itemprop="assigneeOriginal">Sony Corporation</span>
+          </td>
+          <td itemprop="title">Separator and battery using the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN101558513A/en">
+              <span itemprop="publicationNumber">CN101558513A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2006-11-20</td>
+          <td itemprop="publicationDate">2009-10-14</td>
+          <td>
+            <span itemprop="assigneeOriginal">帝人株式会社</span>
+          </td>
+          <td itemprop="title">Separator for nonaqueous secondary battery, method for producing same, and nonaqueous secondary battery 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/US20100015509A1/en">
+              <span itemprop="publicationNumber">US20100015509A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-07-18</td>
+          <td itemprop="publicationDate">2010-01-21</td>
+          <td>
+            <span itemprop="assigneeOriginal">Hiroki Inagaki</span>
+          </td>
+          <td itemprop="title">Active material for battery, non-aqueous electrolyte battery and battery pack 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/TW201006668A/en">
+              <span itemprop="publicationNumber">TW201006668A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-04-29</td>
+          <td itemprop="publicationDate">2010-02-16</td>
+          <td>
+            <span itemprop="assigneeOriginal">Agency Science Tech &amp; Res</span>
+          </td>
+          <td itemprop="title">Inorganic graded barrier film and methods for their manufacture 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            <a href="/patent/CN101714655A/en">
+              <span itemprop="publicationNumber">CN101714655A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2009-11-20</td>
+          <td itemprop="publicationDate">2010-05-26</td>
+          <td>
+            <span itemprop="assigneeOriginal">东莞新能源电子科技有限公司</span>
+          </td>
+          <td itemprop="title">
+        Lithium-ion secondary battery
+       
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Family Cites Families (1)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN100588004C/en">
+              <span itemprop="publicationNumber">CN100588004C</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-04-26</td>
+          <td itemprop="publicationDate">2010-02-03</td>
+          <td><span itemprop="assigneeOriginal">北京大学</span></td>
+          <td itemprop="title">
+        A kind of polymer composite diaphragm and preparation method thereof
+       
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <ul>
+      <li itemprop="applicationsByYear" itemscope repeat>
+        <span itemprop="year">2010</span>
+        <ul>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2010-12-06</span>
+            <span itemprop="countryCode">TW</span>
+            <span itemprop="applicationNumber">TW099142312A</span>
+            <a href="/patent/TWI491096B/en"><span itemprop="documentId">patent/TWI491096B/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus"></span>
+            
+          </li>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2010-12-24</span>
+            <span itemprop="countryCode">CN</span>
+            <span itemprop="applicationNumber">CN201010621768.2A</span>
+            <a href="/patent/CN102487131B/en"><span itemprop="documentId">patent/CN102487131B/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Active</span>
+            
+          </li>
+        </ul>
+      </li>
+      <li itemprop="applicationsByYear" itemscope repeat>
+        <span itemprop="year">2011</span>
+        <ul>
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2011-06-03</span>
+            <span itemprop="countryCode">US</span>
+            <span itemprop="applicationNumber">US13/152,668</span>
+            <a href="/patent/US8623539B2/en"><span itemprop="documentId">patent/US8623539B2/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Active</span>
+            <span itemprop="thisApp" content="true" bool></span>
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    </section>
+
+  <section>
+    <h2>Patent Citations (26)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5691047A/en">
+              <span itemprop="publicationNumber">US5691047A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-05-12</td>
+          <td itemprop="publicationDate">1997-11-25</td>
+          <td><span itemprop="assigneeOriginal">Ube Industries, Ltd.</span></td>
+          <td itemprop="title">Porous multi-layer film 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5565281A/en">
+              <span itemprop="publicationNumber">US5565281A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-12-02</td>
+          <td itemprop="publicationDate">1996-10-15</td>
+          <td><span itemprop="assigneeOriginal">Hoechst Celanese Corporation</span></td>
+          <td itemprop="title">Shutdown, bilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US5922492A/en">
+              <span itemprop="publicationNumber">US5922492A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1996-06-04</td>
+          <td itemprop="publicationDate">1999-07-13</td>
+          <td><span itemprop="assigneeOriginal">Tonen Chemical Corporation</span></td>
+          <td itemprop="title">Microporous polyolefin battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US6180280B1/en">
+              <span itemprop="publicationNumber">US6180280B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-03-12</td>
+          <td itemprop="publicationDate">2001-01-30</td>
+          <td><span itemprop="assigneeOriginal">Celgard Inc.</span></td>
+          <td itemprop="title">Trilayer battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20030190499A1/en">
+              <span itemprop="publicationNumber">US20030190499A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-12-14</td>
+          <td itemprop="publicationDate">2003-10-09</td>
+          <td><span itemprop="assigneeOriginal">Hiroshi Watanabe</span></td>
+          <td itemprop="title">Lithium secondary battery and battery device comprising same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US6586138B2/en">
+              <span itemprop="publicationNumber">US6586138B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2000-02-04</td>
+          <td itemprop="publicationDate">2003-07-01</td>
+          <td><span itemprop="assigneeOriginal">Amtek Research International Llc</span></td>
+          <td itemprop="title">Freestanding microporous separator including a gel-forming polymer 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20020055039A1/en">
+              <span itemprop="publicationNumber">US20020055039A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2000-09-04</td>
+          <td itemprop="publicationDate">2002-05-09</td>
+          <td><span itemprop="assigneeOriginal">Do-Young Seung</span></td>
+          <td itemprop="title">Cathode active material and lithium battery employing the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20030194607A1/en">
+              <span itemprop="publicationNumber">US20030194607A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2002-04-10</td>
+          <td itemprop="publicationDate">2003-10-16</td>
+          <td><span itemprop="assigneeOriginal">Sui-Yang Huang</span></td>
+          <td itemprop="title">Polymer-gel lithium ion battery 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20040018428A1/en">
+              <span itemprop="publicationNumber">US20040018428A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2002-07-24</td>
+          <td itemprop="publicationDate">2004-01-29</td>
+          <td><span itemprop="assigneeOriginal">Cochran Steven D.</span></td>
+          <td itemprop="title">Lithium cell with mixed polymer system 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20050014063A1/en">
+              <span itemprop="publicationNumber">US20050014063A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-07-15</td>
+          <td itemprop="publicationDate">2005-01-20</td>
+          <td><span itemprop="assigneeOriginal">Lie Shi</span></td>
+          <td itemprop="title">High melt integrity battery separator for lithium ion batteries 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20050069770A1/en">
+              <span itemprop="publicationNumber">US20050069770A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-09-30</td>
+          <td itemprop="publicationDate">2005-03-31</td>
+          <td><span itemprop="assigneeOriginal">Manev Vesselin G.</span></td>
+          <td itemprop="title">Lithium ion battery with dissimilar polymer compositions in electrodes 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/CN1930703A/en">
+              <span itemprop="publicationNumber">CN1930703A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-11-03</td>
+          <td itemprop="publicationDate">2007-03-14</td>
+          <td><span itemprop="assigneeOriginal">株式会社Lg化学</span></td>
+          <td itemprop="title">Separator coated with electrolyte-miscible polymer and electrochemical device using the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/CN1670989A/en">
+              <span itemprop="publicationNumber">CN1670989A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-19</td>
+          <td itemprop="publicationDate">2005-09-21</td>
+          <td><span itemprop="assigneeOriginal">株式会社巴川制纸所</span></td>
+          <td itemprop="title">Electronic component separator and method for producing the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/TWI310253B/en">
+              <span itemprop="publicationNumber">TWI310253B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-12-07</td>
+          <td itemprop="publicationDate">2009-05-21</td>
+          <td><span itemprop="assigneeOriginal">Lg Chemical Ltd</span></td>
+          <td itemprop="title">Surface-treated microporous membrane and electrochemical device prepared thereby 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/TWI311102B/en">
+              <span itemprop="publicationNumber">TWI311102B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-12-22</td>
+          <td itemprop="publicationDate">2009-06-21</td>
+          <td><span itemprop="assigneeOriginal">Lg Chemical Ltd</span></td>
+          <td itemprop="title">Organic/inorganic composite microporous membrane and electrochemical device prepared thereby 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/TWI260811B/en">
+              <span itemprop="publicationNumber">TWI260811B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-12-28</td>
+          <td itemprop="publicationDate">2006-08-21</td>
+          <td><span itemprop="assigneeOriginal">Ind Tech Res Inst</span></td>
+          <td itemprop="title">Composite separator and method thereof 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20090098450A1/en">
+              <span itemprop="publicationNumber">US20090098450A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-24</td>
+          <td itemprop="publicationDate">2009-04-16</td>
+          <td><span itemprop="assigneeOriginal">Tonen Chemical Corporation</span></td>
+          <td itemprop="title">Multi-layer, microporous polyolefin membrane, its production method, and battery separator 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/CN101558513A/en">
+              <span itemprop="publicationNumber">CN101558513A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2006-11-20</td>
+          <td itemprop="publicationDate">2009-10-14</td>
+          <td><span itemprop="assigneeOriginal">帝人株式会社</span></td>
+          <td itemprop="title">Separator for nonaqueous secondary battery, method for producing same, and nonaqueous secondary battery 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20100068612A1/en">
+              <span itemprop="publicationNumber">US20100068612A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-11-20</td>
+          <td itemprop="publicationDate">2010-03-18</td>
+          <td><span itemprop="assigneeOriginal">Teijin Limited</span></td>
+          <td itemprop="title">Separator for non-aqueous secondary battery, process for producing  same, and non-aqueous secondary battery 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20090169984A1/en">
+              <span itemprop="publicationNumber">US20090169984A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2007-12-27</td>
+          <td itemprop="publicationDate">2009-07-02</td>
+          <td><span itemprop="assigneeOriginal">Byd Company Limited</span></td>
+          <td itemprop="title">Composite separator films for lithium-ion batteries 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20090197159A1/en">
+              <span itemprop="publicationNumber">US20090197159A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-02-06</td>
+          <td itemprop="publicationDate">2009-08-06</td>
+          <td><span itemprop="assigneeOriginal">Sony Corporation</span></td>
+          <td itemprop="title">Separator and battery using the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/CN101504976A/en">
+              <span itemprop="publicationNumber">CN101504976A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-02-06</td>
+          <td itemprop="publicationDate">2009-08-12</td>
+          <td><span itemprop="assigneeOriginal">索尼株式会社</span></td>
+          <td itemprop="title">Separator and battery using the same 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/CN101265337A/en">
+              <span itemprop="publicationNumber">CN101265337A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-04-10</td>
+          <td itemprop="publicationDate">2008-09-17</td>
+          <td><span itemprop="assigneeOriginal">深圳市富易达电子科技有限公司</span></td>
+          <td itemprop="title">Method for preparing membrane with excellent ion conductivity 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/TW201006668A/en">
+              <span itemprop="publicationNumber">TW201006668A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-04-29</td>
+          <td itemprop="publicationDate">2010-02-16</td>
+          <td><span itemprop="assigneeOriginal">Agency Science Tech &amp; Res</span></td>
+          <td itemprop="title">Inorganic graded barrier film and methods for their manufacture 
+     </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/US20100015509A1/en">
+              <span itemprop="publicationNumber">US20100015509A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-07-18</td>
+          <td itemprop="publicationDate">2010-01-21</td>
+          <td><span itemprop="assigneeOriginal">Hiroki Inagaki</span></td>
+          <td itemprop="title">Active material for battery, non-aqueous electrolyte battery and battery pack 
+       </td>
+        </tr>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            <a href="/patent/CN101714655A/en">
+              <span itemprop="publicationNumber">CN101714655A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2009-11-20</td>
+          <td itemprop="publicationDate">2010-05-26</td>
+          <td><span itemprop="assigneeOriginal">东莞新能源电子科技有限公司</span></td>
+          <td itemprop="title">
+        Lithium-ion secondary battery
+       
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Non-Patent Citations (8)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Choi et al., "<a href='http://scholar.google.com/scholar?q="Electrospun+PVDF+nanofiber+web+as+polymer+electrolyte+or+separator"'>Electrospun PVDF nanofiber web as polymer electrolyte or separator</a>", Electrochimica Acta, 50 (2004) 339-343.</span>
+            
+            
+          </td>
+        </tr>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Cui et al., "<a href='http://scholar.google.com/scholar?q="Preparation+of+PVDF%2FPEO-PPO-PEO+blend+microporous+membranes+for+lithium+ion+batteries+via+thermally+induced+phase+separation+process"'>Preparation of PVDF/PEO-PPO-PEO blend microporous membranes for lithium ion batteries via thermally induced phase separation process</a>", Journal of Membrane Science, 325 (2008) 957-963.</span>
+            
+            
+          </td>
+        </tr>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Jeong et al., "<a href='http://scholar.google.com/scholar?q="Effect+of+Solvent-Nonsolvent+Miscibility+on+Morphology+and+Electrochemical+Performance+of+SiO2%2FPVdF-HFP-Based+Composite+Separator+Membranes+for+Safer+Lithium-Ion+Batteries"'>Effect of Solvent-Nonsolvent Miscibility on Morphology and Electrochemical Performance of SiO2/PVdF-HFP-Based Composite Separator Membranes for Safer Lithium-Ion Batteries</a>", Macromol. Chem. Phys. (2010) 211, 420-425.</span>
+            
+            
+          </td>
+        </tr>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Lee et al., "<a href='http://scholar.google.com/scholar?q="Novel+porous+separator+based+on+PVdF+and+PE+non-woven+matrix+for+rechargeable+lithium+batteries"'>Novel porous separator based on PVdF and PE non-woven matrix for rechargeable lithium batteries</a>", Journal of Power Sources, 139 (2005) 235-241.</span>
+            
+            
+          </td>
+        </tr>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Notice of First Examination Opinon issued by the Taiwan Intellectual Property Office on Jul. 3, 2013, for the above-referenced application's counterpart application in China (Application No. 201010621768.2).</span>
+            
+            
+          </td>
+        </tr>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Office Action (Notification of Examination Opinion) issued by the Taiwan Intellectual Property Office on Jun. 13, 2013, for the above-referenced application's counterpart application in Taiwan (Application No. 099142312).</span>
+            
+            
+          </td>
+        </tr>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Saunier et al., "<a href='http://scholar.google.com/scholar?q="Study+of+the+Interaction+Polymer%2FOrganic+Solvents%2FSalt+in+Microporous+PVdF+Separator+for+Lithium+Batteries"'>Study of the Interaction Polymer/Organic Solvents/Salt in Microporous PVdF Separator for Lithium Batteries</a>", Macromol. Symp., (2003) 200, 101-110.</span>
+            
+            
+          </td>
+        </tr>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Sohn et al., "<a href='http://scholar.google.com/scholar?q="Preparation+and+characterization+of+a+PVDF-HFP%2FPEGDMA-coated+PE+separator+for+lithium-ion+polymer+battery+by+electron+beam+irradiation"'>Preparation and characterization of a PVDF-HFP/PEGDMA-coated PE separator for lithium-ion polymer battery by electron beam irradiation</a>", Radiation Physics and Chemistry, 78 (2009) 505-508.</span>
+            
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN102487131A/en">
+              <span itemprop="publicationNumber">CN102487131A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-06-06</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/TWI491096B/en">
+              <span itemprop="publicationNumber">TWI491096B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2015-07-01</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/US20120141858A1/en">
+              <span itemprop="publicationNumber">US20120141858A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-06-07</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/TW201225379A/en">
+              <span itemprop="publicationNumber">TW201225379A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-06-16</td>
+        </tr>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            <a href="/patent/CN102487131B/en">
+              <span itemprop="publicationNumber">CN102487131B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2014-10-15</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/US20120141858A1/en">
+                <span itemprop="publicationNumber">US20120141858A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2012-06-07">2012-06-07</time>
+            
+            
+          </td>
+          <td itemprop="title">Multilayer battery separator and method for manufacturing the same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN101983219B/en">
+                <span itemprop="publicationNumber">CN101983219B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-03-12">2014-03-12</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Polyolefin microporous film and roll
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP5140896B2/en">
+                <span itemprop="publicationNumber">JP5140896B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2013-02-13">2013-02-13</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Porous film and battery separator using the same
+       
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP6680206B2/en">
+                <span itemprop="publicationNumber">JP6680206B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2020-04-15">2020-04-15</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Polyolefin microporous membrane, battery separator and battery
+       
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP5635970B2/en">
+                <span itemprop="publicationNumber">JP5635970B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-12-03">2014-12-03</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Method for producing polyolefin composite microporous membrane having high heat resistant coating layer
+       
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN102459439B/en">
+                <span itemprop="publicationNumber">CN102459439B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-12-03">2014-12-03</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Polyethylene-based composite microporous membrane with highly heat-resistant organic/inorganic coating
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN104508864B/en">
+                <span itemprop="publicationNumber">CN104508864B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2017-04-19">2017-04-19</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Separator for nonaqueous electrolyte battery and nonaqueous electrolyte battery
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/TWI497804B/en">
+                <span itemprop="publicationNumber">TWI497804B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2015-08-21">2015-08-21</time>
+            
+            
+          </td>
+          <td itemprop="title">
+  An aromatic polyamide porous film, and a separator for a capacitor using the porous film and a separator for a battery
+ 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN103222087B/en">
+                <span itemprop="publicationNumber">CN103222087B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2016-08-10">2016-08-10</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Separator for nonaqueous electrolyte battery and nonaqueous electrolyte secondary battery
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP5672007B2/en">
+                <span itemprop="publicationNumber">JP5672007B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2015-02-18">2015-02-18</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Porous polypropylene film roll
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP5495210B2/en">
+                <span itemprop="publicationNumber">JP5495210B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-05-21">2014-05-21</time>
+            
+            
+          </td>
+          <td itemprop="title">
+  Composite porous membrane, method for producing composite porous membrane, and battery separator using the same
+ 
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN108496263B/en">
+                <span itemprop="publicationNumber">CN108496263B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2022-05-17">2022-05-17</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Secondary battery
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20090107442A/en">
+                <span itemprop="publicationNumber">KR20090107442A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2009-10-13">2009-10-13</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Polyolefin-based composite microporous membrane with highly heat-resistant porous coating layer
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP4075208B2/en">
+                <span itemprop="publicationNumber">JP4075208B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2008-04-16">2008-04-16</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Porous film and battery separator using the same
+       
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN102307944A/en">
+                <span itemprop="publicationNumber">CN102307944A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2012-01-04">2012-01-04</time>
+            
+            
+          </td>
+          <td itemprop="title">Resin composition, sheet and porous film 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP5151033B2/en">
+                <span itemprop="publicationNumber">JP5151033B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2013-02-27">2013-02-27</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Porous film composed of aromatic polyamide, battery separator, and method for producing the same
+       
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN106537643B/en">
+                <span itemprop="publicationNumber">CN106537643B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2019-10-25">2019-10-25</time>
+            
+            
+          </td>
+          <td itemprop="title">
+        Separator roll and non-aqueous secondary battery
+       
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20140070199A/en">
+                <span itemprop="publicationNumber">KR20140070199A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-06-10">2014-06-10</time>
+            
+            
+          </td>
+          <td itemprop="title">Porous separator and preparation method thereof 
+     </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP2014141644A/en">
+                <span itemprop="publicationNumber">JP2014141644A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-08-07">2014-08-07</time>
+            
+            
+          </td>
+          <td itemprop="title">Biaxially oriented porous polypropylene film, separator film for electricity storage device and electricity storage device 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN104508862A/en">
+                <span itemprop="publicationNumber">CN104508862A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2015-04-08">2015-04-08</time>
+            
+            
+          </td>
+          <td itemprop="title">Non-aqueous electrolyte battery separator, non-aqueous electrolyte battery, and manufacturing method of non-aqueous electrolyte battery 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20140071094A/en">
+                <span itemprop="publicationNumber">KR20140071094A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2014-06-11">2014-06-11</time>
+            
+            
+          </td>
+          <td itemprop="title">Method of preparing porous polyolefin separator, porous polyolefin separator therefrom, and lithium secondary battery comprising the separator 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/CN115832611A/en">
+                <span itemprop="publicationNumber">CN115832611A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2023-03-21">2023-03-21</time>
+            
+            
+          </td>
+          <td itemprop="title">Embedded solid electrolyte diaphragm and preparation method and application thereof 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR101895100B1/en">
+                <span itemprop="publicationNumber">KR101895100B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2018-09-04">2018-09-04</time>
+            
+            
+          </td>
+          <td itemprop="title">Porous separator and preparation method thereof 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/KR20250168101A/en">
+                <span itemprop="publicationNumber">KR20250168101A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2025-12-02">2025-12-02</time>
+            
+            
+          </td>
+          <td itemprop="title">A separator and a method for manufacturing the same 
+       </td>
+        </tr>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              <a href="/patent/JP2012099324A/en">
+                <span itemprop="publicationNumber">JP2012099324A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2012-05-24">2012-05-24</time>
+            
+            
+          </td>
+          <td itemprop="title">Separator for nonaqueous electrolyte secondary battery and nonaqueous electrolyte secondary battery 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2011-06-03">2011-06-03</time></td>
+          <td itemprop="code">AS</td>
+          <td itemprop="title">Assignment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE, TAIWAN</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHUNG, LI-HAN;TSAI, CHING-CHUN;KONG, DAN-CHENG;AND OTHERS;REEL/FRAME:026386/0644</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20110322</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2013-12-18">2013-12-18</time></td>
+          <td itemprop="code">STCF</td>
+          <td itemprop="title">Information on status: patent grant</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PATENTED CASE</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2017-07-07">2017-07-07</time></td>
+          <td itemprop="code">FPAY</td>
+          <td itemprop="title">Fee payment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">4</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2020-12-07">2020-12-07</time></td>
+          <td itemprop="code">MAFP</td>
+          <td itemprop="title">Maintenance fee payment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">8</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2025-07-07">2025-07-07</time></td>
+          <td itemprop="code">MAFP</td>
+          <td itemprop="title">Maintenance fee payment</td>
+          <td>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">12</span>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+</article>
+
+    </search-app>
+    
+    <script></script>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/js/help/prod/service/lazy.min.js"></script>
+    <script type="text/javascript">
+      if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: 'AIzaSyDTEI_0tLX4varJ7bwK8aT-eOI5qr3BmyI', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
+    </script>
+    <script src="/sw/null_loader.js"></script>
+  </body>
+</html>

@@ -1,0 +1,377 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Coating",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "composition",
+          "Thickness",
+          "Density of"
+        ],
+        [
+          "",
+          "",
+          "Ratio of second",
+          "loading",
+          "of coating",
+          "coating",
+          "Thermal"
+        ],
+        [
+          "Example/Comparative",
+          "Ratio of first Al 2 O 3",
+          "Al 2 O 3",
+          "amount",
+          "layer",
+          "layer",
+          "conductivity"
+        ],
+        [
+          "Example",
+          "(Particle size)",
+          "(Particle size)",
+          "(g/m 2 )",
+          "(μm)",
+          "(g/cm 3 )",
+          "(W/m · K)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "99 (D 50 = 500 nm)",
+          "1 (D 50 = 20 nm)",
+          "8.3",
+          "4.1",
+          "2.024",
+          "0.30"
+        ],
+        [
+          "Example 2",
+          "97 (D 50 = 500 nm)",
+          "3 (D 50 = 20 nm)",
+          "8.2",
+          "4.0",
+          "2.050",
+          "0.34"
+        ],
+        [
+          "Example 3",
+          "95 (D 50 = 500 nm)",
+          "5 (D 50 = 20 nm)",
+          "8.5",
+          "4.2",
+          "2.024",
+          "0.31"
+        ],
+        [
+          "Example 4",
+          "97 (D 50 = 500 nm)",
+          "3 (D 50 = 50 nm)",
+          "8.3",
+          "4.1",
+          "2.024",
+          "0.30"
+        ],
+        [
+          "Example 5",
+          "95 (D 50 = 500 nm)",
+          "5 (D 50 = 50 nm)",
+          "8.6",
+          "4.0",
+          "2.150",
+          "0.40"
+        ],
+        [
+          "Example 6",
+          "97 (D 50 = 500 nm)",
+          "3 (D 50 = 70 nm)",
+          "8.3",
+          "4.1",
+          "2.024",
+          "0.32"
+        ],
+        [
+          "Example 7",
+          "95 (D 50 = 500 nm)",
+          "5 (D 50 = 70 nm)",
+          "8.6",
+          "4.2",
+          "2.048",
+          "0.36"
+        ],
+        [
+          "Example 8",
+          "93 (D 50 = 500 nm)",
+          "7 (D 50 = 70 nm)",
+          "8.7",
+          "4.1",
+          "2.122",
+          "0.38"
+        ],
+        [
+          "Comparative Example 1",
+          "100 (D 50 = 500 nm)",
+          "0",
+          "8.2",
+          "4.2",
+          "1.952",
+          "0.26"
+        ],
+        [
+          "Comparative Example 2",
+          "100 (D 50 = 100 nm)",
+          "0",
+          "6.5",
+          "4.3",
+          "1.512",
+          "0.07"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Coating</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">composition</td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Density of</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ratio of second</td>\n<td class=\"description-td\">loading</td>\n<td class=\"description-td\">of coating</td>\n<td class=\"description-td\">coating</td>\n<td class=\"description-td\">Thermal</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example/Comparative</td>\n<td class=\"description-td\">Ratio of first Al<sub>2</sub>O<sub>3</sub> </td>\n<td class=\"description-td\">Al<sub>2</sub>O<sub>3</sub> </td>\n<td class=\"description-td\">amount</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">layer</td>\n<td class=\"description-td\">conductivity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example</td>\n<td class=\"description-td\">(Particle size)</td>\n<td class=\"description-td\">(Particle size)</td>\n<td class=\"description-td\">(g/m<sup>2</sup>)</td>\n<td class=\"description-td\">(μm)</td>\n<td class=\"description-td\">(g/cm<sup>3</sup>)</td>\n<td class=\"description-td\">(W/m · K)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\"> 99 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">1 (D<sub>50 </sub>= 20 nm)</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">4.1</td>\n<td class=\"description-td\">2.024</td>\n<td class=\"description-td\">0.30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\"> 97 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">3 (D<sub>50 </sub>= 20 nm)</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">4.0</td>\n<td class=\"description-td\">2.050</td>\n<td class=\"description-td\">0.34</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\"> 95 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">5 (D<sub>50 </sub>= 20 nm)</td>\n<td class=\"description-td\">8.5</td>\n<td class=\"description-td\">4.2</td>\n<td class=\"description-td\">2.024</td>\n<td class=\"description-td\">0.31</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n<td class=\"description-td\"> 97 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">3 (D<sub>50 </sub>= 50 nm)</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">4.1</td>\n<td class=\"description-td\">2.024</td>\n<td class=\"description-td\">0.30</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 5</td>\n<td class=\"description-td\"> 95 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">5 (D<sub>50 </sub>= 50 nm)</td>\n<td class=\"description-td\">8.6</td>\n<td class=\"description-td\">4.0</td>\n<td class=\"description-td\">2.150</td>\n<td class=\"description-td\">0.40</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 6</td>\n<td class=\"description-td\"> 97 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">3 (D<sub>50 </sub>= 70 nm)</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">4.1</td>\n<td class=\"description-td\">2.024</td>\n<td class=\"description-td\">0.32</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 7</td>\n<td class=\"description-td\"> 95 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">5 (D<sub>50 </sub>= 70 nm)</td>\n<td class=\"description-td\">8.6</td>\n<td class=\"description-td\">4.2</td>\n<td class=\"description-td\">2.048</td>\n<td class=\"description-td\">0.36</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 8</td>\n<td class=\"description-td\"> 93 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">7 (D<sub>50 </sub>= 70 nm)</td>\n<td class=\"description-td\">8.7</td>\n<td class=\"description-td\">4.1</td>\n<td class=\"description-td\">2.122</td>\n<td class=\"description-td\">0.38</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 1</td>\n<td class=\"description-td\">100 (D<sub>50 </sub>= 500 nm)</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">4.2</td>\n<td class=\"description-td\">1.952</td>\n<td class=\"description-td\">0.26</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative Example 2</td>\n<td class=\"description-td\">100 (D<sub>50 </sub>= 100 nm)</td>\n<td class=\"description-td\">0</td>\n<td class=\"description-td\">6.5</td>\n<td class=\"description-td\">4.3</td>\n<td class=\"description-td\">1.512</td>\n<td class=\"description-td\">0.07</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thermal",
+          "Peel strength",
+          "Adhesive"
+        ],
+        [
+          "",
+          "shrinkage of",
+          "between coating",
+          "strength between"
+        ],
+        [
+          "",
+          "separator",
+          "layer and base",
+          "coating layer and"
+        ],
+        [
+          "Specimen",
+          "(%)",
+          "film (gf/cm 2 )",
+          "electrode (gf/cm 2 )"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Example 1",
+          "15",
+          "100",
+          "42"
+        ],
+        [
+          "Comparative",
+          "20",
+          "10",
+          "5"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "Comparative",
+          "28",
+          "20",
+          "8"
+        ],
+        [
+          "Example 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal</td>\n<td class=\"description-td\">Peel strength</td>\n<td class=\"description-td\">Adhesive</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shrinkage of</td>\n<td class=\"description-td\">between coating</td>\n<td class=\"description-td\">strength between</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">separator</td>\n<td class=\"description-td\">layer and base</td>\n<td class=\"description-td\">coating layer and</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Specimen</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">film (gf/cm<sup>2</sup>)</td>\n<td class=\"description-td\">electrode (gf/cm<sup>2</sup>)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">15</td>\n<td class=\"description-td\">100</td>\n<td class=\"description-td\">42</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">10</td>\n<td class=\"description-td\">5</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">28</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">8</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "Embodiments may also provide an electrochemical battery that includes the battery stack including the separator, a positive electrode, a negative electrode, and an electrolyte. FIG. 1 illustrates an electrochemical battery 10 according to an embodiment. The electrochemical battery 10 may include a battery stack made up of a separator including a base film 1 , a coating layer 2 a and 2 b on both sides of the base film 1 (although the coating layer may also be on only one side of the base film), a positive electrode 3 , and a negative electrode 4 , and an electrolyte 5 . The electrochemical battery 10 of FIG. 1 is merely a representation and various elements that may be included in the electrochemical battery 10 (e.g., a case, a cap plate, terminals, etc.) are not illustrated.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/70/32/00/1bb9aae9c2bd1f/US09401505-20160726-D00000.png"
+    },
+    {
+      "caption": "Embodiments may also provide an electrochemical battery that includes the battery stack including the separator, a positive electrode, a negative electrode, and an electrolyte. FIG. 1 illustrates an electrochemical battery 10 according to an embodiment. The electrochemical battery 10 may include a battery stack made up of a separator including a base film 1 , a coating layer 2 a and 2 b on both sides of the base film 1 (although the coating layer may also be on only one side of the base film), a positive electrode 3 , and a negative electrode 4 , and an electrolyte 5 . The electrochemical battery 10 of FIG. 1 is merely a representation and various elements that may be included in the electrochemical battery 10 (e.g., a case, a cap plate, terminals, etc.) are not illustrated.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/e9/4a/f7/d2a78ac6f9673e/US09401505-20160726-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/8d/f4/de/ef6c9a244ad37a/US9401505.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"7c6d0626d3072a561f97807067243eee\"",
+        "last_modified": "Thu, 19 Oct 2017 18:31:23 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/7724fc57779b16d7077a33835beb2e8502dfdd48dfe327e1fc6f24e8ab3e25e9.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:21.235388+00:00",
+        "sha256": "7724fc57779b16d7077a33835beb2e8502dfdd48dfe327e1fc6f24e8ab3e25e9",
+        "source": "patent_pdf",
+        "source_id": "669a89b0493264bfe265d0bbfc71e21593372951ad851b7b277b7addeac1ddd8",
+        "url": "https://patentimages.storage.googleapis.com/8d/f4/de/ef6c9a244ad37a/US9401505.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US9401505B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/03e5ce79627f4c374c70a7b5ab5c1a960dbc498b8a2696edc0aecb5a67c1fcdd.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:20.369295+00:00",
+    "sha256": "03e5ce79627f4c374c70a7b5ab5c1a960dbc498b8a2696edc0aecb5a67c1fcdd",
+    "source": "patents",
+    "source_id": "c2b9ab983fc85e5fbff2d2f14ce0d0d296bcf7ff5c5e2508d485a89670abe0e0",
+    "url": "https://patents.google.com/patent/US9401505B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "dac28026feb2db11b022f8fe17bc5a66d1a9002f8302e29a859ab5bd6770b94a",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "c2b9ab983fc85e5fbff2d2f14ce0d0d296bcf7ff5c5e2508d485a89670abe0e0",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/03e5ce79627f4c374c70a7b5ab5c1a960dbc498b8a2696edc0aecb5a67c1fcdd.bin",
+      "source_id": "c2b9ab983fc85e5fbff2d2f14ce0d0d296bcf7ff5c5e2508d485a89670abe0e0",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "03e5ce79627f4c374c70a7b5ab5c1a960dbc498b8a2696edc0aecb5a67c1fcdd",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US9401505B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

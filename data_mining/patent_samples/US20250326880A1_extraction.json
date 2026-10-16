@@ -1,0 +1,812 @@
+{
+  "publication_number": "US-2025326880-A1",
+  "title": "(Ultra)high molecular weight polyethylene-based block copolymer, manufacturing method thereof, and secondary battery separator fabricated using same as raw material",
+  "publication_date": "2025-10-23",
+  "source_type": "patent",
+  "source_url": "https://patents.google.com/patent/US20250326880A1/en",
+  "text_source_url": "https://patents.justia.com/patent/20250326880",
+  "retrieved_at": "2026-10-12",
+  "extraction_method": "Manual structured extraction of Table 1 and test methods from the public patent text; cross-checked against the full-text record acquired from the official Google Patents BigQuery table.",
+  "measurements": [
+    {
+      "embodiment": 1,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 50.5,
+        "polypropylene": 49.5
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.43,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1050000,
+      "puncture_strength": {
+        "reported_value": 363,
+        "reported_unit": "gf",
+        "normalized_value": 3.559814,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1049,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 102.871758,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 45,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 1; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 200,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 2,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 24.8,
+        "polypropylene": 75.2
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.42,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1274000,
+      "puncture_strength": {
+        "reported_value": 531,
+        "reported_unit": "gf",
+        "normalized_value": 5.207331,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1705,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 167.203383,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 52,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 2; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 100,
+        "ethylene_feed_rate_ml_min": 500,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 750,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 3,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 76.1,
+        "polypropylene": 23.9
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.41,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 828000,
+      "puncture_strength": {
+        "reported_value": 87,
+        "reported_unit": "gf",
+        "normalized_value": 0.853179,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 987,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 96.791635,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 38,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 3; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 300,
+        "ethylene_feed_rate_ml_min": 1100,
+        "first_stage_duration_min": 120,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 60,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 4,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 4.9,
+        "polypropylene": 95.1
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.46,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1476000,
+      "puncture_strength": {
+        "reported_value": 367,
+        "reported_unit": "gf",
+        "normalized_value": 3.599041,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1143,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 112.09001,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 62,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 4; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 20,
+        "ethylene_feed_rate_ml_min": 300,
+        "first_stage_duration_min": 30,
+        "propylene_feed_rate_ml_min": 730,
+        "second_stage_duration_min": 150,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 5,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 94.8,
+        "polypropylene": 5.2
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.39,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 647000,
+      "puncture_strength": {
+        "reported_value": 38,
+        "reported_unit": "gf",
+        "normalized_value": 0.372653,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 238,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 23.339827,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 27,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 5; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 380,
+        "ethylene_feed_rate_ml_min": 1400,
+        "first_stage_duration_min": 120,
+        "propylene_feed_rate_ml_min": 200,
+        "second_stage_duration_min": 30,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 6,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 51.3,
+        "polypropylene": 48.7
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.42,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1050000,
+      "puncture_strength": {
+        "reported_value": 481,
+        "reported_unit": "gf",
+        "normalized_value": 4.716999,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1511,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 148.178482,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 53,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 6; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 0,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 7,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 53.0,
+        "polypropylene": 47.0
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.4,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 2060000,
+      "puncture_strength": {
+        "reported_value": 472,
+        "reported_unit": "gf",
+        "normalized_value": 4.628739,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1409,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 138.175699,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 76,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 7; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 55,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 0,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 8,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 50.3,
+        "polypropylene": 49.7
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.41,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1634000,
+      "puncture_strength": {
+        "reported_value": 559,
+        "reported_unit": "gf",
+        "normalized_value": 5.481917,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1811,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 177.598432,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 81,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 8; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": 70,
+        "fourth_stage_temperature_C": 70,
+        "hydrogen_added_ml_first_stage": 0,
+        "ethylene_feed_rate_ml_min": 700,
+        "first_stage_duration_min": 60,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 60,
+        "third_stage_duration_min": 60,
+        "fourth_stage_duration_min": 60,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 9,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 70.3,
+        "polypropylene": 29.7
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.38,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1320000,
+      "puncture_strength": {
+        "reported_value": 382,
+        "reported_unit": "gf",
+        "normalized_value": 3.74614,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1325,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 129.938112,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 63,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 9; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 200,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 10,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 76.1,
+        "polypropylene": 23.9
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.39,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1830000,
+      "puncture_strength": {
+        "reported_value": 331,
+        "reported_unit": "gf",
+        "normalized_value": 3.246001,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1287,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 126.211585,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 83,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 10; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 200,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "embodiment": 11,
+      "separator_construction": "separator fabricated using (ultra)high-molecular-weight polyethylene-based polyethylene/polypropylene block copolymer",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 52.3,
+        "polypropylene": 47.7
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.36,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 2320000,
+      "puncture_strength": {
+        "reported_value": 513,
+        "reported_unit": "gf",
+        "normalized_value": 5.030811,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 1589,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 155.827668,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 78,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "source_locator": "Table 1, Embodiment 11; separator physical-property measurement methods, the section “Method for Measuring Physical Properties of Secondary Battery Separator”.",
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 30,
+        "second_stage_temperature_C": 30,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 0,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Embodiments section and Table 1; manufacturing temperature columns distinguish first and second stages."
+      },
+      "elongation_measurement_temperature_C": 23
+    },
+    {
+      "comparison_example": 1,
+      "record_role": "comparative example",
+      "separator_construction": "physical mixture of commercial polyethylene and UHMW polypropylene",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 50.0,
+        "polypropylene": 50.0
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.45,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 950000,
+      "puncture_strength": {
+        "reported_value": 139,
+        "reported_unit": "gf",
+        "normalized_value": 1.363124,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 365,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 35.794272,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 51,
+      "elongation_measurement_temperature_C": 23,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "polymerization_conditions": null,
+      "source_locator": "Table 1, Comparative Example 1; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    },
+    {
+      "comparison_example": 2,
+      "record_role": "comparative example",
+      "separator_construction": "physical mixture of commercial polyethylene and UHMW polypropylene",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 50.0,
+        "polypropylene": 50.0
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.44,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1740000,
+      "puncture_strength": {
+        "reported_value": 158,
+        "reported_unit": "gf",
+        "normalized_value": 1.549451,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 383,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 37.559469,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 47,
+      "elongation_measurement_temperature_C": 23,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "polymerization_conditions": null,
+      "source_locator": "Table 1, Comparative Example 2; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    },
+    {
+      "comparison_example": 3,
+      "record_role": "comparative example",
+      "separator_construction": "physical mixture of commercial polyethylene and UHMW polypropylene",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 45.0,
+        "polypropylene": 55.0
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.43,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1725000,
+      "puncture_strength": {
+        "reported_value": 214,
+        "reported_unit": "gf",
+        "normalized_value": 2.098623,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 577,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 56.58437,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 55,
+      "elongation_measurement_temperature_C": 23,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "polymerization_conditions": null,
+      "source_locator": "Table 1, Comparative Example 3; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    },
+    {
+      "comparison_example": 4,
+      "record_role": "comparative example",
+      "separator_construction": "physical mixture of commercial polyethylene and UHMW polypropylene",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 40.0,
+        "polypropylene": 60.0
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.44,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1700000,
+      "puncture_strength": {
+        "reported_value": 230,
+        "reported_unit": "gf",
+        "normalized_value": 2.25553,
+        "normalized_unit": "N",
+        "method": "Maximum puncture load; KES-G5 handy compression tester; 0.5 mm needle-tip radius; 2 mm/s; 11.3 mm specimen-holder aperture with silicone packing.",
+        "measurement_temperature_C": null
+      },
+      "tensile_strength": {
+        "reported_value": 547,
+        "reported_unit": "kgf/cm2",
+        "normalized_value": 53.642375,
+        "normalized_unit": "MPa",
+        "method": "ASTM D882 (1997); Instron-type tester; 10 mm x 50 mm specimen; 100 mm/min; mean of five measurements; 23 C and 65% RH.",
+        "measurement_temperature_C": 23
+      },
+      "elongation_reported_pct": 45,
+      "elongation_measurement_temperature_C": 23,
+      "elongation_note": "Not treated as a separator measurement: the stated method tests a No. 2 specimen punched from a 1 mm-thick pressed sheet, at 23 C.",
+      "electrolyte_condition": null,
+      "polymerization_conditions": null,
+      "source_locator": "Table 1, Comparative Example 4; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    },
+    {
+      "comparison_example": 5,
+      "record_role": "comparative example",
+      "separator_construction": "polymerization control; separator strengths not reported",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 99.1,
+        "polypropylene": 0.9
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.18,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 80000,
+      "puncture_strength": null,
+      "tensile_strength": null,
+      "elongation_reported_pct": null,
+      "elongation_measurement_temperature_C": null,
+      "elongation_note": null,
+      "electrolyte_condition": null,
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 200,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Comparative Example 5; stated as Embodiment 1 conditions except for catalyst/promoter amount."
+      },
+      "source_locator": "Table 1, Comparative Example 5; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    },
+    {
+      "comparison_example": 6,
+      "record_role": "comparative example",
+      "separator_construction": "polymerization control; separator strengths not reported",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 53.0,
+        "polypropylene": 47.0
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.22,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 684000,
+      "puncture_strength": null,
+      "tensile_strength": null,
+      "elongation_reported_pct": null,
+      "elongation_measurement_temperature_C": null,
+      "elongation_note": null,
+      "electrolyte_condition": null,
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 200,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Comparative Example 6; stated as Embodiment 1 conditions except for catalyst/promoter amount."
+      },
+      "source_locator": "Table 1, Comparative Example 6; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    },
+    {
+      "comparison_example": 7,
+      "record_role": "comparative example",
+      "separator_construction": "polymerization control; separator strengths not reported",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 98.3,
+        "polypropylene": 1.7
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.16,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 1240000,
+      "puncture_strength": null,
+      "tensile_strength": null,
+      "elongation_reported_pct": null,
+      "elongation_measurement_temperature_C": null,
+      "elongation_note": null,
+      "electrolyte_condition": null,
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 200,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Comparative Example 7; stated as Embodiment 1 conditions except for catalyst/promoter amount."
+      },
+      "source_locator": "Table 1, Comparative Example 7; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    },
+    {
+      "comparison_example": 8,
+      "record_role": "comparative example",
+      "separator_construction": "polymerization control; separator strengths not reported",
+      "block_copolymer_composition_wt_pct": {
+        "polyethylene": 82.1,
+        "polypropylene": 17.9
+      },
+      "block_copolymer_apparent_density_g_cm3": 0.19,
+      "block_copolymer_viscosity_average_molecular_weight_g_mol": 834000,
+      "puncture_strength": null,
+      "tensile_strength": null,
+      "elongation_reported_pct": null,
+      "elongation_measurement_temperature_C": null,
+      "elongation_note": null,
+      "electrolyte_condition": null,
+      "polymerization_conditions": {
+        "temperature_role": "manufacturing process temperature, not separator property measurement temperature",
+        "first_stage_temperature_C": 70,
+        "second_stage_temperature_C": 70,
+        "third_stage_temperature_C": null,
+        "fourth_stage_temperature_C": null,
+        "hydrogen_added_ml_first_stage": 200,
+        "ethylene_feed_rate_ml_min": 1050,
+        "first_stage_duration_min": 85,
+        "propylene_feed_rate_ml_min": 500,
+        "second_stage_duration_min": 120,
+        "third_stage_duration_min": null,
+        "fourth_stage_duration_min": null,
+        "source_locator": "Comparative Example 8; stated as Embodiment 1 conditions except for catalyst/promoter amount."
+      },
+      "source_locator": "Table 1, Comparative Example 8; physical-property methods in the section “Method for Measuring Physical Properties of Secondary Battery Separator”."
+    }
+  ],
+  "provenance_notes": [
+    "Experimental embodiments and their separator strength results, not claims-only ranges.",
+    "The copolymer contains both polyethylene and polypropylene; do not treat these rows as pure polyethylene separator measurements.",
+    "The publication does not state whether separator strength specimens were electrolyte-soaked. Wet/dry assignment is therefore unresolved.",
+    "Tensile strength conversion: kgf/cm2 × 0.0980665 = MPa. Puncture conversion: gf × 0.00980665 = N.",
+    "Elongation is excluded from separator properties because its method explicitly uses a 1 mm-thick pressed-sheet specimen.",
+    "No separator thickness, porosity, pore size, thermal shrinkage, or temperature-dependent measurements were extracted from this table.",
+    "Polymerization-stage temperatures and associated feed/duration conditions were added from the embodiment descriptions and Table 1. They describe synthesis, not property-test temperature.",
+    "The eight Comparative Example rows were added from Table 1. Comparative Examples 1-4 are physical PE/UHMWPP mixtures; Comparative Examples 5-8 are polymerization controls and have no separator puncture, tensile, or elongation results reported."
+  ],
+  "table_excerpt": "Table 1; source publication text; row values preserved in normalized fields and original reported units.",
+  "temperature_coverage": {
+    "separator_tensile_test_C": 23,
+    "separator_puncture_test_C": null,
+    "block_copolymer_manufacturing_temperature_C": "recorded per embodiment and polymerization stage in each row",
+    "elongation_test_C": 23,
+    "elongation_specimen": "No. 2 specimen punched from 1 mm-thick pressed sheet; not the battery separator",
+    "interpretation": "Manufacturing temperatures are process conditions and are not temperature-dependent separator property measurements."
+  },
+  "table_coverage": "All 11 embodiments and all 8 comparative examples reported in Table 1 are represented; comparative examples 5-8 have no reported separator strength values.",
+  "full_text_acquisition": {
+    "source_table": "patents-public-data.patents.publications",
+    "publication_number": "US-2025326880-A1",
+    "job_id": "9be2382a-ed6f-489d-919a-f1ca5d3ea90e",
+    "bytes_processed": 1537666943769,
+    "bytes_billed": 1537667497984,
+    "maximum_bytes_billed": 1537667497984,
+    "retrieved_at": "2026-10-12T19:55:51.284339+00:00",
+    "saved_record": "US20250326880A1_bigquery_fulltext.json"
+  }
+}

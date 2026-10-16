@@ -1,0 +1,311 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Thermal",
+          ""
+        ],
+        [
+          "",
+          "Thickness",
+          "",
+          "shrinkage of",
+          "Electrolyte"
+        ],
+        [
+          "",
+          "of coating",
+          "Loading",
+          "separator (%)",
+          "Wettability"
+        ],
+        [
+          "",
+          "layer (μm)",
+          "amount (g/m 2 )",
+          "TD",
+          "MD",
+          "(sec)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Example 1",
+          "4.5",
+          "7.9",
+          "9.5",
+          "15.0",
+          "63"
+        ],
+        [
+          "Example 2",
+          "4.4",
+          "8.1",
+          "8.5",
+          "12.5",
+          "51"
+        ],
+        [
+          "Example 3",
+          "4.6",
+          "8.2",
+          "7.0",
+          "9.5",
+          "32"
+        ],
+        [
+          "Comparative",
+          "4.3",
+          "8.1",
+          "21.5",
+          "25.0",
+          "85"
+        ],
+        [
+          "Example 2"
+        ],
+        [
+          "Comparative",
+          "4.6",
+          "8.3",
+          "5.0",
+          "7.0",
+          "187"
+        ],
+        [
+          "Example 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thermal</td>\n<td class=\"description-td\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">shrinkage of</td>\n<td class=\"description-td\">Electrolyte</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">of coating</td>\n<td class=\"description-td\">Loading</td>\n<td class=\"description-td\">separator (%)</td>\n<td class=\"description-td\">Wettability</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">layer (μm)</td>\n<td class=\"description-td\">amount (g/m<sup>2</sup>)</td>\n<td class=\"description-td\">TD</td>\n<td class=\"description-td\">MD</td>\n<td class=\"description-td\">(sec)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Example 1</td>\n<td class=\"description-td\">4.5</td>\n<td class=\"description-td\">7.9</td>\n<td class=\"description-td\">9.5</td>\n<td class=\"description-td\">15.0</td>\n<td class=\"description-td\">63</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n<td class=\"description-td\">4.4</td>\n<td class=\"description-td\">8.1</td>\n<td class=\"description-td\">8.5</td>\n<td class=\"description-td\">12.5</td>\n<td class=\"description-td\">51</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n<td class=\"description-td\">4.6</td>\n<td class=\"description-td\">8.2</td>\n<td class=\"description-td\">7.0</td>\n<td class=\"description-td\">9.5</td>\n<td class=\"description-td\">32</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">4.3</td>\n<td class=\"description-td\">8.1</td>\n<td class=\"description-td\">21.5</td>\n<td class=\"description-td\">25.0</td>\n<td class=\"description-td\">85</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Comparative</td>\n<td class=\"description-td\">4.6</td>\n<td class=\"description-td\">8.3</td>\n<td class=\"description-td\">5.0</td>\n<td class=\"description-td\">7.0</td>\n<td class=\"description-td\">187</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Example 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Parameter",
+          "Condition"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Column",
+          "Front: HP-INNOWax (length 30M, ID 0.53 mm,"
+        ],
+        [
+          "",
+          "Film thickness 1.00 μm)"
+        ],
+        [
+          "",
+          "Back: HP-1 (length 30M, ID 0.53 mm,"
+        ],
+        [
+          "",
+          "Film thickness 0.88 μm)"
+        ],
+        [
+          "Temperature and time",
+          "40° C. (4 min) → 20° C./"
+        ],
+        [
+          "",
+          "min → 250° C. (4 min)"
+        ],
+        [
+          "Flow rate",
+          "10 mL/min"
+        ],
+        [
+          "Injector",
+          "S/SL Injector"
+        ],
+        [
+          "Split ratio",
+          "5:1"
+        ],
+        [
+          "Detector",
+          "FID"
+        ],
+        [
+          "Injection volume"
+        ],
+        [
+          "",
+          "1 μl"
+        ],
+        [
+          "Injector temperature",
+          "200° C."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<figure-callout filenames=\"US20130224554A1-20130829-D00000.png,US20130224554A1-20130829-D00001.png\" id=\"1\" label=\"FID Injection volume\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US20130224554A1-20130829-D00000.png,US20130224554A1-20130829-D00001.png\" id=\"1\" label=\"FID Injection volume\" state=\"{{state}}\">\n</figure-callout><table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Parameter</td>\n<td class=\"description-td\">Condition</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Column</td>\n<td class=\"description-td\">Front: HP-INNOWax (length 30M, ID 0.53 mm,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Film thickness 1.00 μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Back: HP-1 (length 30M, ID 0.53 mm,</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Film thickness 0.88 μm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Temperature and time</td>\n<td class=\"description-td\">40° C. (4 min) → 20° C./</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">min → 250° C. (4 min)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> <figure-callout filenames=\"US20130224554A1-20130829-D00000.png,US20130224554A1-20130829-D00001.png\" id=\"10\" label=\"Flow rate\" state=\"{{state}}\">Flow rate</figure-callout> </td>\n<td class=\"description-td\">10 mL/min</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Injector</td>\n<td class=\"description-td\">S/SL Injector</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Split ratio</td>\n<td class=\"description-td\">5:1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Detector</td>\n<td class=\"description-td\"> <figure-callout filenames=\"US20130224554A1-20130829-D00000.png,US20130224554A1-20130829-D00001.png\" id=\"1\" label=\"FID Injection volume\" state=\"{{state}}\">FID</figure-callout> </td> </tr> <tr class=\"description-tr\">\n<td class=\"description-td\">Injection volume</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td>\n<td class=\"description-td\">1 μl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Injector temperature</td>\n<td class=\"description-td\">200° C.</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"2\" nameend=\"2\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "In accordance with an embodiment, an electrochemical battery may include a polyolefin porous separator including the coating layer, a positive electrode, and a negative electrode, and the electrochemical battery may be filled with an electrolyte. FIG. 1 illustrates an electrochemical battery 10 according to an embodiment. The electrochemical battery 10 may include a separator including a base film 1 , a coating layer 2 a and 2 b on both sides of the base film 1 (although the coating layer may also be on only one side of the base film), a positive electrode 3 , a negative electrode 4 , and an electrolyte 5 . The electrochemical battery 10 of FIG. 1 is merely a representation and various elements that may be included in the electrochemical battery 10 (e.g., a case, a cap plate, terminals, etc.) are not illustrated. A suitable type of electrochemical battery may be used without limitation. Examples of the electrochemical battery may include lithium rechargeable batteries, such as lithium metal rechargeable batteries, lithium ion rechargeable batteries, lithium polymer rechargeable batteries, lithium ion polymer rechargeable batteries, and the like.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/21/a2/dd/845436b5e43559/US20130224554A1-20130829-D00000.png"
+    },
+    {
+      "caption": "In accordance with an embodiment, an electrochemical battery may include a polyolefin porous separator including the coating layer, a positive electrode, and a negative electrode, and the electrochemical battery may be filled with an electrolyte. FIG. 1 illustrates an electrochemical battery 10 according to an embodiment. The electrochemical battery 10 may include a separator including a base film 1 , a coating layer 2 a and 2 b on both sides of the base film 1 (although the coating layer may also be on only one side of the base film), a positive electrode 3 , a negative electrode 4 , and an electrolyte 5 . The electrochemical battery 10 of FIG. 1 is merely a representation and various elements that may be included in the electrochemical battery 10 (e.g., a case, a cap plate, terminals, etc.) are not illustrated. A suitable type of electrochemical battery may be used without limitation. Examples of the electrochemical battery may include lithium rechargeable batteries, such as lithium metal rechargeable batteries, lithium ion rechargeable batteries, lithium polymer rechargeable batteries, lithium ion polymer rechargeable batteries, and the like.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/9b/3d/6a/7cbaf8255e51be/US20130224554A1-20130829-D00001.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/1a/05/12/d9fd2abe2bf394/US20130224554A1.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"8ca3fddc40ad618e373b61e8051005b7\"",
+        "last_modified": "Thu, 19 Oct 2017 15:51:35 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/3e6effd091d989207a926d5380ecd9a536cc906cd7ffef2220659714cade5d6a.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:26:32.571102+00:00",
+        "sha256": "3e6effd091d989207a926d5380ecd9a536cc906cd7ffef2220659714cade5d6a",
+        "source": "patent_pdf",
+        "source_id": "252622a2961cafbef792b6bf31800de0596f99c993f7397a1b5ecd88209142db",
+        "url": "https://patentimages.storage.googleapis.com/1a/05/12/d9fd2abe2bf394/US20130224554A1.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20130224554A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/00186a663a7004d18cadc1718cc86e2c9cf4b496b670d07c222386dbeb021232.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:26:31.494170+00:00",
+    "sha256": "00186a663a7004d18cadc1718cc86e2c9cf4b496b670d07c222386dbeb021232",
+    "source": "patents",
+    "source_id": "0f570828b9f807e068154c048e63f042552b7a609320d7c4ab5f5e087644faf8",
+    "url": "https://patents.google.com/patent/US20130224554A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "049aa1af820d9f2c2193afe42f5b83eb6bcb94d3bd5f386db5e17497320af3b5",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "0f570828b9f807e068154c048e63f042552b7a609320d7c4ab5f5e087644faf8",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/00186a663a7004d18cadc1718cc86e2c9cf4b496b670d07c222386dbeb021232.bin",
+      "source_id": "0f570828b9f807e068154c048e63f042552b7a609320d7c4ab5f5e087644faf8",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "00186a663a7004d18cadc1718cc86e2c9cf4b496b670d07c222386dbeb021232",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20130224554A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

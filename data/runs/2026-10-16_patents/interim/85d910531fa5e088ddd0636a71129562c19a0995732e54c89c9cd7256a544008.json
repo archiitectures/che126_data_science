@@ -1,0 +1,1092 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Primary",
+          "Secondary",
+          ""
+        ],
+        [
+          "",
+          "Fine particulate",
+          "particle size",
+          "particle size",
+          "Porosity"
+        ],
+        [
+          "Paste",
+          "filler material",
+          "(μm)",
+          "(μm)",
+          "(vol %)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A1",
+          "Alumina joined",
+          "0.1",
+          "0.5",
+          "60"
+        ],
+        [
+          "",
+          "particles"
+        ],
+        [
+          "A2",
+          "Titanium oxide",
+          "0.1",
+          "0.5",
+          "58"
+        ],
+        [
+          "",
+          "joined particles"
+        ],
+        [
+          "A3",
+          "Zirconium oxide",
+          "0.1",
+          "0.5",
+          "56"
+        ],
+        [
+          "",
+          "joined particles"
+        ],
+        [
+          "A4",
+          "Magnesium oxide",
+          "0.1",
+          "0.5",
+          "56"
+        ],
+        [
+          "",
+          "joined particles"
+        ],
+        [
+          "A5",
+          "Zinc oxide joined",
+          "0.1",
+          "0.5",
+          "57"
+        ],
+        [
+          "",
+          "particles"
+        ],
+        [
+          "A6",
+          "Silicon dioxide",
+          "0.1",
+          "0.5",
+          "58"
+        ],
+        [
+          "",
+          "joined particles"
+        ],
+        [
+          "A7",
+          "Silicon monoxide",
+          "0.1",
+          "0.5",
+          "57"
+        ],
+        [
+          "",
+          "joined particles"
+        ],
+        [
+          "B1",
+          "Alumina spherical",
+          "0.5",
+          "—",
+          "44"
+        ],
+        [
+          "",
+          "particles"
+        ],
+        [
+          "B2",
+          "Alumina aggregated",
+          "0.1",
+          "0.5",
+          "45"
+        ],
+        [
+          "",
+          "particles"
+        ],
+        [
+          "",
+          "(vibration mill)"
+        ],
+        [
+          "B3",
+          "Alumina aggregated",
+          "0.1",
+          "0.5",
+          "44"
+        ],
+        [
+          "",
+          "particles (binder)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\">TABLE 1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Primary</td> <td class=\"description-td\">Secondary</td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate</td> <td class=\"description-td\">particle size</td> <td class=\"description-td\">particle size</td> <td class=\"description-td\">Porosity</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Paste</td> <td class=\"description-td\">filler material</td> <td class=\"description-td\">(μm)</td> <td class=\"description-td\">(μm)</td> <td class=\"description-td\">(vol %)</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">A1</td> <td class=\"description-td\">Alumina joined</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">60</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">A2</td> <td class=\"description-td\">Titanium oxide</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">58</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">joined particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">A3</td> <td class=\"description-td\">Zirconium oxide</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">56</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">joined particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">A4</td> <td class=\"description-td\">Magnesium oxide</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">56</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">joined particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">A5</td> <td class=\"description-td\">Zinc oxide joined</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">57</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">A6</td> <td class=\"description-td\">Silicon dioxide</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">58</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">joined particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">A7</td> <td class=\"description-td\">Silicon monoxide</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">57</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">joined particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">B1</td> <td class=\"description-td\">Alumina spherical</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">—</td> <td class=\"description-td\">44</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">B2</td> <td class=\"description-td\">Alumina aggregated</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">45</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">(vibration mill)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">B3</td> <td class=\"description-td\">Alumina aggregated</td> <td class=\"description-td\">0.1</td> <td class=\"description-td\">0.5</td> <td class=\"description-td\">44</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">particles (binder)</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Fine particulate filler-containing layer",
+          "Maximum temperature in",
+          "2C rate",
+          "Initial"
+        ],
+        [
+          "",
+          "",
+          "Fine particulate filler",
+          "Amount of",
+          "nail penetration test",
+          "characteristics",
+          "irreversible"
+        ],
+        [
+          "",
+          "Paste",
+          "material",
+          "binder (wt %)",
+          "(° C.)",
+          "at 0° C. (%)",
+          "capacity (mAh)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 1",
+          "A1",
+          "Alumina joined particles",
+          "4",
+          "91",
+          "93",
+          "143"
+        ],
+        [
+          "Ex. 2",
+          "A2",
+          "Titanium oxide joined",
+          "4",
+          "92",
+          "91",
+          "144"
+        ],
+        [
+          "",
+          "",
+          "particles"
+        ],
+        [
+          "Ex. 3",
+          "A3",
+          "Zirconium oxide joined",
+          "4",
+          "94",
+          "90",
+          "145"
+        ],
+        [
+          "",
+          "",
+          "particles"
+        ],
+        [
+          "Ex. 4",
+          "A4",
+          "Magnesium oxide joined",
+          "4",
+          "93",
+          "87",
+          "175"
+        ],
+        [
+          "",
+          "",
+          "particles"
+        ],
+        [
+          "Ex. 5",
+          "A5",
+          "Zinc oxide joined particles",
+          "4",
+          "92",
+          "88",
+          "162"
+        ],
+        [
+          "Ex. 6",
+          "A6",
+          "Silicon dioxide joined",
+          "4",
+          "95",
+          "92",
+          "144"
+        ],
+        [
+          "",
+          "",
+          "particles"
+        ],
+        [
+          "Ex. 7",
+          "A7",
+          "Silicon monoxide joined",
+          "4",
+          "92",
+          "83",
+          "500"
+        ],
+        [
+          "",
+          "",
+          "particles"
+        ],
+        [
+          "Comp.",
+          "B1",
+          "Alumina spherical particles",
+          "4",
+          "93",
+          "76",
+          "145"
+        ],
+        [
+          "Ex. 1"
+        ],
+        [
+          "Comp.",
+          "B2",
+          "Alumina aggregated particles",
+          "4",
+          "94",
+          "75",
+          "143"
+        ],
+        [
+          "Ex. 2",
+          "",
+          "(vibration mill)"
+        ],
+        [
+          "Comp.",
+          "B3",
+          "Alumina aggregated particles",
+          "4",
+          "93",
+          "74",
+          "143"
+        ],
+        [
+          "Ex. 3",
+          "",
+          "(binder)"
+        ],
+        [
+          "Comp.",
+          "—",
+          "—",
+          "—",
+          "Not less than",
+          "94",
+          "152"
+        ],
+        [
+          "Ex. 4",
+          "",
+          "",
+          "",
+          "200° C."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\">TABLE 2</td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler-containing layer</td> <td class=\"description-td\">Maximum temperature in</td> <td class=\"description-td\">2C rate</td> <td class=\"description-td\">Initial</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler</td> <td class=\"description-td\">Amount of</td> <td class=\"description-td\">nail penetration test</td> <td class=\"description-td\">characteristics</td> <td class=\"description-td\">irreversible</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Paste</td> <td class=\"description-td\">material</td> <td class=\"description-td\">binder (wt %)</td> <td class=\"description-td\">(° C.)</td> <td class=\"description-td\">at 0° C. (%)</td> <td class=\"description-td\">capacity (mAh)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"6\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"7\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Ex. 1</td> <td class=\"description-td\">A1</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">4</td> <td class=\"description-td\">91</td> <td class=\"description-td\">93</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 2</td> <td class=\"description-td\">A2</td> <td class=\"description-td\">Titanium oxide joined</td> <td class=\"description-td\">4</td> <td class=\"description-td\">92</td> <td class=\"description-td\">91</td> <td class=\"description-td\">144</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 3</td> <td class=\"description-td\">A3</td> <td class=\"description-td\">Zirconium oxide joined</td> <td class=\"description-td\">4</td> <td class=\"description-td\">94</td> <td class=\"description-td\">90</td> <td class=\"description-td\">145</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 4</td> <td class=\"description-td\">A4</td> <td class=\"description-td\">Magnesium oxide joined</td> <td class=\"description-td\">4</td> <td class=\"description-td\">93</td> <td class=\"description-td\">87</td> <td class=\"description-td\">175</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 5</td> <td class=\"description-td\">A5</td> <td class=\"description-td\">Zinc oxide joined particles</td> <td class=\"description-td\">4</td> <td class=\"description-td\">92</td> <td class=\"description-td\">88</td> <td class=\"description-td\">162</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 6</td> <td class=\"description-td\">A6</td> <td class=\"description-td\">Silicon dioxide joined</td> <td class=\"description-td\">4</td> <td class=\"description-td\">95</td> <td class=\"description-td\">92</td> <td class=\"description-td\">144</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 7</td> <td class=\"description-td\">A7</td> <td class=\"description-td\">Silicon monoxide joined</td> <td class=\"description-td\">4</td> <td class=\"description-td\">92</td> <td class=\"description-td\">83</td> <td class=\"description-td\">500</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">B1</td> <td class=\"description-td\">Alumina spherical particles</td> <td class=\"description-td\">4</td> <td class=\"description-td\">93</td> <td class=\"description-td\">76</td> <td class=\"description-td\">145</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 1</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">B2</td> <td class=\"description-td\">Alumina aggregated particles</td> <td class=\"description-td\">4</td> <td class=\"description-td\">94</td> <td class=\"description-td\">75</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 2</td> <td class=\"description-td\"> </td> <td class=\"description-td\">(vibration mill)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">B3</td> <td class=\"description-td\">Alumina aggregated particles</td> <td class=\"description-td\">4</td> <td class=\"description-td\">93</td> <td class=\"description-td\">74</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 3</td> <td class=\"description-td\"> </td> <td class=\"description-td\">(binder)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">—</td> <td class=\"description-td\">—</td> <td class=\"description-td\">—</td> <td class=\"description-td\">Not less than</td> <td class=\"description-td\">94</td> <td class=\"description-td\">152</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 4</td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">200° C.</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"7\" nameend=\"7\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Fine particulate filler-containing layer",
+          "Maximum temperature in",
+          "2C rate",
+          "Initial"
+        ],
+        [
+          "",
+          "Fine particulate filler",
+          "Amount of",
+          "nail penetration test",
+          "characteristics",
+          "irreversible"
+        ],
+        [
+          "",
+          "material",
+          "binder (wt %)",
+          "(° C.)",
+          "at 0° C. (%)",
+          "capacity (mAh)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 8",
+          "Alumina joined particles",
+          "1",
+          "152",
+          "94",
+          "143"
+        ],
+        [
+          "Ex. 9",
+          "Alumina joined particles",
+          "1.5",
+          "98",
+          "94",
+          "142"
+        ],
+        [
+          "Ex. 1",
+          "Alumina joined particles",
+          "4",
+          "91",
+          "93",
+          "143"
+        ],
+        [
+          "Ex. 10",
+          "Alumina joined particles",
+          "5",
+          "92",
+          "92",
+          "144"
+        ],
+        [
+          "Ex. 11",
+          "Alumina joined particles",
+          "8",
+          "94",
+          "91",
+          "143"
+        ],
+        [
+          "Ex. 12",
+          "Alumina joined particles",
+          "10",
+          "95",
+          "89",
+          "142"
+        ],
+        [
+          "Ex. 13",
+          "Alumina joined particles",
+          "15",
+          "134",
+          "82",
+          "143"
+        ],
+        [
+          "Ex. 14",
+          "Alumina joined particles",
+          "50",
+          "160",
+          "80",
+          "143"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\">TABLE 3</td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler-containing layer</td> <td class=\"description-td\">Maximum temperature in</td> <td class=\"description-td\">2C rate</td> <td class=\"description-td\">Initial</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler</td> <td class=\"description-td\">Amount of</td> <td class=\"description-td\">nail penetration test</td> <td class=\"description-td\">characteristics</td> <td class=\"description-td\">irreversible</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">material</td> <td class=\"description-td\">binder (wt %)</td> <td class=\"description-td\">(° C.)</td> <td class=\"description-td\">at 0° C. (%)</td> <td class=\"description-td\">capacity (mAh)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Ex. 8</td> <td class=\"description-td\">Alumina joined <figure-callout filenames=\"US20080070107A1-20080320-D00001.png\" id=\"1\" label=\"particles\" state=\"{{state}}\">particles</figure-callout> </td> <td class=\"description-td\">1</td> <td class=\"description-td\">152</td> <td class=\"description-td\">94</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 9</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">1.5</td> <td class=\"description-td\">98</td> <td class=\"description-td\">94</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 1</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">4</td> <td class=\"description-td\">91</td> <td class=\"description-td\">93</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 10</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">5</td> <td class=\"description-td\">92</td> <td class=\"description-td\">92</td> <td class=\"description-td\">144</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 11</td> <td class=\"description-td\">Alumina joined <figure-callout filenames=\"US20080070107A1-20080320-D00001.png\" id=\"8\" label=\"particles\" state=\"{{state}}\">particles</figure-callout> </td> <td class=\"description-td\">8</td> <td class=\"description-td\">94</td> <td class=\"description-td\">91</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 12</td> <td class=\"description-td\">Alumina joined <figure-callout filenames=\"US20080070107A1-20080320-D00000.png,US20080070107A1-20080320-D00001.png\" id=\"10\" label=\"particles\" state=\"{{state}}\">particles</figure-callout> </td> <td class=\"description-td\">10</td> <td class=\"description-td\">95</td> <td class=\"description-td\">89</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 13</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">15</td> <td class=\"description-td\">134</td> <td class=\"description-td\">82</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 14</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">50</td> <td class=\"description-td\">160</td> <td class=\"description-td\">80</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Fine particulate filler-containing layer",
+          "Maximum temperature in",
+          "2C rate",
+          "Initial"
+        ],
+        [
+          "",
+          "Fine particulate filler",
+          "Heat resistant",
+          "nail penetration test",
+          "characteristics",
+          "irreversible"
+        ],
+        [
+          "",
+          "material",
+          "resin material",
+          "(° C.)",
+          "at 0° C. (%)",
+          "capacity (mAh)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 15",
+          "Alumina joined particles",
+          "Aramid",
+          "86",
+          "91",
+          "142"
+        ],
+        [
+          "Ex. 16",
+          "Titanium oxide joined particles",
+          "Aramid",
+          "87",
+          "89",
+          "145"
+        ],
+        [
+          "Ex. 17",
+          "Zirconium oxide joined particles",
+          "Aramid",
+          "89",
+          "88",
+          "142"
+        ],
+        [
+          "Ex. 18",
+          "Magnesium oxide joined particles",
+          "Aramid",
+          "89",
+          "85",
+          "176"
+        ],
+        [
+          "Ex. 19",
+          "Zinc oxide joined particles",
+          "Aramid",
+          "87",
+          "86",
+          "165"
+        ],
+        [
+          "Ex. 20",
+          "Silicon dioxide joined particles",
+          "Aramid",
+          "90",
+          "90",
+          "149"
+        ],
+        [
+          "Ex. 21",
+          "Silicon monoxide joined particles",
+          "Aramid",
+          "87",
+          "81",
+          "500"
+        ],
+        [
+          "Comp.",
+          "Alumina spherical particles",
+          "Aramid",
+          "89",
+          "74",
+          "143"
+        ],
+        [
+          "Ex. 5"
+        ],
+        [
+          "Comp.",
+          "Alumina aggregated particles",
+          "Aramid",
+          "89",
+          "73",
+          "145"
+        ],
+        [
+          "Ex. 6",
+          "(vibration mill)"
+        ],
+        [
+          "Comp.",
+          "Alumina aggregated particles",
+          "Aramid",
+          "89",
+          "72",
+          "146"
+        ],
+        [
+          "Ex. 7",
+          "(binder)"
+        ],
+        [
+          "Ex. 22",
+          "Alumina joined particles",
+          "Polyimide",
+          "83",
+          "85",
+          "143"
+        ],
+        [
+          "Ex. 23",
+          "Alumina joined particles",
+          "Polyamide",
+          "89",
+          "86",
+          "145"
+        ],
+        [
+          "",
+          "",
+          "imide"
+        ],
+        [
+          "Ex. 24",
+          "Alumina joined particles",
+          "Polyarylate",
+          "135",
+          "86",
+          "145"
+        ],
+        [
+          "Comp.",
+          "Alumina joined particles",
+          "Polyvinylidene",
+          "Not less than",
+          "84",
+          "150"
+        ],
+        [
+          "Ex. 8",
+          "",
+          "fluoride",
+          "200° C."
+        ],
+        [
+          "Comp.",
+          "—",
+          "Aramid",
+          "84",
+          "61",
+          "145"
+        ],
+        [
+          "Ex. 9"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\">TABLE 4</td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler-containing layer</td> <td class=\"description-td\">Maximum temperature in</td> <td class=\"description-td\">2C rate</td> <td class=\"description-td\">Initial</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler</td> <td class=\"description-td\">Heat resistant</td> <td class=\"description-td\">nail penetration test</td> <td class=\"description-td\">characteristics</td> <td class=\"description-td\">irreversible</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">material</td> <td class=\"description-td\">resin material</td> <td class=\"description-td\">(° C.)</td> <td class=\"description-td\">at 0° C. (%)</td> <td class=\"description-td\">capacity (mAh)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Ex. 15</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">86</td> <td class=\"description-td\">91</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 16</td> <td class=\"description-td\">Titanium oxide joined particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">87</td> <td class=\"description-td\">89</td> <td class=\"description-td\">145</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 17</td> <td class=\"description-td\">Zirconium oxide joined particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">89</td> <td class=\"description-td\">88</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 18</td> <td class=\"description-td\">Magnesium oxide joined particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">89</td> <td class=\"description-td\">85</td> <td class=\"description-td\">176</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 19</td> <td class=\"description-td\">Zinc oxide joined particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">87</td> <td class=\"description-td\">86</td> <td class=\"description-td\">165</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 20</td> <td class=\"description-td\">Silicon dioxide joined particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">90</td> <td class=\"description-td\">90</td> <td class=\"description-td\">149</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 21</td> <td class=\"description-td\">Silicon monoxide joined particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">87</td> <td class=\"description-td\">81</td> <td class=\"description-td\">500</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">Alumina spherical particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">89</td> <td class=\"description-td\">74</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 5</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">Alumina aggregated particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">89</td> <td class=\"description-td\">73</td> <td class=\"description-td\">145</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 6</td> <td class=\"description-td\">(vibration mill)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">Alumina aggregated particles</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">89</td> <td class=\"description-td\">72</td> <td class=\"description-td\">146</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 7</td> <td class=\"description-td\">(binder)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 22</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">Polyimide</td> <td class=\"description-td\">83</td> <td class=\"description-td\">85</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 23</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">Polyamide</td> <td class=\"description-td\">89</td> <td class=\"description-td\">86</td> <td class=\"description-td\">145</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">imide</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 24</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">Polyarylate</td> <td class=\"description-td\">135</td> <td class=\"description-td\">86</td> <td class=\"description-td\">145</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">Polyvinylidene</td> <td class=\"description-td\">Not less than</td> <td class=\"description-td\">84</td> <td class=\"description-td\">150</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 8</td> <td class=\"description-td\"> </td> <td class=\"description-td\">fluoride</td> <td class=\"description-td\">200° C.</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">—</td> <td class=\"description-td\">Aramid</td> <td class=\"description-td\">84</td> <td class=\"description-td\">61</td> <td class=\"description-td\">145</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 9</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 5",
+          "TABLE 5",
+          "TABLE 5",
+          "TABLE 5",
+          "TABLE 5"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Fine particulate filler-containing layer",
+          "Maximum temperature in",
+          "2C rate",
+          "Initial"
+        ],
+        [
+          "",
+          "Fine particulate filler",
+          "Amount of aramid",
+          "nail penetration test",
+          "characteristics",
+          "irreversible"
+        ],
+        [
+          "",
+          "material",
+          "resin (wt %)",
+          "(° C.)",
+          "at 0° C. (%)",
+          "capacity (mAh)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ex. 25",
+          "Alumina joined particles",
+          "5",
+          "132",
+          "94",
+          "140"
+        ],
+        [
+          "Ex. 26",
+          "Alumina joined particles",
+          "10",
+          "96",
+          "93",
+          "142"
+        ],
+        [
+          "Ex. 27",
+          "Alumina joined particles",
+          "20",
+          "93",
+          "93",
+          "143"
+        ],
+        [
+          "Ex. 15",
+          "Alumina joined particles",
+          "50",
+          "86",
+          "91",
+          "142"
+        ],
+        [
+          "Ex. 28",
+          "Alumina joined particles",
+          "100",
+          "85",
+          "84",
+          "141"
+        ],
+        [
+          "Ex. 29",
+          "Alumina joined particles",
+          "200",
+          "85",
+          "82",
+          "142"
+        ],
+        [
+          "Ex. 30",
+          "Alumina joined particles",
+          "300",
+          "84",
+          "71",
+          "143"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\">TABLE 5</td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler-containing layer</td> <td class=\"description-td\">Maximum temperature in</td> <td class=\"description-td\">2C rate</td> <td class=\"description-td\">Initial</td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate filler</td> <td class=\"description-td\">Amount of aramid</td> <td class=\"description-td\">nail penetration test</td> <td class=\"description-td\">characteristics</td> <td class=\"description-td\">irreversible</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">material</td> <td class=\"description-td\">resin (wt %)</td> <td class=\"description-td\">(° C.)</td> <td class=\"description-td\">at 0° C. (%)</td> <td class=\"description-td\">capacity (mAh)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Ex. 25</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">5</td> <td class=\"description-td\">132</td> <td class=\"description-td\">94</td> <td class=\"description-td\">140</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 26</td> <td class=\"description-td\">Alumina joined <figure-callout filenames=\"US20080070107A1-20080320-D00000.png,US20080070107A1-20080320-D00001.png\" id=\"10\" label=\"particles\" state=\"{{state}}\">particles</figure-callout> </td> <td class=\"description-td\">10</td> <td class=\"description-td\">96</td> <td class=\"description-td\">93</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 27</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">20</td> <td class=\"description-td\">93</td> <td class=\"description-td\">93</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 15</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">50</td> <td class=\"description-td\">86</td> <td class=\"description-td\">91</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 28</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">100</td> <td class=\"description-td\">85</td> <td class=\"description-td\">84</td> <td class=\"description-td\">141</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 29</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">200</td> <td class=\"description-td\">85</td> <td class=\"description-td\">82</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 30</td> <td class=\"description-td\">Alumina joined particles</td> <td class=\"description-td\">300</td> <td class=\"description-td\">84</td> <td class=\"description-td\">71</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Fine particulate",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "filler-containing"
+        ],
+        [
+          "",
+          "",
+          "layer",
+          "Maximum temperature in",
+          "2C rate",
+          "Initial"
+        ],
+        [
+          "",
+          "Material for",
+          "Fine particulate",
+          "nail penetration test",
+          "characteristics",
+          "irreversible"
+        ],
+        [
+          "",
+          "shutdown layer",
+          "filler material",
+          "(° C.)",
+          "at 0° C. (%)",
+          "capacity (mAh)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Ex. 1",
+          "Polyethylene",
+          "Alumina joined",
+          "91",
+          "93",
+          "143"
+        ],
+        [
+          "",
+          "",
+          "particles"
+        ],
+        [
+          "Comp.",
+          "Polyethylene",
+          "Alumina joined",
+          "Not less than",
+          "92",
+          "142"
+        ],
+        [
+          "Ex. 10",
+          "terephthalate",
+          "particles",
+          "200° C."
+        ],
+        [
+          "",
+          "non-woven fabric"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\"> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <thead> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\">TABLE 6</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">Fine particulate</td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">filler-containing</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">layer</td> <td class=\"description-td\">Maximum temperature in</td> <td class=\"description-td\">2C rate</td> <td class=\"description-td\">Initial</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">Material for</td> <td class=\"description-td\">Fine particulate</td> <td class=\"description-td\">nail penetration test</td> <td class=\"description-td\">characteristics</td> <td class=\"description-td\">irreversible</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">shutdown layer</td> <td class=\"description-td\">filler material</td> <td class=\"description-td\">(° C.)</td> <td class=\"description-td\">at 0° C. (%)</td> <td class=\"description-td\">capacity (mAh)</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"OFFSET\" rowsep=\"1\"> </td> </tr> </thead> <tbody><tr class=\"description-tr\"> <td class=\"description-td\"> </td> </tr> </tbody></table> <table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\"> <tbody><tr class=\"description-tr\"> <td class=\"description-td\">Ex. 1</td> <td class=\"description-td\">Polyethylene</td> <td class=\"description-td\">Alumina joined</td> <td class=\"description-td\">91</td> <td class=\"description-td\">93</td> <td class=\"description-td\">143</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\"> </td> <td class=\"description-td\">particles</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Comp.</td> <td class=\"description-td\">Polyethylene</td> <td class=\"description-td\">Alumina joined</td> <td class=\"description-td\">Not less than</td> <td class=\"description-td\">92</td> <td class=\"description-td\">142</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\">Ex. 10</td> <td class=\"description-td\">terephthalate</td> <td class=\"description-td\">particles</td> <td class=\"description-td\">200° C.</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td> <td class=\"description-td\">non-woven fabric</td> </tr> <tr class=\"description-tr\"> <td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"6\" namest=\"1\" rowsep=\"1\"> </td> </tr> </tbody></table> </patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "caption": "A layer comprising a fine particulate filler is usually produced as follows. A slurry for forming a porous film is first prepared by mixing a powdered filler and a resin or a heat resistant resin serving as a binder with a solvent using a dispersing machine. During this process, the fine particulate filler material is supplied in the form of powders. The fine particulate filler usually comprises mainly spherical primary particles and powders comprising primary particles loosely aggregated by van der Waals force (aggregation force) between the primary particles. FIG. 4 is a schematic diagram of non-joined particle fillers 2 mainly comprising spherical primary particles. An aggregate of primary particles is indicated by the reference number 3 . Preferably, the joined particles used in this invention each comprise primary particles partially melted and bonded to one another by a heat treatment. FIG. 2 is a schematic diagram showing the joined particles 1 . The particles having such morphology do not disintegrate even when strong shearing force is applied by a dispersing machine which is usually used for the preparation of a slurry for forming a porous film. Accordingly, it is possible to form a porous film having a constant porosity. FIG. 1 is a cross sectional view of a relevant part of a separator according to an example of the present invention. FIG. 2 is a schematic diagram of a joined-particle filler used in an example of the present invention. FIG. 3 is an SEM image showing a layer containing a fine particulate filler according to an example of the present invention. FIG. 4 is a schematic diagram of a conventional non-joined particle filler. FIG. 5 is an SEM image showing a layer containing a conventional fine particulate filler. FIG. 1 shows a separator according to an embodiment of the present invention. The separator 10 comprises a shutdown layer 11 and a layer containing a fine particulate filler 12 . The shutdown layer 11 is a porous film made of a thermoplastic resin. The layer 12 comprises a fine particulate filler and a heat resistant resin. In contrast, when a joined- particle filler 1 of the present invention comprising a plurality of particles joined to one another as shown in FIG. 2 is used as a filler, a porous film having a porosity of 45% or greater can be obtained easily. The porous film containing a filler comprising such joined particles exhibits a high porosity even when a metal oxide such as titanium oxide, alumina, zirconium oxide, magnesium oxide, zinc oxide or silicon dioxide is used as the fine particulate filler material. FIG. 3 shows a scanning electron microscope image (SEM image) of the test piece having the paste A1 applied thereon. It clearly shows that the joined- particle filler 1 forms large voids, indicating that the test piece has a high porosity. For comparison, a paste for forming the porous film B1 was prepared in the same manner as the paste A1 was prepared except that, instead of the joined-particle filler, a fine particulate filler made of alumina having a size of 0.5 μm was used. Then, the porosity was determined in the same manner as above. FIG. 5 shows an SEM image of the test piece having the paste B1 applied thereon. It shows that nearly spherical non-joined particle fillers 2 are close to one another and thus large voids are not formed between the particles. This indicates that the film containing a filler comprising such particles does not have a high porosity. FIG. 1 shows the results for the above-prepared pastes. TABLE 1 Primary Secondary Fine particulate particle size particle size Porosity Paste filler material (μm) (μm) (vol %) A1 Alumina joined 0.1 0.5 60 particles A2 Titanium oxide 0.1 0.5 58 joined particles A3 Zirconium oxide 0.1 0.5 56 joined particles A4 Magnesium oxide 0.1 0.5 56 joined particles A5 Zinc oxide joined 0.1 0.5 57 particles A6 Silicon dioxide 0.1 0.5 58 joined particles A7 Silicon monoxide 0.1 0.5 57 joined particles B1 Alumina spherical 0.5 — 44 particles B2 Alumina aggregated 0.1 0.5 45 particles (vibration mill) B3 Alumina aggregated 0.1 0.5 44 particles (binder)",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/4c/e1/55/d68ab5dcb3f8b0/US20080070107A1-20080320-D00000.png"
+    },
+    {
+      "caption": "A layer comprising a fine particulate filler is usually produced as follows. A slurry for forming a porous film is first prepared by mixing a powdered filler and a resin or a heat resistant resin serving as a binder with a solvent using a dispersing machine. During this process, the fine particulate filler material is supplied in the form of powders. The fine particulate filler usually comprises mainly spherical primary particles and powders comprising primary particles loosely aggregated by van der Waals force (aggregation force) between the primary particles. FIG. 4 is a schematic diagram of non-joined particle fillers 2 mainly comprising spherical primary particles. An aggregate of primary particles is indicated by the reference number 3 . Preferably, the joined particles used in this invention each comprise primary particles partially melted and bonded to one another by a heat treatment. FIG. 2 is a schematic diagram showing the joined particles 1 . The particles having such morphology do not disintegrate even when strong shearing force is applied by a dispersing machine which is usually used for the preparation of a slurry for forming a porous film. Accordingly, it is possible to form a porous film having a constant porosity. FIG. 1 is a cross sectional view of a relevant part of a separator according to an example of the present invention. FIG. 2 is a schematic diagram of a joined-particle filler used in an example of the present invention. FIG. 3 is an SEM image showing a layer containing a fine particulate filler according to an example of the present invention. FIG. 4 is a schematic diagram of a conventional non-joined particle filler. FIG. 5 is an SEM image showing a layer containing a conventional fine particulate filler. FIG. 1 shows a separator according to an embodiment of the present invention. The separator 10 comprises a shutdown layer 11 and a layer containing a fine particulate filler 12 . The shutdown layer 11 is a porous film made of a thermoplastic resin. The layer 12 comprises a fine particulate filler and a heat resistant resin. In contrast, when a joined- particle filler 1 of the present invention comprising a plurality of particles joined to one another as shown in FIG. 2 is used as a filler, a porous film having a porosity of 45% or greater can be obtained easily. The porous film containing a filler comprising such joined particles exhibits a high porosity even when a metal oxide such as titanium oxide, alumina, zirconium oxide, magnesium oxide, zinc oxide or silicon dioxide is used as the fine particulate filler material. FIG. 3 shows a scanning electron microscope image (SEM image) of the test piece having the paste A1 applied thereon. It clearly shows that the joined- particle filler 1 forms large voids, indicating that the test piece has a high porosity. For comparison, a paste for forming the porous film B1 was prepared in the same manner as the paste A1 was prepared except that, instead of the joined-particle filler, a fine particulate filler made of alumina having a size of 0.5 μm was used. Then, the porosity was determined in the same manner as above. FIG. 5 shows an SEM image of the test piece having the paste B1 applied thereon. It shows that nearly spherical non-joined particle fillers 2 are close to one another and thus large voids are not formed between the particles. This indicates that the film containing a filler comprising such particles does not have a high porosity. FIG. 1 shows the results for the above-prepared pastes. TABLE 1 Primary Secondary Fine particulate particle size particle size Porosity Paste filler material (μm) (μm) (vol %) A1 Alumina joined 0.1 0.5 60 particles A2 Titanium oxide 0.1 0.5 58 joined particles A3 Zirconium oxide 0.1 0.5 56 joined particles A4 Magnesium oxide 0.1 0.5 56 joined particles A5 Zinc oxide joined 0.1 0.5 57 particles A6 Silicon dioxide 0.1 0.5 58 joined particles A7 Silicon monoxide 0.1 0.5 57 joined particles B1 Alumina spherical 0.5 — 44 particles B2 Alumina aggregated 0.1 0.5 45 particles (vibration mill) B3 Alumina aggregated 0.1 0.5 44 particles (binder)",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/9a/aa/4e/e62dc9ec5ec270/US20080070107A1-20080320-D00001.png"
+    },
+    {
+      "caption": "A layer comprising a fine particulate filler is usually produced as follows. A slurry for forming a porous film is first prepared by mixing a powdered filler and a resin or a heat resistant resin serving as a binder with a solvent using a dispersing machine. During this process, the fine particulate filler material is supplied in the form of powders. The fine particulate filler usually comprises mainly spherical primary particles and powders comprising primary particles loosely aggregated by van der Waals force (aggregation force) between the primary particles. FIG. 4 is a schematic diagram of non-joined particle fillers 2 mainly comprising spherical primary particles. An aggregate of primary particles is indicated by the reference number 3 . Preferably, the joined particles used in this invention each comprise primary particles partially melted and bonded to one another by a heat treatment. FIG. 2 is a schematic diagram showing the joined particles 1 . The particles having such morphology do not disintegrate even when strong shearing force is applied by a dispersing machine which is usually used for the preparation of a slurry for forming a porous film. Accordingly, it is possible to form a porous film having a constant porosity. FIG. 1 is a cross sectional view of a relevant part of a separator according to an example of the present invention. FIG. 2 is a schematic diagram of a joined-particle filler used in an example of the present invention. FIG. 3 is an SEM image showing a layer containing a fine particulate filler according to an example of the present invention. FIG. 4 is a schematic diagram of a conventional non-joined particle filler. FIG. 5 is an SEM image showing a layer containing a conventional fine particulate filler. FIG. 1 shows a separator according to an embodiment of the present invention. The separator 10 comprises a shutdown layer 11 and a layer containing a fine particulate filler 12 . The shutdown layer 11 is a porous film made of a thermoplastic resin. The layer 12 comprises a fine particulate filler and a heat resistant resin. In contrast, when a joined- particle filler 1 of the present invention comprising a plurality of particles joined to one another as shown in FIG. 2 is used as a filler, a porous film having a porosity of 45% or greater can be obtained easily. The porous film containing a filler comprising such joined particles exhibits a high porosity even when a metal oxide such as titanium oxide, alumina, zirconium oxide, magnesium oxide, zinc oxide or silicon dioxide is used as the fine particulate filler material. FIG. 3 shows a scanning electron microscope image (SEM image) of the test piece having the paste A1 applied thereon. It clearly shows that the joined- particle filler 1 forms large voids, indicating that the test piece has a high porosity. For comparison, a paste for forming the porous film B1 was prepared in the same manner as the paste A1 was prepared except that, instead of the joined-particle filler, a fine particulate filler made of alumina having a size of 0.5 μm was used. Then, the porosity was determined in the same manner as above. FIG. 5 shows an SEM image of the test piece having the paste B1 applied thereon. It shows that nearly spherical non-joined particle fillers 2 are close to one another and thus large voids are not formed between the particles. This indicates that the film containing a filler comprising such particles does not have a high porosity. FIG. 1 shows the results for the above-prepared pastes. TABLE 1 Primary Secondary Fine particulate particle size particle size Porosity Paste filler material (μm) (μm) (vol %) A1 Alumina joined 0.1 0.5 60 particles A2 Titanium oxide 0.1 0.5 58 joined particles A3 Zirconium oxide 0.1 0.5 56 joined particles A4 Magnesium oxide 0.1 0.5 56 joined particles A5 Zinc oxide joined 0.1 0.5 57 particles A6 Silicon dioxide 0.1 0.5 58 joined particles A7 Silicon monoxide 0.1 0.5 57 joined particles B1 Alumina spherical 0.5 — 44 particles B2 Alumina aggregated 0.1 0.5 45 particles (vibration mill) B3 Alumina aggregated 0.1 0.5 44 particles (binder)",
+      "kind": "figure",
+      "sheet": "3",
+      "url": "https://patentimages.storage.googleapis.com/01/03/c2/0e653e476216c5/US20080070107A1-20080320-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/f7/5b/5a/0da1c155ffe646/US20080070107A1.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US20080070107A1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/9eb32c5b8793c55c9a10d68f8194fe46ef3898d4d21dd5e5ec4b7ee553c5eeab.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:14:56.379214+00:00",
+    "sha256": "9eb32c5b8793c55c9a10d68f8194fe46ef3898d4d21dd5e5ec4b7ee553c5eeab",
+    "source": "patents",
+    "source_id": "42d4957cd1131ae83a672d50b4a972c0209cd11353f31dabe94aca6a8a3b8170",
+    "url": "https://patents.google.com/patent/US20080070107A1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "e72a36a9cb2bd9f51afeebaffde90a74744642773c271751ece43f321939cfa2",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "42d4957cd1131ae83a672d50b4a972c0209cd11353f31dabe94aca6a8a3b8170",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/9eb32c5b8793c55c9a10d68f8194fe46ef3898d4d21dd5e5ec4b7ee553c5eeab.bin",
+      "source_id": "42d4957cd1131ae83a672d50b4a972c0209cd11353f31dabe94aca6a8a3b8170",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "9eb32c5b8793c55c9a10d68f8194fe46ef3898d4d21dd5e5ec4b7ee553c5eeab",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US20080070107A1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

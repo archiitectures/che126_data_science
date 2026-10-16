@@ -1,0 +1,744 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1",
+          "TABLE 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Melt Temperature",
+          "Percent"
+        ],
+        [
+          "",
+          "Polymer",
+          "Density",
+          "(° C.)",
+          "Crystallinity"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "HDPE1 1",
+          "0.96",
+          "135",
+          "76"
+        ],
+        [
+          "",
+          "HDPE2 2",
+          "0.96",
+          "134",
+          "78"
+        ],
+        [
+          "",
+          "Oligomer 3"
+        ],
+        [
+          "",
+          "PEWax 1500",
+          "0.96",
+          "119",
+          "100"
+        ],
+        [
+          "",
+          "PEWax 1000",
+          "0.96",
+          "111",
+          "93"
+        ],
+        [
+          "",
+          "PEWax 850",
+          "0.96",
+          "105",
+          "99"
+        ],
+        [
+          "",
+          "PEWax 725",
+          "0.95",
+          "101",
+          "89"
+        ],
+        [
+          "",
+          "PEWax 655",
+          "0.94",
+          "94",
+          "98"
+        ],
+        [
+          "",
+          "PEWax 600",
+          "0.94",
+          "89",
+          "95"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "1 Fina 7208 commercially available from Fina Oil and Chemical Co. of Dallas, Texas.",
+          "1 Fina 7208 commercially available from Fina Oil and Chemical Co. of Dallas, Texas.",
+          "1 Fina 7208 commercially available from Fina Oil and Chemical Co. of Dallas, Texas.",
+          "1 Fina 7208 commercially available from Fina Oil and Chemical Co. of Dallas, Texas.",
+          "1 Fina 7208 commercially available from Fina Oil and Chemical Co. of Dallas, Texas."
+        ],
+        [
+          "",
+          "2 Escorene 7845 commercially available from Exxon Chemical Co. of Houston, Texas.",
+          "2 Escorene 7845 commercially available from Exxon Chemical Co. of Houston, Texas.",
+          "2 Escorene 7845 commercially available from Exxon Chemical Co. of Houston, Texas.",
+          "2 Escorene 7845 commercially available from Exxon Chemical Co. of Houston, Texas.",
+          "2 Escorene 7845 commercially available from Exxon Chemical Co. of Houston, Texas."
+        ],
+        [
+          "",
+          "3 PEWax's are commercially available from Baker Petrolite Polymer Division Co. of Sugar Land, Texas.",
+          "3 PEWax's are commercially available from Baker Petrolite Polymer Division Co. of Sugar Land, Texas.",
+          "3 PEWax's are commercially available from Baker Petrolite Polymer Division Co. of Sugar Land, Texas.",
+          "3 PEWax's are commercially available from Baker Petrolite Polymer Division Co. of Sugar Land, Texas.",
+          "3 PEWax's are commercially available from Baker Petrolite Polymer Division Co. of Sugar Land, Texas."
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\">TABLE 1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Melt Temperature</td>\n<td class=\"description-td\">Percent</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Polymer</td>\n<td class=\"description-td\">Density</td>\n<td class=\"description-td\">(° C.)</td>\n<td class=\"description-td\">Crystallinity</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HDPE1<sup>1</sup> </td>\n<td class=\"description-td\">0.96</td>\n<td class=\"description-td\">135</td>\n<td class=\"description-td\">76</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">HDPE2<sup>2</sup> </td>\n<td class=\"description-td\">0.96</td>\n<td class=\"description-td\">134</td>\n<td class=\"description-td\">78</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Oligomer<sup>3</sup> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEWax 1500</td>\n<td class=\"description-td\">0.96</td>\n<td class=\"description-td\">119</td>\n<td class=\"description-td\">100</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEWax 1000</td>\n<td class=\"description-td\">0.96</td>\n<td class=\"description-td\">111</td>\n<td class=\"description-td\">93</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEWax 850</td>\n<td class=\"description-td\">0.96</td>\n<td class=\"description-td\">105</td>\n<td class=\"description-td\">99</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEWax 725</td>\n<td class=\"description-td\">0.95</td>\n<td class=\"description-td\">101</td>\n<td class=\"description-td\">89</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEWax 655</td>\n<td class=\"description-td\">0.94</td>\n<td class=\"description-td\">94</td>\n<td class=\"description-td\">98</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">PEWax 600</td>\n<td class=\"description-td\">0.94</td>\n<td class=\"description-td\">89</td>\n<td class=\"description-td\">95</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\"> <sup>1</sup>Fina 7208 commercially available from Fina Oil and Chemical Co. of Dallas, Texas. </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\"> <sup>2</sup>Escorene 7845 commercially available from Exxon Chemical Co. of Houston, Texas. </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"left\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\"> <sup>3</sup>PEWax's are commercially available from Baker Petrolite Polymer Division Co. of Sugar Land, Texas. </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2",
+          "TABLE 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Shutdown"
+        ],
+        [
+          "",
+          "Thickness",
+          "Gurley",
+          "Porosity",
+          "Temperature"
+        ],
+        [
+          "",
+          "(mil)",
+          "(sec)",
+          "(%)",
+          "(° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "100% HDPE1",
+          "0.64",
+          "54",
+          "30",
+          "130"
+        ],
+        [
+          "Blend",
+          "0.50",
+          "45",
+          "35",
+          "121"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Porosity</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mil)</td>\n<td class=\"description-td\">(sec)</td>\n<td class=\"description-td\">(%)</td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">100% HDPE1</td>\n<td class=\"description-td\">0.64</td>\n<td class=\"description-td\">54</td>\n<td class=\"description-td\">30</td>\n<td class=\"description-td\">130</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Blend</td>\n<td class=\"description-td\">0.50</td>\n<td class=\"description-td\">45</td>\n<td class=\"description-td\">35</td>\n<td class=\"description-td\">121</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3",
+          "TABLE 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Shutdown"
+        ],
+        [
+          "",
+          "Thickness",
+          "Gurley",
+          "Temperature"
+        ],
+        [
+          "",
+          "(mil)",
+          "(sec)",
+          "(° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "100%",
+          "HDPE1",
+          "0.65",
+          "21",
+          "130"
+        ],
+        [
+          "30%",
+          "PEWax 1000/70% HDPE1",
+          "0.47",
+          "13",
+          "115"
+        ],
+        [
+          "30%",
+          "PEWax 1000/70% HDPE1",
+          "0.60",
+          "14",
+          "117"
+        ],
+        [
+          "100%",
+          "HDPE2",
+          "0.82",
+          "42",
+          "130"
+        ],
+        [
+          "30%",
+          "PEWax 1000/70% HDPE2",
+          "0.88",
+          "25",
+          "116"
+        ],
+        [
+          "30%",
+          "PEWax 1000/70% HDPE2",
+          "0.96",
+          "34",
+          "118"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 3</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mil)</td>\n<td class=\"description-td\">(sec)</td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">HDPE1</td>\n<td class=\"description-td\">0.65</td>\n<td class=\"description-td\">21</td>\n<td class=\"description-td\">130</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30%</td>\n<td class=\"description-td\">PEWax 1000/70% HDPE1</td>\n<td class=\"description-td\">0.47</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">115</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30%</td>\n<td class=\"description-td\">PEWax 1000/70% HDPE1</td>\n<td class=\"description-td\">0.60</td>\n<td class=\"description-td\">14</td>\n<td class=\"description-td\">117</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">100%</td>\n<td class=\"description-td\">HDPE2</td>\n<td class=\"description-td\">0.82</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">130</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30%</td>\n<td class=\"description-td\">PEWax 1000/70% HDPE2</td>\n<td class=\"description-td\">0.88</td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">116</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30%</td>\n<td class=\"description-td\">PEWax 1000/70% HDPE2</td>\n<td class=\"description-td\">0.96</td>\n<td class=\"description-td\">34</td>\n<td class=\"description-td\">118</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"5\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 3"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4",
+          "TABLE 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Shutdown"
+        ],
+        [
+          "",
+          "Thickness",
+          "Gurley",
+          "Temperature"
+        ],
+        [
+          "",
+          "(mil)",
+          "(sec)",
+          "(° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10% PEWax 1000/90% HDPE1",
+          "0.78",
+          "22",
+          "125"
+        ],
+        [
+          "20% PEWax 1000/80% HDPE1",
+          "0.70",
+          "31",
+          "123"
+        ],
+        [
+          "30% PEWax 1000/70% HDPE1",
+          "0.52",
+          "24",
+          "122"
+        ],
+        [
+          "40% PEWax 1000/60% HDPE1",
+          "0.58",
+          "33",
+          "121"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 4</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mil)</td>\n<td class=\"description-td\">(sec)</td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">10% PEWax 1000/90% HDPE1</td>\n<td class=\"description-td\">0.78</td>\n<td class=\"description-td\">22</td>\n<td class=\"description-td\">125</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">20% PEWax 1000/80% HDPE1</td>\n<td class=\"description-td\">0.70</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">123</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30% PEWax 1000/70% HDPE1</td>\n<td class=\"description-td\">0.52</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">122</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">40% PEWax 1000/60% HDPE1</td>\n<td class=\"description-td\">0.58</td>\n<td class=\"description-td\">33</td>\n<td class=\"description-td\">121</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 4"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 5",
+          "TABLE 5",
+          "TABLE 5",
+          "TABLE 5"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Shutdown"
+        ],
+        [
+          "",
+          "Thickness",
+          "Gurley",
+          "Temperature"
+        ],
+        [
+          "",
+          "(mil)",
+          "(sec)",
+          "(° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "30% PEWax 1500/70% HDPE1",
+          "0.57",
+          "13",
+          "124"
+        ],
+        [
+          "30% PEWax 1000/70% HDPE1",
+          "0.70",
+          "31",
+          "122"
+        ],
+        [
+          "30% PEWax 725/70% HDPE1",
+          "0.92",
+          "42",
+          "122"
+        ],
+        [
+          "30% PEWax 600/70% HDPE1",
+          "0.64",
+          "19",
+          "120"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 5</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mil)</td>\n<td class=\"description-td\">(sec)</td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">30% PEWax 1500/70% HDPE1</td>\n<td class=\"description-td\">0.57</td>\n<td class=\"description-td\">13</td>\n<td class=\"description-td\">124</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30% PEWax 1000/70% HDPE1</td>\n<td class=\"description-td\">0.70</td>\n<td class=\"description-td\">31</td>\n<td class=\"description-td\">122</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30% PEWax 725/70% HDPE1</td>\n<td class=\"description-td\">0.92</td>\n<td class=\"description-td\">42</td>\n<td class=\"description-td\">122</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">30% PEWax 600/70% HDPE1</td>\n<td class=\"description-td\">0.64</td>\n<td class=\"description-td\">19</td>\n<td class=\"description-td\">120</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 5"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6",
+          "TABLE 6"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Shutdown"
+        ],
+        [
+          "",
+          "Thickness",
+          "Gurley",
+          "Temperature"
+        ],
+        [
+          "",
+          "(mil)",
+          "(sec)",
+          "(° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15/15 PEWax 725/850/70% HDPE1",
+          "0.85",
+          "44",
+          "123"
+        ],
+        [
+          "10/10/10 PEWax 655/725/1000/70%",
+          "0.46",
+          "18",
+          "123"
+        ],
+        [
+          "HDPE1"
+        ],
+        [
+          "10/10/10/10 PEWax 655/725/850/",
+          "0.52",
+          "24",
+          "119"
+        ],
+        [
+          "1000/60% HDPE1"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\">TABLE 6</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mil)</td>\n<td class=\"description-td\">(sec)</td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">15/15 PEWax 725/850/70% HDPE1</td>\n<td class=\"description-td\">0.85</td>\n<td class=\"description-td\">44</td>\n<td class=\"description-td\">123</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">10/10/10 PEWax 655/725/1000/70%</td>\n<td class=\"description-td\">0.46</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">123</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">HDPE1</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">10/10/10/10 PEWax 655/725/850/</td>\n<td class=\"description-td\">0.52</td>\n<td class=\"description-td\">24</td>\n<td class=\"description-td\">119</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">1000/60% HDPE1</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 6"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Shutdown"
+        ],
+        [
+          "",
+          "Thickness",
+          "Gurley",
+          "Temperature"
+        ],
+        [
+          "",
+          "(mil)",
+          "(sec)",
+          "(° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "30% PEWax 1000/70% HDPE2",
+          "1.06",
+          "20",
+          "119"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mil)</td>\n<td class=\"description-td\">(sec)</td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">30% PEWax 1000/70% HDPE2</td>\n<td class=\"description-td\">1.06</td>\n<td class=\"description-td\">20</td>\n<td class=\"description-td\">119</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"4\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_7"
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Shutdown"
+        ],
+        [
+          "",
+          "Thickness",
+          "Gurley",
+          "Temperature"
+        ],
+        [
+          "",
+          "(mil)",
+          "(sec)",
+          "(° C.)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "Trilayer",
+          "0.93",
+          "44",
+          "125"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"4\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Shutdown</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Thickness</td>\n<td class=\"description-td\">Gurley</td>\n<td class=\"description-td\">Temperature</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(mil)</td>\n<td class=\"description-td\">(sec)</td>\n<td class=\"description-td\">(° C.)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"4\" nameend=\"3\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"5\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Trilayer</td>\n<td class=\"description-td\">0.93</td>\n<td class=\"description-td\">44</td>\n<td class=\"description-td\">125</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"5\" nameend=\"4\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "table_8"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/40/80/27/2864f188ce3b77/US6749961.pdf"
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US6749961B1"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/5acc65959686056c561dfc7da5b96d4ca51ae8c26388a128bf8c3768282b3328.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:16:16.308347+00:00",
+    "sha256": "5acc65959686056c561dfc7da5b96d4ca51ae8c26388a128bf8c3768282b3328",
+    "source": "patents",
+    "source_id": "316d6f9affd3519426b6a69b62015fbd6723be6e0bce5aba6753ff5da9bd906c",
+    "url": "https://patents.google.com/patent/US6749961B1/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "569f9d0a16969d0464a3a98559db0abd6fbd48f78acc60a6b56a6b238f58bd2c",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "316d6f9affd3519426b6a69b62015fbd6723be6e0bce5aba6753ff5da9bd906c",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/5acc65959686056c561dfc7da5b96d4ca51ae8c26388a128bf8c3768282b3328.bin",
+      "source_id": "316d6f9affd3519426b6a69b62015fbd6723be6e0bce5aba6753ff5da9bd906c",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "5acc65959686056c561dfc7da5b96d4ca51ae8c26388a128bf8c3768282b3328",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US6749961B1/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}

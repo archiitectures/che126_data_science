@@ -1,0 +1,335 @@
+{
+  "artifacts": [
+    {
+      "cells": [
+        [
+          "TABLE 1"
+        ],
+        [
+          ""
+        ],
+        [
+          "Polymer Solvents for Various Polymer Materials"
+        ],
+        [
+          "Polymer",
+          "Polymer Solvent"
+        ],
+        [
+          "Material",
+          "Latent Polymer Solvent",
+          "Real Polymer Solvent"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "PEI",
+          "Dimethyl Formamide (DMF),",
+          "N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "",
+          "Tetrahydrofuran (THF)",
+          "(NMP)"
+        ],
+        [
+          "PVdF",
+          "Acetone, Methyl Isobutyl",
+          "N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "",
+          "Ketone, Dimethyl Phthalate",
+          "(NMP), Dimethyl"
+        ],
+        [
+          "",
+          "",
+          "Formamide (DMF)"
+        ],
+        [
+          "PES",
+          "N/A",
+          "Tetrahydrofuran (THF)"
+        ],
+        [
+          "PSf",
+          "Tetrahydrofuran (THF)",
+          "N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "",
+          "",
+          "(NMP), Dimethyl"
+        ],
+        [
+          "",
+          "",
+          "Formamide (DMF)"
+        ],
+        [
+          "PPSf",
+          "Tetrahydrofuran (THF)",
+          "N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "",
+          "",
+          "(NMP), Dimethyl"
+        ],
+        [
+          "",
+          "",
+          "Formamide (DMF)"
+        ],
+        [
+          "PAN",
+          "Propylene carbonate (PC)",
+          "N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "",
+          "",
+          "(NMP), Dimethyl"
+        ],
+        [
+          "",
+          "",
+          "Formamide (DMF)"
+        ],
+        [
+          "PMMA",
+          "Tert-butyl alcohol",
+          "N-Methyl-2-Pyrrolidone"
+        ],
+        [
+          "",
+          "",
+          "(NMP), Dimethyl"
+        ],
+        [
+          "",
+          "",
+          "Formamide (DMF),"
+        ],
+        [
+          "",
+          "",
+          "Dimethyl sulfoxide"
+        ],
+        [
+          "",
+          "",
+          "(DMSO), acetone"
+        ],
+        [
+          "Aliphatic PA",
+          "N/A",
+          "Acetic Acid"
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 1</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Polymer Solvents for Various Polymer Materials</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"2\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Polymer</td>\n<td class=\"description-td\">Polymer Solvent</td>\n</tr>\n</tbody></table>\n<table align=\"left\" class=\"description-table\" cols=\"3\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\">Material</td>\n<td class=\"description-td\">Latent Polymer Solvent</td>\n<td class=\"description-td\">Real Polymer Solvent</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PEI</td>\n<td class=\"description-td\">Dimethyl Formamide (DMF),</td>\n<td class=\"description-td\">N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Tetrahydrofuran (THF)</td>\n<td class=\"description-td\">(NMP)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PVdF</td>\n<td class=\"description-td\">Acetone, Methyl Isobutyl</td>\n<td class=\"description-td\">N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Ketone, Dimethyl Phthalate</td>\n<td class=\"description-td\">(NMP), Dimethyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Formamide (DMF)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PES</td>\n<td class=\"description-td\">N/A</td>\n<td class=\"description-td\">Tetrahydrofuran (THF)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PSf</td>\n<td class=\"description-td\">Tetrahydrofuran (THF)</td>\n<td class=\"description-td\">N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(NMP), Dimethyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Formamide (DMF)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PPSf</td>\n<td class=\"description-td\">Tetrahydrofuran (THF)</td>\n<td class=\"description-td\">N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(NMP), Dimethyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Formamide (DMF)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PAN</td>\n<td class=\"description-td\">Propylene carbonate (PC)</td>\n<td class=\"description-td\">N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(NMP), Dimethyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Formamide (DMF)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">PMMA</td>\n<td class=\"description-td\">Tert-butyl alcohol</td>\n<td class=\"description-td\">N-Methyl-2-Pyrrolidone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(NMP), Dimethyl</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Formamide (DMF),</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Dimethyl sulfoxide</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">(DMSO), acetone</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Aliphatic PA</td>\n<td class=\"description-td\">N/A</td>\n<td class=\"description-td\">Acetic Acid</td>\n</tr>\n<tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"3\" nameend=\"3\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 1"
+    },
+    {
+      "cells": [
+        [
+          "TABLE 2"
+        ],
+        [
+          ""
+        ],
+        [
+          "Effective Ionic Conductivity"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "σ eff"
+        ],
+        [
+          "",
+          "Separator",
+          "t (μm)",
+          "S (cm 2 )",
+          "R b (Ω)",
+          "(mS/cm)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Inventive",
+          "18",
+          "6.6",
+          "0.19",
+          "1.43"
+        ],
+        [
+          "",
+          "Separator"
+        ],
+        [
+          "",
+          "Celgard"
+        ],
+        [
+          "",
+          "25",
+          "6.6",
+          "0.39",
+          "0.97"
+        ],
+        [
+          "",
+          "2400"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "context": "",
+      "context_locator": null,
+      "html": "<patent-tables colsep=\"0\" frame=\"none\" rowsep=\"0\">\n<table align=\"left\" class=\"description-table\" cols=\"1\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<thead>\n<tr class=\"description-tr\">\n<td class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\">TABLE 2</td>\n</tr>\n</thead>\n<tbody><tr class=\"description-tr\">\n<td align=\"center\" class=\"description-td\" colspan=\"1\" nameend=\"1\" namest=\"1\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\">Effective Ionic Conductivity</td>\n</tr>\n</tbody></table>\n<figure-callout filenames=\"US08470898-20130625-D00002.png\" id=\"25\" label=\"Separator Celgard\" state=\"{{state}}\">\n</figure-callout><figure-callout filenames=\"US08470898-20130625-D00002.png\" id=\"25\" label=\"Separator Celgard\" state=\"{{state}}\">\n</figure-callout><table align=\"left\" class=\"description-table\" cols=\"6\" colsep=\"0\" rowsep=\"0\" width=\"100%\">\n<tbody><tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">σ<sub>eff</sub> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Separator</td>\n<td class=\"description-td\">t (μm)</td>\n<td class=\"description-td\">S (cm<sup>2</sup>)</td>\n<td class=\"description-td\">R<sub>b </sub>(Ω)</td>\n<td class=\"description-td\">(mS/cm)</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Inventive</td>\n<td class=\"description-td\">18</td>\n<td class=\"description-td\">6.6</td>\n<td class=\"description-td\">0.19</td>\n<td class=\"description-td\">1.43</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\"> <figure-callout filenames=\"US08470898-20130625-D00002.png\" id=\"25\" label=\"Separator Celgard\" state=\"{{state}}\">Separator</figure-callout> </td> </tr> <tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">Celgard</td> </tr> <tr class=\"description-tr\"> <td class=\"description-td\"> </td>\n<td class=\"description-td\">25</td>\n<td class=\"description-td\">6.6</td>\n<td class=\"description-td\">0.39</td>\n<td class=\"description-td\">0.97</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td class=\"description-td\">2400</td>\n</tr>\n<tr class=\"description-tr\">\n<td class=\"description-td\"> </td>\n<td align=\"center\" class=\"description-td\" colspan=\"6\" nameend=\"5\" namest=\"offset\" rowsep=\"1\"> </td>\n</tr>\n</tbody></table>\n</patent-tables>",
+      "kind": "table",
+      "method": "patent_html",
+      "table": "TABLE 2"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective illustration of a lithium ion battery that includes several adjacent electrochemical battery cells, each of which includes a negative electrode, a positive electrode, and a separator sandwiched between the two electrodes. FIG. 2 is an exploded cross-sectional view of one of the electrochemical battery cells shown in FIG. 1 along with its associated metallic current collectors. The components of the electrochemical battery cell and the metallic current collectors are idealized representations that are not necessarily drawn to scale. FIG. 3 is a graph that shows the tensile behavior of a porous thin-film polymer separator prepared according to one embodiment of the disclosed phase separation method. FIG. 4 is a graph that compares the cycle performance of a porous thin-film polymer separator prepared according to one embodiment of the disclosed phase separation method and a conventional monolayer polypropylene separator. An engineered polymer separator fabricated by the phase separation method just disclosed (hereafter “separator”) may be used in a wide variety of lithium ion battery configurations. An exemplary and generalized illustration of a lithium ion battery 10 is depicted in FIG. 1 . The lithium ion battery 10 shown here includes several rectangularly-shaped electrochemical battery cells 12 that are each bracketed by metallic current collectors. The electrochemical battery cells 12 are stacked side-by-side in a modular configuration and connected in series (although a parallel connection is also permitted). The lithium ion battery 10 can be connected serially or in parallel to other similarly constructed lithium ion batteries to form a lithium ion battery pack that exhibits the voltage and current capacity demanded for a particular application. It should be understood the lithium ion battery 10 shown here is only a schematic illustration. FIG. 1 is meant to show the relative position and physical interactions of the various components that constitute the electrochemical battery cells 12 (i.e., the electrodes and the separator); it is not intended to inform the relative sizes of the electrochemical battery cells' components, to define the number of electrochemical battery cells 12 in the lithium ion battery 10 , or to limit the wide variety of structural configurations the lithium ion battery 10 may assume. Various structural modifications to the lithium ion battery 10 shown in FIG. 1 are possible despite what is explicitly illustrated. An exploded cross-sectional view of the electrochemical battery cell 12 and its associated metallic current collectors 20 , 24 is generally illustrated in FIG. 2 . The negative electrode 14 includes an inner face surface 32 and an outer face surface 34 relative to the location of the separator 18 . The positive electrode 14 similarly includes an inner face surface 36 and an outer face surface 38 . The inner face surface 32 of the negative electrode 14 may, but is not required to, encompass a larger two-dimensional surface area than the inner face surface 36 of the positive electrode 16 , as shown. When assembled into the electrochemical battery cell 12 , the inner face surfaces 32 , 36 of the negative and positive electrodes 14 , 16 confront one another and are pressed against a negative-side major face surface 40 and a positive-side major face surface 42 of the separator 18 , respectively. Such pressed-engagement occurs generally uniformly along the entire interface of the major face surfaces 40 , 42 of the separator 18 and the corresponding portions of the inner face surfaces 32 , 36 of the electrodes 14 , 16 . The negative-side metallic current collector 20 is formed against the outer face surface 34 of the negative electrode 14 and the positive-side metallic current collector 24 is formed against the outer face surface 38 of the positive electrode 16 . Both of the metallic current collectors 20 , 24 engage their respective electrode outer face surfaces 34 , 38 over an appreciable interfacial surface area to facilitate the efficient collection and distribution of free electrons. Referring back to FIG. 1 , the negative and positive terminals 28 , 30 of the lithium ion battery 10 may be connected to an electrical device 50 that generally encompasses power-consuming and power-generating devices. A power-consuming device is one that is powered fully or partially by the lithium ion battery 10 when operating in a discharge state. Conversely, a power-generating device is one that charges or re-powers the lithium ion battery 10 . The power-consuming device and the power-generating device can be the same device in some instances. For example, the electrical device 50 may be an electric motor for a hybrid electric or an extended range electric vehicle that is designed to draw an electric current from the lithium ion battery 10 during acceleration and provide a regenerative electric current to the lithium ion battery 10 during deceleration. The power-consuming device and the power-generating device can also be different devices. For example, the power-consuming device may be an electric motor for a hybrid electric or an extended range electric vehicle and the power-generating device may be an AC wall outlet, an internal combustion engine, and/or a vehicle alternator.",
+      "kind": "figure",
+      "sheet": "1",
+      "url": "https://patentimages.storage.googleapis.com/4b/6c/bf/1747f1a6fd35a8/US08470898-20130625-D00001.png"
+    },
+    {
+      "caption": "FIG. 1 is a generalized perspective illustration of a lithium ion battery that includes several adjacent electrochemical battery cells, each of which includes a negative electrode, a positive electrode, and a separator sandwiched between the two electrodes. FIG. 2 is an exploded cross-sectional view of one of the electrochemical battery cells shown in FIG. 1 along with its associated metallic current collectors. The components of the electrochemical battery cell and the metallic current collectors are idealized representations that are not necessarily drawn to scale. FIG. 3 is a graph that shows the tensile behavior of a porous thin-film polymer separator prepared according to one embodiment of the disclosed phase separation method. FIG. 4 is a graph that compares the cycle performance of a porous thin-film polymer separator prepared according to one embodiment of the disclosed phase separation method and a conventional monolayer polypropylene separator. An engineered polymer separator fabricated by the phase separation method just disclosed (hereafter “separator”) may be used in a wide variety of lithium ion battery configurations. An exemplary and generalized illustration of a lithium ion battery 10 is depicted in FIG. 1 . The lithium ion battery 10 shown here includes several rectangularly-shaped electrochemical battery cells 12 that are each bracketed by metallic current collectors. The electrochemical battery cells 12 are stacked side-by-side in a modular configuration and connected in series (although a parallel connection is also permitted). The lithium ion battery 10 can be connected serially or in parallel to other similarly constructed lithium ion batteries to form a lithium ion battery pack that exhibits the voltage and current capacity demanded for a particular application. It should be understood the lithium ion battery 10 shown here is only a schematic illustration. FIG. 1 is meant to show the relative position and physical interactions of the various components that constitute the electrochemical battery cells 12 (i.e., the electrodes and the separator); it is not intended to inform the relative sizes of the electrochemical battery cells' components, to define the number of electrochemical battery cells 12 in the lithium ion battery 10 , or to limit the wide variety of structural configurations the lithium ion battery 10 may assume. Various structural modifications to the lithium ion battery 10 shown in FIG. 1 are possible despite what is explicitly illustrated. An exploded cross-sectional view of the electrochemical battery cell 12 and its associated metallic current collectors 20 , 24 is generally illustrated in FIG. 2 . The negative electrode 14 includes an inner face surface 32 and an outer face surface 34 relative to the location of the separator 18 . The positive electrode 14 similarly includes an inner face surface 36 and an outer face surface 38 . The inner face surface 32 of the negative electrode 14 may, but is not required to, encompass a larger two-dimensional surface area than the inner face surface 36 of the positive electrode 16 , as shown. When assembled into the electrochemical battery cell 12 , the inner face surfaces 32 , 36 of the negative and positive electrodes 14 , 16 confront one another and are pressed against a negative-side major face surface 40 and a positive-side major face surface 42 of the separator 18 , respectively. Such pressed-engagement occurs generally uniformly along the entire interface of the major face surfaces 40 , 42 of the separator 18 and the corresponding portions of the inner face surfaces 32 , 36 of the electrodes 14 , 16 . The negative-side metallic current collector 20 is formed against the outer face surface 34 of the negative electrode 14 and the positive-side metallic current collector 24 is formed against the outer face surface 38 of the positive electrode 16 . Both of the metallic current collectors 20 , 24 engage their respective electrode outer face surfaces 34 , 38 over an appreciable interfacial surface area to facilitate the efficient collection and distribution of free electrons. Referring back to FIG. 1 , the negative and positive terminals 28 , 30 of the lithium ion battery 10 may be connected to an electrical device 50 that generally encompasses power-consuming and power-generating devices. A power-consuming device is one that is powered fully or partially by the lithium ion battery 10 when operating in a discharge state. Conversely, a power-generating device is one that charges or re-powers the lithium ion battery 10 . The power-consuming device and the power-generating device can be the same device in some instances. For example, the electrical device 50 may be an electric motor for a hybrid electric or an extended range electric vehicle that is designed to draw an electric current from the lithium ion battery 10 during acceleration and provide a regenerative electric current to the lithium ion battery 10 during deceleration. The power-consuming device and the power-generating device can also be different devices. For example, the power-consuming device may be an electric motor for a hybrid electric or an extended range electric vehicle and the power-generating device may be an AC wall outlet, an internal combustion engine, and/or a vehicle alternator.",
+      "kind": "figure",
+      "sheet": "2",
+      "url": "https://patentimages.storage.googleapis.com/6e/b0/76/a51719c96816b3/US08470898-20130625-D00002.png"
+    },
+    {
+      "kind": "pdf_fallback",
+      "url": "https://patentimages.storage.googleapis.com/c8/5b/4c/4699e8938f9979/US8470898.pdf"
+    },
+    {
+      "document": {
+        "etag": "\"879f2ee079433c9472eaf0f39a0d17ce\"",
+        "last_modified": "Fri, 27 Oct 2017 00:16:52 GMT",
+        "path": "data/runs/2026-10-16_patents/raw/162007733d9ad02e76799d31cb61dce0943d9fd11583753f5661a7d59b66ebf7.pdf",
+        "restrictions": "License/reuse permission not established; local research evidence only",
+        "retrieved_at": "2026-10-16T18:25:12.811468+00:00",
+        "sha256": "162007733d9ad02e76799d31cb61dce0943d9fd11583753f5661a7d59b66ebf7",
+        "source": "patent_pdf",
+        "source_id": "cdea262291dd7492b9ae107623238f407b58a7d7f38198213f70e061eccea899",
+        "url": "https://patentimages.storage.googleapis.com/c8/5b/4c/4699e8938f9979/US8470898.pdf"
+      },
+      "kind": "pdf_fallback_document",
+      "tables": []
+    },
+    {
+      "error": "No supported numeric observations; table artifacts retained for review",
+      "kind": "extraction_error"
+    }
+  ],
+  "context": {
+    "filename": "en",
+    "publication_number": "US8470898B2"
+  },
+  "document": {
+    "etag": null,
+    "last_modified": null,
+    "path": "data/runs/2026-10-16_patents/raw/c1bf4c3c5ff18a140718ff95a0ccecb351e281cf75b32485bff7a51cfaa60a11.bin",
+    "restrictions": "License/reuse permission not established; local research evidence only",
+    "retrieved_at": "2026-10-16T18:25:11.926784+00:00",
+    "sha256": "c1bf4c3c5ff18a140718ff95a0ccecb351e281cf75b32485bff7a51cfaa60a11",
+    "source": "patents",
+    "source_id": "7d006e545cb8b1407688cc27ee7f17e98bdee68743f3a212d7d3229d03560952",
+    "url": "https://patents.google.com/patent/US8470898B2/en"
+  },
+  "extraction_version": "separator-v5",
+  "observations": [
+    {
+      "coating": null,
+      "conversion_metadata": null,
+      "curve_id": null,
+      "direction": "unspecified",
+      "duration_min": null,
+      "electrolyte_concentration": null,
+      "electrolyte_salt": null,
+      "electrolyte_solvent": null,
+      "electrolyte_state": "not_reported",
+      "evidence_group": null,
+      "extraction_method": "review_required",
+      "extraction_version": "separator-v5",
+      "family_id": null,
+      "heating_rate_C_min": null,
+      "manufacturer": null,
+      "material_class": null,
+      "material_grade": null,
+      "measurement_context": null,
+      "method": null,
+      "notes": "No supported numeric observations; table artifacts retained for review",
+      "observation_id": "13782955973175ef793859aedf28543878049b6f67f88ea055af6574212f3d06",
+      "original_property_label": "Document extraction",
+      "original_unit": "",
+      "original_value": "",
+      "polymer": null,
+      "product": null,
+      "property": "unresolved",
+      "quality_flag": "unsupported_document_or_context",
+      "record_type": "unknown",
+      "replicate_id": null,
+      "review_status": "pending",
+      "sample_form": null,
+      "sample_id": "7d006e545cb8b1407688cc27ee7f17e98bdee68743f3a212d7d3229d03560952",
+      "separator_architecture": null,
+      "shrinkage_basis": null,
+      "source_column": null,
+      "source_figure": null,
+      "source_file": "data/runs/2026-10-16_patents/raw/c1bf4c3c5ff18a140718ff95a0ccecb351e281cf75b32485bff7a51cfaa60a11.bin",
+      "source_id": "7d006e545cb8b1407688cc27ee7f17e98bdee68743f3a212d7d3229d03560952",
+      "source_page": null,
+      "source_restrictions": "License/reuse permission not established; local research evidence only",
+      "source_row": null,
+      "source_sha256": "c1bf4c3c5ff18a140718ff95a0ccecb351e281cf75b32485bff7a51cfaa60a11",
+      "source_table": null,
+      "source_type": "patents",
+      "source_url": "https://patents.google.com/patent/US8470898B2/en",
+      "statistic": "reported",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "uncertainty": null,
+      "unit": null,
+      "value": null
+    }
+  ],
+  "status": "review"
+}
