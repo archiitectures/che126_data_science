@@ -1,0 +1,33 @@
+#!/bin/sh
+set -eu
+
+python3 - <<'PY'
+import re
+import subprocess
+import sys
+
+patterns = {
+    "Google API key": re.compile(rb"AIza[0-9A-Za-z_-]{35}(?![0-9A-Za-z_-])"),
+    "AWS access key": re.compile(rb"AKIA[0-9A-Z]{16}(?![0-9A-Z])"),
+}
+paths = subprocess.check_output(["git", "diff", "--cached", "--name-only", "-z"])
+blocked = []
+for raw_path in paths.split(b"\0"):
+    if not raw_path:
+        continue
+    path = raw_path.decode("utf-8", "replace")
+    content = subprocess.run(
+        ["git", "show", f":{path}"], capture_output=True, check=False
+    ).stdout
+    for label, pattern in patterns.items():
+        count = len(pattern.findall(content))
+        if count:
+            blocked.append((path, label, count))
+
+if blocked:
+    print("Commit blocked: staged content contains credential-shaped values:")
+    for path, label, count in blocked:
+        print(f"  {path}: {label} ({count} match(es))")
+    print("Remove the credential and rotate/revoke it before committing.")
+    sys.exit(1)
+PY

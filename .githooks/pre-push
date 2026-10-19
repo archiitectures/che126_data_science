@@ -1,0 +1,44 @@
+#!/bin/sh
+set -eu
+
+python3 - <<'PY'
+import re
+import subprocess
+import sys
+
+patterns = {
+    "Google API key": re.compile(rb"AIza[0-9A-Za-z_-]{35}(?![0-9A-Za-z_-])"),
+    "AWS access key": re.compile(rb"AKIA[0-9A-Z]{16}(?![0-9A-Z])"),
+}
+updates = [line.split() for line in sys.stdin.buffer if line.strip()]
+blocked = False
+for update in updates:
+    if len(update) != 4:
+        continue
+    local_ref, local_sha, _remote_ref, remote_sha = update
+    if local_sha == b"0" * 40:
+        continue
+    args = ["git", "rev-list", "--objects", local_sha.decode()]
+    if remote_sha != b"0" * 40:
+        args = ["git", "rev-list", "--objects", f"{remote_sha.decode()}..{local_sha.decode()}"]
+    objects = subprocess.check_output(args).splitlines()
+    seen = set()
+    for line in objects:
+        oid = line.split(b" ", 1)[0].decode()
+        if oid in seen:
+            continue
+        seen.add(oid)
+        kind = subprocess.run(["git", "cat-file", "-t", oid], capture_output=True, text=True).stdout.strip()
+        if kind != "blob":
+            continue
+        data = subprocess.run(["git", "cat-file", "blob", oid], capture_output=True).stdout
+        for label, pattern in patterns.items():
+            count = len(pattern.findall(data))
+            if count:
+                print(f"Push blocked: {label}-shaped value in pushed Git history (object {oid[:12]}, {count} match(es)).")
+                blocked = True
+
+if blocked:
+    print("Remove the credential from Git history and rotate/revoke it before pushing.")
+    sys.exit(1)
+PY

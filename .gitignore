@@ -9,9 +9,26 @@ wheels/
 # Virtual environments
 .venv
 
-# Local acquisition and document-rendering intermediates
-/tmp/
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+service-account*.json
+credentials*.json
+
+# Downloaded source material and acquisition caches
 /data/raw/
 /data/interim/
 /data/cache/
+/data/runs/**/raw/
+/data/runs/**/cache/
+/data/runs/**/downloads/
+/data/demo/raw/
+
+# Local acquisition and document-rendering intermediates
+/tmp/
 
