@@ -572,3 +572,114 @@ def test_aggregate_reextracts_stale_artifacts_without_network(tmp_path):
     p._save()
     assert p.aggregate()["accepted"] == 1
     p.store.http.request.assert_not_called()
+
+
+def test_explicit_measurement_temperature_and_no_room_temperature_guess():
+    from che126_data_science.data_mining.patent_html import _measurement_conditions
+
+    assert _measurement_conditions(
+        "A membrane thickness was measured at a room temperature of 23° C. using a meter."
+    ) == {"temperature_C": 23, "temperature_role": "measurement"}
+    for text in (
+        "Thickness measured at room temperature.",
+        "Tensile strength measured according to ASTM D882.",
+        "Sample prepared at 120° C. and measured using a micrometer.",
+        "Tensile strength measured at 23 ± 2° C.",
+    ):
+        assert _measurement_conditions(text) == {}
+
+
+def test_split_comparative_prefix_is_preserved():
+    from che126_data_science.data_mining.patent_html import _headers
+
+    assert _headers([["", "Comp", "Comp"], ["Properties", "Ex 1", "Ex 2"]], 2) == [
+        "Comparative Ex 1",
+        "Comparative Ex 2",
+    ]
+
+
+def test_recipe_composition_requires_explicit_complete_column():
+    from che126_data_science.data_mining.patent_html import _table_polymers
+
+    rows = [
+        ["Polyolefin Composition"],
+        ["UHMWPE", "", ""],
+        ["Content (wt. %)", "30", "30"],
+        ["HDPE"],
+        ["Content (wt. %)", "70", "20"],
+        ["PP"],
+        ["Content (wt. %)", "0", "50"],
+        ["Production Conditions"],
+    ]
+    assert {k: v[0] for k, v in _table_polymers(rows, 2, 1).items()} == {
+        0: "PE",
+        1: "PE/PP",
+    }
+    rows[2][1] = "unknown"
+    assert 0 not in _table_polymers(rows, 2, 1)
+    assert conditions("measured at 105 ± 2° C.").get("temperature_C") is None
+
+
+def test_latest_table_header_replaces_previous_examples():
+    from che126_data_science.data_mining.patent_html import _headers
+
+    assert _headers(
+        [
+            ["Property", "Example 1", "Example 2"],
+            ["Thickness", "12", "14"],
+            ["Property", "Example 3", "Example 4"],
+        ],
+        2,
+    ) == ["Example 3", "Example 4"]
+    assert _headers([["", "Comparative", "Example"]], 2) == ["", ""]
+
+
+def test_sample_identity_requires_matching_source_evidence():
+    from bs4 import BeautifulSoup
+
+    from che126_data_science.data_mining.patent_html import _verified_sample_context
+
+    soup = BeautifulSoup('<p id="recipe">PE and PP are blended.</p>', "lxml")
+    context = {
+        "sample_annotations": {
+            "Example 1": {
+                "metadata": {"polymer": "PE/PP"},
+                "evidence": [{"locator": "recipe", "text": "PE and PP are blended."}],
+            }
+        }
+    }
+    assert _verified_sample_context(soup, context)["Example 1"][0]["polymer"] == "PE/PP"
+    context["sample_annotations"]["Example 1"]["evidence"][0]["text"] = "Pure PE"
+    with pytest.raises(ValueError, match="source evidence"):
+        _verified_sample_context(soup, context)
+
+
+def test_reviewed_source_locator_supports_unique_patent_num_attribute():
+    from bs4 import BeautifulSoup
+
+    from che126_data_science.data_mining.patent_html import _verified_sample_context
+
+    soup = BeautifulSoup('<p num="p-001">PE resin.</p>', "lxml")
+    context = {
+        "sample_annotations": {
+            "Example 1": {
+                "metadata": {"polymer": "PE"},
+                "evidence": [{"locator": "num:p-001", "text": "PE resin."}],
+            }
+        }
+    }
+    assert _verified_sample_context(soup, context)["Example 1"][0]["polymer"] == "PE"
+    soup.append(BeautifulSoup('<p num="p-001">PE resin.</p>', "lxml"))
+    with pytest.raises(ValueError, match="source evidence"):
+        _verified_sample_context(soup, context)
+
+
+def test_headers_do_not_leak_across_explicit_table_boundaries():
+    from che126_data_science.data_mining.patent_html import _headers
+
+    assert _headers([
+        ['Property', 'Example 1', 'Example 2'],
+        ['Thickness', '12', '14'],
+        ['TABLE 2'],
+        ['Property', 'Example', 'Comparative'],
+    ], 2) == ['', '']

@@ -275,3 +275,27 @@ def test_normalized_thickness_force_stays_unresolved(tmp_path):
     )
     assert rows[0]["review_status"] == "pending"
     assert rows[0]["unit"] is None
+
+
+def test_shared_example_heading_with_number_and_unit_row(tmp_path):
+    rows = patent(
+        tmp_path,
+        "<tr><td></td><td>Example</td></tr>"
+        "<tr><td>Item</td><td>Unit</td><td>1</td><td>2</td></tr>"
+        "<tr><td>Porosity</td><td>%</td><td>40</td><td>45</td></tr>",
+        "Porosity was measured by a weight method.",
+    )
+    assert [r["sample_id"].split(":")[-1] for r in rows] == ["Example 1", "Example 2"]
+    assert all(r["review_status"] == "accepted" for r in rows)
+    assert [r["source_column"] for r in rows] == ["3", "4"]
+
+
+def test_shared_comparative_groups_are_not_guessed(tmp_path):
+    rows = patent(
+        tmp_path,
+        "<tr><td>Example</td><td>Comparative Example</td></tr>"
+        "<tr><td>Item</td><td>Unit</td><td>1</td><td>2</td></tr>"
+        "<tr><td>Porosity</td><td>%</td><td>40</td><td>45</td></tr>",
+        "Porosity was measured by a weight method.",
+    )
+    assert all(r["review_status"] == "pending" for r in rows)

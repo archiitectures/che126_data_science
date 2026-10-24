@@ -1,24 +1,28 @@
-# Data mining: initial research notes
+# Data mining
 
-Research date: 2026-10-12. Scope derives from the
-[project handoff](../docs/CODEX_DATA_SCIENCE_HANDOFF.md). This folder holds research and usage notes. The package now includes a
-Google Patents BigQuery client; see [setup and examples](PATENTS.md). Property
-extraction and bulk harvesting remain deferred. The dry CSV now includes 60 explicitly labeled FSRI polyethylene bulk-sheet
-thermal reference observations; the wet CSV is empty. See the [dataset card](../datasets/README.md). Hugging Face is the
-preferred data host at https://huggingface.co/datasets/archiitecture/che126.
-Keep dry and electrolyte-soaked measurements separate, focusing first on
-porosity, strength, and size with reported measurement temperatures.
-Reusable acquisition utilities belong in
-`src/che126_data_science/data_mining/`.
+Reusable adapters are in `src/che126_data_science/data_mining/`; dated acquisition
+and reviewed curation scripts live in `runs/`. The active extraction version is
+`separator-v24`. See the [collection guide](../docs/COLLECTION_GUIDE.md) for commands
+and the [independent review](../docs/INDEPENDENT_REVIEW.md) for limits and evidence.
 
-## What we want to collect later
+`Pipeline.collect` discovers a bounded batch, `DocumentStore` saves immutable
+source bytes, adapters extract observations and review records, and
+`Pipeline.aggregate` writes the accepted master. Run `scripts/export_unique_points.py`
+afterward to refresh the distinct-context dataset and its evidence links.
 
-Temperature-dependent measurements for PE, PP, multilayer PP/PE/PP, and coated
-separators. Start with thermal shrinkage, porosity/pore structure, mechanical
-strength, shutdown, and loss of integrity. Thermal conductivity, transport,
-electrolyte uptake, and electrical/ionic measurements may follow where sources
-provide enough test context. Papers and supplements, manufacturer datasheets,
-patents, testing documents, and public materials databases are candidate sources.
+Patent HTML supports defined experimental table layouts and sample recipe links;
+Celgard uses PDF table geometry; FSRI reads HFM instrument SI tables and density.
+General literature HTML/XML/PDF is currently curated through source-specific dated
+scripts and structured imports. PoLyInfo is authorized local import only. Figure
+tracing needs calibration. Unsupported formats and properties are not automatically
+understood; review records are excluded from accepted exports.
+
+Discovery is not data extraction. EPO needs credentials; BigQuery is an explicit
+budgeted alternative. Cached-source rebuilds require neither network nor paid
+queries. Review provenance and coverage before deciding what to collect next.
+
+The source leads below are historical research notes from 2026-10-12, not a list of
+every document used in the current dataset.
 
 ## Sources checked and candidate leads
 

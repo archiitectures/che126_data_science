@@ -3,6 +3,15 @@
 import re
 
 ALIASES = (
+    (r"contact\s*[- ]?\s*angle", "contact_angle"),
+    (r"shutdown\s+(?:response\s+time|speed)", "shutdown_response_time"),
+    (r"tortuosity", "tortuosity"),
+    (r"electric(?:al)?\s+resistance", "electrical_resistance"),
+    (r"ionic\s+conductivity", "ionic_conductivity"),
+    (
+        r"electrolyte\s+(?:uptake|absorption)(?!\s+(?:speed|rate|time))",
+        "electrolyte_uptake",
+    ),
     (r"(?:thermal\s+)?shrink(?:age)?", "thermal_shrinkage"),
     (r"(?:tensile\s+(?:rupture\s+)?)?elongation", "elongation"),
     (r"tensile\s+(?:rupture\s+)?(?:strength|stress)", "tensile_strength"),
@@ -16,8 +25,8 @@ ALIASES = (
     (r"thermal\s+conductivity", "thermal_conductivity"),
     (r"(?:specific\s+heat|heat\s+capacity)", "specific_heat_capacity"),
     (r"density", "density"),
-    (r"shutdown\s+temperature", "shutdown_temperature"),
-    (r"meltdown\s+temperature", "meltdown_temperature"),
+    (r"shutdown\s+temp(?:erature)?\b", "shutdown_temperature"),
+    (r"meltdown\s+temp(?:erature)?\b", "meltdown_temperature"),
     (r"melting\s+(?:point|temperature)", "melting_temperature"),
 )
 NUMBER = r"[-+]?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][-+]?\d+)?"
@@ -26,6 +35,14 @@ NUMBER = r"[-+]?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][-+]?\d+)?"
 def property_name(label: str) -> str | None:
     for pattern, name in ALIASES:
         if re.search(pattern, label, re.IGNORECASE):
+            if name in {
+                "tortuosity",
+                "electrical_resistance",
+                "shutdown_temperature",
+                "meltdown_temperature",
+                "air_permeability_time",
+            } and re.search(r"difference|increase|change|ratio", label, re.IGNORECASE):
+                return None
             return name
     return None
 
@@ -39,10 +56,16 @@ def canonical_unit_text(text: str) -> str:
         .replace("³", "3")
     )
     text = re.sub(r"(?<=[a-zA-Z])\s+(?=[23]\b)", "", text)
+    if re.fullmatch(r"[°º]?\s*C\.?", text, re.IGNORECASE):
+        return "C"
     return {
         "Seconds": "s",
         "seconds": "s",
         "sec": "s",
+        "second": "s",
+        "Ω": "ohm",
+        "°": "deg",
+        "degrees": "deg",
         "Grams Force (gf)": "gf",
         "Kg/cm2": "kg/cm2",
         "sec/100 ml": "s",
@@ -69,7 +92,7 @@ def conditions(text: str, *, role="exposure") -> dict:
     ]
     ambiguous = len({(m[1], m[2].upper()) for m in temperatures}) > 1 or bool(
         re.search(
-            rf"{NUMBER}\s*(?:[–—-]|to|and|/)\s*{NUMBER}\s*[°º]?\s*[CKF]\b",
+            rf"{NUMBER}\s*(?:[–—-]|to|and|/|±|\+/-)\s*{NUMBER}\s*[°º]?\s*[CKF]\b",
             text,
             re.IGNORECASE,
         )

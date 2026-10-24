@@ -1,5 +1,6 @@
 """Source-to-master orchestration with resumable manifests and no paid fallback."""
 
+import hashlib
 import json
 import re
 from collections import deque
@@ -9,6 +10,7 @@ from urllib.parse import urlparse
 
 from che126_data_science.data_science.master import (
     EXTRACTION_VERSION,
+    SCIENTIFIC_FIELDS,
     MasterObservation,
     atomic_bytes,
     atomic_json,
@@ -38,6 +40,11 @@ def _adapter(source):
         raise ValueError(f"Unknown source adapter {source}")
     module, name = ADAPTERS[source]
     return getattr(import_module(f"che126_data_science.data_mining.{module}"), name)
+
+
+def _verify_document(document):
+    if hashlib.sha256(Path(document.path).read_bytes()).hexdigest() != document.sha256:
+        raise ValueError(f"Source file hash mismatch: {document.path}")
 
 
 class Pipeline:
@@ -84,6 +91,7 @@ class Pipeline:
     def _ingest_document(
         self, doc, context, *, refresh=False, allow_fallback_fetch=True
     ):
+        _verify_document(doc)
         source = doc.source
         logical_key = fingerprint({"source_id": doc.source_id, "context": context})
         version_key = fingerprint(
@@ -251,6 +259,7 @@ class Pipeline:
     def aggregate(self, out_dir=None, *, measured_only=False):
         rows, aliases, seen, families, evidence = [], [], {}, {}, {}
         for key, entry in sorted(self.manifest["documents"].items()):
+            _verify_document(RawDocument(**entry["document"]))
             result = json.loads(Path(entry["artifact_file"]).read_text())
             if result.get("extraction_version") != EXTRACTION_VERSION:
                 updated = self._ingest_document(
@@ -267,41 +276,14 @@ class Pipeline:
                         {
                             "family": row.family_id,
                             "example": row.sample_id.split(":", 1)[-1],
-                            **{
-                                k: getattr(row, k)
-                                for k in (
-                                    "property",
-                                    "value",
-                                    "unit",
-                                    "statistic",
-                                    "record_type",
-                                    "temperature_C",
-                                    "temperature_role",
-                                    "duration_min",
-                                    "direction",
-                                    "measurement_context",
-                                    "replicate_id",
-                                )
-                            },
+                            **{k: getattr(row, k) for k in SCIENTIFIC_FIELDS},
                         }
                     )
                 evidence_key = (
                     fingerprint(
                         {
                             "evidence": row.evidence_group,
-                            **{
-                                k: getattr(row, k)
-                                for k in (
-                                    "property",
-                                    "value",
-                                    "unit",
-                                    "record_type",
-                                    "statistic",
-                                    "replicate_id",
-                                    "temperature_C",
-                                    "temperature_role",
-                                )
-                            },
+                            **{k: getattr(row, k) for k in SCIENTIFIC_FIELDS},
                         }
                     )
                     if row.evidence_group
@@ -313,6 +295,13 @@ class Pipeline:
                     or (evidence.get(evidence_key) if evidence_key else None)
                 )
                 if previous:
+                    if previous.observation_id == row.observation_id and any(
+                        getattr(previous, name) != getattr(row, name)
+                        for name in (*SCIENTIFIC_FIELDS, "review_status")
+                    ):
+                        raise ValueError(
+                            f"Conflicting observation ID {row.observation_id}"
+                        )
                     aliases.append(
                         {
                             "observation_id": previous.observation_id,

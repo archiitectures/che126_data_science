@@ -6,14 +6,47 @@ import io
 import json
 import math
 import os
+import re
 from collections import Counter
 from dataclasses import asdict, dataclass, fields
 from pathlib import Path
 
 from .observations import CONVERSIONS, UNITS, Observation
 
-SCHEMA_VERSION = "1"
-EXTRACTION_VERSION = "separator-v5"
+SCHEMA_VERSION = "2"
+EXTRACTION_VERSION = "separator-v24"
+
+# Scientific context excludes source location; equality is not experiment independence.
+SCIENTIFIC_FIELDS = (
+    "polymer",
+    "product",
+    "sample_form",
+    "property",
+    "value",
+    "unit",
+    "statistic",
+    "record_type",
+    "temperature_C",
+    "temperature_role",
+    "duration_min",
+    "direction",
+    "electrolyte_state",
+    "separator_architecture",
+    "coating",
+    "electrolyte_salt",
+    "electrolyte_solvent",
+    "electrolyte_concentration",
+    "heating_rate_C_min",
+    "method",
+    "measurement_context",
+    "shrinkage_basis",
+    "material_grade",
+    "material_class",
+    "manufacturer",
+    "replicate_id",
+    "curve_id",
+    "uncertainty",
+)
 
 
 def fingerprint(value) -> str:
@@ -70,6 +103,9 @@ class MasterObservation:
     manufacturer: str | None = None
     product: str | None = None
     polymer: str | None = None
+    material_identity_status: str | None = None
+    material_identity_evidence: str | None = None
+    material_identity_reason: str | None = None
     separator_architecture: str | None = None
     coating: str | None = None
     material_grade: str | None = None
@@ -197,9 +233,42 @@ def make_observation(
             conversion = json.dumps({"scale": scale, "offset": offset}, sort_keys=True)
     except (ValueError, TypeError, KeyError):
         flag = flag or "unresolved_property_value_or_unit"
+    # A difference or dispersion statistic is not an absolute property value.
+    # Retain the source row in review until it has its own supported definition.
+    if re.search(
+        r"\b(?:standard deviation|coefficient of variation|(?:increase|decrease|change|difference) in|retention of)\b",
+        label,
+        re.IGNORECASE,
+    ):
+        flag = flag or "derived_property_definition_requires_review"
     if flag:
         metadata["review_status"] = "pending"
     source_url = metadata.pop("source_url", document.url)
+    if not metadata.get("material_identity_status"):
+        metadata["material_identity_status"] = (
+            "supplied_source_identity"
+            if metadata.get("polymer")
+            else "not_linked_to_recipe"
+        )
+        metadata["material_identity_reason"] = (
+            "Material supplied by source adapter or reviewed import; see source coordinates and notes"
+            if metadata.get("polymer")
+            else "No sample-specific material identity supplied by this source adapter"
+        )
+        if metadata.get("polymer"):
+            metadata["material_identity_evidence"] = json.dumps(
+                [
+                    {
+                        "source_file": document.path,
+                        "source_sha256": document.sha256,
+                        "locator": metadata.get("source_table")
+                        or metadata.get("source_row")
+                        or "source adapter context",
+                        "basis": "Supplied source material field; see observation notes for primary-source review",
+                    }
+                ],
+                sort_keys=True,
+            )
     identity = {
         "sha256": document.sha256,
         "sample": sample_id,

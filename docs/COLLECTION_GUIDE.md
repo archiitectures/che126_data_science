@@ -1,3 +1,64 @@
+# Current workflow status
+
+The active extractor is **separator-v24**, master schema **2**. Start with the
+[root README](../README.md) and [independent review](INDEPENDENT_REVIEW.md).
+Current exports contain 8,977 accepted observations and 5,982 scientific context
+groups. Run `scripts/audit_dataset.py` after aggregation/export. The sections below
+retain dated development history; their old counts and version labels describe
+those snapshots. Current literature support remains reviewed structured import,
+not a universal paper/PDF parser.
+
+## Current material identity snapshot — 2026-10-23
+
+Read the [current identity report](../datasets/material_identity_report.md) and
+`datasets/material_identity.csv` for the latest material counts, evidence and
+remaining gaps. The accepted master and distinct CSV/Parquet exports are synchronized
+under `datasets/` and `data/processed/`. The identity resolver is integrated into
+patent ingestion; dated replay and validation artifacts live in
+`data_mining/runs/2026-10-23_identity_reconciliation/`.
+
+Master schema 2 adds `material_identity_status`, `material_identity_evidence` and
+`material_identity_reason`. Existing raw observations remain readable through
+nullable defaults. Source recipe links can change distinct context IDs/counts;
+the observation lineage preserves the mapping to the original measurements.
+Earlier collection reports and PDFs retain their historical snapshots.
+
+## Polymer identity and temperature recovery (2026-10-19)
+
+Extraction version `separator-v10` recovers explicit numeric measurement temperatures
+from the linked property protocol, rather than limiting temperatures to shrinkage.
+It does not impute room temperature from ASTM/JIS citations, unqualified ambient
+wording, or manufacturing conditions. Tolerance/range temperatures remain
+unassigned by the scalar parser.
+
+Complete PE/PP composition columns must total 100% before automatic identity
+assignment. Optional `sample_annotations` in the ingestion context supply reviewed
+identity metadata keyed by exact sample header or `TABLE n:sample header`. Each
+annotation requires exact immutable-source snippets and paragraph locators (`id`
+or a unique `num:` locator). These are reviewed recipe-to-example links, not a
+classifier based on general patent claims. Sample headers are replaced at later
+headers, preserve split comparative prefixes, and reset at explicit table boundaries.
+Ambiguous unnumbered examples remain pending.
+
+The counts and source limitations for that historical pass are in
+`data_mining/runs/2026-10-19_identity_temperature/README.md` and
+`data/processed/collection_breakdown.json`. The property/temperature CSVs under
+`data/processed/` and `datasets/` describe the complete current export.
+Run `scripts/export_unique_points.py` after aggregation to synchronize accepted
+master and distinct CSV/Parquet files into `datasets/`. Coverage reports and the
+dataset card can be refreshed with the dated run's reporting scripts. The
+16-page PDF handbook remains the earlier 1,004-point snapshot; its architecture
+walkthrough is useful, but current collection counts supersede its totals.
+
+111 tests cover the pipeline and regressions. No cloud billing or paid queries
+were used in this follow-up. Preserve source evidence and all review rows.
+
+## Earlier collection view (2026-10-19, before identity recovery)
+
+That historical master had 2,086 accepted source records. Run `python scripts/export_unique_points.py` after aggregation to regenerate the conservative distinct-value/context view, its typed Parquet/CSV exports, and evidence links. The current view contains 1,004 points (835 separator/components, 169 bulk references); only 124 are measured separator points with explicit temperatures. The exporter deliberately collapses equal contexts across sources, including potentially different experiments; it is not an independence certificate.
+
+That pass used extraction version `separator-v6`; 104 tests pass. The collection report at `data_mining/runs/2026-10-16_1000_target/README.md` details source formats, method counts, 13 properties, categories and 14 reported temperatures. The 16-page newcomer guide is `output/pdf/code_review_handbook.pdf`. Preserve the full master and `unique_point_evidence.json` when using the deduplicated view.
+
 ## Automation corrections (2026-10-16)
 
 Extraction version `separator-v4` rebuilds stale artifacts from cached raw files during aggregation. Repeated bounded `collect` runs now skip processed documents and advance to remaining candidates. Use `--refresh` to deliberately revisit processed documents; failed downloads remain retryable. Review entries are preserved, including unresolved bounded patent cells and individual malformed spreadsheet rows. Source failures no longer prevent unaffected collection or folder inputs from completing.
@@ -319,3 +380,21 @@ Run `.venv/bin/python -m pytest -q`, `.venv/bin/ruff check src tests`, and
 `git diff --check`. Do not build models until material/temperature coverage and
 measurement comparability are adequate. Do not publish NIMS content without
 permission or automatically merge candidate evidence into the public dataset.
+# Latest collection update — 2026-10-19
+
+The dated follow-up report at
+`data_mining/runs/2026-10-19_expansion/README.md` is the current collection
+snapshot. It contains 2,159 distinct value/context points from 5,019 accepted
+source observations, across 22 properties (20 separator properties). The
+increase from 1,142 is +1,017 contexts: 612 recovered from cached documents,
+378 from new sources/imports, and 27 from reviewed sample-identity
+disambiguation. Counts do not mean independent experiments.
+
+New recurring categories are contact angle, electrical resistance, shutdown
+response time, and tortuosity. They fit the existing tidy schema as property
+rows. There are 488 separator points with numeric measurement/exposure
+conditions over 15 temperatures from 23 to 180 °C; no subambient separator
+measurements were found. Polymer remains unresolved for 1,228 separator points.
+The current `datasets/` and `data/processed/` exports and `validation.json`
+contain the synchronized data and evidence checks. Preserve these limits when
+using the historical newcomer PDF, whose counts are from an earlier snapshot.

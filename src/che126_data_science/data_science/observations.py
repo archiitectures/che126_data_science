@@ -28,6 +28,10 @@ UNITS = {
     "gurley_time": "s",
     "air_permeability_time": "s",
     "basis_weight": "g/m2",
+    "shutdown_response_time": "s",
+    "tortuosity": "1",
+    "electrical_resistance": "ohm",
+    "contact_angle": "deg",
 }
 CONVERSIONS = {
     ("mm", "um"): (1000, 0),
@@ -94,6 +98,8 @@ class Observation:
             raise ValueError("value must be finite")
         if self.property == "porosity" and not 0 <= self.value <= 100:
             raise ValueError("porosity must be in [0, 100]")
+        if self.property == "contact_angle" and not 0 <= self.value <= 180:
+            raise ValueError("contact angle must be in [0, 180]")
         if (
             self.property
             not in {

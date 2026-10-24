@@ -32,3 +32,6 @@ credentials*.json
 # Local acquisition and document-rendering intermediates
 /tmp/
 
+
+# Finder metadata
+.DS_Store

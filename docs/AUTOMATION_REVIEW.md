@@ -1,3 +1,23 @@
+# Identity and temperature follow-up — 2026-10-19
+
+`separator-v10` fixes dropped explicit non-shrinkage measurement temperatures,
+split comparative headers, accumulated earlier example headers, and sample-header
+leakage across explicit table boundaries. Temperature tolerances are guarded from
+being misread as a scalar tolerance value. Complete 100%-composition PE/PP tables
+and source-verified reviewed sample annotations restore material metadata.
+111 regression tests pass. Current data and remaining unresolved sources are in
+`data_mining/runs/2026-10-19_identity_temperature/README.md`. The annotations for
+ten patents are explicit curation and retain original recipe evidence; remaining
+unknown polymers and temperatures are not guessed. Historical findings follow.
+
+---
+
+# Collection follow-up - 2026-10-19
+
+Extraction version separator-v6 additionally supports description-line HTML paragraphs, explicit numbered property/method blocks, abbreviated Ex headers, aligned numeric headers beneath a single shared Example group, and explicit kgf/cm2 and mN conversions. Thickness-normalized force stays unresolved. Mixed comparative header groups are not guessed. 104 regression tests pass. The source corpus is preserved for local re-extraction. Final collection and conservative deduplication counts are in data/processed/unique_points_summary.json. New newcomer handbook: output/pdf/code_review_handbook.pdf.
+
+---
+
 # Automation and correctness review — 2026-10-16
 
 ## Implementation follow-up

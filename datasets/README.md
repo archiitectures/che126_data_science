@@ -10,6 +10,11 @@ tags:
 - porosity
 - mechanical-properties
 configs:
+- config_name: default
+  default: true
+  data_files: unique_points.parquet
+- config_name: observations
+  data_files: master_observations.parquet
 - config_name: dry
   data_files: dry_separators.csv
 - config_name: wet
@@ -22,14 +27,87 @@ Public dataset: https://huggingface.co/datasets/archiitecture/che126
 
 Code and research notes: https://github.com/archiitectures/che126_data_science
 
-This senior-year chemical engineering capstone tabulates battery separator
-**porosity, strength, and size**, with temperature recorded whenever available.
-The dry CSV contains **60 FSRI bulk-polyethylene reference observations**
-(30 HDPE and 30 LDPE), including thermal conductivity and heat capacity. These
-are clearly labeled bulk-sheet references, not battery separator measurements.
-The electrolyte-soaked wet CSV still contains **zero records**. No separator
-porosity, strength, or pore-size values have been inferred from FSRI thermal data.
+## Current reviewed export
 
+The local dataset contains **8,977 accepted observations** and **5,982 distinct
+scientific value/context groups**, across **23 properties**, after the independent
+review (`separator-v24`, schema 2). The review moved 15 relative/dispersion values
+out of accepted absolute-property records and corrected context grouping. More
+context groups do not mean more measurements were collected.
+
+Use `master_observations.csv`/`.parquet` for all accepted evidence and
+`unique_points.csv`/`.parquet` for the grouped view. These are tidy tables, one
+property per row. `unique_point_evidence.json` preserves all supporting observation
+IDs. Method, measurement context, shrinkage basis, material grade, replicate/curve
+identity and uncertainty now participate in grouping. Equal recorded contexts can
+still represent separate experiments; patent families have not been fully linked.
+
+The source citations include 275 patent publication URLs, 13 literature URLs,
+28 Celgard datasheets and 40 FSRI file URLs. There are 349 import/source files:
+one curated file can contain several primary sources. These are distinct counting
+units, and patent publication count is not patent-family count.
+
+See [independent review](../docs/INDEPENDENT_REVIEW.md) and
+[audit results](quality_review.json). The local exports have not been republished
+to Hugging Face as part of this review. Missing values remain unknown; bulk
+references and calculated/specification records must be filtered appropriately.
+For structured imports, `original_value`/`original_unit` describe the imported CSV
+cell; primary-document values and hashes can additionally reside in `notes` and
+dated curation evidence. A CSV hash alone does not verify the original paper.
+
+The legacy dry/wet tables and their 35-column dictionary below are a separate older
+format, not the schema of the master/unique tables. Earlier reports are snapshots.
+
+## Current material identity audit — 2026-10-23
+
+The stored sources have been reprocessed to link separator material recipes to
+individual samples, including explicit recipe inheritance, layered composition
+tables and reviewed source passages. Current counts and remaining gaps are in the
+[material identity report](material_identity_report.md). Earlier collection counts below describe the
+snapshot before this identity reconciliation.
+
+Use [`unique_points.csv`](unique_points.csv) for distinct normalized property/context points
+and `master_observations.csv` for the full accepted source observations. Corrected
+material labels can split or merge distinct contexts; they do not represent newly
+collected measurements. The reconciliation checks preserve original values,
+units, temperatures, sample labels, directions and protocols.
+
+The CSVs add `material_identity_status`, `material_identity_evidence` and
+`material_identity_reason`. A missing `polymer` is accompanied by a specific
+linking/evidence gap; it does not by itself establish that the source omitted its
+material. The [per-point identity audit](material_identity.csv) and the report's observation lineage
+make these assignments traceable. Polymer families outside PE/PP, including
+identified fiber composites, remain explicit categories. Current figures and their
+reproduction code live in [visualizations](../visualizations/README.md).
+
+## Historical collection snapshot — 2026-10-23 balanced pass
+
+The completed bounded pass contains **3,961 distinct normalized value/context
+points** from **8,992 accepted source observations**, net +1,802 contexts from the
+2,159-point baseline. Validation confirms all baseline contexts were preserved,
+complete evidence links, CSV/Parquet round-trip consistency, and byte-equal dataset
+exports. The 2,000-additional-context target was not met. The increase comprises
+587 contexts recovered from cached sources/reviewed cached imports and 1,215 from
+new sources. Distinct contexts are not independent experiments.
+
+There are 23 property categories and 998 separator points with numeric
+measurement/exposure temperatures, up from 488. Across separator records, 20
+setpoints span 23–300 °C. Identified PE, PP, PE/PP, and PP/PE/PP records cover 14
+setpoints from 23–180 °C; the 250 and 300 °C records have unresolved polymer
+identity and do not demonstrate high-temperature performance for identified
+polyolefin types. Temperature marginals improved, but occupied cells in the fixed
+baseline property × temperature × role grid increased only from 19 to 20. Full
+cross-property temperature coverage remains sparse.
+
+The parser version for this pass is `separator-v19`. Property categories are values
+in the tidy `property` field, not literal wide columns. New source formats include
+patent HTML tables, primary Europe PMC XML, and a reviewed primary author-hosted PDF.
+One new specific-heat-capacity category has a single observation. One separator
+volumetric heat-capacity value is explicitly calculated as density × specific heat;
+it is not an independent experiment. An unnumbered “room temperature” is not
+assigned a numeric temperature, and no interpolation is performed.
+
+See the [balanced collection report](collection_balanced_report.md), [run report](../data_mining/runs/2026-10-23_balanced/collection_report.md), and [run README](../data_mining/runs/2026-10-23_balanced/README.md) for property and temperature growth tables, methodology, and limitations. The 2026-10-19 [expansion report](collection_expansion_report.md) and earlier reports remain available as historical snapshots. Pending review records are excluded; source restrictions remain recorded and no dataset-wide license is asserted.
 ## Separate dry and wet datasets
 
 - `dry_separators.csv` / `dry` subset: measurements without battery electrolyte

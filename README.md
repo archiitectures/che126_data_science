@@ -1,68 +1,49 @@
-# ChE126: battery separator data science
+# ChE126 battery separator data science
 
-Senior-year chemical engineering capstone studying how lithium-ion battery
-separator properties change with temperature, with an EV-battery focus.
-This repository owns the data science layer. Atomistic and continuum simulations
-belong in a separate repository; their outputs will eventually be upstream data.
+Collect, normalize and trace temperature-dependent separator properties from
+patents, manufacturer datasheets, public materials measurements and reviewed
+literature imports. Physical simulations and trained prediction models are outside
+this repository's current scope.
 
-The initial research question is: **How do separator construction and test
-conditions affect temperature-dependent shrinkage, transport, and mechanical
-integrity?** The handoff frames a possible failure pathway from thermal or
-mechanical stress through pore collapse or shrinkage, loss of isolation, internal
-shorting, and possible thermal runaway. Pore shutdown and loss of mechanical
-integrity must be tracked as distinct outcomes.
+## Current dataset
 
-## Current scope
+The independent review rebuilt the cached corpus with `separator-v24` (schema 2).
+There are **8,977 accepted source observations**, **5,982 distinct scientific
+value/context groups**, and **23 property categories**. Fifteen incorrectly
+classified relative/dispersion values were moved to the review queue. The context
+count increased because protocol, shrinkage basis, grade and replicate distinctions
+are now preserved; this is not newly collected data.
 
-The package now supports a manifest-driven automatic source-to-master workflow,
-EPO patent discovery, existing Google BigQuery searches, public FSRI and Celgard discovery,
-NIMS PoLyInfo assisted search, raw-document preservation, strict observation CSV
-cleaning, typed CSV/Parquet master exports, review queues, calibrated curve tracing,
-and temperature/property coverage reports. The base install has no
-runtime dependencies; BigQuery and PDF text extraction use optional extras.
+- [`datasets/master_observations.csv`](datasets/master_observations.csv): accepted
+  evidence, one property per source observation; Parquet has the same records.
+- [`datasets/unique_points.csv`](datasets/unique_points.csv): equal values with equal
+  recorded scientific context grouped across sources, with full membership in
+  `unique_point_evidence.json`. This is not a count of independent experiments.
+- `data/processed/review_queue.csv`: ambiguous, unsupported or invalid extractions.
+- [Independent review](docs/INDEPENDENT_REVIEW.md): corrections, checks and remaining
+  limitations. [Dataset audit](output/review/dataset_audit.json) records input hashes.
+- [Figures and reproduction code](visualizations/README.md).
 
-Run `uv run python scripts/run_pipeline_demo.py` after installing the `ingest` and
-`graph` extras for a repeatable offline demonstration.
+## Pipeline and source support
 
-Start with the [collection guide](docs/COLLECTION_GUIDE.md) or the
-[illustrated codebase PDF](output/pdf/codebase_guide.pdf). The existing published
-wide tables remain unchanged: 60 bulk-polyethylene reference rows in the dry
-CSV and an empty electrolyte-wet CSV. New tidy examples are staged separately
-in `data_mining/examples/`; they are not additional independent measurements.
+| Stage/source | Implementation | Supported behavior |
+| --- | --- | --- |
+| Discovery | `sources.py`, `discovery.py`, `patents.py` | Celgard/FSRI discovery, EPO credentials, explicitly budgeted BigQuery |
+| Acquisition | `acquisition.py` | Bounded HTTPS, access checks, immutable bytes, hashes and cache receipts |
+| Patent HTML | `patent_html.py`, `material_identity.py` | Supported experimental tables, explicit units/protocols and sample recipe links |
+| Celgard PDF | `pdf_tables.py` | Supported table layouts, product/component scope and limits |
+| FSRI | `structured.py`, `fsri.py` | HFM SI tables and density; bulk references stay labeled |
+| Papers/PoLyInfo | `structured.py` | Reviewed CSV/TSV/XLSX imports; PoLyInfo requires authorization metadata |
+| Validation/assembly | `master.py`, `pipeline.py` | Typed rows, review routing, context-aware deduplication, CSV/Parquet |
+| Analysis | `observations.py`, `scripts/export_unique_points.py` | Coverage and distinct-context exports |
 
-Property data will live in the public
-[Hugging Face dataset](https://huggingface.co/datasets/archiitecture/che126), with
-separate **dry** and **wet (electrolyte-soaked)** subsets. Initial tables focus on
-porosity, tensile/puncture strength, thickness, and pore size, with measurement
-temperature whenever reported. See the [dataset card](datasets/README.md) for
-column definitions, reference-data coverage, and source provenance. Wet/dry describes
-measurement state, independently of manufacturing process.
-
-```text
-che126_data_science/
-├── data_mining/README.md          # Source leads and future curation notes
-├── data_science/README.md         # Analysis questions and proposed data contract
-├── docs/CODEX_DATA_SCIENCE_HANDOFF.md
-├── datasets/
-│   ├── README.md                  # Hugging Face card and column dictionary
-│   ├── dry_separators.csv          # Dry data and labeled bulk-sheet references
-│   └── wet_separators.csv          # Empty electrolyte-soaked measurement table
-├── src/che126_data_science/
-│   ├── __init__.py
-│   ├── data_mining/patents.py     # Patent search, retrieval, and JSON export
-│   ├── data_mining/sources.py     # Public discovery and hashed downloads
-│   ├── data_mining/fsri.py        # HFM and public curve parsing
-│   ├── data_mining/celgard.py     # Conservative datasheet extraction
-│   ├── data_science/observations.py # Tidy validation and coverage
-│   └── __main__.py               # Command-line workflow
-├── pyproject.toml
-└── uv.lock
-```
-
-Start with [data mining notes](data_mining/README.md),
-[data science notes](data_science/README.md), and the
-[original project handoff](docs/CODEX_DATA_SCIENCE_HANDOFF.md).
-The Markdown handoff is the supplied project background.
+The code does not extract arbitrary separator information from every format.
+Scanned PDFs, general paper XML, unsupported tables and unknown properties require
+an adapter or reviewed import. The dated literature import scripts encode specific
+source decisions. Graph tracing requires explicit calibration and series isolation.
+Missing temperatures remain missing, and exposure temperatures are distinct from
+measurement temperatures. Manufacturer specifications and calculated values retain
+their record types.
 
 ## Setup with uv
 
@@ -71,7 +52,8 @@ Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then:
 ```bash
 git clone git@github.com:archiitectures/che126_data_science.git
 cd che126_data_science
-uv sync --locked
+uv sync --locked --extra ingest --extra graph --group dev
+uv pip install --python .venv/bin/python -r visualizations/requirements.txt
 uv run python -c "import che126_data_science.data_mining; import che126_data_science.data_science"
 ```
 
@@ -82,27 +64,31 @@ available immediately. The imports above verify setup. Patent acquisition is doc
 Another project can install this package with
 `uv add git+ssh://git@github.com/archiitectures/che126_data_science.git`.
 
-## Keep it light and modular
+## Run and verify
 
-- Put reusable logic in small, focused modules under `src/che126_data_science/`.
-  Notebooks should call the package rather than copy its implementation.
-- Prefer functions for transformations and analysis. Use classes when they own
-  meaningful state or shared behavior; avoid frameworks and empty abstractions.
-- Add dependencies only when a concrete task needs them, using `uv add`;
-  development tools belong in `uv add --dev`. Commit `uv.lock` with changes.
-- Preserve original values, units, test conditions, and source provenance.
-  Never silently overwrite raw data. Keep future raw, interim, and processed
-  data separate; establish storage/versioning before committing datasets.
-- Use lightweight Python configuration and deterministic operations where
-  practical. Add focused pytest checks when preprocessing or modeling utilities
-  exist, especially for unit conversion, validation, and leakage prevention.
-- Keep simulation implementations in the simulation repository. Define adapters
-  here only once actual upstream output examples are available.
+```sh
+.venv/bin/python -m che126_data_science aggregate --data-dir data
+.venv/bin/python scripts/export_unique_points.py
+.venv/bin/python scripts/audit_dataset.py
+.venv/bin/python visualizations/generate_figures.py
+.venv/bin/pytest -q
+```
 
-## Next research phase
+Aggregation reprocesses stale extraction artifacts from cached bytes. Export the
+unique view afterward to synchronize `datasets/` and `data/processed/`. Audit is
+read-only with respect to data and writes its report to `output/review/`.
 
-Inspect coverage gaps before collecting more sources. Requested temperatures do
-not guarantee measurements exist at those conditions. Keep source/sample/form,
-electrolyte state, direction, methods and conditioning distinct. Add parsers only
-when real source examples justify them, then test against those fixtures. Modeling
-comes after adequate coverage and provenance, not before.
+See the [collection guide](docs/COLLECTION_GUIDE.md), [mining guide](data_mining/README.md),
+[analysis guide](data_science/README.md) and [dataset card](datasets/README.md).
+The public Hugging Face repository can lag these local exports; publication is a
+separate action. Existing PDFs and dated collection reports are historical snapshots.
+
+## Keep the repository lean
+
+Reusable code belongs in `src/`; dated experiments and curation evidence stay in
+`data_mining/runs/`. Base dependencies are empty; install only the needed extras.
+Raw data, caches and extraction artifacts dominate disk usage, not the Python code.
+Do not delete immutable source evidence to reduce size. Avoid copying extraction
+logic into new collection scripts; add supported formats at the existing adapters.
+Environment files and private keys are ignored; install the provided Git hooks for
+commit/push scanning. No secrets belong in tracked source or examples.

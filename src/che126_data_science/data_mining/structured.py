@@ -169,23 +169,37 @@ def extract_manual(document, context):
             sheet = workbook[context.get("sheet", workbook.sheetnames[0])]
             iterator = sheet.iter_rows(values_only=True)
             header = next(iterator, None)
-            if not header:
-                raise ValueError("Workbook sheet has no header")
+            if (
+                not header
+                or len(set(header)) != len(header)
+                or any(h is None for h in header)
+            ):
+                raise ValueError("Workbook sheet has missing or duplicate headers")
             source_rows = [dict(zip(header, row, strict=True)) for row in iterator]
         finally:
             workbook.close()
     else:
         text = Path(document.path).read_text(encoding="utf-8-sig")
-        source_rows = list(
-            csv.DictReader(
-                io.StringIO(text),
-                delimiter="\t" if str(filename).lower().endswith(".tsv") else ",",
-            )
+        reader = csv.DictReader(
+            io.StringIO(text),
+            delimiter="\t" if str(filename).lower().endswith(".tsv") else ",",
         )
+        header = reader.fieldnames
+        if not header or len(set(header)) != len(header) or any(not h for h in header):
+            raise ValueError("Structured file has missing or duplicate headers")
+        source_rows = list(reader)
     mapping = context.get("columns", {})
     rows = []
     for i, raw in enumerate(source_rows, 2):
         try:
+            if None in raw or (
+                not str(filename).lower().endswith(".xlsx")
+                and any(v is None for v in raw.values())
+            ):
+                raise ValueError("Structured row width differs from header")
+            mapped_names = [mapping.get(k, k) for k in raw]
+            if len(set(mapped_names)) != len(mapped_names):
+                raise ValueError("Column mapping produces duplicate field names")
             source = {mapping.get(k, k): v for k, v in raw.items()}
             source = {
                 k: v
@@ -201,6 +215,9 @@ def extract_manual(document, context):
                 k: source[k]
                 for k in (
                     "polymer",
+                    "material_identity_status",
+                    "material_identity_evidence",
+                    "material_identity_reason",
                     "manufacturer",
                     "product",
                     "separator_architecture",
