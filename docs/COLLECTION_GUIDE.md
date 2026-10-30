@@ -1,9 +1,22 @@
+## Latest thermal collection and temperature recovery — 2026-10-30
+
+Current local exports: **10,582 distinct contexts**, **13,258 evidence observations**, **5,110 with numeric temperature (+2,419)**. Added 2,200 FSRI bulk-reference contexts and 23 paper contexts; recovered conditions for 196 existing contexts. Full data remain in `datasets/unique_points.csv`; `temperature_resolved_points.csv` is the explicit-temperature subset. **5,472 still lack numeric test conditions**, including 676 temperature-response properties. Bulk references and separator performance remain distinguished. See the [current report](../datasets/thermal_temperature_report.md) and `datasets/temperature_gap_audit.csv` for evidence, limits and next actions. Earlier sections below are historical.
+
+## Earlier collection snapshot — 2026-10-26
+
+Current local exports contain **8,320 distinct contexts** and
+**10,996 accepted observations**, using `separator-v32` / schema 2.
+The pass admitted 2,338 new measurement contexts;
+the 3,000-additional-point target was not met.
+See the [latest collection report](../datasets/collection_latest_report.md)
+for material and temperature/property coverage, PDF attribution and validation.
+Earlier dated sections below describe earlier snapshots.
+
 # Current workflow status
 
-The active extractor is **separator-v24**, master schema **2**. Start with the
+The active extractor is **separator-v32**, master schema **2**. Start with the
 [root README](../README.md) and [independent review](INDEPENDENT_REVIEW.md).
-Current exports contain 8,977 accepted observations and 5,982 scientific context
-groups. Run `scripts/audit_dataset.py` after aggregation/export. The sections below
+See the latest local collection section above for current export counts. Run `scripts/audit_dataset.py` after aggregation/export. The sections below
 retain dated development history; their old counts and version labels describe
 those snapshots. Current literature support remains reviewed structured import,
 not a universal paper/PDF parser.

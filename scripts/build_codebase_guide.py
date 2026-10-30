@@ -6,9 +6,14 @@ from xml.sax.saxutils import escape
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_LEFT
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
-from reportlab.lib.units import inch
 from reportlab.platypus import (
-    Flowable, PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle,
+    Flowable,
+    PageBreak,
+    Paragraph,
+    SimpleDocTemplate,
+    Spacer,
+    Table,
+    TableStyle,
 )
 
 ROOT = Path(__file__).resolve().parents[1]

@@ -15,6 +15,10 @@ ALIASES = (
     (r"(?:thermal\s+)?shrink(?:age)?", "thermal_shrinkage"),
     (r"(?:tensile\s+(?:rupture\s+)?)?elongation", "elongation"),
     (r"tensile\s+(?:rupture\s+)?(?:strength|stress)", "tensile_strength"),
+    (
+        r"(?:MD|TD)\s+tensile(?=\s*(?:$|[,()]?\s*(?:MPa|kgf/cm\s*2|kPa|Pa)\b))",
+        "tensile_strength",
+    ),
     (r"puncture\s+(?:strength|force|resistance)", "puncture_force"),
     (r"(?:film\s+)?thickness", "thickness"),
     (r"porosity", "porosity"),
@@ -87,12 +91,14 @@ def conditions(text: str, *, role="exposure") -> dict:
         result["heating_rate_C_min"] = float(rate[1])
     temperatures = [
         m
-        for m in re.finditer(rf"({NUMBER})\s*[°º]?\s*(C|K|F)\b", text, re.IGNORECASE)
+        for m in re.finditer(
+            rf"({NUMBER})\s*(?:[°º]|deg\.?|degrees?)?\s*(C|K|F)\b", text, re.IGNORECASE
+        )
         if not re.match(r"\s*/\s*(?:min|s|h)", text[m.end() :], re.IGNORECASE)
     ]
     ambiguous = len({(m[1], m[2].upper()) for m in temperatures}) > 1 or bool(
         re.search(
-            rf"{NUMBER}\s*(?:[–—-]|to|and|/|±|\+/-)\s*{NUMBER}\s*[°º]?\s*[CKF]\b",
+            rf"{NUMBER}\s*(?:[–—-]|to|and|/|±|\+/-)\s*{NUMBER}\s*(?:[°º]|deg\.?|degrees?)?\s*[CKF]\b",
             text,
             re.IGNORECASE,
         )
@@ -136,6 +142,8 @@ def direction(text: str) -> str:
 def values(cell: str, label: str, *, default="reported") -> list[tuple[str, str]]:
     """Only scalar/paired numeric cells; ranges and qualifiers require review."""
     cell = cell.strip().replace("−", "-")
+    if "%" in label and re.fullmatch(rf"{NUMBER}\s*%", cell):
+        cell = cell.rstrip("% ")
     pair = re.fullmatch(rf"\s*({NUMBER})\s*/\s*({NUMBER})\s*", cell)
     if pair:
         if re.search(r"typical\s*/\s*(?:min|minimum)", label, re.IGNORECASE):

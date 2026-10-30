@@ -9,6 +9,10 @@ from urllib.parse import urlparse
 
 # Canonical units; aliases are intentionally explicit, not guessed from labels.
 UNITS = {
+    "heat_flow": "W",
+    "mass_specific_heat_flow": "W/kg",
+    "sta_mass_change": "kg",
+    "sta_mass_percent": "%",
     "thickness": "um",
     "pore_size": "um",
     "porosity": "%",
@@ -31,9 +35,15 @@ UNITS = {
     "shutdown_response_time": "s",
     "tortuosity": "1",
     "electrical_resistance": "ohm",
+    "area_specific_resistance": "ohm m2",
     "contact_angle": "deg",
 }
 CONVERSIONS = {
+    ("mW", "W"): (0.001, 0.0),
+    ("mW/mg", "W/kg"): (1000.0, 0.0),
+    ("mg", "kg"): (1e-6, 0.0),
+    ("S/cm", "S/m"): (100.0, 0.0),
+    ("ohm cm2", "ohm m2"): (0.0001, 0.0),
     ("mm", "um"): (1000, 0),
     ("nm", "um"): (0.001, 0),
     ("Pa", "MPa"): (1e-6, 0),
@@ -104,6 +114,10 @@ class Observation:
             self.property
             not in {
                 "thermal_shrinkage",
+                "mass_specific_heat_flow",
+                "heat_flow",
+                "sta_mass_change",
+                "sta_mass_percent",
                 "melting_temperature",
                 "shutdown_temperature",
                 "meltdown_temperature",

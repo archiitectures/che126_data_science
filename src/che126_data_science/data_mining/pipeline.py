@@ -4,7 +4,7 @@ import hashlib
 import json
 import re
 from collections import deque
-from dataclasses import asdict
+from dataclasses import asdict, replace
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -115,6 +115,32 @@ class Pipeline:
                         "PDF tables extracted; experimental context requires review"
                     )
                 rows, artifacts = _adapter(source)(doc, context)
+                if context.get("reviewed_conditions"):
+                    from .reviewed_conditions import apply_reviewed_conditions
+
+                    rows = apply_reviewed_conditions(
+                        rows, doc, context["reviewed_conditions"]
+                    )
+                allowed = context.get("accepted_observation_ids")
+                if allowed is not None:
+                    if not isinstance(allowed, list) or any(
+                        not isinstance(item, str) for item in allowed
+                    ):
+                        raise ValueError(
+                            "accepted_observation_ids must be a list of stable IDs"
+                        )
+                    approved = set(allowed)
+                    rows = [
+                        replace(
+                            row,
+                            review_status="pending",
+                            quality_flag="outside_reviewed_collection_scope",
+                        )
+                        if row.review_status == "accepted"
+                        and row.observation_id not in approved
+                        else row
+                        for row in rows
+                    ]
                 if not rows:
                     if source == "patents":
                         fallback = next(
@@ -286,7 +312,7 @@ class Pipeline:
                             **{k: getattr(row, k) for k in SCIENTIFIC_FIELDS},
                         }
                     )
-                    if row.evidence_group
+                    if row.evidence_group and row.review_status == "accepted"
                     else None
                 )
                 previous = (

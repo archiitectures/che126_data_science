@@ -52,9 +52,11 @@ def digitize(path, calibration, out_dir):
     ]
     points, flags = [], []
     try:
-        if config.get("plot_type") != "linear" or not config.get("single_series"):
+        if config.get("plot_type") not in {"linear", "semilog_y"} or not config.get(
+            "single_series"
+        ):
             raise ValueError(
-                "Only explicitly isolated single-series linear plots supported"
+                "Only explicitly isolated single-series linear/semilog-y plots supported"
             )
         if config.get("series_count", 1) > 1 and not config.get("mask_polygon"):
             raise ValueError("Multi-series figure requires an explicit isolation mask")
@@ -85,6 +87,10 @@ def digitize(path, calibration, out_dir):
                 raise ValueError(
                     "Expected x increasing rightward and y increasing upward"
                 )
+            if axis == "y" and config["plot_type"] == "semilog_y":
+                if min(v0, v1) <= 0:
+                    raise ValueError("Logarithmic resistance values must be positive")
+                v0, v1 = math.log10(v0), math.log10(v1)
             axes.append(((v1 - v0) / (p1 - p0), v0 - p0 * (v1 - v0) / (p1 - p0)))
         pixels = np.array(image)
         color = np.array(config.get("curve_rgb", [0, 0, 0]))
@@ -128,22 +134,30 @@ def digitize(path, calibration, out_dir):
             previous = y
             ax, bx = axes[0]
             ay, by = axes[1]
+            ordinate = ay * y + by
+            error = abs(ay) * (
+                max(1, (ys[-1] - ys[0]) / 2)
+                + float(config.get("calibration_error_px", 1))
+            )
+            if config["plot_type"] == "semilog_y":
+                value = 10**ordinate
+                error = max(
+                    10 ** (ordinate + error) - value, value - 10 ** (ordinate - error)
+                )
+            else:
+                value = ordinate
             points.append(
                 {
                     "curve_id": curve_id,
                     "x": ax * x + bx,
-                    "y": ay * y + by,
+                    "y": value,
                     "x_unit": config["x_unit"],
                     "y_unit": config["y_unit"],
                     "series_label": config["series_label"],
-                    "plot_type": "linear",
+                    "plot_type": config["plot_type"],
                     "uncertainty_x": abs(ax)
                     * float(config.get("calibration_error_px", 1)),
-                    "uncertainty_y": abs(ay)
-                    * (
-                        max(1, (ys[-1] - ys[0]) / 2)
-                        + float(config.get("calibration_error_px", 1))
-                    ),
+                    "uncertainty_y": error,
                     "pixel_x": x,
                     "pixel_y": y,
                 }

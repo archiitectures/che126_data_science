@@ -290,8 +290,94 @@ class PatentIdentities:
             if elem.find("table") is not None:
                 active = []
 
+    def _coded_fiber_table(self, container):
+        """Decode sample-local fiber formulations using that table's own legend."""
+        from .patent_html import expand_rows
+
+        text = " ".join(container.get_text(" ", strip=True).split())
+        if not re.search(r"fiber material formulations", text, re.IGNORECASE):
+            return
+        legend = {}
+        for tr in container.find_all("tr"):
+            quote = " ".join(tr.get_text(" ", strip=True).split())
+            match = re.fullmatch(r"([a-z])\)\s+(.+)", quote)
+            if not match:
+                continue
+            names = material_names(match[2])
+            inorganic = re.search(
+                r"alumina|silica|boehmite|magnesium hydroxide|titania|barium sulfate",
+                match[2],
+                re.IGNORECASE,
+            )
+            if names or inorganic:
+                legend[match[1]] = (names, {"locator": locator(tr), "text": quote})
+        if not legend:
+            return
+        rows = expand_rows(container)
+        raw_rows = [
+            tr for tr in container.find_all("tr") if tr.find_parent("tr") is None
+        ]
+        if len(rows) != len(raw_rows):
+            return
+        samples, active, continuations = {}, None, {}
+        for index, row in enumerate(rows):
+            if not row:
+                continue
+            label = continuations.get(index, row[0])
+            if re.fullmatch(r"Comparative", label, re.IGNORECASE) and index + 1 < len(
+                rows
+            ):
+                following = rows[index + 1]
+                if following and normalize_sample(following[0]):
+                    label += " " + following[0]
+                    continuations[index + 1] = label
+            sample = normalize_sample(label)
+            if sample:
+                active = sample
+            if (
+                not active
+                or len(row) < 3
+                or not re.search(
+                    r"(?:support|dense|filler) layer", row[1], re.IGNORECASE
+                )
+            ):
+                continue
+            entry = samples.setdefault(
+                active, {"names": set(), "evidence": [], "valid": True}
+            )
+            entry["evidence"].append(
+                {
+                    "locator": locator(raw_rows[index]),
+                    "text": " ".join(raw_rows[index].get_text(" ", strip=True).split()),
+                }
+            )
+            for cell in row[2:]:
+                if cell.strip() in {"", "—", "–", "-"}:
+                    continue
+                part = re.fullmatch(r"(\d+(?:\.\d+)?)\s*([a-z])\)", cell.strip())
+                if not part or part[2] not in legend:
+                    entry["valid"] = False
+                    continue
+                if float(part[1]) > 0:
+                    names, quote = legend[part[2]]
+                    entry["names"].update(names)
+                    if quote not in entry["evidence"]:
+                        entry["evidence"].append(quote)
+        for sample, entry in samples.items():
+            if entry["valid"] and entry["names"]:
+                self.tables.setdefault(sample, []).append(
+                    Identity(
+                        material_label(entry["names"]),
+                        "explicit_coded_fiber_recipe",
+                        tuple(entry["evidence"]),
+                    )
+                )
+
     def _tables(self):
         from .patent_html import expand_rows
+
+        for container in self.description.select("patent-tables"):
+            self._coded_fiber_table(container)
 
         containers = self.description.find_all(attrs={"id": re.compile(r"^TABLE-")})
         if not containers:

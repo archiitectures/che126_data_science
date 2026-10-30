@@ -14,7 +14,7 @@ from pathlib import Path
 from .observations import CONVERSIONS, UNITS, Observation
 
 SCHEMA_VERSION = "2"
-EXTRACTION_VERSION = "separator-v24"
+EXTRACTION_VERSION = "separator-v32"
 
 # Scientific context excludes source location; equality is not experiment independence.
 SCIENTIFIC_FIELDS = (
@@ -236,7 +236,7 @@ def make_observation(
     # A difference or dispersion statistic is not an absolute property value.
     # Retain the source row in review until it has its own supported definition.
     if re.search(
-        r"\b(?:standard deviation|coefficient of variation|(?:increase|decrease|change|difference) in|retention of)\b",
+        r"\b(?:standard deviation|std\.?\s*dev(?:iation)?\.?|coefficient of variation|(?:increase|decrease|change|difference) in|retention of)\b",
         label,
         re.IGNORECASE,
     ):

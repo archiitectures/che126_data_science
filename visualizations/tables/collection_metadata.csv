@@ -1,0 +1,15 @@
+field,category,count
+extraction_method,patent_html_table,6739
+extraction_method,fsri_sta_native_csv,1836
+extraction_method,manual_structured_import,1244
+extraction_method,fsri_hfm_si,524
+extraction_method,pymupdf.find_tables,224
+extraction_method,fsri_density_csv,15
+record_type,measured,10291
+record_type,unknown,140
+record_type,spec_limit,56
+record_type,calculated,53
+record_type,digitized_estimate,42
+sample_form,separator,7856
+sample_form,bulk_reference,2375
+sample_form,separator_component,351

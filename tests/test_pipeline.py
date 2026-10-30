@@ -355,11 +355,18 @@ def test_family_dedup_keeps_alias_provenance(tmp_path):
 
 
 def test_missing_family_does_not_merge_publications(tmp_path):
+    from bs4 import BeautifulSoup
+
     p = pipeline(tmp_path)
+    soup = BeautifulSoup((FIXTURES / "US9911958B2.html").read_text(), "lxml")
+    for section in soup.select('section[itemprop="family"]'):
+        section.decompose()
+    source = tmp_path / "without_family.html"
+    source.write_text(str(soup))
     for number in ["US1111111B2", "US2222222A1"]:
         p.ingest(
             "patents",
-            FIXTURES / "US9911958B2.html",
+            source,
             context={"publication_number": number},
         )
     assert p.aggregate()["accepted"] == 32
@@ -677,9 +684,12 @@ def test_reviewed_source_locator_supports_unique_patent_num_attribute():
 def test_headers_do_not_leak_across_explicit_table_boundaries():
     from che126_data_science.data_mining.patent_html import _headers
 
-    assert _headers([
-        ['Property', 'Example 1', 'Example 2'],
-        ['Thickness', '12', '14'],
-        ['TABLE 2'],
-        ['Property', 'Example', 'Comparative'],
-    ], 2) == ['', '']
+    assert _headers(
+        [
+            ["Property", "Example 1", "Example 2"],
+            ["Thickness", "12", "14"],
+            ["TABLE 2"],
+            ["Property", "Example", "Comparative"],
+        ],
+        2,
+    ) == ["", ""]

@@ -185,3 +185,27 @@ def test_wrapped_binder_label_does_not_supply_pure_base_material():
       <tr><td>binder polymer</td></tr></table>""")
     assert resolver.resolve("Example 1").polymer is None
     assert resolver.resolve("Example 2").polymer is None
+
+
+def test_coded_fiber_legend_is_sample_and_table_local():
+    from bs4 import BeautifulSoup
+
+    from che126_data_science.data_mining.material_identity import PatentIdentities
+
+    soup = BeautifulSoup(
+        """<section itemprop="description"><patent-tables>
+    <table><tr><td>Fiber material formulations of Examples 1-2</td></tr>
+    <tr><td>Example 1</td><td>Support layer</td><td>5 a)</td></tr>
+    <tr><td></td><td>Dense layer</td><td>2 b)</td></tr>
+    <tr><td>Example 2</td><td>Support layer</td><td>5 z)</td></tr></table>
+    <table><tr><td>a) Stretched PET fiber;</td></tr><tr><td>b) Fibrillated PPTA nanofiber;</td></tr></table>
+    </patent-tables><patent-tables><table><tr><td>Fiber material formulations of Comparative Examples</td></tr>
+    <tr><td>Comparative</td><td>Support layer</td><td>5 a)</td></tr>
+    <tr><td>Example 1</td><td>Dense layer</td><td>2 b)</td></tr></table>
+    <table><tr><td>a) Polypropylene fiber;</td></tr><tr><td>b) Polyethylene fiber;</td></tr></table></patent-tables></section>""",
+        "lxml",
+    )
+    ids = PatentIdentities(soup)
+    assert ids.resolve("Example 1").polymer == "PET/PPTA"
+    assert ids.resolve("Comparative Example 1").polymer == "PE/PP"
+    assert ids.resolve("Example 2").polymer is None

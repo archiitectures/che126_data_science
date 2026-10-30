@@ -69,7 +69,37 @@ def _headers(rows, count, first_value=1):
         ):
             continue
         for i, cell in enumerate(row[header_start:]):
-            if re.search(r"example\s*\d|control|\bex\.?\s*\d", cell, re.IGNORECASE):
+            if row_index and len(rows[row_index - 1]) == len(row):
+                above = rows[row_index - 1][i + header_start]
+                if re.fullmatch(r"Sample", above, re.IGNORECASE) and re.fullmatch(
+                    r"#?\d+", cell
+                ):
+                    headers[i] = "Sample " + cell
+                group = re.fullmatch(
+                    r"(Comparative\s+)?Examples?", above.strip(), re.IGNORECASE
+                )
+                if group and re.fullmatch(r"\d+", cell):
+                    comparative = bool(group[1])
+                    if (
+                        not comparative
+                        and row_index >= 2
+                        and len(rows[row_index - 2]) == len(row)
+                    ):
+                        comparative = bool(
+                            re.fullmatch(
+                                r"Comparative",
+                                rows[row_index - 2][i + header_start],
+                                re.IGNORECASE,
+                            )
+                        )
+                    headers[i] = (
+                        "Comparative Example " if comparative else "Example "
+                    ) + cell
+            if re.search(
+                r"example\s*\d|control|\bex\.?\s*\d|\bsample\s*#?\s*\d",
+                cell,
+                re.IGNORECASE,
+            ):
                 prefix = ""
                 if row_index and len(rows[row_index - 1]) == len(row):
                     above = rows[row_index - 1][i + header_start]
@@ -119,20 +149,34 @@ def _table_polymers(rows, count, first_value):
         "PP": "PP",
         "PP/PE/PP": "PP/PE/PP",
         "PE/PP": "PE/PP",
+        "PE/PP/PE": "PE/PP/PE",
+        "PE/PE/PE": "PE",
+        "PE MONO": "PE",
         "POLYETHYLENE": "PE",
         "POLYPROPYLENE": "PP",
     }
     for i, row in enumerate(rows):
         if len(row) != count + first_value or not re.fullmatch(
-            r"description|polymer|material", row[0].strip(), re.IGNORECASE
+            r"description|polymer|material|", row[0].strip(), re.IGNORECASE
         ):
             continue
-        explicit = {
-            col: (names[cell.strip().upper()], f"Explicit material row {i + 1}")
-            for col, cell in enumerate(row[first_value:])
-            if cell.strip().upper() in names
-        }
-        if explicit:
+        explicit = {}
+        for col, cell in enumerate(row[first_value:]):
+            normalized = re.sub(r"\s*/\s*", "/", cell.strip().upper())
+            material = names.get(normalized)
+            if not material:
+                match = re.match(
+                    r"^(PP/PE/PP|PE/PP/PE|PE/PE/PE|PP|PE)(?:\s+(?:TRILAYER\b|MONOLAYER\b|\d+(?:\.\d+)?\s*%))",
+                    normalized,
+                )
+                if match:
+                    material = "PE" if match[1] == "PE/PE/PE" else match[1]
+            if material:
+                explicit[col] = (material, cell)
+        if explicit and (
+            row[0].strip()
+            or len(explicit) == sum(bool(c.strip()) for c in row[first_value:])
+        ):
             return explicit
     starts = [
         i
@@ -377,6 +421,15 @@ def extract_patent(document, context: dict) -> tuple[list, list]:
             soup.title.get_text() if soup.title else document.url or "",
         )
         number = match[0] if match else document.sha256[:16]
+    family_id = context.get("family_id")
+    if not family_id:
+        family_section = soup.select_one('section[itemprop="family"]')
+        if family_section:
+            for heading in family_section.select("h2"):
+                match = re.fullmatch(r"ID=(\d+)", heading.get_text(strip=True))
+                if match:
+                    family_id = match[1]
+                    break
     sample_annotations = _verified_sample_context(soup, context)
     recipe_identities = None
     paragraphs = [
@@ -473,7 +526,11 @@ def extract_patent(document, context: dict) -> tuple[list, list]:
                 example_columns = [
                     i
                     for i, c in enumerate(header)
-                    if re.search(r"example|comparative|control", c, re.IGNORECASE)
+                    if re.search(
+                        r"example|comparative|control|\bsample\s*#?\s*\d",
+                        c,
+                        re.IGNORECASE,
+                    )
                 ]
                 if example_columns and example_columns == list(
                     range(example_columns[0], len(header))
@@ -493,7 +550,7 @@ def extract_patent(document, context: dict) -> tuple[list, list]:
                     ):
                         first_value = 2
             split = _split_example_header(working_rows[:row_index], len(row))
-            unit_column = first_value == 2
+            unit_column = first_value == 2 and bool(row[0].strip())
             if split:
                 first_value, split_headers, unit_column = split
             label = " ".join(row[: 1 if unit_column else first_value]).strip()
@@ -621,6 +678,39 @@ def extract_patent(document, context: dict) -> tuple[list, list]:
                         pending = "unresolved_example_header"
                     elif not property_context:
                         pending = "unresolved_test_protocol"
+                        caption_text = " ".join(" ".join(r) for r in rows[:4])
+                        if (
+                            re.fullmatch(r"Sample\s*#?\s*\d+", sample, re.IGNORECASE)
+                            and table_polymers.get(column - 1)
+                            and re.search(
+                                r"(?:microporous.*membrane.*propert|examples?.*microporous.*membrane)",
+                                caption_text,
+                                re.IGNORECASE,
+                            )
+                        ):
+                            pending = None
+                    row_context = property_context or (
+                        f"{table_name}: {caption_text}; experimental sample table; method and numeric measurement temperature not reported"
+                        if pending is None and not property_context
+                        else label
+                    )
+                    row_identity = identity
+                    layer = re.match(
+                        r"^(PP|PE)\s+pore\s+(?:size|diameter)", label, re.IGNORECASE
+                    )
+                    layer_scope = layer and identity.polymer in {
+                        "PP/PE/PP",
+                        "PE/PP",
+                        "PE/PP/PE",
+                    }
+                    if layer_scope:
+                        row_identity = Identity(
+                            layer[1].upper(),
+                            "explicit_layer_property",
+                            identity.evidence,
+                            "Property label explicitly identifies the measured layer within "
+                            + identity.polymer,
+                        )
                     records.append(
                         make_observation(
                             document,
@@ -641,12 +731,16 @@ def extract_patent(document, context: dict) -> tuple[list, list]:
                             source_column=str(
                                 row_index + 1 if transposed else first_value + column
                             ),
-                            polymer=identity.polymer,
-                            **identity.fields(),
-                            sample_form="separator",
-                            separator_architecture=sample_meta.get(
-                                "separator_architecture"
+                            polymer=row_identity.polymer,
+                            **row_identity.fields(),
+                            sample_form="separator_component"
+                            if layer_scope
+                            else "separator",
+                            separator_architecture=(
+                                identity.polymer + "; measured " + layer[1] + " layer"
                             )
+                            if layer_scope
+                            else sample_meta.get("separator_architecture")
                             or context.get("separator_architecture"),
                             coating=sample_meta.get("coating"),
                             material_grade=sample_meta.get("material_grade"),
@@ -663,11 +757,11 @@ def extract_patent(document, context: dict) -> tuple[list, list]:
                             if prop == "thermal_shrinkage"
                             and "area" in property_context.lower()
                             else None,
-                            measurement_context=property_context or label,
+                            measurement_context=row_context,
                             method=f"Patent experimental protocol {property_locator}"
                             if property_locator
                             else None,
-                            family_id=context.get("family_id"),
+                            family_id=family_id,
                             extraction_method="patent_html_table"
                             if container.name != "pre"
                             else "patent_text_table",

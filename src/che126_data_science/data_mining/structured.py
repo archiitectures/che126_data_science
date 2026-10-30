@@ -117,17 +117,23 @@ def extract_fsri(document, context):
                 rows.extend(new)
                 artifacts.append(artifact)
         return rows, artifacts
+    if "KData_" in filename and "/STA/" in (document.url or ""):
+        from .fsri_sta import extract_sta
+
+        return extract_sta(document, context)
     text = decode_instrument(data)
     if filename.lower().endswith(".tst"):
         rows, artifact = _hfm(document, text, filename, context=context)
         return rows, [artifact]
     if "density" in filename.lower():
-        rows, artifact = _density(document, text, filename)
+        rows, artifact = _density(
+            document, text, filename, material=context.get("polymer")
+        )
         return rows, [artifact]
     return extract_manual(document, context)
 
 
-def _density(document, text, filename, locator=None):
+def _density(document, text, filename, locator=None, material=None):
     cells = list(csv.reader(io.StringIO(text)))
     matches = [
         (i, row)
@@ -146,7 +152,13 @@ def _density(document, text, filename, locator=None):
             raw_unit="kg/m3",
             sample_id=filename,
             source_row=f"{locator or filename}:row {i}",
-            polymer=filename.split("_")[0],
+            polymer=material
+            or re.split(
+                r"_(?:HFM|Wet|Dry|Density)(?:_|\.)",
+                filename,
+                maxsplit=1,
+                flags=re.IGNORECASE,
+            )[0],
             sample_form="bulk_reference",
             material_class="bulk polymer reference",
             record_type="measured",
@@ -234,6 +246,7 @@ def extract_manual(document, context):
                     "shrinkage_basis",
                     "source_url",
                     "source_table",
+                    "source_figure",
                     "source_column",
                     "notes",
                 )
@@ -247,6 +260,8 @@ def extract_manual(document, context):
             ):
                 if k in source:
                     meta[k] = float(source[k])
+            if "source_page" in source:
+                meta["source_page"] = int(source["source_page"])
             legacy = "record_id" in source or "value_type" in source
             if legacy:
                 meta["quality_flag"] = "legacy_primary_source_verification_required"
