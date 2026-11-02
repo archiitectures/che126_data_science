@@ -1,0 +1,3067 @@
+{
+  "0048ab0de367f60294292635dd44c2f2e33bb98617eb25a247eab51b704f38eb": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "9",
+      "column": "7"
+    }
+  },
+  "010e29bb8414a78e83207bcac344a7515a5c582644148e21700bcaf8e809da52": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "8",
+      "column": "4"
+    }
+  },
+  "0f37254ba7d7258cdbacaf00c7ce15e7ac30f4a661c966a28ac76a28cef7a8e8": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "8",
+      "column": "10"
+    }
+  },
+  "19fbeb57aed4b74bae06851de41d4764d7c040e24fa6ebb3873a2226b37774ef": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "8",
+      "column": "7"
+    }
+  },
+  "241fcd6685e6b6b29af7a92de79a06767de3fd133f62f22211effa20625e1eae": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "8",
+      "column": "9"
+    }
+  },
+  "2544f56ded2e7f02c4ca016c3b71a70c6b4df393471a251ae86f250b5377119a": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "8",
+      "column": "6"
+    }
+  },
+  "2a430fd02c9644eacf159996b76dcde7bbd68ee760eee6e93d824dc460b67f89": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "8",
+      "column": "3"
+    }
+  },
+  "c0a869f04545e14bb566563e5b48886689cb6c9fd48802be842da1b50b13fe26": {
+    "source_sha256": "3ada90660328dbe8848649529f49ea5817ec10eace2ea5b24aed9fe158ff7ca2",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "8",
+      "column": "11"
+    }
+  },
+  "00f15937ab19391714ce97e78b81ad83da0c27cfd5821e7f50025bf849f204e9": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "84",
+      "column": "2"
+    }
+  },
+  "31be5aac8610069aeafa7d6e9b672c712fd29b281fa8c9a87d65b946f628702f": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "133",
+      "column": "3"
+    }
+  },
+  "46a4621e0329a1381fb431d623b00569a7465c215c61051ab68f02c5c78b5a40": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "84",
+      "column": "4"
+    }
+  },
+  "48223b25aa7c3052805791546b6fbb092dabc657ca38a91b75954055a1e9ece3": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "133",
+      "column": "2"
+    }
+  },
+  "4ce754175479cbbb96397632ec30c351b8e4ad83fbb837fbba77c49da19ef163": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "35",
+      "column": "4"
+    }
+  },
+  "527d129c5c59618d44f4c6a109f1b9e619fd48e85249a8b6f0bd852245957271": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "133",
+      "column": "4"
+    }
+  },
+  "9ae7b4c38b62505a2c5bab221b97cc71a04c61163a8c72311c7637bfc6563cc5": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "35",
+      "column": "3"
+    }
+  },
+  "aa96d4c7b01bde5807370bbd7b980b3eaeefcb5c4f92e735e8968a5194a34afc": {
+    "source_sha256": "0e071f771e4e80c04f4145dd148aa924572327832f5f2dd016b474b34e645960",
+    "reason": "Positive length/area shrinkage above 100% is incompatible with its definition; suspected adjacent elongation/header attribution requires explicit source correction",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "35",
+      "column": "2"
+    }
+  },
+  "01916f06b82621145590fcec4a1a24c2d7e207083a75a9fcc1c0993fc44de3d6": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 2\", \"row\": \"12\", \"column\": \"4\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "12",
+      "column": "4"
+    }
+  },
+  "38f71356f2cabf6a3e1ccb1bb3e390254d239cfbacf76eaa8bf4931c00f7e129": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 3\", \"row\": \"13\", \"column\": \"5\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 3",
+      "row": "13",
+      "column": "5"
+    }
+  },
+  "3c33721fcc6449ebe68b42efbc4fb485d7f5788c89eddc4a8000e68baa8d0e78": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 3\", \"row\": \"13\", \"column\": \"2\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 3",
+      "row": "13",
+      "column": "2"
+    }
+  },
+  "4935678acd1201573d7d2951b0541141e3cf513b802b0d8364dc10b9093cea9f": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 3\", \"row\": \"13\", \"column\": \"3\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 3",
+      "row": "13",
+      "column": "3"
+    }
+  },
+  "836efd93cee22fa42d9559d1f2cac309af7640aba4024287c564c60c24b46967": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 2\", \"row\": \"12\", \"column\": \"7\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "12",
+      "column": "7"
+    }
+  },
+  "9d589c03f236634f454360a3cd3727b56425cf0031ecd0b7bc84b95fc6fbe447": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 2\", \"row\": \"12\", \"column\": \"2\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "12",
+      "column": "2"
+    }
+  },
+  "9de9decbc01933fefef526da9175fb7f8da8bc30d9e72647f811cff9106ac10f": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 2\", \"row\": \"12\", \"column\": \"6\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "12",
+      "column": "6"
+    }
+  },
+  "b66b69bb81b1dfb5ba703695115cc0d97999e6c5b2f5ed985e52c2484a382d07": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 2\", \"row\": \"12\", \"column\": \"3\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "12",
+      "column": "3"
+    }
+  },
+  "c63f1c357d84e178d77da82cb1d95b08fafe95a0c9fb5effe99df2d5e33ebca1": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 2\", \"row\": \"12\", \"column\": \"5\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "12",
+      "column": "5"
+    }
+  },
+  "d6ef1d1ef67454c5260708e8d87423563772efb56b200b1a09ee758c5937d12c": {
+    "source_sha256": "9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density of porous coating layer D (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"9782eb77e058e6872dcea9f562d0be2aa7561f99b5c715caf50c53c0ad8d7a0c\", \"locator\": {\"table\": \"TABLE 3\", \"row\": \"13\", \"column\": \"4\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "TABLE 3",
+      "row": "13",
+      "column": "4"
+    }
+  },
+  "0407855e0101c95b3e74c6158b83044f42ee3be621578247dd0070bb90e553c7": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 125.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "65",
+      "column": "2"
+    }
+  },
+  "0c77f41213b15c9de7cad0bed89f7d34fccb756389b095d56d56ad3c7dcc782f": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 190.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "65",
+      "column": "4"
+    }
+  },
+  "1addd69b4f64ce4b631d314d5df3b738c8e12a8ff7632fb6453b5b41ff0ca0b2": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 150.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "58",
+      "column": "2"
+    }
+  },
+  "2d10e72d10608e2e0e00e54910b022e6f51b0e5132fe7ce80e381f052bd44602": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "58",
+      "column": "3"
+    }
+  },
+  "455a1340c33b96dde1e8d1dcd8d58873f074e9b82224fb0b29bbb786266ead38": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 220.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "58",
+      "column": "2"
+    }
+  },
+  "4aebd3aac4b112a7d53df2ce4540cf0873d835a667fdf659e0b9635f17c3cd2c": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "65",
+      "column": "3"
+    }
+  },
+  "505ed02449bc428c4e6d0f12188b10d8b85b704476511bb1adbea5aadd93208f": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 125.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "134",
+      "column": "3"
+    }
+  },
+  "7ef4ab7d9bc6e454739110ee7eb7768cdf0c40948cae678c730c1b47b5bd0c47": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "58",
+      "column": "4"
+    }
+  },
+  "8892ba314f3fca528529f9ed88e84384839e29c2ed0e886462672516bd5b46a9": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 200.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "58",
+      "column": "3"
+    }
+  },
+  "89da78766d0d836ca55f06155d67b5c44ecd752a7d593e2a5ecbf55e5c55ccbc": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 145.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "134",
+      "column": "4"
+    }
+  },
+  "9670cb249f4c42dc6479b640dd0c808c47ae0d54a006d82994aeb8679f588112": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 145.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "134",
+      "column": "2"
+    }
+  },
+  "a970c140adcbabab465ee4f58e7c5372c9c1e785e570f40d59a8b8f7c7e26d75": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "134",
+      "column": "3"
+    }
+  },
+  "ce0c0a371b037e6ac00d4c348b0f1f4a5beee61ab6b408936a60720664f62a9f": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 190.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "65",
+      "column": "2"
+    }
+  },
+  "df2af8a49d9d81b7105c6361e37fb8d1ef9e03d412e49be5f0bf1d0130a4dee1": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "58",
+      "column": "4"
+    }
+  },
+  "e6eba21bad6ccabbad9288852a6b2eb7842b966370841971348182a1348d7aba": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 210.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "134",
+      "column": "2"
+    }
+  },
+  "e77926ca6f3753ecd317d6d0d69ef0db770d105a569c572a5eaeafc22587d3b2": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 135.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "65",
+      "column": "3"
+    }
+  },
+  "eb9da4780efcf6318b16e552cedabac5f62b6080888c81c19d2f7b362b2539cd": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 210.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "134",
+      "column": "4"
+    }
+  },
+  "fc2cfdb41d975b787e49f33f4b04163d429c8e9809ac9b86f84a006f810755ce": {
+    "source_sha256": "d0343cdc947553af700e941b1b000c1ef32923da78ee9520d0c0948d2c24bf47",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 125.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0145",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measurement was conducted on a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "65",
+      "column": "4"
+    }
+  },
+  "04279dced73b91c65bc580fa5eb24a36ca03c83c9affa1a7f0d016109cfcbb24": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "19",
+      "column": "5"
+    }
+  },
+  "1dfa6fecd1403faf4a45f49762a7633c5ace0ca30487682cce5dad1bf483bd61": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "19",
+      "column": "2"
+    }
+  },
+  "353a8243f0d0a758457c31bf5856643e81ca9cf3123c1c5c6268a19af864f812": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "19",
+      "column": "4"
+    }
+  },
+  "62c430c82c1ba2e0e9765b23f07c75234e61f483572f1489a21c3794ba325bba": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "21",
+      "column": "3"
+    }
+  },
+  "8e5d8b523517746d95c04a98df30201c0b810dc0c60ad3116bceced278b5a4e0": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "19",
+      "column": "3"
+    }
+  },
+  "a3d42f2cdfb6a48222359aba08ff9c0323d9c52250f04e6df5d12fdb7f78e50e": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "21",
+      "column": "2"
+    }
+  },
+  "a7f7e451d291ef1a2bd4816d1c0b2f9a0789f516592756b39147a7053037f765": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "23",
+      "column": "2"
+    }
+  },
+  "d7c841e2e4a0abce19373a766f85bf1d6062101b89769da553c9942042dfcc2e": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "23",
+      "column": "3"
+    }
+  },
+  "045cee895e25d9b32d96cdf193bda1c2258b61b563c4cf7be97d3a6c727f1cdf": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 145.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "4"
+    }
+  },
+  "1388829d7e9279d85d083e74a6938ba67cbd3d547bd1d1f9f36b64804bd7afe7": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "5"
+    }
+  },
+  "14f3672cd7720b8463f4d0f7cb424b901dffc7aeeb8ab57232660cd1333a1629": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 120.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "4"
+    }
+  },
+  "1f0a34628c8d15294e7ecebddaa1863aa530bc7b2ca615285f46cb29b3305da7": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "4"
+    }
+  },
+  "26c5521b2e9674531a77b3a6fc02d165784318e7938a96545747e10ccbf61beb": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 190.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "2"
+    }
+  },
+  "361ade2fb7b1d8f5644805a78a51127ac5603f22dce6a58118fc962f80131aa5": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "3"
+    }
+  },
+  "460dc9bbe57530c4a694eec6ee021adc5026e8efe4ebdb3c5a58b98e0fd2756c": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "4"
+    }
+  },
+  "4b7497b3f7dc96831aa3ca564b34b92210d359cd260c36640d83e16ef8b0b7cb": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "3"
+    }
+  },
+  "4d00260cd35e7e838482ee3dafb5cec1519270ef8f4121268b2ad7430b0c1fd4": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 150.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "2"
+    }
+  },
+  "50a879fd587eeefd9945896fea7f623c8818f71a391080631cb1412c4926b4c9": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 130.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "4"
+    }
+  },
+  "52451928fb53c0861918ac75855eef0e6ac4074f8b3a4604ef854083d581990b": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 230.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "4"
+    }
+  },
+  "5426f5f871b97dcdc838a25b9fac9e280f2b684ab96f1f27ae4d1a44cc06ca8b": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 150.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "2"
+    }
+  },
+  "89d20adce9a0ea378800ff678e1aa3d701031a6f7a7f20e2697e21d8549118d8": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "5"
+    }
+  },
+  "92539795941bea89ada8ccf8c0b1a236c10f6165a0f6e2a0878d1e2f151d7b8f": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 145.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "5"
+    }
+  },
+  "972a0fb51105f87c9d70ed64dbc935c470a0437fbf0b59c172b0e63e1f8b140d": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "2"
+    }
+  },
+  "a3ccd63a4432ed77272029cb933a3948f7e4f97207ed46db4d1c3bc309a7c9a8": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 280.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "2"
+    }
+  },
+  "a4a0bfaeabaf79a9192bf888d391802e1c9048a8a06052c33ea24a0359f5d474": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "5"
+    }
+  },
+  "a8597611df80b294366198ad315accab297b338dddb90b75833fbe5963a93bcb": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "3"
+    }
+  },
+  "ae8eb44131bfd2d1ac018126038bb1f4f4e1898b56b034de7fa2acb0b727ad73": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 130.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "5"
+    }
+  },
+  "b4723aa81a9ce3c20741a8e61cd192e2c4823ee0bef33e8c127f577aa5930cf3": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "2"
+    }
+  },
+  "b518f74952a575f481f80a8402cbc94163b8096a18989ac75f727aa7547f6cab": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 200.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "3"
+    }
+  },
+  "b7d74b1464cd9ec8e5e5c61a47bd9acf8fe12c03f7a3a315af0640c3eb4af9ef": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "5"
+    }
+  },
+  "ba4b62705f4d515bac94370c6506f05cca84023fb0309c3fb3dd661916787732": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 135.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "5"
+    }
+  },
+  "bb25c0090cafe35a347c2350bf9554c3275b8f745026f3c1ee6732266b5c81f1": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "3"
+    }
+  },
+  "c51fc0105b38cd368f80eac38b41aeb003f213587ac21996072f9ace6cc49ac4": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "3"
+    }
+  },
+  "c8b1546001983675fe73114a1218563063bd4a22e89a02b44a78a845486e8c42": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "4"
+    }
+  },
+  "cec8bf814c6a32c3ab73613bad6ad17c04201eb0e63683ad4fa3e463b3cd39db": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "2"
+    }
+  },
+  "d3bc7f17a65440446079d944679689b9556ea1d22fd42f84632dc04b7de8e8db": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "5"
+    }
+  },
+  "d471aa5925d91c67670defded8ed70d1ccf37ed8074225cce228945def3ea814": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "3"
+    }
+  },
+  "d827f912ca918ab2c4c91365a4b0e0b9990ca2d2bc8888f8d4cf6b9ea75f9b5a": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "3"
+    }
+  },
+  "d8b88f163c21c0b8b0e8b27f9af4958906bfb5a94c71bbbe40cf69a1834bfa93": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "2"
+    }
+  },
+  "d9fd283e3106fe3f5523df47595cedfbeafa125888501ed452d71c3d4edf2034": {
+    "source_sha256": "aa9225288b3d67d7568d2ee552cd6f8af96ed76266599493b44b153d882d82e5",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0229",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "4"
+    }
+  },
+  "05a626449eea3f25c8b73169efc277129446c78999b5c8bba98fd67a36c8aae5": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "4"
+    }
+  },
+  "0c91f64b2171aa1ecc46af258d60b391329b142520de8cffbcbdb4c04ed8e325": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "5"
+    }
+  },
+  "1395e7fc3da279d9ed2c2a2982b5ade8764d972d94518e8a6b8cb8035cad1e79": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "4"
+    }
+  },
+  "1b9011d6e6d383cc66052e1eab0500e74fdb8d29094d0f4cf1ac6e5593c3e0af": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 130.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "5"
+    }
+  },
+  "31411b224c364eed8476c432ab9f8f5539f51fe0dd800d55a493ea8913c1b2ac": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "3"
+    }
+  },
+  "32ccc626bb7ef130684c239cd0286a1a7efc521f65697d0aa140b731fdde942a": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 120.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "4"
+    }
+  },
+  "36b4d12ddcb2fcf7f02c30827cd53871f288cc598c5ead7f042caf936a4ccbf4": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "2"
+    }
+  },
+  "41ba9feb8a55efe86891c74d32a3295c0e731b4b768ae444d665e4561b5a1d47": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "3"
+    }
+  },
+  "509ccd4402db52eb69f29565c9d9995dcde76de6e3d52d3172bac351f53b5651": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 280.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "2"
+    }
+  },
+  "5a402c1b5024a28f7e8eab32d3f3020e1ae6eb7f1c448cfc13ed58e147a20270": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 230.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "4"
+    }
+  },
+  "5a5c69ab4527b5207d759534fdc6ea4d2448bd9cca108bc3c39502319a898a5f": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "5"
+    }
+  },
+  "5c4200ec90479c4ad2993645517e84cd1d292425199309aa19fd5e616f787b3a": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "5"
+    }
+  },
+  "62e35db8e589d51247a8037126bca427468e03010362dcd8c1b184f30b2823f9": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 135.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "5"
+    }
+  },
+  "67ae7d79bf8e12cc87c25fe1d37ce81c9b0385836551ebe9f7ad59ca45ca6f36": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "2"
+    }
+  },
+  "737b241dae24b7b2afab8185bcb786de6fea731e2ce4a6bb4c89ccb1df530cd5": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "3"
+    }
+  },
+  "7dc53b55f41b655129dbf35974320abef78dd99a9867d05c389a25b3f1a5931f": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 145.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "4"
+    }
+  },
+  "7f98619ce507caf1e811d4f91d2356d7ae0fc42fb7e569ef0caf34ef1cc4c129": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "3"
+    }
+  },
+  "80a49ed71f088a97e68e872516d82b17d6e654be69f35e955400bea5bcf2493b": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 145.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "5"
+    }
+  },
+  "8876afef9a0b53151fa5b366f916b5d37b6d5e374e015a13f54a328707009394": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 130.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "4"
+    }
+  },
+  "a00360f8555a5aa34c704be680fd1c627f125e536af939b3a4dbc94d99488cf0": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 200.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "3"
+    }
+  },
+  "a43195bba20e5513fd91d11ccd9ad0c2bb82da7638e897d6505a234fd2e6c478": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "4"
+    }
+  },
+  "a7efecced0bbf1f58a4546d7e98fce1e3a93ef52b23d7207e3223e1dea68da22": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "4"
+    }
+  },
+  "b77d93927717501fe47bff5d66d743678b0dfbbbecf8fdde17d0cf27251a2f00": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 180.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "3"
+    }
+  },
+  "ba9df50542a2d18dd7716cee9c76d736c75f70338b611e15eb088ad4240df379": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "3"
+    }
+  },
+  "c6878f95ac18480fce767089aad51e367a3bd25934b20d9d849b4a9f0613bff3": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "3"
+    }
+  },
+  "cc731cc0ebd1ad9b7a2898451f5aa9f37115e4dfd129e790a3794684cdd2a07f": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 150.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "16",
+      "column": "2"
+    }
+  },
+  "df7a28943fc117b5d371203b199d1a85def0c3f226f357c239eb4886ec54df83": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "2"
+    }
+  },
+  "e2259d27c9139fbe0193b39eff709fff20697bd4eb13fee00dfe685e393fdf0d": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 140.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "5"
+    }
+  },
+  "e5451bb228f3af72fe2bf9cb8ec7d2d004391bc4aeb10a037a1f785d4777cb7e": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 190.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "2"
+    }
+  },
+  "ed08b3ae25c4b76b17868ad62ee6816d01f6a1c18741cefa8813bd5015748b1c": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 160.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "43",
+      "column": "2"
+    }
+  },
+  "f6ceceb00d22d0cff052e7b383777cab58fa0eaa66960d46205cd738da92926b": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 170.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "97",
+      "column": "5"
+    }
+  },
+  "fb871ec766c2ef884a177f460d7718a47480920fb83f08458fc93954923b96eb": {
+    "source_sha256": "cd8df3b501ad697b0fcfed9e61a59d9b15ce99794046eb6d3608ef71f95a72af",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) MD/TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 150.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0228",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation They were measured using a 10-mm-wide rectangular test piece according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "70",
+      "column": "2"
+    }
+  },
+  "0c1d89c635fa63d35d1f3fd88325e74f10e27a5ef4751f245c4985a522844985": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 110.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "80",
+      "column": "4"
+    }
+  },
+  "3274489222de2d6592a1c93f8e39205c81ed099ddc30a5cd9b093d6ca9f747ec": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 270.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "125",
+      "column": "2"
+    }
+  },
+  "3c11ded6024a18bd40fd94710bdaa711d441cedcff899135d8ff1d5e7213f57d": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 115.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "125",
+      "column": "4"
+    }
+  },
+  "52108854a8d10b721f0c576ab9d8fc482fd8e5ce3535e08f912f6ed59b1bcefa": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 115.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "170",
+      "column": "2"
+    }
+  },
+  "6a4c36d567ecaf497d9eb9783f499f19840265f76aa8bbd7473b956099fbe850": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 120.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "35",
+      "column": "2"
+    }
+  },
+  "7cfde4a3589c308b87f9488ca49d845342e28cebfff98164838f8c15720a6091": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 105.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "80",
+      "column": "3"
+    }
+  },
+  "834eff823b39c57f1db6785e12b4f7c7b36f1de85698e28560fd51540bdd75de": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 110.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "35",
+      "column": "4"
+    }
+  },
+  "973e4002602ea3a6356e5908e25a95b8b5eb5b4871ce13ada06a2a98c0daf4b6": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 125.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "80",
+      "column": "2"
+    }
+  },
+  "bb8a1f380dd3b3f7624de50cdedd0ed43a2282604e471e39a7895b46a138c77b": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 110.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "35",
+      "column": "3"
+    }
+  },
+  "c1492c5b407304ecc94c28ab4b8c5633af680fd930cf2b87f97dbeda94e60b40": {
+    "source_sha256": "c22289df8d2c49aca763a0740c6743e14128f5f0e94a03b1d6f184051696b0e3",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "elongation",
+      "original_property_label": "Tensile Rupture Elongation (%) TD",
+      "original_unit": "%",
+      "unit": "%",
+      "value": 110.0,
+      "conversion_metadata": null,
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "duration_min": null,
+      "method": "Patent experimental protocol p-0207",
+      "measurement_context": "(5) Tensile Rupture Strength and Tensile Rupture Elongation Measured on a rectangular test piece having a width of 10 mm according to ASTM D882.",
+      "shrinkage_basis": null
+    },
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "125",
+      "column": "3"
+    }
+  },
+  "0e825b247d0490053e986d5407a9dddc2473be52d8f4092cc86343ac186f8266": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "17",
+      "column": "8"
+    }
+  },
+  "1cbfde0ffd70ca75037c40c0805f056a70e70f1c9aa5a44a457993449dc3ce0b": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "13",
+      "column": "8"
+    }
+  },
+  "4439899463c79a64356e6bd19723539e34329aec6e2305f31daa7e7ca35f2187": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "16",
+      "column": "8"
+    }
+  },
+  "6f7ca0050c80fb6f347eedf01b7e194fd2ff3cb7115876e9601a3fe8d7d00fb5": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "23",
+      "column": "8"
+    }
+  },
+  "91f701fa7a1c5f9be37fbc54b096579456e145de6bfe49e4a11d29f06aa011ea": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "11",
+      "column": "8"
+    }
+  },
+  "9d3061dc364001aacaa76ec4df7e95234b6dd554bf80cccaa6a7b24c8e2cbc93": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "15",
+      "column": "8"
+    }
+  },
+  "9d325d656a4e81dae0057f0f7ac1095028def6cbe7f972b623ed20bc61cc2953": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "21",
+      "column": "8"
+    }
+  },
+  "a12d9fcadaef218ad4af66f20bd6a124df33e9d0dab88a8d3d586a201ab29a56": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "14",
+      "column": "8"
+    }
+  },
+  "b32b5a1cd9eb4b432689336f7f05bcb6c8da5f9ddf4b8b6ebda860cdeadf899c": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "9",
+      "column": "8"
+    }
+  },
+  "d7a5f74de89a6433f518d4659271586fe1046425e127af58bc603c5b706c12eb": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "8",
+      "column": "8"
+    }
+  },
+  "dc80aa925d1b4ffcd5cd1d64739142a57220c1a42417cc8f971d71eabceb4aa9": {
+    "source_sha256": "ede9144441866557214947a8ab0315c3d029141487253eb1b8a7bc6f61f97628",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_1",
+      "row": "19",
+      "column": "8"
+    }
+  },
+  "15b691a474f9b954c0cd37576a726ac23c10eaa960df79391f29201b4a8c1572": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_14",
+      "row": "31",
+      "column": "2"
+    }
+  },
+  "2162ac7caa22f18789485e7242db7099dd4586393281ba5e320e857f10b29e1a": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_6",
+      "row": "31",
+      "column": "6"
+    }
+  },
+  "53b2ea94ecadfd25f2a22e0e2c3bedd8b3dfbd45e144c284477a0b6d30872a94": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_14",
+      "row": "31",
+      "column": "4"
+    }
+  },
+  "6d2c7d87d732fd069580dcc2fe4f146498e39c378811515d301aac1c8bb353a4": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_6",
+      "row": "36",
+      "column": "5"
+    }
+  },
+  "742d707acd3fcc03ffb42b285cfd24557b140705de92e9ec29e6b9c36c72dac4": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_6",
+      "row": "36",
+      "column": "6"
+    }
+  },
+  "9ae274bbf154233b58530ce9c1ee5c47a78ea883befb3f165760edcb69f00e75": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_14",
+      "row": "31",
+      "column": "5"
+    }
+  },
+  "cfc2e7c0a0f47a54203efda72e5369bc2890d382dfc32ebd9aad8fa0a742e836": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_14",
+      "row": "31",
+      "column": "3"
+    }
+  },
+  "d91c73c10e3ff0830f0f379fc8367b46e9c005e4c8701874df2b9ea0f3a83100": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_6",
+      "row": "31",
+      "column": "2"
+    }
+  },
+  "e50fd327e55299cad6f09e90a79d0cef92cdf90b37758c643b61391b07889360": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_14",
+      "row": "31",
+      "column": "6"
+    }
+  },
+  "ed4ec57813ec3dffb4db1cc8567606d2049bc9ab1f135ee87ab85e4dc2ac63f0": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_6",
+      "row": "31",
+      "column": "5"
+    }
+  },
+  "edab83a81459c7d61cbc2512fd1c5249d58cce73759b934f8abb7568787ad9a7": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_6",
+      "row": "31",
+      "column": "3"
+    }
+  },
+  "f9c712897eccff8773dcb3cdb74195bf026932c767e4b9107b43d6f7bf55ff57": {
+    "source_sha256": "c719aad27ca39f8ea15eb62d882f11cdd22522219236fc05caa29b410589da04",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "table_6",
+      "row": "31",
+      "column": "4"
+    }
+  },
+  "25ab4d7761b3d64de28218dbd1e99af01c3bafa86916fcf9ef3af535ffc9e49c": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "20",
+      "column": "4"
+    }
+  },
+  "47012a3c54c2825d1c61a18e30f2d37b7b9ed5175db05e753803195dc172f2fc": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "24",
+      "column": "2"
+    }
+  },
+  "8b85b58115bef832bad9d4f8955f1177fe8d6d3dc7886060f291879b3ea5f862": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "24",
+      "column": "3"
+    }
+  },
+  "a5f28f57596b9be8a5362694729e1f9d69451cbb75afc534558ee6ef920e02ac": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "20",
+      "column": "2"
+    }
+  },
+  "b1a2c51b147c9bf2136aea953a602af8fa3a2c34b46fb6d3b59b2809a2b04452": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "22",
+      "column": "2"
+    }
+  },
+  "cf4c681c107edc1f8554a3ae29684778ebd7954b49647d9423e9e02ccab88c31": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "22",
+      "column": "3"
+    }
+  },
+  "e1f7501e5dfb9b1c21e7c5409037cb29e6b779a3a1acb6eaff6aecb7491ae4f0": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "20",
+      "column": "3"
+    }
+  },
+  "f55d2d6da58e5812935e41ee1d4c6e5026cb6139280abebe2988714e93773aa9": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "20",
+      "column": "5"
+    }
+  },
+  "36bcba6d33da7932c59078f4d09564c3b124cafa2f14eaf6c378e3e14b20a32a": {
+    "source_sha256": "495521f291b771c08a24b0655135df4593016735cfdb90808f976866622d04b8",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 4",
+      "row": "9",
+      "column": "6"
+    }
+  },
+  "80f07510472af70d7480880f35a72c99abde6066258bedc41b252d0c6effb107": {
+    "source_sha256": "495521f291b771c08a24b0655135df4593016735cfdb90808f976866622d04b8",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 4",
+      "row": "13",
+      "column": "6"
+    }
+  },
+  "4917dd1c7a33819655c3501d6b740aa24abcbd05441f6fd46bb0d8978704e34d": {
+    "source_sha256": "efedf6dba110039eef5802c064f1a088c80e9185240f320a0858eb957b3419a3",
+    "reason": "Primary pore-size unit/header is ambiguous or inconsistent with the imported scale; quarantine pending original-PDF unit and sample review, not an automatic unit guess",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 2",
+      "row": "25",
+      "column": "3"
+    }
+  },
+  "4c6a19aa4770087005389a7ab49beca1ef9678138ae28b629ee5729ac7966455": {
+    "source_sha256": "7e1f0576b75dde0616963e4dc04f606a15c165a32396f48703935f5a465410d5",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "119",
+      "column": "4"
+    }
+  },
+  "67d886d475c8b0c3409197a76bdb13a33c4b2da3cbf4170caf3255163738e4cc": {
+    "source_sha256": "7e1f0576b75dde0616963e4dc04f606a15c165a32396f48703935f5a465410d5",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "119",
+      "column": "3"
+    }
+  },
+  "9be8da81c9f7158c48544f4e7045bb18a9e62d107e45a3d1fc0885d3454f7dba": {
+    "source_sha256": "7e1f0576b75dde0616963e4dc04f606a15c165a32396f48703935f5a465410d5",
+    "reason": "Zero coating thickness/absent layer must not be treated as a measured separator thickness; pending explicit absent-component representation",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "119",
+      "column": "5"
+    }
+  },
+  "7989d2976dc4b2b625f311f39eeebf25c14f8aabd1dec23042305fc312ffa64c": {
+    "source_sha256": "e666141d0611d1866834a0a3d6c3913278b2bf096ad1e42df3be7f0402f9f922",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"e666141d0611d1866834a0a3d6c3913278b2bf096ad1e42df3be7f0402f9f922\", \"locator\": {\"table\": \"table_2\", \"row\": \"5\", \"column\": \"2\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "5",
+      "column": "2"
+    }
+  },
+  "a7b7bc39c60a88d0a8ab9441651f3b004c1cce16d083fbaadd4e775dba746369": {
+    "source_sha256": "e666141d0611d1866834a0a3d6c3913278b2bf096ad1e42df3be7f0402f9f922",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"e666141d0611d1866834a0a3d6c3913278b2bf096ad1e42df3be7f0402f9f922\", \"locator\": {\"table\": \"table_2\", \"row\": \"5\", \"column\": \"3\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "5",
+      "column": "3"
+    }
+  },
+  "ee311c8b0ffdd482ae26a5e5d3fd273d781e7419107a5db72a5b1752472f2156": {
+    "source_sha256": "e666141d0611d1866834a0a3d6c3913278b2bf096ad1e42df3be7f0402f9f922",
+    "reason": "Replayed exact primary table cell with corrected property-heading boundaries; raw numeric cell unchanged",
+    "changes": {
+      "property": "packing_density",
+      "original_property_label": "Packing density (g/cm 3 )",
+      "sample_form": "separator_component",
+      "polymer": null,
+      "material_class": "porous coating packing density",
+      "temperature_C": null,
+      "temperature_role": "unknown",
+      "method": null,
+      "measurement_context": "Porous coating-layer packing density; not neat polymer matrix density",
+      "material_identity_status": "component_recipe_not_linked",
+      "material_identity_reason": "Packing density applies to the porous coating; inherited PE substrate identity does not establish coating composition.",
+      "material_identity_evidence": "{\"source_sha256\": \"e666141d0611d1866834a0a3d6c3913278b2bf096ad1e42df3be7f0402f9f922\", \"locator\": {\"table\": \"table_2\", \"row\": \"5\", \"column\": \"5\"}, \"basis\": \"Explicit packing-density property label; polymer composition not assigned\"}"
+    },
+    "source_coordinates": {
+      "table": "table_2",
+      "row": "5",
+      "column": "5"
+    }
+  },
+  "5b80cf04b584fe4c599f269610e094d246eaa0e0417b32e50edd40b86447c16d": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Ambiguous primary mm/micron pore-size unit in an already flagged source; also withdraw the previously hidden alias rather than promoting it after related evidence is corrected.",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "21",
+      "column": "4"
+    }
+  },
+  "9fdc5cc1c894f9ab6855e4931844ce823b954cbf51c1a50f19f74eeb71ded704": {
+    "source_sha256": "a97d94c9bd51368e0ac332fd1b0dd113dc50deb2232cc210dd442264c9c5e144",
+    "reason": "Ambiguous primary mm/micron pore-size unit in an already flagged source; also withdraw the previously hidden alias rather than promoting it after related evidence is corrected.",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "21",
+      "column": "5"
+    }
+  },
+  "d31e88a702e85c87f9d78c8f0b14f23c14a4893340484e1511379b9905a93fa6": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Ambiguous primary mm/micron pore-size unit in an already flagged source; also withdraw the previously hidden alias rather than promoting it after related evidence is corrected.",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "22",
+      "column": "4"
+    }
+  },
+  "db3d41a62b37a5bfcb18dcc51b2724c1b6064a0c0be1c5d2dd2c45104779ff2f": {
+    "source_sha256": "69e09cb3ebf5a953f4bd27e8dc3983ed47dd75b1c61509de64c37224bc620ebe",
+    "reason": "Ambiguous primary mm/micron pore-size unit in an already flagged source; also withdraw the previously hidden alias rather than promoting it after related evidence is corrected.",
+    "changes": {},
+    "source_coordinates": {
+      "table": "TABLE 1",
+      "row": "22",
+      "column": "5"
+    }
+  }
+}

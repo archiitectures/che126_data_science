@@ -1,0 +1,702 @@
+[
+  {
+    "crystallinity_pct": 80,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2458660A1",
+    "sample": "Example 1",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 85,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2458660A1",
+    "sample": "Example 2",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 65,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2458660A1",
+    "sample": "Example 3",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 73,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2458660A1",
+    "sample": "Example 4",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 84,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2458660A1",
+    "sample": "Example 5",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 65,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2458660A1",
+    "sample": "Example 6",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 67,
+    "locator": "Table 1",
+    "method": "X-ray",
+    "publication": "EP2458660A1",
+    "sample": "Example 1",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 68,
+    "locator": "Table 1",
+    "method": "X-ray",
+    "publication": "EP2458660A1",
+    "sample": "Example 2",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 64,
+    "locator": "Table 1",
+    "method": "X-ray",
+    "publication": "EP2458660A1",
+    "sample": "Example 3",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 66,
+    "locator": "Table 1",
+    "method": "X-ray",
+    "publication": "EP2458660A1",
+    "sample": "Example 4",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 68,
+    "locator": "Table 1",
+    "method": "X-ray",
+    "publication": "EP2458660A1",
+    "sample": "Example 5",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 64,
+    "locator": "Table 1",
+    "method": "X-ray",
+    "publication": "EP2458660A1",
+    "sample": "Example 6",
+    "scope": "finished membrane",
+    "source_sha256": "a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b",
+    "evidence_source_file": "data/runs/2026-10-23_balanced/raw/a28b72bfac05e8994b9361cb040e21a6e36ff014ad9cd004570e849a58ac4f8b.bin"
+  },
+  {
+    "crystallinity_pct": 80,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 1",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 85,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 2",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 60,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 3",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 72,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 4",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 79,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 5",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 62,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 6",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 72,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 7",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 82,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 8",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 60,
+    "locator": "Table 1",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Example 9",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 75,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 1",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 70,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 2",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 70,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 3",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 64,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 4",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 86,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 5",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 59,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 6",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 86,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 7",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 87,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 8",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 64,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 9",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 63,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 10",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 86,
+    "locator": "Table 2",
+    "method": "DSC",
+    "publication": "EP2551293A1",
+    "sample": "Comparative Example 11",
+    "scope": "finished membrane",
+    "source_sha256": "628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394",
+    "evidence_source_file": "data/runs/2026-10-26_balanced/raw/628d56ef80773282f099224189b0dc919b03fa90ba76e4860b143296893a3394.bin"
+  },
+  {
+    "crystallinity_pct": 78.7,
+    "locator": "Example 1 preparation result",
+    "method": "source-reported",
+    "publication": "US20250066568A1",
+    "sample": "Example 1",
+    "scope": "finished membrane",
+    "source_sha256": "a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633",
+    "evidence_source_file": "data/raw/a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633.bin"
+  },
+  {
+    "crystallinity_pct": 79.6,
+    "locator": "Example 2 preparation result",
+    "method": "source-reported",
+    "publication": "US20250066568A1",
+    "sample": "Example 2",
+    "scope": "finished membrane",
+    "source_sha256": "a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633",
+    "evidence_source_file": "data/raw/a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633.bin"
+  },
+  {
+    "crystallinity_pct": 79.3,
+    "locator": "Example 3 preparation result",
+    "method": "source-reported",
+    "publication": "US20250066568A1",
+    "sample": "Example 3",
+    "scope": "finished membrane",
+    "source_sha256": "a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633",
+    "evidence_source_file": "data/raw/a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633.bin"
+  },
+  {
+    "crystallinity_pct": 78.7,
+    "locator": "Comparative Example 1 preparation result",
+    "method": "source-reported",
+    "publication": "US20250066568A1",
+    "sample": "Comparative Example 1",
+    "scope": "finished membrane",
+    "source_sha256": "a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633",
+    "evidence_source_file": "data/raw/a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633.bin"
+  },
+  {
+    "crystallinity_pct": 78.7,
+    "locator": "Comparative Example 2 preparation result",
+    "method": "source-reported",
+    "publication": "US20250066568A1",
+    "sample": "Comparative Example 2",
+    "scope": "finished membrane",
+    "source_sha256": "a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633",
+    "evidence_source_file": "data/raw/a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633.bin"
+  },
+  {
+    "crystallinity_pct": 78.7,
+    "locator": "Comparative Example 3 preparation result",
+    "method": "source-reported",
+    "publication": "US20250066568A1",
+    "sample": "Comparative Example 3",
+    "scope": "finished membrane",
+    "source_sha256": "a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633",
+    "evidence_source_file": "data/raw/a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633.bin"
+  },
+  {
+    "crystallinity_pct": 78.7,
+    "locator": "Comparative Example 4 preparation result",
+    "method": "source-reported",
+    "publication": "US20250066568A1",
+    "sample": "Comparative Example 4",
+    "scope": "finished membrane",
+    "source_sha256": "a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633",
+    "evidence_source_file": "data/raw/a3e09c2a3f6ae90f04b66edebcdb76f822a79400161d1ee6de3130bdd1ae2633.bin"
+  },
+  {
+    "crystallinity_pct": 70.0,
+    "locator": "TABLE 8",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 1",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 8",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 2",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 71.0,
+    "locator": "TABLE 8",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 3",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 76.0,
+    "locator": "TABLE 8",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 4",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 75.0,
+    "locator": "TABLE 9",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 5",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 68.0,
+    "locator": "TABLE 9",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 6",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 69.0,
+    "locator": "TABLE 9",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 7",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 9",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 8",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 70.0,
+    "locator": "TABLE 10",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 9",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 71.0,
+    "locator": "TABLE 10",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 10",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 70.0,
+    "locator": "TABLE 10",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 11",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 70.0,
+    "locator": "TABLE 10",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 12",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 75.0,
+    "locator": "TABLE 11",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 13",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 11",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 14",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 68.0,
+    "locator": "TABLE 11",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 15",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 68.0,
+    "locator": "TABLE 11",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 16",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 12",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 17",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 67.0,
+    "locator": "TABLE 12",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 18",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 75.0,
+    "locator": "TABLE 12",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 19",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 75.0,
+    "locator": "TABLE 12",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 20",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 13",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 21",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 71.0,
+    "locator": "TABLE 13",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 22",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 13",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 23",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 73.0,
+    "locator": "TABLE 13",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 24",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 14",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 25",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 71.0,
+    "locator": "TABLE 14",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Example 26",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 70.0,
+    "locator": "TABLE 14",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Comparative Example 1",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 14",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Comparative Example 2",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 76.0,
+    "locator": "TABLE 15",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Comparative Example 3",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 15",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Comparative Example 4",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  },
+  {
+    "crystallinity_pct": 72.0,
+    "locator": "TABLE 15",
+    "method": "source-reported PE layer",
+    "publication": "US20250038360A1",
+    "sample": "Comparative Example 5",
+    "scope": "PE layer component",
+    "source_sha256": "cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62",
+    "evidence_source_file": "data/runs/2026-10-23_balanced_temperature/raw/cc99a44978559381884361600fc53dab0773b65713a80771d26113464a130d62.bin"
+  }
+]

@@ -554,9 +554,23 @@ def extract_patent(document, context: dict) -> tuple[list, list]:
             if split:
                 first_value, split_headers, unit_column = split
             label = " ".join(row[: 1 if unit_column else first_value]).strip()
+            # Direction-only data rows belong to the preceding property heading,
+            # never to the next heading below the current values.
+            if re.fullmatch(r"(?:MD|TD)(?:\s*/\s*(?:MD|TD))?", label, re.IGNORECASE):
+                for previous in reversed(
+                    working_rows[max(0, row_index - 6) : row_index]
+                ):
+                    if previous and property_name(previous[0]):
+                        label = previous[0] + " " + label
+                        break
             following = []
             for next_row in working_rows[row_index + 1 : row_index + 7]:
                 if len(next_row) != 1:
+                    break
+                if property_name(next_row[0]) and (
+                    property_name(" ".join([label, *following]))
+                    or conditions(label).get("temperature_C") is None
+                ):
                     break
                 following.extend(next_row)
             label = " ".join([label, *following]).strip()

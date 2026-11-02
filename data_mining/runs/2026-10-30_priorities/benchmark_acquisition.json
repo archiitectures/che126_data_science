@@ -1,0 +1,59 @@
+[
+  {
+    "name": "diffusion",
+    "document": {
+      "source_id": "53c6baa6d1a9336d3b589a0e5fb5cada5f77a97c6c7a82dcc3e775ed8e9999fb",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_md_benchmarks/raw/b69b06920a9a27e17d3330bcca29974b54a9563de7649756e96afc2d6cdd2a90.bin",
+      "sha256": "b69b06920a9a27e17d3330bcca29974b54a9563de7649756e96afc2d6cdd2a90",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7762995/fullTextXML",
+      "retrieved_at": "2026-10-30T19:16:43.927455+00:00",
+      "restrictions": "Primary public research source; retain original reuse terms. Extracted facts and provenance only; no document redistribution.",
+      "etag": null,
+      "last_modified": null
+    }
+  },
+  {
+    "name": "phase_Cp",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6742827/fullTextXML",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "name": "phase_Cp_pdf",
+    "document": {
+      "source_id": "4f973ab9bb430d2f6b6fdd7a93e07721e08f5db363a496def1a5559317a6e534",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_md_benchmarks/raw/b42a9d2e6580850fac6206fe4c57d9692775b2d6c9e7cb10a11dddca57bfeda6.pdf",
+      "sha256": "b42a9d2e6580850fac6206fe4c57d9692775b2d6c9e7cb10a11dddca57bfeda6",
+      "url": "https://nvlpubs.nist.gov/nistpubs/jres/78A/jresv78An3p387_A1b.pdf",
+      "retrieved_at": "2026-10-30T19:16:52.609329+00:00",
+      "restrictions": "Primary public research source; retain original reuse terms. Extracted facts and provenance only; no document redistribution.",
+      "etag": null,
+      "last_modified": null
+    }
+  },
+  {
+    "name": "surface_tension",
+    "url": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/OWTU/TC-OWTU-4551.pdf",
+    "error": "Cannot establish robots access for https://www.collectionscanada.gc.ca"
+  },
+  {
+    "name": "PVT",
+    "url": "https://www.collectionscanada.gc.ca/obj/s4/f2/dsk1/tape7/PQDD_0026/MQ50594.pdf",
+    "error": "Cannot establish robots access for https://www.collectionscanada.gc.ca"
+  },
+  {
+    "name": "surface_tension_university",
+    "document": {
+      "source_id": "9f379bf31992e629d7d20ee625a436fc53f3905ede5e8734c5626140786d49c4",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_md_benchmarks/raw/78575b47b926f97a65295d02a0046f8fae9f0e0c7e82e459c094290edd7d96a3.bin",
+      "sha256": "78575b47b926f97a65295d02a0046f8fae9f0e0c7e82e459c094290edd7d96a3",
+      "url": "https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/7c9a51d8-9e7f-40c5-bc1b-3b4a0d42a324/content",
+      "retrieved_at": "2026-10-30T19:18:23.391117+00:00",
+      "restrictions": "Author university thesis repository; extracted facts only, original reuse terms apply.",
+      "etag": "\"6271b0d159e42e3e9ab6fb65077c0eb5\"",
+      "last_modified": "Tue, 10 Nov 2015 14:51:03 GMT"
+    }
+  }
+]

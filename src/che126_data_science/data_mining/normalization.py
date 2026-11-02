@@ -28,6 +28,7 @@ ALIASES = (
     (r"basis\s+weight", "basis_weight"),
     (r"thermal\s+conductivity", "thermal_conductivity"),
     (r"(?:specific\s+heat|heat\s+capacity)", "specific_heat_capacity"),
+    (r"packing\s+density", "packing_density"),
     (r"density", "density"),
     (r"shutdown\s+temp(?:erature)?\b", "shutdown_temperature"),
     (r"meltdown\s+temp(?:erature)?\b", "meltdown_temperature"),

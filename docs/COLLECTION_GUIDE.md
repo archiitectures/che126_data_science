@@ -1,3 +1,7 @@
+## Current assembly and review
+
+Use `.venv/bin/python scripts/assemble_dataset.py --check-replay` with the existing local source archive. It refreshes metadata, coverage, audits, exports and figures. Source-bound corrections replay from `data_mining/reviewed_observation_revisions.json`. See [the current comprehensive guide](COMPREHENSIVE_PROJECT_REPORT.md) for the workflow and limitations.
+
 ## Latest thermal collection and temperature recovery — 2026-10-30
 
 Current local exports: **10,582 distinct contexts**, **13,258 evidence observations**, **5,110 with numeric temperature (+2,419)**. Added 2,200 FSRI bulk-reference contexts and 23 paper contexts; recovered conditions for 196 existing contexts. Full data remain in `datasets/unique_points.csv`; `temperature_resolved_points.csv` is the explicit-temperature subset. **5,472 still lack numeric test conditions**, including 676 temperature-response properties. Bulk references and separator performance remain distinguished. See the [current report](../datasets/thermal_temperature_report.md) and `datasets/temperature_gap_audit.csv` for evidence, limits and next actions. Earlier sections below are historical.

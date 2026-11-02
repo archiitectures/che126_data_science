@@ -12,6 +12,7 @@ import json
 import math
 import re
 from collections import Counter, defaultdict
+from dataclasses import fields
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -27,6 +28,14 @@ from che126_data_science.data_science.master import (
 from che126_data_science.data_science.observations import CONVERSIONS
 
 ROOT = Path(__file__).resolve().parents[1]
+DERIVED_FIELDS = {
+    "polymer_subtype",
+    "polymer_morphology",
+    "polymer_subtype_status",
+    "polymer_subtype_evidence",
+    "polymer_subtype_candidates",
+    "polymer_crystallinity_measurements",
+}
 
 
 def audit(root, out):
@@ -47,9 +56,12 @@ def audit(root, out):
         "unique_point_ids", len({r["unique_point_id"] for r in points}) == len(points)
     )
     validation_errors = []
+    model_fields = {f.name for f in fields(MasterObservation)}
     for r in rows:
         try:
-            MasterObservation(**r)
+            if set(r) - model_fields - DERIVED_FIELDS:
+                raise ValueError("Unknown exported fields")
+            MasterObservation(**{k: v for k, v in r.items() if k in model_fields})
             value = float(r["original_value"])
             raw_unit = r["original_unit"]
             from che126_data_science.data_mining.normalization import (
@@ -67,6 +79,21 @@ def audit(root, out):
         except (ValueError, KeyError, TypeError) as exc:
             validation_errors.append({"id": r["observation_id"], "error": str(exc)})
     check("schema_and_conversions", not validation_errors)
+    check(
+        "positive_shrinkage_not_above_100_percent",
+        all(r["property"] != "thermal_shrinkage" or r["value"] <= 100 for r in rows),
+    )
+    check(
+        "no_zero_separator_thickness",
+        all(
+            not (
+                r["property"] == "thickness"
+                and r["sample_form"] == "separator"
+                and r["value"] == 0
+            )
+            for r in rows
+        ),
+    )
     files = {(r["source_file"], r["source_sha256"]) for r in rows}
     bad_files = [
         p

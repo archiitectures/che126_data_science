@@ -9,6 +9,17 @@ from urllib.parse import urlparse
 
 # Canonical units; aliases are intentionally explicit, not guessed from labels.
 UNITS = {
+    "packing_density": "kg/m3",
+    "linear_thermal_expansion_coefficient": "1/K",
+    "volumetric_thermal_expansion_coefficient": "1/K",
+    "thermal_expansion_strain": "%",
+    "isothermal_compressibility": "1/GPa",
+    "surface_tension": "mN/m",
+    "polymer_self_diffusion_coefficient": "m2/s",
+    "compression_recovery": "%",
+    "maximum_compression_strain": "%",
+    "residual_compression_strain": "%",
+    "crystallinity": "%",
     "heat_flow": "W",
     "mass_specific_heat_flow": "W/kg",
     "sta_mass_change": "kg",
@@ -39,6 +50,13 @@ UNITS = {
     "contact_angle": "deg",
 }
 CONVERSIONS = {
+    ("J/(mol_CH2 K)", "J/(kg K)"): (1000 / 14.027, 0.0),
+    ("mJ/m2", "mN/m"): (1.0, 0.0),
+    ("ppm/K", "1/K"): (1e-6, 0.0),
+    ("ppm/C", "1/K"): (1e-6, 0.0),
+    ("N/m", "mN/m"): (1000.0, 0.0),
+    ("cm2/s", "m2/s"): (1e-4, 0.0),
+    ("1/Pa", "1/GPa"): (1e9, 0.0),
     ("mW", "W"): (0.001, 0.0),
     ("mW/mg", "W/kg"): (1000.0, 0.0),
     ("mg", "kg"): (1e-6, 0.0),
@@ -108,12 +126,19 @@ class Observation:
             raise ValueError("value must be finite")
         if self.property == "porosity" and not 0 <= self.value <= 100:
             raise ValueError("porosity must be in [0, 100]")
+        if self.property == "crystallinity" and not 0 <= self.value <= 100:
+            raise ValueError("crystallinity must be in [0, 100]")
         if self.property == "contact_angle" and not 0 <= self.value <= 180:
             raise ValueError("contact angle must be in [0, 180]")
         if (
             self.property
             not in {
                 "thermal_shrinkage",
+                "linear_thermal_expansion_coefficient",
+                "volumetric_thermal_expansion_coefficient",
+                "thermal_expansion_strain",
+                "maximum_compression_strain",
+                "residual_compression_strain",
                 "mass_specific_heat_flow",
                 "heat_flow",
                 "sta_mass_change",

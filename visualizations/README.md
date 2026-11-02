@@ -1,13 +1,17 @@
+## Current figures — 2026-11-02
+
+Regenerated from 10,676 contexts, including 5,121 with numeric temperatures and 37 property categories. Counts represent recorded contexts, not independent experiments. Bulk references and separator measurements are distinguished.
+
 ## Current figures — 2026-10-30
 
-Figures use 10,582 contexts / 5,110 numeric temperatures. Figure 02 uses 5 °C display bins because native curves contain 928 distinct recorded temperatures; exact values remain in the data and `tables/exact_temperatures.csv`. Bulk-reference ramp samples share curve IDs and are not independent experiments.
+Figures use 10,654 contexts / 5,128 numeric temperatures. Figure 02 uses 5 °C display bins because native curves contain 928 distinct recorded temperatures; exact values remain in the data and `tables/exact_temperatures.csv`. Bulk-reference ramp samples share curve IDs and are not independent experiments.
 
 # Dataset visualizations
 
 Code, figures and underlying count tables for `datasets/unique_points.csv`.
 Each CSV row counts once: a distinct normalized property/value/context, which does
-not establish an independent experiment. Figures use categorical count bars
-rather than continuous bins so exact temperature setpoints remain visible.
+not establish an independent experiment. Figures use count bars by category. The temperature figure uses 5 C display
+bins; exact recorded values remain in the exported count table.
 
 ## Generate
 

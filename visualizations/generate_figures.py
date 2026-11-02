@@ -95,6 +95,7 @@ def main():
             "figure.facecolor": "white",
             "savefig.facecolor": "white",
             "svg.fonttype": "none",
+            "svg.hashsalt": "che126-separator-figures",
         }
     )
     artifacts = []
@@ -103,7 +104,9 @@ def main():
         fig.text(0.01, 0.012, note, fontsize=9, color="#4B5563", va="bottom")
         for extension in ("png", "svg"):
             path = out / f"{stem}.{extension}"
-            fig.savefig(path, dpi=180)
+            fig.savefig(
+                path, dpi=180, metadata={"Date": None} if extension == "svg" else None
+            )
             if extension == "svg":
                 # Path-data lines contain significant token separators; trim only
                 # trailing XML whitespace to keep generated files diff-clean.
@@ -217,7 +220,7 @@ def main():
     )
     pc = Counter((r["property"], separator_group(r)) for r in rows)
     fig, ax = plt.subplots(figsize=(14, 11))
-    fig.subplots_adjust(left=0.24, right=0.95, top=0.84, bottom=0.08)
+    fig.subplots_adjust(left=0.24, right=0.95, top=0.77, bottom=0.08)
     y = np.arange(len(properties))
     left = np.zeros(len(properties))
     for group, color in zip(group_order, group_colors, strict=True):
@@ -239,8 +242,13 @@ def main():
     fig.suptitle(
         "Property availability, stratified by separator type", y=0.975, fontsize=17
     )
-    ax.legend(
-        ncols=4, frameon=False, bbox_to_anchor=(0, 1.01), loc="lower left", fontsize=9
+    fig.legend(
+        *ax.get_legend_handles_labels(),
+        ncols=4,
+        frameon=False,
+        bbox_to_anchor=(0.24, 0.95),
+        loc="upper left",
+        fontsize=9,
     )
     style_axis(ax, horizontal=True)
     save(

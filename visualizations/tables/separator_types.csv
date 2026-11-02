@@ -1,10 +1,10 @@
 separator_type,count
-PE,2790
+PE,2818
 PP,769
 PE/PP,1785
-PP/PE/PP,440
+PP/PE/PP,460
 Calcium alginate/PVDF,15
-Cellulose,13
+Cellulose,14
 Cellulose/PA/PET/PPTA,3
 Cellulose/PAN/PBO/PET,4
 Cellulose/PAN/PET,5
@@ -17,10 +17,11 @@ PAN,4
 PAN/PBO/PET,3
 PE/PP/PE,22
 PEO,1
-PET,7
+PEO/PP,40
+PET,6
 PET/PPTA,13
-PI,4
+PI,5
 PVA,1
 PVDF,7
-Type not linked,2226
-Bulk reference,2375
+Type not linked,2206
+Bulk reference,2400

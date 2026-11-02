@@ -1,8 +1,9 @@
 status,count
-sample_label_not_found,683
-not_linked_to_recipe,592
-recipe_reference_not_linked,551
-changed_recipe_needs_link,219
+sample_label_not_found,675
+not_linked_to_recipe,580
+recipe_reference_not_linked,547
+changed_recipe_needs_link,213
 generic_polyolefin_only,137
-coating_material_only,34
-complex_material_recipe,10
+coating_material_only,33
+component_recipe_not_linked,12
+complex_material_recipe,9

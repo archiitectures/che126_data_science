@@ -260,3 +260,25 @@ def test_abbreviated_standard_deviation_is_not_absolute_thickness(tmp_path):
         sample_id="sample",
     )
     assert r.review_status == "pending"
+
+
+def test_direction_values_do_not_inherit_next_property_heading(tmp_path):
+    from che126_data_science.data_mining.patent_html import extract_patent
+
+    doc = document(
+        tmp_path,
+        """<title>US1234599B2</title>
+    <section itemprop="description"><heading>Example 1</heading>
+    <p>Thermal shrinkage was measured at 130 C for 1 hour.</p>
+    <table><tr><td>TABLE 1</td></tr>
+    <tr><td></td><td>Example 1</td><td>Example 2</td></tr>
+    <tr><td>Tensile rupture elongation (%)</td></tr>
+    <tr><td>MD/TD</td><td>145/230</td><td>170/160</td></tr>
+    <tr><td>Heat shrinkage ratio (%)</td></tr>
+    <tr><td>MD/TD</td><td>6/4</td><td>5/6</td></tr></table></section>""",
+    )
+    rows, _ = extract_patent(doc, {})
+    elongation = [r.value for r in rows if r.property == "elongation"]
+    shrinkage = [r.value for r in rows if r.property == "thermal_shrinkage"]
+    assert sorted(elongation) == [145, 160, 170, 230]
+    assert sorted(shrinkage) == [4, 5, 6, 6]

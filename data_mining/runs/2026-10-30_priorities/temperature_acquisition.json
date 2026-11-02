@@ -1,0 +1,72 @@
+[
+  {
+    "name": "PP_PET_conductivity_figure",
+    "document": {
+      "source_id": "597597798a569c93ac29cb4c4da58c5636561a88f95e7a2d1c9168b98f06b0f1",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_temperature_expansion/raw/415989a068ffe6ab912291da049e721655849680d71f1b365cb83b6deb444bed.jpg",
+      "sha256": "415989a068ffe6ab912291da049e721655849680d71f1b365cb83b6deb444bed",
+      "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/12b5/6403667/d6b5081fa503/polymers-10-00574-g005.jpg",
+      "retrieved_at": "2026-10-30T19:24:39.398544+00:00",
+      "restrictions": "Primary research figure/report; preserve original reuse terms and attribution.",
+      "etag": null,
+      "last_modified": null
+    }
+  },
+  {
+    "name": "ORNL_mechanics_report",
+    "document": {
+      "source_id": "9028e1916cacc9f553466577348cceaba10ab743cdbb88edc9dc29de9f237bd0",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_temperature_expansion/raw/6852c1f40149c246854d57d2a4afbff4f2644e9d4222bb5c65766d515d8e8e2a.pdf",
+      "sha256": "6852c1f40149c246854d57d2a4afbff4f2644e9d4222bb5c65766d515d8e8e2a",
+      "url": "https://info.ornl.gov/sites/publications/Files/Pub119367.pdf",
+      "retrieved_at": "2026-10-30T19:24:46.806626+00:00",
+      "restrictions": "Primary research figure/report; preserve original reuse terms and attribution.",
+      "etag": "\"6cffd7ea714da1:0\"",
+      "last_modified": "Sat, 11 Nov 2023 13:57:50 GMT"
+    }
+  },
+  {
+    "name": "RSC_PP_XML",
+    "document": {
+      "source_id": "af8236561ddb39c1966cfa6b3c6c5767b4456c3204b52c95edd064f47e14a4e8",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_temperature_expansion/raw/2045a673e943da3c2706a69d01e91b231128941d5abfc82f740c53ce324b3a02.bin",
+      "sha256": "2045a673e943da3c2706a69d01e91b231128941d5abfc82f740c53ce324b3a02",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10680142/fullTextXML",
+      "retrieved_at": "2026-11-02T17:05:10.524526+00:00",
+      "restrictions": "RSC primary paper, CC BY-NC 3.0; extracted numerical facts and attribution retained.",
+      "etag": null,
+      "last_modified": null
+    }
+  },
+  {
+    "name": "RSC_fig3",
+    "document": {
+      "source_id": "bf2b409107da1a2f742099632c6194518c599b343261c2ba013a2c16a4218be3",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_temperature_expansion/raw/b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5.jpg",
+      "sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+      "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+      "retrieved_at": "2026-11-02T17:06:29.062274+00:00",
+      "restrictions": "Primary RSC figure, CC BY-NC 3.0, retain attribution.",
+      "etag": null,
+      "last_modified": null
+    }
+  },
+  {
+    "name": "RSC_fig6",
+    "document": {
+      "source_id": "c55698d428e8ee2658be86ce5b80e6ec60e212e70b605859f77d516cd2cbc0d2",
+      "source": "literature",
+      "path": "data/runs/2026-10-30_temperature_expansion/raw/e16653c3fd2be87656f7cbde514bb854b27a30261f33472746259ba92bc304a4.jpg",
+      "sha256": "e16653c3fd2be87656f7cbde514bb854b27a30261f33472746259ba92bc304a4",
+      "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/10560ca4143d/d3ra05899a-f6.jpg",
+      "retrieved_at": "2026-11-02T17:06:30.062144+00:00",
+      "restrictions": "Primary RSC figure, CC BY-NC 3.0, retain attribution.",
+      "etag": null,
+      "last_modified": null
+    }
+  }
+]

@@ -283,7 +283,11 @@ class Pipeline:
         }
 
     def aggregate(self, out_dir=None, *, measured_only=False):
+        from .curation import apply_revision
+
         rows, aliases, seen, families, evidence = [], [], {}, {}, {}
+        curation_path = self.manifest.get("curation_file")
+        revisions = json.loads(Path(curation_path).read_text()) if curation_path else {}
         for key, entry in sorted(self.manifest["documents"].items()):
             _verify_document(RawDocument(**entry["document"]))
             result = json.loads(Path(entry["artifact_file"]).read_text())
@@ -294,8 +298,14 @@ class Pipeline:
                     allow_fallback_fetch=False,
                 )
                 result = json.loads(Path(updated["artifact_file"]).read_text())
-            for raw in result["observations"]:
-                row = MasterObservation(**raw)
+            curated = [
+                row
+                for raw in result["observations"]
+                for row in apply_revision(
+                    MasterObservation(**raw), revisions.get(raw["observation_id"])
+                )
+            ]
+            for row in curated:
                 family_key = None
                 if row.family_id and row.review_status == "accepted":
                     family_key = fingerprint(

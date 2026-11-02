@@ -1,0 +1,2114 @@
+[
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      645,
+      309,
+      652,
+      324
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(0)@PP",
+    "mask_polygon": [
+      [
+        645,
+        309
+      ],
+      [
+        652,
+        309
+      ],
+      [
+        652,
+        324
+      ],
+      [
+        645,
+        324
+      ]
+    ],
+    "curve_rgb": [
+      85,
+      85,
+      85
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      679,
+      302,
+      686,
+      317
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(0)@PP",
+    "mask_polygon": [
+      [
+        679,
+        302
+      ],
+      [
+        686,
+        302
+      ],
+      [
+        686,
+        317
+      ],
+      [
+        679,
+        317
+      ]
+    ],
+    "curve_rgb": [
+      85,
+      85,
+      85
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      712,
+      297,
+      719,
+      312
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(0)@PP",
+    "mask_polygon": [
+      [
+        712,
+        297
+      ],
+      [
+        719,
+        297
+      ],
+      [
+        719,
+        312
+      ],
+      [
+        712,
+        312
+      ]
+    ],
+    "curve_rgb": [
+      85,
+      85,
+      85
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      746,
+      293,
+      753,
+      308
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(0)@PP",
+    "mask_polygon": [
+      [
+        746,
+        293
+      ],
+      [
+        753,
+        293
+      ],
+      [
+        753,
+        308
+      ],
+      [
+        746,
+        308
+      ]
+    ],
+    "curve_rgb": [
+      85,
+      85,
+      85
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      645,
+      292,
+      652,
+      307
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(20)@PP",
+    "mask_polygon": [
+      [
+        645,
+        292
+      ],
+      [
+        652,
+        292
+      ],
+      [
+        652,
+        307
+      ],
+      [
+        645,
+        307
+      ]
+    ],
+    "curve_rgb": [
+      255,
+      40,
+      40
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      679,
+      282,
+      686,
+      297
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(20)@PP",
+    "mask_polygon": [
+      [
+        679,
+        282
+      ],
+      [
+        686,
+        282
+      ],
+      [
+        686,
+        297
+      ],
+      [
+        679,
+        297
+      ]
+    ],
+    "curve_rgb": [
+      255,
+      40,
+      40
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      712,
+      276,
+      719,
+      291
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(20)@PP",
+    "mask_polygon": [
+      [
+        712,
+        276
+      ],
+      [
+        719,
+        276
+      ],
+      [
+        719,
+        291
+      ],
+      [
+        712,
+        291
+      ]
+    ],
+    "curve_rgb": [
+      255,
+      40,
+      40
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      746,
+      270,
+      753,
+      285
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(20)@PP",
+    "mask_polygon": [
+      [
+        746,
+        270
+      ],
+      [
+        753,
+        270
+      ],
+      [
+        753,
+        285
+      ],
+      [
+        746,
+        285
+      ]
+    ],
+    "curve_rgb": [
+      255,
+      40,
+      40
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      645,
+      274,
+      652,
+      289
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(33)@PP",
+    "mask_polygon": [
+      [
+        645,
+        274
+      ],
+      [
+        652,
+        274
+      ],
+      [
+        652,
+        289
+      ],
+      [
+        645,
+        289
+      ]
+    ],
+    "curve_rgb": [
+      20,
+      130,
+      255
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      679,
+      268,
+      686,
+      283
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(33)@PP",
+    "mask_polygon": [
+      [
+        679,
+        268
+      ],
+      [
+        686,
+        268
+      ],
+      [
+        686,
+        283
+      ],
+      [
+        679,
+        283
+      ]
+    ],
+    "curve_rgb": [
+      20,
+      130,
+      255
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      712,
+      264,
+      719,
+      279
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(33)@PP",
+    "mask_polygon": [
+      [
+        712,
+        264
+      ],
+      [
+        719,
+        264
+      ],
+      [
+        719,
+        279
+      ],
+      [
+        712,
+        279
+      ]
+    ],
+    "curve_rgb": [
+      20,
+      130,
+      255
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      746,
+      260,
+      753,
+      275
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(33)@PP",
+    "mask_polygon": [
+      [
+        746,
+        260
+      ],
+      [
+        753,
+        260
+      ],
+      [
+        753,
+        275
+      ],
+      [
+        746,
+        275
+      ]
+    ],
+    "curve_rgb": [
+      20,
+      130,
+      255
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      645,
+      258,
+      652,
+      273
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(40)@PP",
+    "mask_polygon": [
+      [
+        645,
+        258
+      ],
+      [
+        652,
+        258
+      ],
+      [
+        652,
+        273
+      ],
+      [
+        645,
+        273
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      170,
+      115
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      679,
+      251,
+      686,
+      266
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(40)@PP",
+    "mask_polygon": [
+      [
+        679,
+        251
+      ],
+      [
+        686,
+        251
+      ],
+      [
+        686,
+        266
+      ],
+      [
+        679,
+        266
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      170,
+      115
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      712,
+      247,
+      719,
+      262
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(40)@PP",
+    "mask_polygon": [
+      [
+        712,
+        247
+      ],
+      [
+        719,
+        247
+      ],
+      [
+        719,
+        262
+      ],
+      [
+        712,
+        262
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      170,
+      115
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      746,
+      243,
+      753,
+      258
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(40)@PP",
+    "mask_polygon": [
+      [
+        746,
+        243
+      ],
+      [
+        753,
+        243
+      ],
+      [
+        753,
+        258
+      ],
+      [
+        746,
+        258
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      170,
+      115
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      645,
+      241,
+      652,
+      256
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(50)@PP",
+    "mask_polygon": [
+      [
+        645,
+        241
+      ],
+      [
+        652,
+        241
+      ],
+      [
+        652,
+        256
+      ],
+      [
+        645,
+        256
+      ]
+    ],
+    "curve_rgb": [
+      190,
+      85,
+      220
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      679,
+      232,
+      686,
+      247
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(50)@PP",
+    "mask_polygon": [
+      [
+        679,
+        232
+      ],
+      [
+        686,
+        232
+      ],
+      [
+        686,
+        247
+      ],
+      [
+        679,
+        247
+      ]
+    ],
+    "curve_rgb": [
+      190,
+      85,
+      220
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      712,
+      228,
+      719,
+      243
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(50)@PP",
+    "mask_polygon": [
+      [
+        712,
+        228
+      ],
+      [
+        719,
+        228
+      ],
+      [
+        719,
+        243
+      ],
+      [
+        712,
+        243
+      ]
+    ],
+    "curve_rgb": [
+      190,
+      85,
+      220
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      746,
+      224,
+      753,
+      239
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(50)@PP",
+    "mask_polygon": [
+      [
+        746,
+        224
+      ],
+      [
+        753,
+        224
+      ],
+      [
+        753,
+        239
+      ],
+      [
+        746,
+        239
+      ]
+    ],
+    "curve_rgb": [
+      190,
+      85,
+      220
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      645,
+      234,
+      652,
+      249
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(60)@PP",
+    "mask_polygon": [
+      [
+        645,
+        234
+      ],
+      [
+        652,
+        234
+      ],
+      [
+        652,
+        249
+      ],
+      [
+        645,
+        249
+      ]
+    ],
+    "curve_rgb": [
+      230,
+      170,
+      20
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      679,
+      228,
+      686,
+      243
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(60)@PP",
+    "mask_polygon": [
+      [
+        679,
+        228
+      ],
+      [
+        686,
+        228
+      ],
+      [
+        686,
+        243
+      ],
+      [
+        679,
+        243
+      ]
+    ],
+    "curve_rgb": [
+      230,
+      170,
+      20
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      712,
+      224,
+      719,
+      239
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(60)@PP",
+    "mask_polygon": [
+      [
+        712,
+        224
+      ],
+      [
+        719,
+        224
+      ],
+      [
+        719,
+        239
+      ],
+      [
+        712,
+        239
+      ]
+    ],
+    "curve_rgb": [
+      230,
+      170,
+      20
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      746,
+      221,
+      753,
+      236
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(60)@PP",
+    "mask_polygon": [
+      [
+        746,
+        221
+      ],
+      [
+        753,
+        221
+      ],
+      [
+        753,
+        236
+      ],
+      [
+        746,
+        236
+      ]
+    ],
+    "curve_rgb": [
+      230,
+      170,
+      20
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      645,
+      228,
+      652,
+      243
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(70)@PP",
+    "mask_polygon": [
+      [
+        645,
+        228
+      ],
+      [
+        652,
+        228
+      ],
+      [
+        652,
+        243
+      ],
+      [
+        645,
+        243
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      195,
+      210
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      679,
+      224,
+      686,
+      239
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(70)@PP",
+    "mask_polygon": [
+      [
+        679,
+        224
+      ],
+      [
+        686,
+        224
+      ],
+      [
+        686,
+        239
+      ],
+      [
+        679,
+        239
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      195,
+      210
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      712,
+      221,
+      719,
+      236
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(70)@PP",
+    "mask_polygon": [
+      [
+        712,
+        221
+      ],
+      [
+        719,
+        221
+      ],
+      [
+        719,
+        236
+      ],
+      [
+        712,
+        236
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      195,
+      210
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "b7864172fccc094516bdcc0533715c5d2b84837e778017754daf9ea14e541aa5",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/57c4879290e5/d3ra05899a-f3.jpg",
+    "figure": "3f",
+    "caption": "Native ionic-conductivity marker, PP-supported PEO/IL composite",
+    "crop": [
+      746,
+      218,
+      753,
+      233
+    ],
+    "x_reference": [
+      [
+        599,
+        25
+      ],
+      [
+        749,
+        70
+      ]
+    ],
+    "y_reference": [
+      [
+        330,
+        1e-05
+      ],
+      [
+        226,
+        0.01
+      ]
+    ],
+    "x_unit": "C",
+    "y_unit": "S/cm",
+    "plot_type": "semilog_y",
+    "single_series": true,
+    "series_count": 7,
+    "series_label": "PLI(70)@PP",
+    "mask_polygon": [
+      [
+        746,
+        218
+      ],
+      [
+        753,
+        218
+      ],
+      [
+        753,
+        233
+      ],
+      [
+        746,
+        233
+      ]
+    ],
+    "curve_rgb": [
+      0,
+      195,
+      210
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 10,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "e16653c3fd2be87656f7cbde514bb854b27a30261f33472746259ba92bc304a4",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/10560ca4143d/d3ra05899a-f6.jpg",
+    "figure": "6a",
+    "caption": "Maximum stress of a representative tensile trace; not five-replicate mean",
+    "crop": [
+      285,
+      76,
+      323,
+      99
+    ],
+    "x_reference": [
+      [
+        66,
+        0
+      ],
+      [
+        374,
+        120
+      ]
+    ],
+    "y_reference": [
+      [
+        263,
+        0
+      ],
+      [
+        14,
+        160
+      ]
+    ],
+    "x_unit": "strain %",
+    "y_unit": "MPa",
+    "plot_type": "linear",
+    "single_series": true,
+    "series_count": 5,
+    "series_label": "PLI(70)@PP 40 C",
+    "mask_polygon": [
+      [
+        285,
+        76
+      ],
+      [
+        323,
+        76
+      ],
+      [
+        323,
+        99
+      ],
+      [
+        285,
+        99
+      ]
+    ],
+    "curve_rgb": [
+      245,
+      75,
+      80
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 8,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "e16653c3fd2be87656f7cbde514bb854b27a30261f33472746259ba92bc304a4",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/10560ca4143d/d3ra05899a-f6.jpg",
+    "figure": "6a",
+    "caption": "Maximum stress of a representative tensile trace; not five-replicate mean",
+    "crop": [
+      270,
+      90,
+      304,
+      110
+    ],
+    "x_reference": [
+      [
+        66,
+        0
+      ],
+      [
+        374,
+        120
+      ]
+    ],
+    "y_reference": [
+      [
+        263,
+        0
+      ],
+      [
+        14,
+        160
+      ]
+    ],
+    "x_unit": "strain %",
+    "y_unit": "MPa",
+    "plot_type": "linear",
+    "single_series": true,
+    "series_count": 5,
+    "series_label": "PLI(70)@PP 50 C",
+    "mask_polygon": [
+      [
+        270,
+        90
+      ],
+      [
+        304,
+        90
+      ],
+      [
+        304,
+        110
+      ],
+      [
+        270,
+        110
+      ]
+    ],
+    "curve_rgb": [
+      75,
+      145,
+      225
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 8,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "e16653c3fd2be87656f7cbde514bb854b27a30261f33472746259ba92bc304a4",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/10560ca4143d/d3ra05899a-f6.jpg",
+    "figure": "6a",
+    "caption": "Maximum stress of a representative tensile trace; not five-replicate mean",
+    "crop": [
+      265,
+      110,
+      297,
+      132
+    ],
+    "x_reference": [
+      [
+        66,
+        0
+      ],
+      [
+        374,
+        120
+      ]
+    ],
+    "y_reference": [
+      [
+        263,
+        0
+      ],
+      [
+        14,
+        160
+      ]
+    ],
+    "x_unit": "strain %",
+    "y_unit": "MPa",
+    "plot_type": "linear",
+    "single_series": true,
+    "series_count": 5,
+    "series_label": "PLI(70)@PP 60 C",
+    "mask_polygon": [
+      [
+        265,
+        110
+      ],
+      [
+        297,
+        110
+      ],
+      [
+        297,
+        132
+      ],
+      [
+        265,
+        132
+      ]
+    ],
+    "curve_rgb": [
+      45,
+      175,
+      105
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 8,
+    "calibration_error_px": 2
+  },
+  {
+    "source_sha256": "e16653c3fd2be87656f7cbde514bb854b27a30261f33472746259ba92bc304a4",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/42b6/10680142/10560ca4143d/d3ra05899a-f6.jpg",
+    "figure": "6a",
+    "caption": "Maximum stress of a representative tensile trace; not five-replicate mean",
+    "crop": [
+      313,
+      117,
+      345,
+      138
+    ],
+    "x_reference": [
+      [
+        66,
+        0
+      ],
+      [
+        374,
+        120
+      ]
+    ],
+    "y_reference": [
+      [
+        263,
+        0
+      ],
+      [
+        14,
+        160
+      ]
+    ],
+    "x_unit": "strain %",
+    "y_unit": "MPa",
+    "plot_type": "linear",
+    "single_series": true,
+    "series_count": 5,
+    "series_label": "PLI(70)@PP 70 C",
+    "mask_polygon": [
+      [
+        313,
+        117
+      ],
+      [
+        345,
+        117
+      ],
+      [
+        345,
+        138
+      ],
+      [
+        313,
+        138
+      ]
+    ],
+    "curve_rgb": [
+      185,
+      120,
+      225
+    ],
+    "color_tolerance": 100,
+    "sample_step_px": 1,
+    "max_curve_thickness_px": 10,
+    "max_jump_px": 8,
+    "calibration_error_px": 2
+  }
+]

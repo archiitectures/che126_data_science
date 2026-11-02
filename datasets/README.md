@@ -21,7 +21,17 @@ configs:
   data_files: wet_separators.csv
 ---
 
-## Latest thermal collection and temperature recovery — 2026-10-30
+## Current project snapshot — 2026-11-02
+
+The assembled dataset contains **10,676 distinct value/context points**, **13,379 accepted evidence observations**, and **37 properties**. **5,121 contexts have numeric temperatures**; 5,555 lack supported numeric conditions. Of 7,950 measured separator/component contexts, 2,571 have numeric temperatures. Bulk references remain separately identified.
+
+This pass added 25 MD-reference contexts and 40 temperature-resolved separator observations (including 32 calibrated figure estimates). Source review corrected 105 observations and held 65 ambiguous observations for review. All withdrawn evidence remains traceable. The total temperature count fell after removing incorrect inherited conditions.
+
+Run `.venv/bin/python scripts/assemble_dataset.py --check-replay` to rebuild from the existing local source archive. Validation: 167 tests pass; 42 generated artifacts replay byte-for-byte. A fresh clone requires the source archive for a full rebuild. Arbitrary PDF/figure interpretation still requires reviewed calibration and attribution.
+
+See [the comprehensive project guide](project_report.md), [dataset](https://huggingface.co/datasets/archiitecture/che126), and [figures](https://github.com/archiitectures/che126_data_science/tree/main/visualizations). Earlier dated sections below are historical snapshots.
+
+## Historical thermal collection and temperature recovery — 2026-10-30
 
 Current local exports: **10,582 distinct contexts**, **13,258 evidence observations**, **5,110 with numeric temperature (+2,419)**. Added 2,200 FSRI bulk-reference contexts and 23 paper contexts; recovered conditions for 196 existing contexts. Full data remain in `datasets/unique_points.csv`; `temperature_resolved_points.csv` is the explicit-temperature subset. **5,472 still lack numeric test conditions**, including 676 temperature-response properties. Bulk references and separator performance remain distinguished. See the [current report](thermal_temperature_report.md) and `datasets/temperature_gap_audit.csv` for evidence, limits and next actions. Earlier sections below are historical.
 
@@ -279,3 +289,20 @@ complete SI result tables, file-header excerpts, and all six density CSVs.
 `che126_data_science.data_mining.fsri.polyethylene_reference_rows(snapshot)`
 reproduces the reference records without network access or third-party runtime
 dependencies. Original UTF-16 file blob hashes were verified during acquisition.
+
+## Polymer subtype metadata — 2026-10-30
+
+The master, unique-point and temperature-resolved tables now include polymer subtype,
+scoped morphology, assignment status/evidence, and unverified source candidates.
+See [the probe report](polymer_subtype_report.md) for counts, limitations and the
+required postprocessing command after rebuilding exports. Polymer grade and
+finished membrane crystallinity are separate attributes.
+
+## Stored-source property and morphology recovery — 2026-10-30
+
+Current exports contain **10,654 unique contexts** from **13,371 observations**.
+This pass added expansion strains, compression/recovery, and method-specific
+crystallinity measurements. See [the source probe report](source_property_probe_report.md)
+for counts, patent morphology coverage, coefficient declaration flags and the
+remaining gap from amorphous PE simulation. `polymer_crystallinity_measurements`
+preserves sample/component scope and multiple assay methods as a JSON list.

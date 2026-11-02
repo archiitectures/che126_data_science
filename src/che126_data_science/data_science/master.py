@@ -233,6 +233,14 @@ def make_observation(
             conversion = json.dumps({"scale": scale, "offset": offset}, sort_keys=True)
     except (ValueError, TypeError, KeyError):
         flag = flag or "unresolved_property_value_or_unit"
+    if prop == "thermal_shrinkage" and value is not None and value > 100:
+        flag = flag or "positive_shrinkage_exceeds_initial_dimension"
+    if (
+        prop == "thickness"
+        and value == 0
+        and metadata.get("sample_form") == "separator"
+    ):
+        flag = flag or "zero_separator_thickness_requires_component_review"
     # A difference or dispersion statistic is not an absolute property value.
     # Retain the source row in review until it has its own supported definition.
     if re.search(
